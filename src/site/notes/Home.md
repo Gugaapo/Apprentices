@@ -10,7 +10,7 @@ Use the sidebar to browse, or press `Ctrl+K` to search.
 
 ---
 
-## 📂 Vault Guide
+## Vault Guide
 
 | Folder           | What's Inside                                                                                         |
 | ---------------- | ----------------------------------------------------------------------------------------------------- |
@@ -25,13 +25,13 @@ Use the sidebar to browse, or press `Ctrl+K` to search.
 
 ---
 
-### 🕒 Latest Updates
+### Latest Updates
 > [!info] Tip
 > Use the sidebar on the left to navigate through the folder structure of the vault.
 
 | File                                                                          | Last Modified            |
 | ----------------------------------------------------------------------------- | ------------------------ |
-| [[Home\|Home]]                                                             | 2:52 PM - March 17, 2026 |
+| [[Home\|Home]]                                                             | 3:06 PM - March 17, 2026 |
 | [[40_People/Factions/Houses/Noble_Houses_Overview\|Noble_Houses_Overview]] | 2:22 PM - March 17, 2026 |
 | [[20_World/02 The Imperial Artifacts\|02 The Imperial Artifacts]]          | 2:21 PM - March 17, 2026 |
 | [[20_World/History/Time Loop\|Time Loop]]                                  | 2:20 PM - March 17, 2026 |
