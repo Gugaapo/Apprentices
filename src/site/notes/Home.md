@@ -4,7 +4,7 @@
 
 
 # Welcome to the Apprentices Database
-This is the companion reference for our tabletop RPG campaign set in the world of *Mother of Learning*. Here you will find the complete system rules, world lore, and all the mechanical references you need to build characters, cast spells, and navigate the setting.
+This is the companion reference for our tabletop RPG campaign set in the world of *[[30_Locations/Continents/Ersetu\|Ersetu]]*. Here you will find the complete system rules, world lore, and all the mechanical references you need to build characters, cast spells, and navigate the setting.
 
 Use the sidebar to browse, or press `Ctrl+K` to search.
 
@@ -31,7 +31,7 @@ Use the sidebar to browse, or press `Ctrl+K` to search.
 
 | File                                                                          | Last Modified            |
 | ----------------------------------------------------------------------------- | ------------------------ |
-| [[Home\|Home]]                                                             | 2:28 PM - March 17, 2026 |
+| [[Home\|Home]]                                                             | 2:52 PM - March 17, 2026 |
 | [[40_People/Factions/Houses/Noble_Houses_Overview\|Noble_Houses_Overview]] | 2:22 PM - March 17, 2026 |
 | [[20_World/02 The Imperial Artifacts\|02 The Imperial Artifacts]]          | 2:21 PM - March 17, 2026 |
 | [[20_World/History/Time Loop\|Time Loop]]                                  | 2:20 PM - March 17, 2026 |
