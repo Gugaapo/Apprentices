@@ -16,12 +16,12 @@ Welcome to the collective knowledge repository for our Mother of Learning campai
 > [!info] Tip
 > Use the sidebar on the left to navigate through the folder structure of the vault.
 
-| File                                                                    | Last Modified             |
-| ----------------------------------------------------------------------- | ------------------------- |
-| [[40_People/Immortals/Tehanna Arta\|Tehanna Arta]]                   | 11:40 AM - March 17, 2026 |
-| [[40_People/Immortals/Sherden-Anixua Zenich\|Sherden-Anixua Zenich]] | 11:40 AM - March 17, 2026 |
-| [[40_People/Immortals/Sakelus Arexino\|Sakelus Arexino]]             | 11:40 AM - March 17, 2026 |
-| [[40_People/Immortals/Peleset Harata\|Peleset Harata]]               | 11:40 AM - March 17, 2026 |
-| [[40_People/Immortals/Nesir Kode\|Nesir Kode]]                       | 11:40 AM - March 17, 2026 |
+| File                                                  | Last Modified             |
+| ----------------------------------------------------- | ------------------------- |
+| [[40_People/NPCs/Allies/Alanic Zosk\|Alanic Zosk]] | 11:44 AM - March 17, 2026 |
+| [[70_Bestiary/Undead/Zombie\|Zombie]]              | 11:44 AM - March 17, 2026 |
+| [[70_Bestiary/Undead/Skeleton\|Skeleton]]          | 11:44 AM - March 17, 2026 |
+| [[70_Bestiary/Undead/Undead\|Undead]]              | 11:44 AM - March 17, 2026 |
+| [[70_Bestiary/Spirits/Elementals\|Elementals]]     | 11:44 AM - March 17, 2026 |
 
 { .block-language-dataview}
