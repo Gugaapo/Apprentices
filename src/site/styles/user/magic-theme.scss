@@ -46,6 +46,12 @@
   margin: 8px 6px !important;
   position: relative !important;
   background: rgba(13, 10, 26, 0.3) !important;
+  min-width: fit-content !important;
+  overflow-x: auto !important;
+  box-shadow:
+    0 0 8px rgba(155, 114, 207, 0.15),
+    0 0 20px rgba(155, 114, 207, 0.08),
+    inset 0 0 12px rgba(155, 114, 207, 0.05) !important;
 }
 
 /* Corner ornaments via pseudo-elements */
@@ -110,6 +116,7 @@
 }
 
 .foldername {
+  white-space: nowrap !important;
   font-family: 'Cinzel', serif !important;
   font-size: 12px !important;
   font-weight: 600 !important;
@@ -135,6 +142,7 @@
   border-left: 2px solid transparent !important;
   margin-left: 4px !important;
   padding: 3px 8px 3px 10px !important;
+  white-space: nowrap !important;
   transition: all 0.2s !important;
 }
 
