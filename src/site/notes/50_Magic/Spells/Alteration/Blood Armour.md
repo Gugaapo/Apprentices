@@ -12,7 +12,7 @@
 
 The mage draws blood from their own body and shapes it into a hardened crystalline shell around their skin.
 
-**System:** Roll [[10_System/Attributes/Calculation\|Calculation]] + [[10_System/Schools/Alteration/Alteration\|Alteration]] vs difficulty 6. Requires 2 successes.
+**System:** Roll [[10_System/Attributes/Magical/Calculation\|Calculation]] + [[10_System/Schools/Alteration/Alteration\|Alteration]] vs difficulty 6. Requires 2 successes.
 **On success:** Draws blood from their own body and shapes it into a hardened crystalline shell around their skin.
 **Overcharge:** Can be spent on standard enhancements (Duration) or Potency (+1 defense).
 **On failure:** mana is lost.

@@ -8,7 +8,7 @@
 
 The mage flickers out of existence for a fraction of a second, reappearing 2m in any direction.
 
-**System:** Roll [[10_System/Attributes/Calculation\|Calculation]] + [[10_System/Schools/Dimensionalism/Dimensionalism\|Dimensionalism]] vs difficulty 6. Requires 1 success.
+**System:** Roll [[10_System/Attributes/Magical/Calculation\|Calculation]] + [[10_System/Schools/Dimensionalism/Dimensionalism\|Dimensionalism]] vs difficulty 6. Requires 1 success.
 **On success:** Flickers out of existence for a fraction of a second, reappearing 2m in any direction.
 **Overcharge:** Can be spent on standard enhancements (Scale).
 **On failure:** mana is lost.

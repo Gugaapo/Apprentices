@@ -27,7 +27,7 @@ Acquiring dots and Powers here requires deep dedication. The spells are extremel
 
 
 ## Mechanical Focus
-Ward creation uses [[10_System/Attributes/Calculation\|Calculation]] for structural geometry and [[10_System/Attributes/Finesse\|Finesse]] for layering multiple overlapping wards without interference. They require a **power source** (like natural ambient mana or battery crystals) to persist indefinitely. 
+Ward creation uses [[10_System/Attributes/Magical/Calculation\|Calculation]] for structural geometry and [[10_System/Attributes/Magical/Finesse\|Finesse]] for layering multiple overlapping wards without interference. They require a **power source** (like natural ambient mana or battery crystals) to persist indefinitely. 
 
 ---
 

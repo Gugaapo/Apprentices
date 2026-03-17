@@ -12,7 +12,7 @@
 
 The mage masks their presence from spirits, becoming invisible to spiritual perception.
 
-**System:** Roll [[10_System/Attributes/Willpower\|Willpower]] + [[10_System/Schools/Soul Magic/Soul Magic\|Soul Magic]] vs difficulty 6. Requires 1 success.
+**System:** Roll [[10_System/Attributes/Magical/Willpower\|Willpower]] + [[10_System/Schools/Soul Magic/Soul Magic\|Soul Magic]] vs difficulty 6. Requires 1 success.
 **On success:** Masks their presence from spirits, becoming invisible to spiritual perception.
 **Overcharge:** Can be spent on standard enhancements (Duration, Scale) or to apply the *Hindered* Status Effect.
 **On failure:** mana is lost.

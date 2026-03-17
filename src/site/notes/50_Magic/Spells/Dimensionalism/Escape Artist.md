@@ -12,7 +12,7 @@
 
 The mage teleports free of all physical restraints — ropes, chains, manacles, or grapples.
 
-**System:** Roll [[10_System/Attributes/Calculation\|Calculation]] + [[10_System/Schools/Dimensionalism/Dimensionalism\|Dimensionalism]] vs difficulty 5.
+**System:** Roll [[10_System/Attributes/Magical/Calculation\|Calculation]] + [[10_System/Schools/Dimensionalism/Dimensionalism\|Dimensionalism]] vs difficulty 5.
 **On success:** Teleports free of all physical restraints — ropes, chains, manacles, or grapples.
 Each additional success adds duration or intensity.
 **On failure:** mana is lost.

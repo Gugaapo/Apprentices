@@ -12,7 +12,7 @@
 
 The mage enchants a thrown weapon to teleport back to their hand after impact.
 
-**System:** Roll [[10_System/Attributes/Calculation\|Calculation]] + [[10_System/Schools/Dimensionalism/Dimensionalism\|Dimensionalism]] vs difficulty 4.
+**System:** Roll [[10_System/Attributes/Magical/Calculation\|Calculation]] + [[10_System/Schools/Dimensionalism/Dimensionalism\|Dimensionalism]] vs difficulty 4.
 **On success:** Enchants a thrown weapon to teleport back to their hand after impact.
 Each additional success adds duration or intensity.
 **On failure:** mana is lost.

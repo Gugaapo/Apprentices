@@ -12,7 +12,7 @@
 
 The mage comprehensively adapts their body for underwater operation — gills, pressure resistance, streamlined form, and thermal insulation.
 
-**System:** Roll [[10_System/Attributes/Calculation\|Calculation]] + [[10_System/Schools/Alteration/Alteration\|Alteration]] vs difficulty 6. Requires 3 successes.
+**System:** Roll [[10_System/Attributes/Magical/Calculation\|Calculation]] + [[10_System/Schools/Alteration/Alteration\|Alteration]] vs difficulty 6. Requires 3 successes.
 **On success:** Comprehensively adapts their body for underwater operation — gills, pressure resistance, streamlined form, and ...
 **Overcharge:** Can be spent on standard enhancements (Duration) or Potency (+1 effect).
 **On failure:** mana is lost.

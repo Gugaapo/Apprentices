@@ -10,7 +10,7 @@
 
 The mage creates the ultimate defensive barrier — nearly impervious to all forms of attack.
 
-**System:** Roll [[10_System/Attributes/Calculation\|Calculation]] + [[10_System/Schools/Abjuration/Abjuration\|Abjuration]] vs difficulty 8.
+**System:** Roll [[10_System/Attributes/Magical/Calculation\|Calculation]] + [[10_System/Schools/Abjuration/Abjuration\|Abjuration]] vs difficulty 8.
 **On success:** Creates the ultimate defensive barrier — nearly impervious to all forms of attack.
 Each additional success adds duration or intensity.
 **On failure:** mana is lost.

@@ -10,7 +10,7 @@
 
 The mage creates a visual duplicate of themself that mimics their movements at a slight delay.
 
-**System:** Roll [[10_System/Attributes/Willpower\|Willpower]] + [[10_System/Schools/Illusionism/Illusionism\|Illusionism]] vs difficulty 6. Requires 2 successes.
+**System:** Roll [[10_System/Attributes/Magical/Willpower\|Willpower]] + [[10_System/Schools/Illusionism/Illusionism\|Illusionism]] vs difficulty 6. Requires 2 successes.
 **On success:** Creates a visual duplicate of themself that mimics their movements at a slight delay.
 **Overcharge:** Can be spent on standard enhancements (Duration, Scale) or to apply the *Hindered* Status Effect.
 **On failure:** mana is lost.

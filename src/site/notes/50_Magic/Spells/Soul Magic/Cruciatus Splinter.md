@@ -12,7 +12,7 @@
 
 The mage forcefully embeds a highly condensed, barbed magical splinter directly into the target's central soul pillar. The victim suffers absolute, unending, world-shattering agony. It is considered an ultimate torture tactic, as it causes no physical tissue damage.
 
-**System:** Roll [[10_System/Attributes/Willpower\|Willpower]] + [[10_System/Schools/Soul Magic/Soul Magic\|Soul Magic]] vs difficulty 7.
+**System:** Roll [[10_System/Attributes/Magical/Willpower\|Willpower]] + [[10_System/Schools/Soul Magic/Soul Magic\|Soul Magic]] vs difficulty 7.
 **On success:** Forcefully embeds a highly condensed, barbed magical splinter directly into the target's central soul pillar. The victim suffers absolute, unending, world-shattering...
 Each additional success adds duration or intensity.
 **On failure:** mana is lost.

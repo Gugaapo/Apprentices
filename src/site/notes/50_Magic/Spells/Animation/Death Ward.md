@@ -12,7 +12,7 @@
 
 The mage wraps themselves in necromantic energy that retaliates against anything that deals them damage.
 
-**System:** Roll [[10_System/Attributes/Calculation\|Calculation]] + [[10_System/Schools/Animation/Animation\|Animation]] vs difficulty 6.
+**System:** Roll [[10_System/Attributes/Magical/Calculation\|Calculation]] + [[10_System/Schools/Animation/Animation\|Animation]] vs difficulty 6.
 **On success:** Wraps themselves in necromantic energy that retaliates against anything that deals them damage.
 Each additional success adds duration or intensity.
 **On failure:** mana is lost.

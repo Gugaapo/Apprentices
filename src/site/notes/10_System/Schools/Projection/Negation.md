@@ -26,7 +26,7 @@ Acquiring dots and Powers here requires deep dedication. The spells are extremel
 | **Tier 5** | *City-Wide Veil* | A massive screen that blocks all hostile scrying, teleportation, or [[10_System/Schools/Projection/Projection\|Projection]] spells into an area. |
 
 ## Mechanical Focus
-Negation adds to [[50_Magic/Glossary/Mind Defense\|Mind Defense]] when used reactively. When used offensively, it contests the target spellcaster's [[10_System/Attributes/Willpower\|Willpower]] to forcibly unravel their active matrices.
+Negation adds to [[50_Magic/Glossary/Mind Defense\|Mind Defense]] when used reactively. When used offensively, it contests the target spellcaster's [[10_System/Attributes/Magical/Willpower\|Willpower]] to forcibly unravel their active matrices.
 
 ---
 

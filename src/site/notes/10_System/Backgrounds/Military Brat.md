@@ -17,7 +17,7 @@ While the Academy focuses heavily on theoretical research and elegant aristocrat
 
 ## Mechanical Benefits
 
-- **Starting Bonus:** Gain +1 free dot in **[[10_System/Attributes/Melee Combat\|Melee Combat]]** or **[[10_System/Attributes/Ranged Combat\|Ranged Combat]]**, and start with a standard mundane weapon (e.g., a sword, a rifle, or a combat knife).
+- **Starting Bonus:** Gain +1 free dot in **[[10_System/Attributes/Physical/Melee Combat\|Melee Combat]]** or **[[10_System/Attributes/Physical/Ranged Combat\|Ranged Combat]]**, and start with a standard mundane weapon (e.g., a sword, a rifle, or a combat knife).
 - **Connection — The Quartermaster:** You know how to navigate military bureaucracy. Once per arc, you can pull strings with old family friends in the military to requisition restricted combat gear, obtain military-grade intelligence, or gain access to a secure military facility.
 
 ---

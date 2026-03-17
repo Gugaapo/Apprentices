@@ -12,7 +12,7 @@
 
 The mage thickens and toughens their outermost layer of skin, providing marginal protection against cuts and scrapes.
 
-**System:** Roll [[10_System/Attributes/Calculation\|Calculation]] + [[10_System/Schools/Alteration/Alteration\|Alteration]] vs difficulty 6. Requires 1 success.
+**System:** Roll [[10_System/Attributes/Magical/Calculation\|Calculation]] + [[10_System/Schools/Alteration/Alteration\|Alteration]] vs difficulty 6. Requires 1 success.
 **On success:** Thickens and toughens their outermost layer of skin, providing marginal protection against cuts and scrapes.
 **Overcharge:** Can be spent on standard enhancements (Duration) or Potency (+1 defense).
 **On failure:** mana is lost.

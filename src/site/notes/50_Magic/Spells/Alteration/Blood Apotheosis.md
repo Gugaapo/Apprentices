@@ -12,7 +12,7 @@
 
 The mage transforms their own body into living blood — a fluid, regenerating, nearly indestructible crimson entity.
 
-**System:** Roll [[10_System/Attributes/Calculation\|Calculation]] + [[10_System/Schools/Alteration/Alteration\|Alteration]] vs difficulty 6. Requires 5 successes.
+**System:** Roll [[10_System/Attributes/Magical/Calculation\|Calculation]] + [[10_System/Schools/Alteration/Alteration\|Alteration]] vs difficulty 6. Requires 5 successes.
 **On success:** Transforms their own body into living blood — a fluid, regenerating, nearly indestructible crimson entity.
 **Overcharge:** Can be spent on standard enhancements (Duration) or Potency (+1 effect).
 **On failure:** mana is lost.

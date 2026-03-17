@@ -12,7 +12,7 @@
 
 The mage encases a small object in a stone shell, protecting it from damage.
 
-**System:** Roll [[10_System/Attributes/Calculation\|Calculation]] + [[10_System/Schools/Animation/Animation\|Animation]] vs difficulty 4.
+**System:** Roll [[10_System/Attributes/Magical/Calculation\|Calculation]] + [[10_System/Schools/Animation/Animation\|Animation]] vs difficulty 4.
 **On success:** Encases a small object in a stone shell, protecting it from damage.
 Each additional success adds duration or intensity.
 **On failure:** mana is lost.

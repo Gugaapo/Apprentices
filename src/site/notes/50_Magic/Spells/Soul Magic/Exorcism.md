@@ -10,7 +10,7 @@
 
 The mage forcibly ejects a possessing entity from a host body.
 
-**System:** Roll [[10_System/Attributes/Willpower\|Willpower]] + [[10_System/Schools/Soul Magic/Soul Magic\|Soul Magic]] vs difficulty 6.
+**System:** Roll [[10_System/Attributes/Magical/Willpower\|Willpower]] + [[10_System/Schools/Soul Magic/Soul Magic\|Soul Magic]] vs difficulty 6.
 **On success:** Forcibly ejects a possessing entity from a host body.
 Each additional success adds duration or intensity.
 **On failure:** mana is lost.

@@ -56,9 +56,9 @@ Each attribute and School Proficiency can have a **Specialization** — a narrow
 
 | Attribute                  | Specialization (example)           |
 | :------------------------- | :--------------------------------- |
-| [[10_System/Attributes/Academics\|Academics]]              | Ancient History, Physics, geometry |
+| [[10_System/Attributes/Mental/Academics\|Academics]]              | Ancient History, Physics, geometry |
 | [[10_System/Schools/Projection/Projection\|Projection]] | [[10_System/Schools/Projection/Combat Magic\|Combat Magic]], [[10_System/Schools/Projection/Negation\|Negation]]     |
-| [[10_System/Attributes/Melee Combat\|Melee Combat]]           | Short Blades. bows, firearms       |
+| [[10_System/Attributes/Physical/Melee Combat\|Melee Combat]]           | Short Blades. bows, firearms       |
 
 
 
@@ -67,46 +67,46 @@ These represent the inherent power and processing speed of the Student's magical
 
 | Attribute                        | Description                                                                       |
 | :------------------------------- | :-------------------------------------------------------------------------------- |
-| **[[10_System/Attributes/Memory\|Memory]]**           | Capability to recall complex formulas across resets. Used for Sanity Resistance.  |
-| **[[10_System/Attributes/Calculation\|Calculation]]** | Mental processing speed. Used for multitasking and maintaining multiple spells.   |
-| **[[10_System/Attributes/Finesse\|Finesse]]**         | Precision and subtlety. Used for delicate shaping and avoiding collateral damage. |
-| **[[10_System/Attributes/Willpower\|Willpower]]**     | Raw force of intent. Used for [[50_Magic/Glossary/Mind Defense\|Mind Defense]] and brute-force magic.             |
+| **[[10_System/Attributes/Magical/Memory\|Memory]]**           | Capability to recall complex formulas across resets. Used for Sanity Resistance.  |
+| **[[10_System/Attributes/Magical/Calculation\|Calculation]]** | Mental processing speed. Used for multitasking and maintaining multiple spells.   |
+| **[[10_System/Attributes/Magical/Finesse\|Finesse]]**         | Precision and subtlety. Used for delicate shaping and avoiding collateral damage. |
+| **[[10_System/Attributes/Magical/Willpower\|Willpower]]**     | Raw force of intent. Used for [[50_Magic/Glossary/Mind Defense\|Mind Defense]] and brute-force magic.             |
 
 ### 2. Mental Attributes
 These represent logical reasoning, awareness, and retained academic knowledge. These can be improved over time.
 
 | Attribute                            | Description                                                          |
 | :----------------------------------- | :------------------------------------------------------------------- |
-| **[[10_System/Attributes/Academics\|Academics]]**         | Knowledge of history, lore, mathematics, and non-magical sciences.   |
-| **[[10_System/Attributes/Investigation\|Investigation]]** | Deduction, searching for clues, and piecing together information.    |
-| **[[10_System/Attributes/Awareness\|Awareness]]**         | Spotting ambushes, noticing hidden details, and general perception.  |
-| **[[10_System/Attributes/Survival\|Survival]]**           | Navigating the wilderness, tracking, and knowledge of magical beasts.|
-| **[[10_System/Attributes/Crafting\|Crafting]]**           | Mundane engineering, tinkering, and repairing.                       |
-| **[[10_System/Attributes/Medicine\|Medicine]]**           | First aid, anatomy, and diagnosing mundane illnesses or poisons.     |
+| **[[10_System/Attributes/Mental/Academics\|Academics]]**         | Knowledge of history, lore, mathematics, and non-magical sciences.   |
+| **[[10_System/Attributes/Mental/Investigation\|Investigation]]** | Deduction, searching for clues, and piecing together information.    |
+| **[[10_System/Attributes/Mental/Awareness\|Awareness]]**         | Spotting ambushes, noticing hidden details, and general perception.  |
+| **[[10_System/Attributes/Mental/Survival\|Survival]]**           | Navigating the wilderness, tracking, and knowledge of magical beasts.|
+| **[[10_System/Attributes/Mental/Crafting\|Crafting]]**           | Mundane engineering, tinkering, and repairing.                       |
+| **[[10_System/Attributes/Mental/Medicine\|Medicine]]**           | First aid, anatomy, and diagnosing mundane illnesses or poisons.     |
 
 ### 3. Social Attributes
 These represent how a character interacts with, commands, or manipulates others.
 
 | Attribute                          | Description                                                       |
 | :--------------------------------- | :---------------------------------------------------------------- |
-| **[[10_System/Attributes/Charm\|Charm]]**               | Getting people to like you, making friends, and honest negotiation.|
-| **[[10_System/Attributes/Deception\|Deception]]**       | Lying, fast-talking, scamming, and hiding your true intentions.   |
-| **[[10_System/Attributes/Intimidation\|Intimidation]]** | Coercion, threats, and leveraging fear to get your way.           |
-| **[[10_System/Attributes/Insight\|Insight]]**           | Reading people, lie detection, and sensing hidden motives.        |
-| **[[10_System/Attributes/Society\|Society]]**           | Navigating high society, noble politics, and Academy bureaucracy. |
-| **[[10_System/Attributes/Streetwise\|Streetwise]]**     | Navigating the criminal underworld, finding black markets, and dealing with gangs.|
+| **[[10_System/Attributes/Social/Charm\|Charm]]**               | Getting people to like you, making friends, and honest negotiation.|
+| **[[10_System/Attributes/Social/Deception\|Deception]]**       | Lying, fast-talking, scamming, and hiding your true intentions.   |
+| **[[10_System/Attributes/Social/Intimidation\|Intimidation]]** | Coercion, threats, and leveraging fear to get your way.           |
+| **[[10_System/Attributes/Social/Insight\|Insight]]**           | Reading people, lie detection, and sensing hidden motives.        |
+| **[[10_System/Attributes/Social/Society\|Society]]**           | Navigating high society, noble politics, and Academy bureaucracy. |
+| **[[10_System/Attributes/Social/Streetwise\|Streetwise]]**     | Navigating the criminal underworld, finding black markets, and dealing with gangs.|
 
 ### 4. Physical Attributes
 **Note:** In this setting, physical strength and conditioning require significant downtime to improve safely without magical enhancement.
 
 | Attribute                            | Description                                                            |
 | :----------------------------------- | :--------------------------------------------------------------------- |
-| **[[10_System/Attributes/Might\|Might]]**                 | Raw physical power, lifting capacity, and grappling.                   |
-| **[[10_System/Attributes/Mobility\|Mobility]]**           | Running, climbing, swimming, and dodging.                              |
-| **[[10_System/Attributes/Sleight of Hands\|Sleight of Hands]]**             | Fine motor control, picking pockets, and escaping bindings.            |
-| **[[10_System/Attributes/Stealth\|Stealth]]**             | Sneaking, hiding in shadows, and moving silently.                      |
-| **[[10_System/Attributes/Melee Combat\|Melee Combat]]**   | Fighting with swords, staves, or bare fists.                           |
-| **[[10_System/Attributes/Ranged Combat\|Ranged Combat]]** | Firing crossbows, mundane firearms, or throwing alchemical explosives. |
+| **[[10_System/Attributes/Physical/Might\|Might]]**                 | Raw physical power, lifting capacity, and grappling.                   |
+| **[[10_System/Attributes/Physical/Mobility\|Mobility]]**           | Running, climbing, swimming, and dodging.                              |
+| **[[10_System/Attributes/Physical/Sleight of Hands\|Sleight of Hands]]**             | Fine motor control, picking pockets, and escaping bindings.            |
+| **[[10_System/Attributes/Physical/Stealth\|Stealth]]**             | Sneaking, hiding in shadows, and moving silently.                      |
+| **[[10_System/Attributes/Physical/Melee Combat\|Melee Combat]]**   | Fighting with swords, staves, or bare fists.                           |
+| **[[10_System/Attributes/Physical/Ranged Combat\|Ranged Combat]]** | Firing crossbows, mundane firearms, or throwing alchemical explosives. |
 
 ---
 
@@ -130,9 +130,9 @@ As you take damage from attacks, hazards, or [[50_Magic/Glossary/Mana Burn\|Mana
 **[[50_Magic/Glossary/Mana Burn\|Mana Burn]]:** You can intentionally spend Physical Health (representing immense strain) to buy extra successes on a spellcast at a 1:1 ratio. You can use this to meet the spell's required tier threshold if you fail the roll, or to artificially buy **Overcharge** to augment the spell. Taking damage from Mana Burn marks off boxes exactly like enemy attacks, immediately applying any new Wound Penalties to future rolls. Mental and Soul damage cannot be used for Mana Burn.
 
 ### [[50_Magic/Glossary/Mind Defense\|Mind Defense]]
-**[[50_Magic/Glossary/Mind Defense\|Mind Defense]]::** [[10_System/Attributes/Willpower\|Willpower]] + Highest of ([[10_System/Schools/Illusionism/Mind Magic\|Mind Magic]], [[10_System/Schools/Divination/Divination\|Divination]], [[10_System/Schools/Abjuration/Abjuration\|Abjuration]]).
+**[[50_Magic/Glossary/Mind Defense\|Mind Defense]]::** [[10_System/Attributes/Magical/Willpower\|Willpower]] + Highest of ([[10_System/Schools/Illusionism/Mind Magic\|Mind Magic]], [[10_System/Schools/Divination/Divination\|Divination]], [[10_System/Schools/Abjuration/Abjuration\|Abjuration]]).
 - **Passive Breach Threshold::** Attackers using [[10_System/Schools/Illusionism/Mind Magic\|Mind Magic]] or [[40_People/Factions/Cyorian Academy/Classes/Illusionism Class\|Illusionism Class]] must roll more successes than this value to enter your mind.
-- **The Breach:** If breached, your [[10_System/Attributes/Memory\|Memory]] can be altered as far as the caster's skill allows it.
+- **The Breach:** If breached, your [[10_System/Attributes/Magical/Memory\|Memory]] can be altered as far as the caster's skill allows it.
 
 ---
 
@@ -144,7 +144,7 @@ Facing the lethal trials of the Academy and its dungeons is a heavy burden. **Sa
 - **True Madness:** At 0 Sanity, your character becomes a "Hollow", a shell of its former self.
 
 ### Erosion Triggers
-When facing trauma or committing atrocities, roll **Resist Erosion::** [[10_System/Attributes/Memory\|Memory]] + [[10_System/Attributes/Willpower\|Willpower]].
+When facing trauma or committing atrocities, roll **Resist Erosion::** [[10_System/Attributes/Magical/Memory\|Memory]] + [[10_System/Attributes/Magical/Willpower\|Willpower]].
 
 | Difficulty       | Successes Required | Trigger Event                                                                           |
 | :--------------- | :----------------- | :-------------------------------------------------------------------------------------- |
@@ -157,5 +157,5 @@ When facing trauma or committing atrocities, roll **Resist Erosion::** [[10_Syst
 
 ### Tiers of Madness
 - **Sanity 7 (Detachment):** -1 die to mundane Social interactions.
-- **Sanity 4 (Dissociation):** Develop a Derangement (Paranoia, Phobia); -2 to [[10_System/Attributes/Finesse\|Finesse]] due to mental tremors.
-- **Sanity 2 (Apathy):** Must pass a [[10_System/Attributes/Willpower\|Willpower]] check to take *any* action (including defending yourself).
+- **Sanity 4 (Dissociation):** Develop a Derangement (Paranoia, Phobia); -2 to [[10_System/Attributes/Magical/Finesse\|Finesse]] due to mental tremors.
+- **Sanity 2 (Apathy):** Must pass a [[10_System/Attributes/Magical/Willpower\|Willpower]] check to take *any* action (including defending yourself).

@@ -10,7 +10,7 @@
 
 The mage touches an object or person suffering from a minor magical condition (like a jinx, a low-tier charm, or a magical stain) and physically scrapes the foreign mana off...
 
-**System:** Roll [[10_System/Attributes/Calculation\|Calculation]] + [[10_System/Schools/Abjuration/Abjuration\|Abjuration]] vs difficulty 4.
+**System:** Roll [[10_System/Attributes/Magical/Calculation\|Calculation]] + [[10_System/Schools/Abjuration/Abjuration\|Abjuration]] vs difficulty 4.
 **On success:** Touches an object or person suffering from a minor magical condition (like a jinx, a low-tier charm, or a magical stain) and physically scrapes the foreign mana off...
 Each additional success adds duration or intensity.
 **On failure:** mana is lost.

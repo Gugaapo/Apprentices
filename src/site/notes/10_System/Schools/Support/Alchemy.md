@@ -22,7 +22,7 @@ Alchemy is **magical chemistry**—it does not require shaping skill to use, onl
 | **Tier 5** | *Enhancement Elixir Base*                                               | A critical component for an Enhancement Ritual, reducing the permanent [[50_Magic/Glossary/mana\|mana]] reserve cost substantially.                                            |
 
 ## Mechanical Focus
-Alchemy rolls use the [[10_System/Attributes/Academics\|Academics]] (chemistry/alchemy lore) and [[10_System/Attributes/Survival\|Survival]] (ingredient knowledge) mental attributes rather than any Magical attribute. A mage with high [[10_System/Attributes/Academics\|Academics]] but no shaping skill can be an excellent alchemist. [[10_System/Schools/Animation/Golemancy\|Golemancy]] cores generally require alchemical materials.
+Alchemy rolls use the [[10_System/Attributes/Mental/Academics\|Academics]] (chemistry/alchemy lore) and [[10_System/Attributes/Mental/Survival\|Survival]] (ingredient knowledge) mental attributes rather than any Magical attribute. A mage with high [[10_System/Attributes/Mental/Academics\|Academics]] but no shaping skill can be an excellent alchemist. [[10_System/Schools/Animation/Golemancy\|Golemancy]] cores generally require alchemical materials.
 
 ---
 

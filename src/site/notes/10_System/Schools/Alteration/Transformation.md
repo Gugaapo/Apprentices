@@ -29,7 +29,7 @@ Acquiring dots and Powers here requires deep dedication. The spells are extremel
 | **Tier 5** | *Permanent Shell* | A full transformation that becomes permanent on the target without ongoing [[50_Magic/Glossary/mana\|mana]] cost — requires a masterwork formula. |
 
 ## Mechanical Focus
-All Transformation spells target the soul-body interface, requiring [[10_System/Attributes/Calculation\|Calculation]] for anatomical precision and [[10_System/Attributes/Finesse\|Finesse]] for a clean transformation without side effects. A botched roll may cause partial, painful, or unstable shifts.
+All Transformation spells target the soul-body interface, requiring [[10_System/Attributes/Magical/Calculation\|Calculation]] for anatomical precision and [[10_System/Attributes/Magical/Finesse\|Finesse]] for a clean transformation without side effects. A botched roll may cause partial, painful, or unstable shifts.
 
 ---
 

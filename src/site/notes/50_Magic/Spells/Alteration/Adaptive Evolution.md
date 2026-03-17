@@ -12,7 +12,7 @@
 
 The mage's body continuously evolves in response to environmental threats, automatically developing resistances and countermeasures.
 
-**System:** Roll [[10_System/Attributes/Calculation\|Calculation]] + [[10_System/Schools/Alteration/Alteration\|Alteration]] vs difficulty 6. Requires 5 successes.
+**System:** Roll [[10_System/Attributes/Magical/Calculation\|Calculation]] + [[10_System/Schools/Alteration/Alteration\|Alteration]] vs difficulty 6. Requires 5 successes.
 **On success:** The mage's body continuously evolves in response to environmental threats, automatically developing resistances and coun...
 **Overcharge:** Can be spent on standard enhancements (Duration) or Potency (+1 resistance/effect).
 **On failure:** mana is lost.

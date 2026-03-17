@@ -11,7 +11,7 @@
 
 The mage optimizes a patient's entire biology — clearing every imperfection, enhancing every system, maximizing genetic potential.
 
-**System:** Roll [[10_System/Attributes/Calculation\|Calculation]] + [[10_System/Schools/Alteration/Alteration\|Alteration]] vs difficulty 6. Requires 5 successes.
+**System:** Roll [[10_System/Attributes/Magical/Calculation\|Calculation]] + [[10_System/Schools/Alteration/Alteration\|Alteration]] vs difficulty 6. Requires 5 successes.
 **On success:** Optimizes a patient's entire biology — clearing every imperfection, enhancing every system, maximizing genetic ...
 **Overcharge:** Can be spent on standard enhancements (Scale) or Potency (+1 healing/buff).
 **On failure:** mana is lost.

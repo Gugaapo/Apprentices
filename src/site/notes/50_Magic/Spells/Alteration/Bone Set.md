@@ -11,7 +11,7 @@
 
 The mage realigns broken bones and accelerates the fusing process. A fracture that would take weeks to heal is mended in minutes.
 
-**System:** Roll [[10_System/Attributes/Calculation\|Calculation]] + [[10_System/Schools/Alteration/Alteration\|Alteration]] vs difficulty 6. Requires 2 successes.
+**System:** Roll [[10_System/Attributes/Magical/Calculation\|Calculation]] + [[10_System/Schools/Alteration/Alteration\|Alteration]] vs difficulty 6. Requires 2 successes.
 **On success:** Realigns broken bones and accelerates the fusing process. A fracture that would take weeks to heal is mended in...
 **Overcharge:** Can be spent on standard enhancements (Scale) or Potency (+1 healing).
 **On failure:** mana is lost.

@@ -11,7 +11,7 @@
 
 The mage generates a complete, hollow optical illusion over their own body, projecting the exact visual appearance, voice, and smell of another humanoid. Only physical touch will reveal that the disguise is a hard-light hologram.
 
-**System:** Roll [[10_System/Attributes/Willpower\|Willpower]] + [[10_System/Schools/Illusionism/Illusionism\|Illusionism]] vs difficulty 6. Requires 2 successes.
+**System:** Roll [[10_System/Attributes/Magical/Willpower\|Willpower]] + [[10_System/Schools/Illusionism/Illusionism\|Illusionism]] vs difficulty 6. Requires 2 successes.
 **On success:** Generates a complete, hollow optical illusion over their own body, projecting the exact visual appearance, voice, and smell of another humanoid. Only physical touch...
 **Overcharge:** Can be spent on standard enhancements (Duration, Scale) or to apply the *Hindered* Status Effect.
 **On failure:** mana is lost.

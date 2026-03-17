@@ -8,7 +8,7 @@
 
 The mage shapes hardened clay into a floating defensive barrier.
 
-**System:** Roll [[10_System/Attributes/Calculation\|Calculation]] + [[10_System/Schools/Animation/Animation\|Animation]] vs difficulty 5.
+**System:** Roll [[10_System/Attributes/Magical/Calculation\|Calculation]] + [[10_System/Schools/Animation/Animation\|Animation]] vs difficulty 5.
 **On success:** Shapes hardened clay into a floating defensive barrier.
 Each additional success adds duration or intensity.
 **On failure:** mana is lost.

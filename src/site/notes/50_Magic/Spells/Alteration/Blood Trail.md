@@ -8,7 +8,7 @@
 
 The mage can track a creature by following the mana signature left in its spilled blood.
 
-**System:** Roll [[10_System/Attributes/Calculation\|Calculation]] + [[10_System/Schools/Alteration/Alteration\|Alteration]] vs difficulty 6. Requires 1 success.
+**System:** Roll [[10_System/Attributes/Magical/Calculation\|Calculation]] + [[10_System/Schools/Alteration/Alteration\|Alteration]] vs difficulty 6. Requires 1 success.
 **On success:** Can track a creature by following the mana signature left in its spilled blood.
 **Overcharge:** Can be spent on standard enhancements (Duration, Scale) or Potency (+1 to tracking detail).
 **On failure:** mana is lost.

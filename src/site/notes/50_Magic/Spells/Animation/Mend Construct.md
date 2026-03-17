@@ -8,7 +8,7 @@
 
 The mage funnels specialized repair mana into an animated object or golem. Stripped gears re-align, cracked stone plating fuses back together, and severed magical tethers...
 
-**System:** Roll [[10_System/Attributes/Calculation\|Calculation]] + [[10_System/Schools/Animation/Animation\|Animation]] vs difficulty 4.
+**System:** Roll [[10_System/Attributes/Magical/Calculation\|Calculation]] + [[10_System/Schools/Animation/Animation\|Animation]] vs difficulty 4.
 **On success:** Funnels specialized repair mana into an animated object or golem. Stripped gears re-align, cracked stone plating fuses back together, and severed magical tethers...
 Each additional success adds duration or intensity.
 **On failure:** mana is lost.

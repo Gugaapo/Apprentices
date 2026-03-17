@@ -12,7 +12,7 @@
 
 The mage seizes control of a target's circulatory system, forcing their body to move against their will.
 
-**System:** Roll [[10_System/Attributes/Calculation\|Calculation]] + [[10_System/Schools/Alteration/Alteration\|Alteration]] vs difficulty 6. Requires 3 successes.
+**System:** Roll [[10_System/Attributes/Magical/Calculation\|Calculation]] + [[10_System/Schools/Alteration/Alteration\|Alteration]] vs difficulty 6. Requires 3 successes.
 **On success:** Seizes control of a target's circulatory system, forcing their body to move against their will.
 **Overcharge:** Can be spent on standard enhancements (Duration, Scale) or to apply the *Restrained* Status Effect.
 **On failure:** mana is lost.

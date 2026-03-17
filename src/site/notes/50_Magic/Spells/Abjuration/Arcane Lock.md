@@ -12,7 +12,7 @@
 
 The mage touches a door, chest, or container, fusing its locking mechanisms together with a simple magical cipher. The lock glows faintly when touched and simply refuses to physically function for anyone but the mage.
 
-**System:** Roll [[10_System/Attributes/Calculation\|Calculation]] + [[10_System/Schools/Abjuration/Abjuration\|Abjuration]] vs difficulty 4.
+**System:** Roll [[10_System/Attributes/Magical/Calculation\|Calculation]] + [[10_System/Schools/Abjuration/Abjuration\|Abjuration]] vs difficulty 4.
 **On success:** Touches a door, chest, or container, fusing its locking mechanisms together with a simple magical cipher. The lock glows faintly when touched and simply refuses to...
 Each additional success adds duration or intensity.
 **On failure:** mana is lost.

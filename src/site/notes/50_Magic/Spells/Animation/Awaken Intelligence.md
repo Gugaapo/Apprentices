@@ -12,7 +12,7 @@
 
 The pinnacle of golemancy. The mage forces a true, complex consciousness—an artificial soul—into a pristine, high-end magitech chassis. The resulting entity is fully sentient, capable of learning, feeling emotions, and casting magic of its own.
 
-**System:** Roll [[10_System/Attributes/Calculation\|Calculation]] + [[10_System/Schools/Animation/Animation\|Animation]] vs difficulty 6. Requires 5 successes.
+**System:** Roll [[10_System/Attributes/Magical/Calculation\|Calculation]] + [[10_System/Schools/Animation/Animation\|Animation]] vs difficulty 6. Requires 5 successes.
 **On success:** The pinnacle of golemancy. The mage forces a true, complex consciousness—an artificial soul—into a pristine, high-end magitech chassis. The resulting entity is fully...
 **Overcharge:** Can be spent on Potency (+1 to minion stats).
 **On failure:** mana is lost.

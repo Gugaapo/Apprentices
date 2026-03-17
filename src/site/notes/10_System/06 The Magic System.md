@@ -50,7 +50,7 @@ Highly advanced applications of magic are called **[[50_Magic/Glossary/Specializ
 | **[[10_System/Schools/Abjuration/Abjuration\|Abjuration]]**             | *Defend*      | Actively protects against harm, counters magic, and creates temporary barriers.         | **[[10_System/Schools/Abjuration/Ward\|Ward]]**, **[[10_System/Schools/Abjuration/Sealing\|Sealing]]**                                                                                                                          |
 | **[[10_System/Schools/Soul Magic/Soul Magic\|Soul Magic]]**                                         | *Violate*     | Directly interacts with the soul, death, and the metaphysical self. Forbidden knowledge.| **[[10_System/Schools/Soul Magic/Spirit Calling\|Spirit Calling]]**, **[[10_System/Schools/Soul Magic/Soul Carving\|Soul Carving]]**                                                                                                         |
 
-*(Note: **[[10_System/Schools/Support/Alchemy\|Alchemy]]** and **[[50_Magic/Glossary/Spell Formula\|Spell Formula]]** remain purely Support crafts. [[10_System/Schools/Support/Alchemy\|Alchemy]] uses [[10_System/Attributes/Academics\|Academics]] + [[10_System/Attributes/Survival\|Survival]], while [[50_Magic/Glossary/Spell Formula\|Spell Formula]] uses [[10_System/Attributes/Calculation\|Calculation]] or [[10_System/Attributes/Finesse\|Finesse]] + [[10_System/Attributes/Academics\|Academics]] to inscribe prepared spells).*
+*(Note: **[[10_System/Schools/Support/Alchemy\|Alchemy]]** and **[[50_Magic/Glossary/Spell Formula\|Spell Formula]]** remain purely Support crafts. [[10_System/Schools/Support/Alchemy\|Alchemy]] uses [[10_System/Attributes/Mental/Academics\|Academics]] + [[10_System/Attributes/Mental/Survival\|Survival]], while [[50_Magic/Glossary/Spell Formula\|Spell Formula]] uses [[10_System/Attributes/Magical/Calculation\|Calculation]] or [[10_System/Attributes/Magical/Finesse\|Finesse]] + [[10_System/Attributes/Mental/Academics\|Academics]] to inscribe prepared spells).*
 
 ---
 
@@ -68,7 +68,7 @@ You do not automatically know every spell of a specific level. Instead, spells a
 When you cast a spell, it works like any other mundane action roll, but fuelled by Mana.
 
 ### The Casting Pool
-Roll **Attribute + [[50_Magic/Glossary/School Proficiency\|School Proficiency]]**. *(Example: Casting a fireball is usually [[10_System/Attributes/Willpower\|Willpower]] + [[40_People/Factions/Cyorian Academy/Classes/Projection Class\|Projection Class]]).*
+Roll **Attribute + [[50_Magic/Glossary/School Proficiency\|School Proficiency]]**. *(Example: Casting a fireball is usually [[10_System/Attributes/Magical/Willpower\|Willpower]] + [[40_People/Factions/Cyorian Academy/Classes/Projection Class\|Projection Class]]).*
 
 ### Success Threshold & Required Successes
 The baseline Difficulty (Target Number) for structured magic is a static **6**. Furthermore, the number of successes required to activate the spell is exactly equal to its Tier.
@@ -105,7 +105,7 @@ Rather than referencing a massive table of elements, apply one of the following 
 | :--- | :--- | :--- | :--- |
 | **1 Overcharge** | **Hindered** | Chilled, Blinded by flash, Deafened, Off-balance | The target suffers a **-2 dice penalty** to all relevant actions on their next move. |
 | **2 Overcharge** | **Lingering Harm** | On Fire, Acid, Severe Bleed | The target takes **1 Physical Damage** at the end of the scene or whenever they perform a strenuous action (e.g., attacking or sprinting), unless they first spend an action to clear the hazard (patting out flames, neutralizing acid). |
-| **3 Overcharge** | **Restrained** | Frozen solid, Trapped in stone, Bound in heavy gravity | The target cannot take physical actions until they succeed on a [[10_System/Attributes/Might\|Might]] or [[10_System/Attributes/Mobility\|Mobility]] roll against your spell's total rolled successes (minimum 3) to break free. |
+| **3 Overcharge** | **Restrained** | Frozen solid, Trapped in stone, Bound in heavy gravity | The target cannot take physical actions until they succeed on a [[10_System/Attributes/Physical/Might\|Might]] or [[10_System/Attributes/Physical/Mobility\|Mobility]] roll against your spell's total rolled successes (minimum 3) to break free. |
 
 ---
 
@@ -117,12 +117,12 @@ If you fail a casting roll (i.e., you do not meet the GM's Difficulty threshold)
 
 ---
 
-## 5. Spell Mastery (Muscle [[10_System/Attributes/Memory\|Memory]])
+## 5. Spell Mastery (Muscle [[10_System/Attributes/Magical/Memory\|Memory]])
 
 A Mage can deeply internalise a specific spell configuration, turning it into pure muscle memory so they don't have to consciously calculate the canal geometry. Over time, these become a mage's signature spells.
 
 * **How to Master a Spell:** To master a spell you already know, you must spend **Study Points (SP) equal to the Spell's Tier** (e.g., 1 SP for a Tier 1 cantrip, 3 SP for a Tier 3 spell). 
-* **Tracking Mastery:** You can have a maximum number of **Mastered Spells** equal to your **[[10_System/Attributes/Memory\|Memory]] × 2**. If you are at your limit and wish to master a new spell, you can overwrite an old one, but the SP spent on the previous spell is lost.
+* **Tracking Mastery:** You can have a maximum number of **Mastered Spells** equal to your **[[10_System/Attributes/Magical/Memory\|Memory]] × 2**. If you are at your limit and wish to master a new spell, you can overwrite an old one, but the SP spent on the previous spell is lost.
 * **Mastery Benefits:** 
   1. **Silent & Still:** Mastered spells are carved so deeply into the mind that they no longer require vocal incantations or physical hand gestures. They can be cast while bound, gagged, or in stealth.
   2. **Mana Efficiency:** Because the mental matrix is perfectly optimized, Mastered spells cost **1 less Mana** to cast (to a minimum of 1 Mana).
@@ -131,11 +131,18 @@ A Mage can deeply internalise a specific spell configuration, turning it into pu
 
 ---
 
-## 6. Multitasking & Processing ([[10_System/Attributes/Calculation\|Calculation]])
+## 6. Keeping Spells Active ([[10_System/Attributes/Magical/Calculation\|Calculation]] & [[10_System/Attributes/Magical/Finesse\|Finesse]])
 
-Knowing a spell is one thing; processing the math to keep it active in the physical world is another. Your [[10_System/Attributes/Calculation\|Calculation]] attribute acts as your mental RAM, dictating your ability to multitask and juggle complex spell matrices.
+Knowing a spell is one thing; processing the math to keep it active in the physical world is another. Your mental attributes dedicate your ability to multitask and juggle complex spell matrices.
 
-* **Ongoing Spell Limit:** A mage can only maintain a number of ongoing, active spell effects (e.g., holding a *Levitation*, maintaining an *Invisibility Glamour*, and keeping a *Ward* active) equal to their **[[10_System/Attributes/Calculation\|Calculation]]** rating. 
+### Ongoing Spell Limit ([[10_System/Attributes/Magical/Calculation\|Calculation]])
+Your **[[10_System/Attributes/Magical/Calculation\|Calculation]]** attribute acts as your mental RAM, dictating your ability to maintain persistent spells over time.
+
+* **Ongoing Spell Limit:** A mage can only maintain a number of ongoing, active spell effects (e.g., holding a *Levitation*, maintaining an *Invisibility Glamour*, and keeping a *Ward* active) equal to their **[[10_System/Attributes/Magical/Calculation\|Calculation]]** rating. 
   * *Consequence:* If a mage tries to cast a new ongoing spell while already at their limit, they must consciously drop one of their currently active spells, or the new spell simply fizzles.
-* **Simultaneous Casting (Dual Casting):** [[10_System/Attributes/Calculation\|Calculation]] also dictates your ability to cast multiple spells at the exact same time. A mage can cast multiple spells in a single narrative action, **provided the combined Tiers of the spells do not exceed their [[10_System/Attributes/Calculation\|Calculation]] rating.**
-  * *Example:* A mage with Calculation 3 could cast three Tier 1 *Magic Missiles* at once, or simultaneously cast a Tier 2 *Fireball* while throwing up a Tier 1 *Shield*. A mage with Calculation 1 can only ever cast one spell at a time.
+
+### Simultaneous Casting ([[10_System/Attributes/Magical/Finesse\|Finesse]])
+Your **[[10_System/Attributes/Magical/Finesse\|Finesse]]** dictates your ability to perfectly thread multiple canal matrices at the precise same moment without them collapsing into each other.
+
+* **Simultaneous Casting (Dual Casting):** A mage can cast multiple spells in a single narrative action, **provided the combined Tiers of the spells do not exceed their [[10_System/Attributes/Magical/Finesse\|Finesse]] rating.**
+  * *Example:* A mage with Finesse 3 could cast three Tier 1 *Magic Missiles* at once, or simultaneously cast a Tier 2 *Fireball* while throwing up a Tier 1 *Shield*. A mage with Finesse 1 can only ever cast one spell at a time.

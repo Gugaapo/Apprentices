@@ -8,7 +8,7 @@
 
 The mage creates a binding tether between themselves and a small summoned creature, preventing it from straying.
 
-**System:** Roll [[10_System/Attributes/Calculation\|Calculation]] + [[10_System/Schools/Dimensionalism/Dimensionalism\|Dimensionalism]] vs difficulty 4.
+**System:** Roll [[10_System/Attributes/Magical/Calculation\|Calculation]] + [[10_System/Schools/Dimensionalism/Dimensionalism\|Dimensionalism]] vs difficulty 4.
 **On success:** Creates a binding tether between themselves and a small summoned creature, preventing it from straying.
 Each additional success adds duration or intensity.
 **On failure:** mana is lost.

@@ -8,7 +8,7 @@
 
 The mage opens a stable two-way portal between their current location and a place they know well.
 
-**System:** Roll [[10_System/Attributes/Calculation\|Calculation]] + [[10_System/Schools/Dimensionalism/Dimensionalism\|Dimensionalism]] vs difficulty 7.
+**System:** Roll [[10_System/Attributes/Magical/Calculation\|Calculation]] + [[10_System/Schools/Dimensionalism/Dimensionalism\|Dimensionalism]] vs difficulty 7.
 **On success:** Opens a stable two-way portal between their current location and a place they know well.
 Each additional success adds duration or intensity.
 **On failure:** mana is lost.

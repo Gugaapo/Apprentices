@@ -11,7 +11,7 @@
 
 The mage pulls existing particles of matter together, weaving them rapidly into a simple, temporary mundane object. They can conjure a steel crowbar, a coil of rope, a wooden chair, or an iron key. The objects look slightly translucent and dissolve into colored mist when the scene ends.
 
-**System:** Roll [[10_System/Attributes/Calculation\|Calculation]] + [[10_System/Schools/Dimensionalism/Dimensionalism\|Dimensionalism]] vs difficulty 4.
+**System:** Roll [[10_System/Attributes/Magical/Calculation\|Calculation]] + [[10_System/Schools/Dimensionalism/Dimensionalism\|Dimensionalism]] vs difficulty 4.
 **On success:** Pulls existing particles of matter together, weaving them rapidly into a simple, temporary mundane object. They can conjure a steel crowbar, a coil of rope, a wooden...
 Each additional success adds duration or intensity.
 **On failure:** mana is lost.

@@ -30,7 +30,7 @@ Under Academy rules, acquiring a dot in a [[10_System/06 The Magic System#The Ca
 | **Tier 5** | *True Golem*         | Animate a powerful construct capable of independent judgment, multi-step problem solving, and tactical adaptation.                  |
 
 ## Mechanical Focus
-Animation scales with the caster's [[10_System/Attributes/Calculation\|Calculation]] (for construct complexity) and [[10_System/Attributes/Memory\|Memory]] (for breadth of skills the construct can mimic). An animated construct's skill caps are always equal to or below the caster's own.
+Animation scales with the caster's [[10_System/Attributes/Magical/Calculation\|Calculation]] (for construct complexity) and [[10_System/Attributes/Magical/Memory\|Memory]] (for breadth of skills the construct can mimic). An animated construct's skill caps are always equal to or below the caster's own.
 
 ---
 
@@ -68,8 +68,8 @@ This creates a fundamental ceiling: **an animated construct cannot do anything t
 
 | Tier | Scope of Effect | Attribute Pairing | Typical Duration | Design Prompts |
 | :--- | :--- | :--- | :--- | :--- |
-| **Tier 1** | Animate a small object with a simple repeating pattern. No combat capability. | [[10_System/Attributes/Calculation\|Calculation]] + Animation | Minutes (= [[10_System/Attributes/Finesse\|Finesse]]) | *"What chore could a lazy student automate with their first animation spell?"* |
-| **Tier 2** | Animate a construct capable of one defined task. Basic golem. | [[10_System/Attributes/Calculation\|Calculation]] + Animation | Hours | *"What would a mage need to guard their room while they sleep?"* |
-| **Tier 3** | Animate projectiles with tracking (homing bolts). Constructs capable of multi-step tasks. | [[10_System/Attributes/Calculation\|Calculation]] + Animation | Scene / Sustained | *"What would make a combat mage's attacks nearly impossible to dodge?"* |
-| **Tier 4** | Semi-autonomous simulacrum capable of independent action, speech, and basic spellcasting. | [[10_System/Attributes/Calculation\|Calculation]] + Animation | Days (requires sustained mana) | *"What would let a mage be in two places at once?"* |
-| **Tier 5** | True Golem: a construct with independent judgment, tactical adaptation, and full access to the caster's skill set. | [[10_System/Attributes/Calculation\|Calculation]] + Animation | Permanent (with mana source) | *"What would match a squad of trained soldiers in combat effectiveness?"* |
+| **Tier 1** | Animate a small object with a simple repeating pattern. No combat capability. | [[10_System/Attributes/Magical/Calculation\|Calculation]] + Animation | Minutes (= [[10_System/Attributes/Magical/Finesse\|Finesse]]) | *"What chore could a lazy student automate with their first animation spell?"* |
+| **Tier 2** | Animate a construct capable of one defined task. Basic golem. | [[10_System/Attributes/Magical/Calculation\|Calculation]] + Animation | Hours | *"What would a mage need to guard their room while they sleep?"* |
+| **Tier 3** | Animate projectiles with tracking (homing bolts). Constructs capable of multi-step tasks. | [[10_System/Attributes/Magical/Calculation\|Calculation]] + Animation | Scene / Sustained | *"What would make a combat mage's attacks nearly impossible to dodge?"* |
+| **Tier 4** | Semi-autonomous simulacrum capable of independent action, speech, and basic spellcasting. | [[10_System/Attributes/Magical/Calculation\|Calculation]] + Animation | Days (requires sustained mana) | *"What would let a mage be in two places at once?"* |
+| **Tier 5** | True Golem: a construct with independent judgment, tactical adaptation, and full access to the caster's skill set. | [[10_System/Attributes/Magical/Calculation\|Calculation]] + Animation | Permanent (with mana source) | *"What would match a squad of trained soldiers in combat effectiveness?"* |

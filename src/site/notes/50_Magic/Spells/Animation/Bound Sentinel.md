@@ -12,7 +12,7 @@
 
 Instead of a temporary kinetic construct, the mage permanently binds intricate animation matrices into a specially crafted chassis of steel, wood, or stone. The resulting Sentinel acts as an autonomous bodyguard that never sleeps or tires.
 
-**System:** Roll [[10_System/Attributes/Calculation\|Calculation]] + [[10_System/Schools/Animation/Animation\|Animation]] vs difficulty 6. Requires 3 successes.
+**System:** Roll [[10_System/Attributes/Magical/Calculation\|Calculation]] + [[10_System/Schools/Animation/Animation\|Animation]] vs difficulty 6. Requires 3 successes.
 **On success:** Instead of a temporary kinetic construct, the mage permanently binds intricate animation matrices into a specially crafted chassis of steel, wood, or stone. The resulting...
 **Overcharge:** Can be spent on Potency (+1 to minion stats).
 **On failure:** mana is lost.

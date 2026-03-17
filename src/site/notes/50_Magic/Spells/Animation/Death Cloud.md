@@ -12,7 +12,7 @@
 
 The mage creates a cloud of necromantic miasma that drains life from everything it touches.
 
-**System:** Roll [[10_System/Attributes/Calculation\|Calculation]] + [[10_System/Schools/Animation/Animation\|Animation]] vs difficulty 7.
+**System:** Roll [[10_System/Attributes/Magical/Calculation\|Calculation]] + [[10_System/Schools/Animation/Animation\|Animation]] vs difficulty 7.
 **On success:** Creates a cloud of necromantic miasma that drains life from everything it touches.
 Each additional success adds duration or intensity.
 **On failure:** mana is lost.

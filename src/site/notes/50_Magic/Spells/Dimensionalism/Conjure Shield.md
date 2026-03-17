@@ -8,7 +8,7 @@
 
 The mage pulls a shield from a nearby armoury or storage through a portal directly onto their arm.
 
-**System:** Roll [[10_System/Attributes/Calculation\|Calculation]] + [[10_System/Schools/Dimensionalism/Dimensionalism\|Dimensionalism]] vs difficulty 5.
+**System:** Roll [[10_System/Attributes/Magical/Calculation\|Calculation]] + [[10_System/Schools/Dimensionalism/Dimensionalism\|Dimensionalism]] vs difficulty 5.
 **On success:** Pulls a shield from a nearby armoury or storage through a portal directly onto their arm.
 Each additional success adds duration or intensity.
 **On failure:** mana is lost.

@@ -12,7 +12,7 @@
 
 Instead of permanently animating a golem, the mage safely splices a tiny fragment of their own soul and grafts it into a weapon or wand. The item awakens with a minor semi-sentience, guiding the user's hand in combat.
 
-**System:** Roll [[10_System/Attributes/Willpower\|Willpower]] + [[10_System/Schools/Soul Magic/Soul Magic\|Soul Magic]] vs difficulty 5.
+**System:** Roll [[10_System/Attributes/Magical/Willpower\|Willpower]] + [[10_System/Schools/Soul Magic/Soul Magic\|Soul Magic]] vs difficulty 5.
 **On success:** Instead of permanently animating a golem, the mage safely splices a tiny fragment of their own soul and grafts it into a weapon or wand. The item awakens with a minor...
 Each additional success adds duration or intensity.
 **On failure:** mana is lost.

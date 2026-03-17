@@ -10,7 +10,7 @@
 
 The mage places a minor ward on a door or window that makes it resistant to being opened.
 
-**System:** Roll [[10_System/Attributes/Calculation\|Calculation]] + [[10_System/Schools/Abjuration/Abjuration\|Abjuration]] vs difficulty 4.
+**System:** Roll [[10_System/Attributes/Magical/Calculation\|Calculation]] + [[10_System/Schools/Abjuration/Abjuration\|Abjuration]] vs difficulty 4.
 **On success:** Places a minor ward on a door or window that makes it resistant to being opened.
 Each additional success adds duration or intensity.
 **On failure:** mana is lost.

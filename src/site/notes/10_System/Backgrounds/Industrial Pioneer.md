@@ -17,7 +17,7 @@ You approach magic with a practical, scientific mindset. Where others see a maje
 
 ## Mechanical Benefits
 
-- **Starting Bonus:** Gain +1 free dot in **[[10_System/Attributes/Calculation\|Calculation]]** and +1 free dot in **[[10_System/Attributes/Academics\|Academics]]** (your education was highly practical).
+- **Starting Bonus:** Gain +1 free dot in **[[10_System/Attributes/Magical/Calculation\|Calculation]]** and +1 free dot in **[[10_System/Attributes/Mental/Academics\|Academics]]** (your education was highly practical).
 - **Connection — Factory Foreman:** You have ties to the industrial and manufacturing sectors. Once per arc, you can leverage your familial or personal connections to acquire industrial-grade parts, specialized tools, black-powder explosives, or access to heavy machinery and workshops outside of the Academy.
 
 ---

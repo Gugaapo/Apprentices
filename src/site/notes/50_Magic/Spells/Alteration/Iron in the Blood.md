@@ -12,7 +12,7 @@
 
 The mage concentrates the iron naturally present in their blood, hardening their fists and forearms.
 
-**System:** Roll [[10_System/Attributes/Calculation\|Calculation]] + [[10_System/Schools/Alteration/Alteration\|Alteration]] vs difficulty 6. Requires 1 success.
+**System:** Roll [[10_System/Attributes/Magical/Calculation\|Calculation]] + [[10_System/Schools/Alteration/Alteration\|Alteration]] vs difficulty 6. Requires 1 success.
 **On success:** Concentrates the iron naturally present in their blood, hardening their fists and forearms.
 **Overcharge:** Can be spent on standard enhancements (Duration) or Potency (+1 damage/defense).
 **On failure:** mana is lost.

@@ -11,7 +11,7 @@
 
 The mage focuses raw counter-force directly into an active, sustained spell effect—like an illusion, an animated golem, or a magical ward. The opposing [[50_Magic/Glossary/mana\|mana]] frequencies clash violently, causing the target spell to unravel and fizzle out of existence.
 
-**System:** Roll [[10_System/Attributes/Willpower\|Willpower]] + [[10_System/Schools/Projection/Projection\|Projection]] vs difficulty 6. Requires 2 successes.
+**System:** Roll [[10_System/Attributes/Magical/Willpower\|Willpower]] + [[10_System/Schools/Projection/Projection\|Projection]] vs difficulty 6. Requires 2 successes.
 **On success:** Focuses raw counter-force directly into an active, sustained spell effect—like an illusion, an animated golem, or a magical ward. The opposing mana frequencies clash...
 **Overcharge:** Can be spent on Potency (+1 to dispel higher tier effects) or Scale.
 **On failure:** mana is lost.

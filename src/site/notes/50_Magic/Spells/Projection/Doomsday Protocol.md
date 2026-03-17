@@ -11,7 +11,7 @@
 
 A forbidden combat technique that converts the caster's remaining lifespan into a final devastating attack. Used only when death is certain.
 
-**System:** Roll [[10_System/Attributes/Willpower\|Willpower]] + [[10_System/Schools/Projection/Projection\|Projection]] vs difficulty 6. Requires 5 successes.
+**System:** Roll [[10_System/Attributes/Magical/Willpower\|Willpower]] + [[10_System/Schools/Projection/Projection\|Projection]] vs difficulty 6. Requires 5 successes.
 **On success:** A forbidden combat technique that converts the caster's remaining lifespan into a final devastating attack. Used only wh...
 **Overcharge:** Can be spent on standard enhancements (Scale) or Potency (+1 damage).
 **On failure:** mana is lost.

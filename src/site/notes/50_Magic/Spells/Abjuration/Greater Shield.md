@@ -10,7 +10,7 @@
 
 The mage creates a powerful personal barrier that absorbs significant damage.
 
-**System:** Roll [[10_System/Attributes/Calculation\|Calculation]] + [[10_System/Schools/Abjuration/Abjuration\|Abjuration]] vs difficulty 6.
+**System:** Roll [[10_System/Attributes/Magical/Calculation\|Calculation]] + [[10_System/Schools/Abjuration/Abjuration\|Abjuration]] vs difficulty 6.
 **On success:** Creates a powerful personal barrier that absorbs significant damage.
 Each additional success adds duration or intensity.
 **On failure:** mana is lost.

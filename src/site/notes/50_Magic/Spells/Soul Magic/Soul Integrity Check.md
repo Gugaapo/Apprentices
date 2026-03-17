@@ -8,7 +8,7 @@
 
 The mage examines a target's soul to assess its current condition — checking for damage, corruption, or foreign influenc...
 
-**System:** Roll [[10_System/Attributes/Willpower\|Willpower]] + [[10_System/Schools/Soul Magic/Soul Magic\|Soul Magic]] vs difficulty 4.
+**System:** Roll [[10_System/Attributes/Magical/Willpower\|Willpower]] + [[10_System/Schools/Soul Magic/Soul Magic\|Soul Magic]] vs difficulty 4.
 **On success:** Examines a target's soul to assess its current condition — checking for damage, corruption, or foreign influenc...
 Each additional success adds duration or intensity.
 **On failure:** mana is lost.

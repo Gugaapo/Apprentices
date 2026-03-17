@@ -29,7 +29,7 @@ Acquiring dots and Powers here requires deep dedication. The spells are extremel
 | **Tier 5** | *Ectoplasmic Simulacrum* | A fully formed, humanoid ectoplasmic construct capable of independent movement and combat. |
 
 ## Mechanical Focus
-Conjuration's durability scales with [[10_System/Attributes/Willpower\|Willpower]] (for structural strength) and realism scales with [[10_System/Attributes/Finesse\|Finesse]]. 
+Conjuration's durability scales with [[10_System/Attributes/Magical/Willpower\|Willpower]] (for structural strength) and realism scales with [[10_System/Attributes/Magical/Finesse\|Finesse]]. 
 
 ---
 

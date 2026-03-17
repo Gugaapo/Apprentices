@@ -8,7 +8,7 @@
 
 The mage creates dozens of small, coordinated golems that function as a devastating swarm.
 
-**System:** Roll [[10_System/Attributes/Calculation\|Calculation]] + [[10_System/Schools/Animation/Animation\|Animation]] vs difficulty 6. Requires 5 successes.
+**System:** Roll [[10_System/Attributes/Magical/Calculation\|Calculation]] + [[10_System/Schools/Animation/Animation\|Animation]] vs difficulty 6. Requires 5 successes.
 **On success:** Creates dozens of small, coordinated golems that function as a devastating swarm.
 **Overcharge:** Can be spent on standard enhancements (Duration, Scale) or Potency (+1 to swarm stats).
 **On failure:** mana is lost.

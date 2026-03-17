@@ -12,7 +12,7 @@
 
 The mage briefly folds space, instantly teleporting their own body to a location they can clearly see within a few dozen meters. It is an amazing tactical tool, allowing them to bypass locked doors by looking through the keyhole, or instantly warp to the high ground.
 
-**System:** Roll [[10_System/Attributes/Calculation\|Calculation]] + [[10_System/Schools/Dimensionalism/Dimensionalism\|Dimensionalism]] vs difficulty 6. Requires 1 success.
+**System:** Roll [[10_System/Attributes/Magical/Calculation\|Calculation]] + [[10_System/Schools/Dimensionalism/Dimensionalism\|Dimensionalism]] vs difficulty 6. Requires 1 success.
 **On success:** Briefly folds space, instantly teleporting their own body to a location they can clearly see within a few dozen meters. It is an amazing tactical tool, allowing them...
 **Overcharge:** Can be spent on standard enhancements (Scale).
 **On failure:** mana is lost.

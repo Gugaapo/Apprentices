@@ -12,7 +12,7 @@
 
 The mage teleports behind a target mid-attack, striking from an unexpected angle.
 
-**System:** Roll [[10_System/Attributes/Calculation\|Calculation]] + [[10_System/Schools/Dimensionalism/Dimensionalism\|Dimensionalism]] vs difficulty 5.
+**System:** Roll [[10_System/Attributes/Magical/Calculation\|Calculation]] + [[10_System/Schools/Dimensionalism/Dimensionalism\|Dimensionalism]] vs difficulty 5.
 **On success:** Teleports behind a target mid-attack, striking from an unexpected angle.
 Each additional success adds duration or intensity.
 **On failure:** mana is lost.

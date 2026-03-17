@@ -12,7 +12,7 @@
 
 The mage opens a tiny, brief rift to the spiritual strata, summoning a minor, non-combative entity. This could be a wisp of light to illuminate a dark room, an unseen servant to carry books, or a tiny elemental to light a fire. The spirit is largely mindless and perfectly obedient.
 
-**System:** Roll [[10_System/Attributes/Calculation\|Calculation]] + [[10_System/Schools/Dimensionalism/Dimensionalism\|Dimensionalism]] vs difficulty 6. Requires 1 success.
+**System:** Roll [[10_System/Attributes/Magical/Calculation\|Calculation]] + [[10_System/Schools/Dimensionalism/Dimensionalism\|Dimensionalism]] vs difficulty 6. Requires 1 success.
 **On success:** Opens a tiny, brief rift to the spiritual strata, summoning a minor, non-combative entity. This could be a wisp of light to illuminate a dark room, an unseen servant...
 **Overcharge:** Can be spent on standard enhancements (Duration, Scale).
 **On failure:** mana is lost.

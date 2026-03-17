@@ -11,7 +11,7 @@
 
 The mage opens a portal to a weapons cache and draws out a complete set of arms and armour.
 
-**System:** Roll [[10_System/Attributes/Calculation\|Calculation]] + [[10_System/Schools/Dimensionalism/Dimensionalism\|Dimensionalism]] vs difficulty 6. Requires 3 successes.
+**System:** Roll [[10_System/Attributes/Magical/Calculation\|Calculation]] + [[10_System/Schools/Dimensionalism/Dimensionalism\|Dimensionalism]] vs difficulty 6. Requires 3 successes.
 **On success:** Opens a portal to a weapons cache and draws out a complete set of arms and armour.
 **Overcharge:** Can be spent on standard enhancements (Duration, Scale).
 **On failure:** mana is lost.

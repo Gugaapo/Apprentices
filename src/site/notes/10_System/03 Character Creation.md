@@ -79,19 +79,19 @@ Each background provides:
 | [[10_System/Backgrounds/Magical Lineage\|Magical Lineage]] | +1 free dot in any Core School Proficiency | Family Mentor (magical advice, 1/arc) |
 | [[10_System/Backgrounds/Street Rat\|Street Rat]] | Free [[50_Magic/Traits/Merits/Social Chameleon\|Social Chameleon]] merit | Underground Contacts (black market, 1/session) |
 | [[10_System/Backgrounds/Scholar's Child\|Scholar's Child]] | Free [[50_Magic/Traits/Merits/Eidetic Memory\|Eidetic Memory]] merit | Library Access (restricted archives, 1/arc) |
-| [[10_System/Backgrounds/State Orphan\|State Orphan]] | +1 [[10_System/Attributes/Willpower\|Willpower]], +1 [[10_System/Attributes/Stealth\|Stealth]] | State Network (bureaucratic blindspots, 1/session) |
+| [[10_System/Backgrounds/State Orphan\|State Orphan]] | +1 [[10_System/Attributes/Magical/Willpower\|Willpower]], +1 [[10_System/Attributes/Physical/Stealth\|Stealth]] | State Network (bureaucratic blindspots, 1/session) |
 | [[10_System/Backgrounds/Rural Outsider\|Rural Outsider]] | +2 extra Flaw Points (max 6) | Village Elder (folk magic advice, 1/arc) |
 | [[10_System/Backgrounds/Temple Acolyte\|Temple Acolyte]] | +1 free dot in [[10_System/Schools/Abjuration/Ward\|Ward]] | Temple Network (sanctuary/healing, 1/session) |
 | [[10_System/Backgrounds/Merchant Family\|Merchant Family]] | Double starting funds + stipend | Trade Contacts (sourcing items, 1/session) |
-| [[10_System/Backgrounds/Industrial Pioneer\|Industrial Pioneer]] | +1 [[10_System/Attributes/Calculation\|Calculation]], +1 [[10_System/Attributes/Academics\|Academics]] | Factory Foreman (industrial tools/parts, 1/arc) |
+| [[10_System/Backgrounds/Industrial Pioneer\|Industrial Pioneer]] | +1 [[10_System/Attributes/Magical/Calculation\|Calculation]], +1 [[10_System/Attributes/Mental/Academics\|Academics]] | Factory Foreman (industrial tools/parts, 1/arc) |
 | [[10_System/Backgrounds/Alchemist's Apprentice\|Alchemist's Apprentice]] | +1 free dot in [[10_System/Schools/Support/Alchemy\|Alchemy]] + alchemy kit | Alchemist's Guild (labs/reagents, 1/session) |
-| [[10_System/Backgrounds/Dungeon Scavenger\|Dungeon Scavenger]] | +1 free dot in [[10_System/Attributes/Survival\|Survival]], +1 [[10_System/Attributes/Awareness\|Awareness]] | Mercenary Guild (monster intel, 1/arc) |
+| [[10_System/Backgrounds/Dungeon Scavenger\|Dungeon Scavenger]] | +1 free dot in [[10_System/Attributes/Mental/Survival\|Survival]], +1 [[10_System/Attributes/Mental/Awareness\|Awareness]] | Mercenary Guild (monster intel, 1/arc) |
 | [[10_System/Backgrounds/Prodigy\|Prodigy]] | Free [[50_Magic/Traits/Merits/Academic Prodigy\|Academic Prodigy]] merit | Academic Patron (intervention, 1/arc) |
-| [[10_System/Backgrounds/Foreign Exchange Student\|Foreign Exchange Student]] | +1 dot in [[10_System/Attributes/Insight\|Insight]], +1 dot in [[10_System/Attributes/Society\|Society]] | Foreign Embassy (diplomatic immunity/intel, 1/arc) |
-| [[10_System/Backgrounds/Military Brat\|Military Brat]] | +1 dot in [[10_System/Attributes/Melee Combat\|Melee Combat]] or [[10_System/Attributes/Ranged Combat\|Ranged Combat]], starts with weapon | Base Commander (military surplus/intel, 1/arc) |
-| [[10_System/Backgrounds/Disgraced Nobility\|Disgraced Nobility]] | +1 dot in [[10_System/Attributes/Deception\|Deception]], +1 dot in [[10_System/Attributes/Academics\|Academics]] | Sympathetic Loyalist (secret favors, 1/arc) |
-| [[10_System/Backgrounds/Syndicate Scion\|Syndicate Scion]] | +1 dot in [[10_System/Attributes/Streetwise\|Streetwise]], +1 dot in [[Sleight\|Sleight]] | Gang Lieutenant (muscle/smuggling, 1/session) |
-| [[10_System/Backgrounds/Monster Hunter's Heir\|Monster Hunter's Heir]] | +1 dot in [[10_System/Attributes/Survival\|Survival]], +1 dot in [[10_System/Attributes/Awareness\|Awareness]] | Hunter's Lodge (rare materials/tracking, 1/arc) |
+| [[10_System/Backgrounds/Foreign Exchange Student\|Foreign Exchange Student]] | +1 dot in [[10_System/Attributes/Social/Insight\|Insight]], +1 dot in [[10_System/Attributes/Social/Society\|10_System/Attributes/Social/Society]] | Foreign Embassy (diplomatic immunity/intel, 1/arc) |
+| [[10_System/Backgrounds/Military Brat\|Military Brat]] | +1 dot in [[10_System/Attributes/Physical/Melee Combat\|Melee Combat]] or [[10_System/Attributes/Physical/Ranged Combat\|Ranged Combat]], starts with weapon | Base Commander (military surplus/intel, 1/arc) |
+| [[10_System/Backgrounds/Disgraced Nobility\|Disgraced Nobility]] | +1 dot in [[10_System/Attributes/Social/Deception\|Deception]], +1 dot in [[10_System/Attributes/Mental/Academics\|Academics]] | Sympathetic Loyalist (secret favors, 1/arc) |
+| [[10_System/Backgrounds/Syndicate Scion\|Syndicate Scion]] | +1 dot in [[10_System/Attributes/Social/Streetwise\|Streetwise]], +1 dot in [[Sleight\|Sleight]] | Gang Lieutenant (muscle/smuggling, 1/session) |
+| [[10_System/Backgrounds/Monster Hunter's Heir\|Monster Hunter's Heir]] | +1 dot in [[10_System/Attributes/Mental/Survival\|Survival]], +1 dot in [[10_System/Attributes/Mental/Awareness\|Awareness]] | Hunter's Lodge (rare materials/tracking, 1/arc) |
 
 *Click any background name for full details, roleplay hooks, and flavour text.*
 

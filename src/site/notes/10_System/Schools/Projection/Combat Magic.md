@@ -32,7 +32,7 @@ Acquiring dots and Powers here requires deep dedication. The spells are extremel
 | **Tier 5** | *Doomsday Protocol*                                    | An all-out, highly unstable release of the caster's entire mana reserve in a devastating omnidirectional blast, often fatal to the caster.                           |
 
 ## Mechanical Focus
-Combat casting uses [[10_System/Attributes/Willpower\|Willpower]] for raw output and [[10_System/Attributes/Finesse\|Finesse]] for targeting. A **Combat Magic** specialty allows the player to reduce the casting time of known spell formulas by one step.
+Combat casting uses [[10_System/Attributes/Magical/Willpower\|Willpower]] for raw output and [[10_System/Attributes/Magical/Finesse\|Finesse]] for targeting. A **Combat Magic** specialty allows the player to reduce the casting time of known spell formulas by one step.
 
 ---
 

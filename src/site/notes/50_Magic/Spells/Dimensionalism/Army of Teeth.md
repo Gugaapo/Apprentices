@@ -12,7 +12,7 @@
 
 The mage opens multiple portals simultaneously, flooding an area with ravenous dimensional predators.
 
-**System:** Roll [[10_System/Attributes/Calculation\|Calculation]] + [[10_System/Schools/Dimensionalism/Dimensionalism\|Dimensionalism]] vs difficulty 6. Requires 4 successes.
+**System:** Roll [[10_System/Attributes/Magical/Calculation\|Calculation]] + [[10_System/Schools/Dimensionalism/Dimensionalism\|Dimensionalism]] vs difficulty 6. Requires 4 successes.
 **On success:** Opens multiple portals simultaneously, flooding an area with ravenous dimensional predators.
 **Overcharge:** Can be spent on standard enhancements (Duration, Scale) or Potency (+1 to minion stats/damage).
 **On failure:** mana is lost.

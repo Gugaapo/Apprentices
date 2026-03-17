@@ -11,7 +11,7 @@
 
 The mage pulls a small stone from a nearby location through a micro-portal. Useful as ammunition or a distraction.
 
-**System:** Roll [[10_System/Attributes/Calculation\|Calculation]] + [[10_System/Schools/Dimensionalism/Dimensionalism\|Dimensionalism]] vs difficulty 4.
+**System:** Roll [[10_System/Attributes/Magical/Calculation\|Calculation]] + [[10_System/Schools/Dimensionalism/Dimensionalism\|Dimensionalism]] vs difficulty 4.
 **On success:** Pulls a small stone from a nearby location through a micro-portal. Useful as ammunition or a distraction.
 Each additional success adds duration or intensity.
 **On failure:** mana is lost.

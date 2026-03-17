@@ -12,7 +12,7 @@
 
 The mage projects a concentrated, sustained beam of elemental energy from their palm. Whether it's white-hot fire, crackling lightning, or bitter frost, the ray severely burns or freezes whatever it touches.
 
-**System:** Roll [[10_System/Attributes/Willpower\|Willpower]] + [[10_System/Schools/Projection/Projection\|Projection]] vs difficulty 6. Requires 2 successes.
+**System:** Roll [[10_System/Attributes/Magical/Willpower\|Willpower]] + [[10_System/Schools/Projection/Projection\|Projection]] vs difficulty 6. Requires 2 successes.
 **On success:** Projects a concentrated, sustained beam of elemental energy from their palm. Whether it's white-hot fire, crackling lightning, or bitter frost, the ray severely...
 **Overcharge:** Can be spent on standard enhancements (Scale) or Potency (+1 damage).
 **On failure:** mana is lost.

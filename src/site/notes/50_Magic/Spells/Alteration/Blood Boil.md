@@ -12,7 +12,7 @@
 
 The mage focuses on the circulatory system of a visible target, violently vibrating the [[50_Magic/Glossary/mana\|mana]] within their victim's blood. The target experiences agonizing pain, flushed skin, and burst capillaries as their blood literally boils inside their veins, bypassing conventional armors.
 
-**System:** Roll [[10_System/Attributes/Calculation\|Calculation]] + [[10_System/Schools/Alteration/Alteration\|Alteration]] vs difficulty 6. Requires 3 successes.
+**System:** Roll [[10_System/Attributes/Magical/Calculation\|Calculation]] + [[10_System/Schools/Alteration/Alteration\|Alteration]] vs difficulty 6. Requires 3 successes.
 **On success:** Focuses on the circulatory system of a visible target, violently vibrating the mana within their victim's blood. The target experiences agonizing pain, flushed skin,...
 **Overcharge:** Can be spent on standard enhancements (Duration, Scale) or Potency (+1 damage) or to apply the *Lingering Harm* Status Effect.
 **On failure:** mana is lost.

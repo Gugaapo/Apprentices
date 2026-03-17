@@ -12,7 +12,7 @@
 
 The mage sends a brief mental impulse to a known person within range — the equivalent of tapping someone on the shoulder.
 
-**System:** Roll [[10_System/Attributes/Willpower\|Willpower]] + [[10_System/Schools/Illusionism/Illusionism\|Illusionism]] vs difficulty 6. Requires 1 success.
+**System:** Roll [[10_System/Attributes/Magical/Willpower\|Willpower]] + [[10_System/Schools/Illusionism/Illusionism\|Illusionism]] vs difficulty 6. Requires 1 success.
 **On success:** Sends a brief mental impulse to a known person within range — the equivalent of tapping someone on the shoulder...
 **Overcharge:** Can be spent on standard enhancements (Duration, Scale).
 **On failure:** mana is lost.

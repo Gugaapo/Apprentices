@@ -12,7 +12,7 @@
 
 The mage grows overlapping scales across their torso and limbs, providing reptilian armour.
 
-**System:** Roll [[10_System/Attributes/Calculation\|Calculation]] + [[10_System/Schools/Alteration/Alteration\|Alteration]] vs difficulty 6. Requires 3 successes.
+**System:** Roll [[10_System/Attributes/Magical/Calculation\|Calculation]] + [[10_System/Schools/Alteration/Alteration\|Alteration]] vs difficulty 6. Requires 3 successes.
 **On success:** Grows overlapping scales across their torso and limbs, providing reptilian armour.
 **Overcharge:** Can be spent on standard enhancements (Duration) or Potency (+1 defense).
 **On failure:** mana is lost.

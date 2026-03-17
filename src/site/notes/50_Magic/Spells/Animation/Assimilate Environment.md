@@ -12,7 +12,7 @@
 
 The mage throws an aggressive animation core onto the ground. The core rapidly magnetizes and absorbs the surrounding environment—ripping cobblestones, iron fences, and debris into itself to dynamically form a massive, junk-yard titan on the spot.
 
-**System:** Roll [[10_System/Attributes/Calculation\|Calculation]] + [[10_System/Schools/Animation/Animation\|Animation]] vs difficulty 6. Requires 4 successes.
+**System:** Roll [[10_System/Attributes/Magical/Calculation\|Calculation]] + [[10_System/Schools/Animation/Animation\|Animation]] vs difficulty 6. Requires 4 successes.
 **On success:** Throws an aggressive animation core onto the ground. The core rapidly magnetizes and absorbs the surrounding environment—ripping cobblestones, iron fences, and...
 **Overcharge:** Can be spent on standard enhancements (Duration, Scale) or Potency (+1 to minion stats).
 **On failure:** mana is lost.

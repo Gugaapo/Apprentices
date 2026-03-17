@@ -12,7 +12,7 @@
 
 The mage grows thin membranes between their fingers and toes, improving their ability to swim.
 
-**System:** Roll [[10_System/Attributes/Calculation\|Calculation]] + [[10_System/Schools/Alteration/Alteration\|Alteration]] vs difficulty 6. Requires 1 success.
+**System:** Roll [[10_System/Attributes/Magical/Calculation\|Calculation]] + [[10_System/Schools/Alteration/Alteration\|Alteration]] vs difficulty 6. Requires 1 success.
 **On success:** Grows thin membranes between their fingers and toes, improving their ability to swim.
 **Overcharge:** Can be spent on standard enhancements (Duration) or Potency (+1 effect).
 **On failure:** mana is lost.

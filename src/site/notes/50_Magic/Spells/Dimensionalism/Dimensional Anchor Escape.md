@@ -12,7 +12,7 @@
 
 The mage pre-sets an escape point. When activated, they instantly teleport there regardless of circumstance.
 
-**System:** Roll [[10_System/Attributes/Calculation\|Calculation]] + [[10_System/Schools/Dimensionalism/Dimensionalism\|Dimensionalism]] vs difficulty 6.
+**System:** Roll [[10_System/Attributes/Magical/Calculation\|Calculation]] + [[10_System/Schools/Dimensionalism/Dimensionalism\|Dimensionalism]] vs difficulty 6.
 **On success:** Pre-sets an escape point. When activated, they instantly teleport there regardless of circumstance.
 Each additional success adds duration or intensity.
 **On failure:** mana is lost.

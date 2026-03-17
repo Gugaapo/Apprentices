@@ -11,7 +11,7 @@
 
 The mage reads an incoming spell's structure mid-cast and generates a precisely tuned counter-frequency to unravel it.
 
-**System:** Roll [[10_System/Attributes/Willpower\|Willpower]] + [[10_System/Schools/Projection/Projection\|Projection]] vs difficulty 6. Requires 2 successes.
+**System:** Roll [[10_System/Attributes/Magical/Willpower\|Willpower]] + [[10_System/Schools/Projection/Projection\|Projection]] vs difficulty 6. Requires 2 successes.
 **On success:** Reads an incoming spell's structure mid-cast and generates a precisely tuned counter-frequency to unravel it.
 **Overcharge:** Can be spent on Potency (+1 to counter higher tier spells).
 **On failure:** mana is lost.

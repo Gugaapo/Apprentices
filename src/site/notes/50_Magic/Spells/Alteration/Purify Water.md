@@ -11,7 +11,7 @@
 
 The mage restructures contaminated water at the molecular level, separating toxins and pathogens from clean water.
 
-**System:** Roll [[10_System/Attributes/Calculation\|Calculation]] + [[10_System/Schools/Alteration/Alteration\|Alteration]] vs difficulty 6. Requires 1 success.
+**System:** Roll [[10_System/Attributes/Magical/Calculation\|Calculation]] + [[10_System/Schools/Alteration/Alteration\|Alteration]] vs difficulty 6. Requires 1 success.
 **On success:** Restructures contaminated water at the molecular level, separating toxins and pathogens from clean water.
 **Overcharge:** Can be spent on standard enhancements (Scale) or Potency (+1 to purification strength).
 **On failure:** mana is lost.

@@ -12,7 +12,7 @@
 
 The mage carefully widens a mana pathway in the target's soul, improving mana flow.
 
-**System:** Roll [[10_System/Attributes/Willpower\|Willpower]] + [[10_System/Schools/Soul Magic/Soul Magic\|Soul Magic]] vs difficulty 4.
+**System:** Roll [[10_System/Attributes/Magical/Willpower\|Willpower]] + [[10_System/Schools/Soul Magic/Soul Magic\|Soul Magic]] vs difficulty 4.
 **On success:** Carefully widens a mana pathway in the target's soul, improving mana flow.
 Each additional success adds duration or intensity.
 **On failure:** mana is lost.

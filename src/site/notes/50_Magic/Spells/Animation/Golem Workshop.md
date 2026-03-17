@@ -8,7 +8,7 @@
 
 The mage creates a set of small, specialized golems that operate a workshop autonomously.
 
-**System:** Roll [[10_System/Attributes/Calculation\|Calculation]] + [[10_System/Schools/Animation/Animation\|Animation]] vs difficulty 6.
+**System:** Roll [[10_System/Attributes/Magical/Calculation\|Calculation]] + [[10_System/Schools/Animation/Animation\|Animation]] vs difficulty 6.
 **On success:** Creates a set of small, specialized golems that operate a workshop autonomously.
 Each additional success adds duration or intensity.
 **On failure:** mana is lost.

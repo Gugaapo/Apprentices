@@ -28,7 +28,7 @@ Under Academy rules, acquiring a dot in a [[10_System/06 The Magic System#The Ca
 | **Tier 5** | *Cataclysm* | A massive release of energy capable of leveling a large building or city block. |
 
 ## Mechanical Focus
-Projection is the most direct combat school. It uses [[10_System/Attributes/Willpower\|Willpower]] for raw damage output and [[10_System/Attributes/Finesse\|Finesse]] for precision targeting.
+Projection is the most direct combat school. It uses [[10_System/Attributes/Magical/Willpower\|Willpower]] for raw damage output and [[10_System/Attributes/Magical/Finesse\|Finesse]] for precision targeting.
 
 ---
 
@@ -70,11 +70,11 @@ Use this table when designing new Projection spells. It defines the scope and ce
 
 | Tier | Scope of Effect | Attribute Pairing | Typical Duration | Design Prompts |
 | :--- | :--- | :--- | :--- | :--- |
-| **Tier 1** | A candle's worth of light, a static shock, enough force to push a book off a table. Personal-scale, harmless or 1 damage. | [[10_System/Attributes/Willpower\|Willpower]] + Projection | Instant or concentration (1 min) | *"What could a first-year do on their first day that would impress their friends but not hurt anyone?"* |
-| **Tier 2** | A concussive bolt, a directed beam of heat strong enough to ignite wood, a flash grenade. 2 damage, 10–20m range. | [[10_System/Attributes/Willpower\|Willpower]] + Projection | Instant | *"What could a competent student use in a real fight to reliably deal damage?"* |
-| **Tier 3** | A solid-force construct (wall, barrier, platform), a sustained lightning arc, localized area effect (3–5m). 3–4 damage. | [[10_System/Attributes/Willpower\|Willpower]] or [[10_System/Attributes/Calculation\|Calculation]] + Projection | Minutes (= [[10_System/Attributes/Finesse\|Finesse]]) | *"What would make a teacher pause and take notice during a practical exam?"* |
-| **Tier 4** | A sustained energy field covering a room, a beam that melts through steel, or force constructs capable of lifting tons. 4–5 damage, area-wide. | [[10_System/Attributes/Calculation\|Calculation]] + Projection | Scene-length (10–30 min) | *"What would a battle-mage deploy to control an entire battlefield?"* |
-| **Tier 5** | Building-levelling force, city-block pressure fields, beams that annihilate matter at the molecular level. 5+ Aggravated. | [[10_System/Attributes/Calculation\|Calculation]] + Projection | Sustained concentration | *"What would make a senior professor feel genuine fear?"* |
+| **Tier 1** | A candle's worth of light, a static shock, enough force to push a book off a table. Personal-scale, harmless or 1 damage. | [[10_System/Attributes/Magical/Willpower\|Willpower]] + Projection | Instant or concentration (1 min) | *"What could a first-year do on their first day that would impress their friends but not hurt anyone?"* |
+| **Tier 2** | A concussive bolt, a directed beam of heat strong enough to ignite wood, a flash grenade. 2 damage, 10–20m range. | [[10_System/Attributes/Magical/Willpower\|Willpower]] + Projection | Instant | *"What could a competent student use in a real fight to reliably deal damage?"* |
+| **Tier 3** | A solid-force construct (wall, barrier, platform), a sustained lightning arc, localized area effect (3–5m). 3–4 damage. | [[10_System/Attributes/Magical/Willpower\|Willpower]] or [[10_System/Attributes/Magical/Calculation\|Calculation]] + Projection | Minutes (= [[10_System/Attributes/Magical/Finesse\|Finesse]]) | *"What would make a teacher pause and take notice during a practical exam?"* |
+| **Tier 4** | A sustained energy field covering a room, a beam that melts through steel, or force constructs capable of lifting tons. 4–5 damage, area-wide. | [[10_System/Attributes/Magical/Calculation\|Calculation]] + Projection | Scene-length (10–30 min) | *"What would a battle-mage deploy to control an entire battlefield?"* |
+| **Tier 5** | Building-levelling force, city-block pressure fields, beams that annihilate matter at the molecular level. 5+ Aggravated. | [[10_System/Attributes/Magical/Calculation\|Calculation]] + Projection | Sustained concentration | *"What would make a senior professor feel genuine fear?"* |
 
 ---
 

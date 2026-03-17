@@ -10,7 +10,7 @@
 
 The mage shatters a powerful curse, breaking its hold on a victim.
 
-**System:** Roll [[10_System/Attributes/Calculation\|Calculation]] + [[10_System/Schools/Abjuration/Abjuration\|Abjuration]] vs difficulty 7.
+**System:** Roll [[10_System/Attributes/Magical/Calculation\|Calculation]] + [[10_System/Schools/Abjuration/Abjuration\|Abjuration]] vs difficulty 7.
 **On success:** Shatters a powerful curse, breaking its hold on a victim.
 Each additional success adds duration or intensity.
 **On failure:** mana is lost.

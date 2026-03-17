@@ -29,7 +29,7 @@ Acquiring dots and Powers here requires deep dedication. The spells are extremel
 | **Tier 5** | *Planar Summon* | Breach the veil between the material plane and spiritual realms to summon an angel or demon (impossible under current conditions). |
 
 ## Mechanical Focus
-Summoning uses [[10_System/Attributes/Memory\|Memory]] (to maintain the mental image of the target) and [[10_System/Attributes/Willpower\|Willpower]] (for binding strength). A recall anchor incurs a **constant passive [[50_Magic/Glossary/mana\|mana]] drain** on the caster as long as it remains active. The Imperial Staff artefact allows 6 active recall points.
+Summoning uses [[10_System/Attributes/Magical/Memory\|Memory]] (to maintain the mental image of the target) and [[10_System/Attributes/Magical/Willpower\|Willpower]] (for binding strength). A recall anchor incurs a **constant passive [[50_Magic/Glossary/mana\|mana]] drain** on the caster as long as it remains active. The Imperial Staff artefact allows 6 active recall points.
 
 ---
 

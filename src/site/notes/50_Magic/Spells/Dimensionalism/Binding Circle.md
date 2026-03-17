@@ -12,7 +12,7 @@
 
 The mage inscribes a circle that traps any summoned or dimensional creature that steps within it.
 
-**System:** Roll [[10_System/Attributes/Calculation\|Calculation]] + [[10_System/Schools/Dimensionalism/Dimensionalism\|Dimensionalism]] vs difficulty 6. Requires 2 successes.
+**System:** Roll [[10_System/Attributes/Magical/Calculation\|Calculation]] + [[10_System/Schools/Dimensionalism/Dimensionalism\|Dimensionalism]] vs difficulty 6. Requires 2 successes.
 **On success:** Inscribes a circle that traps any summoned or dimensional creature that steps within it.
 **Overcharge:** Can be spent on standard enhancements (Duration, Scale).
 **On failure:** mana is lost.

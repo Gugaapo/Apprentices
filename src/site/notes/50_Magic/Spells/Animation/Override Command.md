@@ -12,7 +12,7 @@
 
 The mage hacks into the animating matrix of a hostile construct. They violently rip control away from the original caster, forcing the golem to freeze, shut down, or temporarily turn on its master.
 
-**System:** Roll [[10_System/Attributes/Calculation\|Calculation]] + [[10_System/Schools/Animation/Animation\|Animation]] vs difficulty 5.
+**System:** Roll [[10_System/Attributes/Magical/Calculation\|Calculation]] + [[10_System/Schools/Animation/Animation\|Animation]] vs difficulty 5.
 **On success:** Hacks into the animating matrix of a hostile construct. They violently rip control away from the original caster, forcing the golem to freeze, shut down, or...
 Each additional success adds duration or intensity.
 **On failure:** mana is lost.

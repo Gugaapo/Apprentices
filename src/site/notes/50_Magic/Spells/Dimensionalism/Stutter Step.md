@@ -12,7 +12,7 @@
 
 The mage makes a series of micro-teleports, appearing to glitch through space like a broken image.
 
-**System:** Roll [[10_System/Attributes/Calculation\|Calculation]] + [[10_System/Schools/Dimensionalism/Dimensionalism\|Dimensionalism]] vs difficulty 4.
+**System:** Roll [[10_System/Attributes/Magical/Calculation\|Calculation]] + [[10_System/Schools/Dimensionalism/Dimensionalism\|Dimensionalism]] vs difficulty 4.
 **On success:** Makes a series of micro-teleports, appearing to glitch through space like a broken image.
 Each additional success adds duration or intensity.
 **On failure:** mana is lost.

@@ -11,7 +11,7 @@
 
 The mage wraps themselves in a bubble of mana-disrupting energy that suppresses all magical effects that try to penetrate it.
 
-**System:** Roll [[10_System/Attributes/Willpower\|Willpower]] + [[10_System/Schools/Projection/Projection\|Projection]] vs difficulty 6. Requires 3 successes.
+**System:** Roll [[10_System/Attributes/Magical/Willpower\|Willpower]] + [[10_System/Schools/Projection/Projection\|Projection]] vs difficulty 6. Requires 3 successes.
 **On success:** Wraps themselves in a bubble of mana-disrupting energy that suppresses all magical effects that try to penetrat...
 **Overcharge:** Can be spent on standard enhancements (Duration, Scale) or Potency (+1 defense).
 **On failure:** mana is lost.

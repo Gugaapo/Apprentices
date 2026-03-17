@@ -13,7 +13,7 @@ Your family runs a trading business — perhaps magical goods, alchemical suppli
 Begin with **double starting funds** and a personal stipend. You never lack for basic supplies, quality equipment, or small luxuries.
 
 ## Connection
-**Trade Contacts.** Your family's business network stretches across the region. Once per session, you can source a specific item, ingredient, or piece of information through trade connections. Rare and restricted items require a [[10_System/Attributes/Charm\|Charm]] roll.
+**Trade Contacts.** Your family's business network stretches across the region. Once per session, you can source a specific item, ingredient, or piece of information through trade connections. Rare and restricted items require a [[10_System/Attributes/Social/Charm\|Charm]] roll.
 
 ## Roleplay Hooks
 - A family rival is trying to poach your father's best suppliers. You've been asked to help — discreetly.

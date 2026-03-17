@@ -10,7 +10,7 @@
 
 The mage creates a momentary shield that nudges an incoming spell slightly off course.
 
-**System:** Roll [[10_System/Attributes/Calculation\|Calculation]] + [[10_System/Schools/Abjuration/Abjuration\|Abjuration]] vs difficulty 4.
+**System:** Roll [[10_System/Attributes/Magical/Calculation\|Calculation]] + [[10_System/Schools/Abjuration/Abjuration\|Abjuration]] vs difficulty 4.
 **On success:** Creates a momentary shield that nudges an incoming spell slightly off course.
 Each additional success adds duration or intensity.
 **On failure:** mana is lost.

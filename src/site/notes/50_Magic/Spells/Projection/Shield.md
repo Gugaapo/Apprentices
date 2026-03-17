@@ -11,7 +11,7 @@
 
 The mage projects a small, momentary shield of force just large enough to deflect one incoming attack.
 
-**System:** Roll [[10_System/Attributes/Willpower\|Willpower]] + [[10_System/Schools/Projection/Projection\|Projection]] vs difficulty 6. Requires 1 success.
+**System:** Roll [[10_System/Attributes/Magical/Willpower\|Willpower]] + [[10_System/Schools/Projection/Projection\|Projection]] vs difficulty 6. Requires 1 success.
 **On success:** Projects a small, momentary shield of force just large enough to deflect one incoming attack.
 **Overcharge:** Can be spent on standard enhancements (Scale) or Potency (+1 defense).
 **On failure:** mana is lost.

@@ -27,7 +27,7 @@ Under Academy rules, acquiring a dot in a [[10_System/06 The Magic System#The Ca
 | **Tier 5** | *Phantasmagoria* | An illusion of such depth it causes real psychosomatic harm to those who believe it completely. |
 
 ## Mechanical Focus
-Illusionism contests the target's [[50_Magic/Glossary/Mind Defense\|Mind Defense]]. Success is driven by [[10_System/Attributes/Calculation\|Calculation]] for detail richness and [[10_System/Attributes/Finesse\|Finesse]] for seamless integration into the environment.
+Illusionism contests the target's [[50_Magic/Glossary/Mind Defense\|Mind Defense]]. Success is driven by [[10_System/Attributes/Magical/Calculation\|Calculation]] for detail richness and [[10_System/Attributes/Magical/Finesse\|Finesse]] for seamless integration into the environment.
 
 ---
 
@@ -65,8 +65,8 @@ Today, this is no longer true. Modern magical literacy means obvious illusions a
 
 | Tier | Scope of Effect | Attribute Pairing | Typical Duration | Design Prompts |
 | :--- | :--- | :--- | :--- | :--- |
-| **Tier 1** | A single-sense trick: a faint sound in an empty room, a flickering shadow. Unconvincing under scrutiny. | [[10_System/Attributes/Calculation\|Calculation]] + Illusionism | Concentration (1 min) | *"What could a mischievous student use to prank a classmate?"* |
-| **Tier 2** | A static, single-sense illusion convincing enough to fool casual observers. A phantom person standing still. | [[10_System/Attributes/Calculation\|Calculation]] + Illusionism | Minutes (= [[10_System/Attributes/Finesse\|Finesse]]) | *"What would let someone walk past a guard without being recognized?"* |
-| **Tier 3** | Multi-sense illusions (sight + sound). Moving images. Targeted hallucinations. Pierces casual resistance. | [[10_System/Attributes/Calculation\|Calculation]] + Illusionism | Scene (10–30 min) | *"What would an infiltrator need to convincingly impersonate someone?"* |
-| **Tier 4** | Full sensory environments. Mass illusions affecting a crowd. | [[10_System/Attributes/Calculation\|Calculation]] + Illusionism | Hours | *"What would a spymaster use to stage a convincing assassination scene?"* |
-| **Tier 5** | Illusions so profound they cause real psychosomatic damage. Reality-warping perception fields. | [[10_System/Attributes/Calculation\|Calculation]] + Illusionism | Sustained / Permanent | *"What power would make an entire city see something that never happened?"* |
+| **Tier 1** | A single-sense trick: a faint sound in an empty room, a flickering shadow. Unconvincing under scrutiny. | [[10_System/Attributes/Magical/Calculation\|Calculation]] + Illusionism | Concentration (1 min) | *"What could a mischievous student use to prank a classmate?"* |
+| **Tier 2** | A static, single-sense illusion convincing enough to fool casual observers. A phantom person standing still. | [[10_System/Attributes/Magical/Calculation\|Calculation]] + Illusionism | Minutes (= [[10_System/Attributes/Magical/Finesse\|Finesse]]) | *"What would let someone walk past a guard without being recognized?"* |
+| **Tier 3** | Multi-sense illusions (sight + sound). Moving images. Targeted hallucinations. Pierces casual resistance. | [[10_System/Attributes/Magical/Calculation\|Calculation]] + Illusionism | Scene (10–30 min) | *"What would an infiltrator need to convincingly impersonate someone?"* |
+| **Tier 4** | Full sensory environments. Mass illusions affecting a crowd. | [[10_System/Attributes/Magical/Calculation\|Calculation]] + Illusionism | Hours | *"What would a spymaster use to stage a convincing assassination scene?"* |
+| **Tier 5** | Illusions so profound they cause real psychosomatic damage. Reality-warping perception fields. | [[10_System/Attributes/Magical/Calculation\|Calculation]] + Illusionism | Sustained / Permanent | *"What power would make an entire city see something that never happened?"* |

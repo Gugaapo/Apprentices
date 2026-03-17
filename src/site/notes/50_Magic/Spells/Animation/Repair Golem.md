@@ -8,7 +8,7 @@
 
 The mage animates a damaged golem's materials, causing cracks to seal and chips to fill.
 
-**System:** Roll [[10_System/Attributes/Calculation\|Calculation]] + [[10_System/Schools/Animation/Animation\|Animation]] vs difficulty 4.
+**System:** Roll [[10_System/Attributes/Magical/Calculation\|Calculation]] + [[10_System/Schools/Animation/Animation\|Animation]] vs difficulty 4.
 **On success:** Animates a damaged golem's materials, causing cracks to seal and chips to fill.
 Each additional success adds duration or intensity.
 **On failure:** mana is lost.

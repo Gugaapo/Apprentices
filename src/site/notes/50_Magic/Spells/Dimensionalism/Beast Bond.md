@@ -12,7 +12,7 @@
 
 The mage forms a lasting spatial tether to an animal or low-tier magical beast (like a wolf, hawk, or giant spider). By tugging on this dimensional thread, the mage teleports the bound creature directly to their side to assist in combat or scouting.
 
-**System:** Roll [[10_System/Attributes/Calculation\|Calculation]] + [[10_System/Schools/Dimensionalism/Dimensionalism\|Dimensionalism]] vs difficulty 6. Requires 2 successes.
+**System:** Roll [[10_System/Attributes/Magical/Calculation\|Calculation]] + [[10_System/Schools/Dimensionalism/Dimensionalism\|Dimensionalism]] vs difficulty 6. Requires 2 successes.
 **On success:** Forms a lasting spatial tether to an animal or low-tier magical beast (like a wolf, hawk, or giant spider). By tugging on this dimensional thread, the mage teleports...
 **Overcharge:** Can be spent on standard enhancements (Duration, Scale).
 **On failure:** mana is lost.

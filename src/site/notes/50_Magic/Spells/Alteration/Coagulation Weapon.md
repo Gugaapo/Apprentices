@@ -8,7 +8,7 @@
 
 The mage draws their own blood and shapes it into a hardened blade or spike that can be wielded as a weapon.
 
-**System:** Roll [[10_System/Attributes/Calculation\|Calculation]] + [[10_System/Schools/Alteration/Alteration\|Alteration]] vs difficulty 6. Requires 2 successes.
+**System:** Roll [[10_System/Attributes/Magical/Calculation\|Calculation]] + [[10_System/Schools/Alteration/Alteration\|Alteration]] vs difficulty 6. Requires 2 successes.
 **On success:** Draws their own blood and shapes it into a hardened blade or spike that can be wielded as a weapon.
 **Overcharge:** Can be spent on standard enhancements (Duration) or Potency (+1 damage).
 **On failure:** mana is lost.

@@ -10,7 +10,7 @@
 
 The mage creates a brief personal barrier that absorbs one hit.
 
-**System:** Roll [[10_System/Attributes/Calculation\|Calculation]] + [[10_System/Schools/Abjuration/Abjuration\|Abjuration]] vs difficulty 4.
+**System:** Roll [[10_System/Attributes/Magical/Calculation\|Calculation]] + [[10_System/Schools/Abjuration/Abjuration\|Abjuration]] vs difficulty 4.
 **On success:** Creates a brief personal barrier that absorbs one hit.
 Each additional success adds duration or intensity.
 **On failure:** mana is lost.

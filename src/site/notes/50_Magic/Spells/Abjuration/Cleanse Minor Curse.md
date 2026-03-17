@@ -10,7 +10,7 @@
 
 The mage removes a minor magical affliction — a petty curse, a jinx, or a low-tier enchantment.
 
-**System:** Roll [[10_System/Attributes/Calculation\|Calculation]] + [[10_System/Schools/Abjuration/Abjuration\|Abjuration]] vs difficulty 4.
+**System:** Roll [[10_System/Attributes/Magical/Calculation\|Calculation]] + [[10_System/Schools/Abjuration/Abjuration\|Abjuration]] vs difficulty 4.
 **On success:** Removes a minor magical affliction — a petty curse, a jinx, or a low-tier enchantment.
 Each additional success adds duration or intensity.
 **On failure:** mana is lost.

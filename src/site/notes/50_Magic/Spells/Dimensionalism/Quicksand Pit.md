@@ -11,7 +11,7 @@
 
 The mage conjures a mass of loose sand beneath a target's feet, creating a sinkhole.
 
-**System:** Roll [[10_System/Attributes/Calculation\|Calculation]] + [[10_System/Schools/Dimensionalism/Dimensionalism\|Dimensionalism]] vs difficulty 5.
+**System:** Roll [[10_System/Attributes/Magical/Calculation\|Calculation]] + [[10_System/Schools/Dimensionalism/Dimensionalism\|Dimensionalism]] vs difficulty 5.
 **On success:** Conjures a mass of loose sand beneath a target's feet, creating a sinkhole.
 Each additional success adds duration or intensity.
 **On failure:** mana is lost.

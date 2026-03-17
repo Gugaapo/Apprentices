@@ -11,7 +11,7 @@ Spell formulas are the practice of using geometric shapes and various sigils to 
 
 ## Mechanical Focus
 
-Designing and inscribing a Spell Formula is a slow, meticulous process. Rolls to craft or modify spell formulas typically use **[[10_System/Attributes/Calculation\|Calculation]]** or **[[10_System/Attributes/Finesse\|Finesse]]** paired with **[[10_System/Attributes/Academics\|Academics]]** (representing mathematical expertise and magic theory). 
+Designing and inscribing a Spell Formula is a slow, meticulous process. Rolls to craft or modify spell formulas typically use **[[10_System/Attributes/Magical/Calculation\|Calculation]]** or **[[10_System/Attributes/Magical/Finesse\|Finesse]]** paired with **[[10_System/Attributes/Mental/Academics\|Academics]]** (representing mathematical expertise and magic theory). 
 
 Creating a formula requires:
 1. **The Schematic**: Knowledge of the formula design.

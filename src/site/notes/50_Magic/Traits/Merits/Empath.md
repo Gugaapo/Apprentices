@@ -12,4 +12,4 @@ Your mind is naturally *open* to the psychic aether, a rare genetic or spiritual
 
 **Requirement:** This trait is mandatory for learning [[10_System/Schools/Illusionism/Mind Magic\|Mind Magic]].
 
-**Side Effect:** Being open to the aether means you are highly sensitive to psychic noise and the emotional agony of others. In areas of high trauma, death, or psychic resonance, you suffer a **-1 penalty** to [[10_System/Attributes/Calculation\|Calculation]] rolls due to the distracting "noise."
+**Side Effect:** Being open to the aether means you are highly sensitive to psychic noise and the emotional agony of others. In areas of high trauma, death, or psychic resonance, you suffer a **-1 penalty** to [[10_System/Attributes/Magical/Calculation\|Calculation]] rolls due to the distracting "noise."

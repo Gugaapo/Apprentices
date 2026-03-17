@@ -8,7 +8,7 @@
 
 The mage halts the decay of a corpse, preserving it indefinitely.
 
-**System:** Roll [[10_System/Attributes/Calculation\|Calculation]] + [[10_System/Schools/Animation/Animation\|Animation]] vs difficulty 4.
+**System:** Roll [[10_System/Attributes/Magical/Calculation\|Calculation]] + [[10_System/Schools/Animation/Animation\|Animation]] vs difficulty 4.
 **On success:** Halts the decay of a corpse, preserving it indefinitely.
 Each additional success adds duration or intensity.
 **On failure:** mana is lost.

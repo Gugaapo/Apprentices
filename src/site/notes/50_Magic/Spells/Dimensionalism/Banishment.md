@@ -12,7 +12,7 @@
 
 The mage forcibly sends a summoned or extraplanar creature back to its point of origin.
 
-**System:** Roll [[10_System/Attributes/Calculation\|Calculation]] + [[10_System/Schools/Dimensionalism/Dimensionalism\|Dimensionalism]] vs difficulty 6. Requires 3 successes.
+**System:** Roll [[10_System/Attributes/Magical/Calculation\|Calculation]] + [[10_System/Schools/Dimensionalism/Dimensionalism\|Dimensionalism]] vs difficulty 6. Requires 3 successes.
 **On success:** Rather than bringing an entity into the world, the mage violently reverses the dimensional tether of an invading spirit, demon, or summoned construct. The target is sucked...
 **Overcharge:** Can be spent on standard enhancements (Scale).
 **On failure:** mana is lost.

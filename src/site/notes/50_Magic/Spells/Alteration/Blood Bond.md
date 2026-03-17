@@ -12,7 +12,7 @@
 
 The mage creates a deep sympathetic link between two creatures. Damage dealt to one is shared by the other.
 
-**System:** Roll [[10_System/Attributes/Calculation\|Calculation]] + [[10_System/Schools/Alteration/Alteration\|Alteration]] vs difficulty 6. Requires 4 successes.
+**System:** Roll [[10_System/Attributes/Magical/Calculation\|Calculation]] + [[10_System/Schools/Alteration/Alteration\|Alteration]] vs difficulty 6. Requires 4 successes.
 **On success:** Creates a deep sympathetic link between two creatures. Damage dealt to one is shared by the other.
 **Overcharge:** Can be spent on standard enhancements (Duration) or Potency (+1 effect).
 **On failure:** mana is lost.

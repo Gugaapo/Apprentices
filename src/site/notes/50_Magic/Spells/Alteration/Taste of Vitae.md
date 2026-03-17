@@ -12,7 +12,7 @@
 
 A deeply forbidden tracking method. By tasting a single drop of fresh blood, the mage can perfectly map the target's genetic and magical signature. For days afterward, they can inherently sense the general direction and distance of the bleeding victim.
 
-**System:** Roll [[10_System/Attributes/Calculation\|Calculation]] + [[10_System/Schools/Alteration/Alteration\|Alteration]] vs difficulty 6. Requires 1 success.
+**System:** Roll [[10_System/Attributes/Magical/Calculation\|Calculation]] + [[10_System/Schools/Alteration/Alteration\|Alteration]] vs difficulty 6. Requires 1 success.
 **On success:** A deeply forbidden tracking method. By tasting a single drop of fresh blood, the mage can perfectly map the target's genetic and magical signature. For days afterward, they...
 **Overcharge:** Can be spent on standard enhancements (Duration) or Potency (+1 to tracking detail).
 **On failure:** mana is lost.

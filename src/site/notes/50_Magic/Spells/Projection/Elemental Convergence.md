@@ -12,7 +12,7 @@
 
 The mage simultaneously generates fire, ice, lightning, and force, weaving them into a single devastating composite attack.
 
-**System:** Roll [[10_System/Attributes/Willpower\|Willpower]] + [[10_System/Schools/Projection/Projection\|Projection]] vs difficulty 6. Requires 5 successes.
+**System:** Roll [[10_System/Attributes/Magical/Willpower\|Willpower]] + [[10_System/Schools/Projection/Projection\|Projection]] vs difficulty 6. Requires 5 successes.
 **On success:** Simultaneously generates fire, ice, lightning, and force, weaving them into a single devastating composite atta...
 **Overcharge:** Can be spent on standard enhancements (Scale) or Potency (+1 damage).
 **On failure:** mana is lost.

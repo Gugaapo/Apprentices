@@ -6,6 +6,6 @@
 
 **Mind Defense** is a character's passive mental barrier. It acts as the threshold that enemies must meet or exceed when targeting the character with mental intrusion, telepathy, or psychic illusions.
 
-**[[10_System/Attributes/Calculation\|Calculation]]:** `Willpower + Highest of (Divination or Ward)`
+**[[10_System/Attributes/Magical/Calculation\|Calculation]]:** `Willpower + Highest of (Divination or Ward)`
 
 Rather than rolling to dodge a mind magic attack, the attacker rolls their die pool against your static Mind Defense. If their successes equal or exceed this number, their mental intrusion is successful.

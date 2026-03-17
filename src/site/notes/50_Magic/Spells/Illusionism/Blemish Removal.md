@@ -11,7 +11,7 @@
 
 The mage conceals small physical imperfections — acne, bruises, bloodshot eyes, or minor scars.
 
-**System:** Roll [[10_System/Attributes/Willpower\|Willpower]] + [[10_System/Schools/Illusionism/Illusionism\|Illusionism]] vs difficulty 6. Requires 1 success.
+**System:** Roll [[10_System/Attributes/Magical/Willpower\|Willpower]] + [[10_System/Schools/Illusionism/Illusionism\|Illusionism]] vs difficulty 6. Requires 1 success.
 **On success:** Conceals small physical imperfections — acne, bruises, bloodshot eyes, or minor scars.
 **Overcharge:** Can be spent on standard enhancements (Duration, Scale) or to apply the *Hindered* Status Effect.
 **On failure:** mana is lost.

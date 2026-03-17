@@ -12,7 +12,7 @@
 
 A brief teleportation that serves as an escape reflex — the mage vanishes and reappears 1m away when startled.
 
-**System:** Roll [[10_System/Attributes/Calculation\|Calculation]] + [[10_System/Schools/Dimensionalism/Dimensionalism\|Dimensionalism]] vs difficulty 4.
+**System:** Roll [[10_System/Attributes/Magical/Calculation\|Calculation]] + [[10_System/Schools/Dimensionalism/Dimensionalism\|Dimensionalism]] vs difficulty 4.
 **On success:** A brief teleportation that serves as an escape reflex — the mage vanishes and reappears 1m away when startled.
 Each additional success adds duration or intensity.
 **On failure:** mana is lost.

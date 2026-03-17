@@ -17,7 +17,7 @@ You grew up surrounded by the ghosts of past glory. You were taught all the etiq
 
 ## Mechanical Benefits
 
-- **Starting Bonus:** Gain +1 free dot in **[[10_System/Attributes/Deception\|Deception]]** and +1 free dot in **[[10_System/Attributes/Academics\|Academics]]**.
+- **Starting Bonus:** Gain +1 free dot in **[[10_System/Attributes/Social/Deception\|Deception]]** and +1 free dot in **[[10_System/Attributes/Mental/Academics\|Academics]]**.
 - **Connection — The Old Guard:** Despite your family's fall, there are a few ancient retainers, loyalists, or sympathetic nobles who remember your House's former glory. Once per arc, you can call upon this network to gain entry to an exclusive high-society event, secure a loan, or dig up blackmail material on a rival House.
 
 ---

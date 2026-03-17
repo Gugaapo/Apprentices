@@ -30,7 +30,7 @@ Under Academy rules, acquiring a dot in a [[10_System/06 The Magic System#The Ca
 | **Tier 5** | *Invulnerability Sphere*                                           | An ultimate personal barrier that blocks all matter and magic from crossing its threshold.                                                                           |
 
 ## Mechanical Focus
-Abjuration creation uses [[10_System/Attributes/Calculation\|Calculation]] for unraveling enemy spell geometry and [[10_System/Attributes/Willpower\|Willpower]] for brute-forcing shields into existence against attacks.
+Abjuration creation uses [[10_System/Attributes/Magical/Calculation\|Calculation]] for unraveling enemy spell geometry and [[10_System/Attributes/Magical/Willpower\|Willpower]] for brute-forcing shields into existence against attacks.
 
 ---
 

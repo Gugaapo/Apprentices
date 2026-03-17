@@ -28,7 +28,7 @@ Under Academy rules, acquiring a dot in a [[10_System/06 The Magic System#The Ca
 | **Tier 5** | *Continental Bridge* | A permanent spatial tunnel connecting two cities on opposite ends of the world. |
 
 ## Mechanical Focus
-Dimensionalism requires precise spatial [[10_System/Attributes/Calculation\|Calculation]] for complex coordinates. Failed teleport rolls may result in scrambled arrival positions.
+Dimensionalism requires precise spatial [[10_System/Attributes/Magical/Calculation\|Calculation]] for complex coordinates. Failed teleport rolls may result in scrambled arrival positions.
 
 ---
 
@@ -68,8 +68,8 @@ Because of the high difficulty of the field, as well as the incredible potential
 
 | Tier | Scope of Effect | Attribute Pairing | Typical Duration | Design Prompts |
 | :--- | :--- | :--- | :--- | :--- |
-| **Tier 1** | Move a small object (coin-sized, < 1kg) a short distance (5m). No living targets. | [[10_System/Attributes/Calculation\|Calculation]] + Dimensionalism | Instant | *"What could a lazy student do to avoid getting up from their desk?"* |
-| **Tier 2** | Teleport yourself up to 20m to a clearly visualised destination. Short-range portal for 1 person. | [[10_System/Attributes/Calculation\|Calculation]] + Dimensionalism | Instant / 1 round | *"What would save your life when something lunges at you?"* |
-| **Tier 3** | Medium-range portal (a few km) to a previously visited location. Brief spatial lock on a room. Transport a small group. | [[10_System/Attributes/Calculation\|Calculation]] + Dimensionalism | Minutes (= [[10_System/Attributes/Finesse\|Finesse]]) | *"What would let a team of mages move across [[02_Setting/Locations/Cyoria\|Cyoria]] without being seen?"* |
-| **Tier 4** | City-wide spatial lock. Long-distance portal. Dimensional anchoring of a building. Summon minor entities. | [[10_System/Attributes/Calculation\|Calculation]] + Dimensionalism | Scene / Hours | *"What would a military strategist demand from a court dimensionalist?"* |
-| **Tier 5** | Continental-scale portals. Permanent spatial tunnels. Access to other planes. Full pocket-dimension creation. | [[10_System/Attributes/Calculation\|Calculation]] + Dimensionalism | Permanent / Sustained | *"What would the Sovereign Gate's architects have needed to build it?"* |
+| **Tier 1** | Move a small object (coin-sized, < 1kg) a short distance (5m). No living targets. | [[10_System/Attributes/Magical/Calculation\|Calculation]] + Dimensionalism | Instant | *"What could a lazy student do to avoid getting up from their desk?"* |
+| **Tier 2** | Teleport yourself up to 20m to a clearly visualised destination. Short-range portal for 1 person. | [[10_System/Attributes/Magical/Calculation\|Calculation]] + Dimensionalism | Instant / 1 round | *"What would save your life when something lunges at you?"* |
+| **Tier 3** | Medium-range portal (a few km) to a previously visited location. Brief spatial lock on a room. Transport a small group. | [[10_System/Attributes/Magical/Calculation\|Calculation]] + Dimensionalism | Minutes (= [[10_System/Attributes/Magical/Finesse\|Finesse]]) | *"What would let a team of mages move across [[02_Setting/Locations/Cyoria\|Cyoria]] without being seen?"* |
+| **Tier 4** | City-wide spatial lock. Long-distance portal. Dimensional anchoring of a building. Summon minor entities. | [[10_System/Attributes/Magical/Calculation\|Calculation]] + Dimensionalism | Scene / Hours | *"What would a military strategist demand from a court dimensionalist?"* |
+| **Tier 5** | Continental-scale portals. Permanent spatial tunnels. Access to other planes. Full pocket-dimension creation. | [[10_System/Attributes/Magical/Calculation\|Calculation]] + Dimensionalism | Permanent / Sustained | *"What would the Sovereign Gate's architects have needed to build it?"* |

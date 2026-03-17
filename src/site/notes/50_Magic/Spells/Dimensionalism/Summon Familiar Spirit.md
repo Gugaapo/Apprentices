@@ -8,7 +8,7 @@
 
 Calls a minor spirit to inhabit a small animal for an hour.
 
-**System:** Roll [[10_System/Attributes/Calculation\|Calculation]] + [[10_System/Schools/Dimensionalism/Dimensionalism\|Dimensionalism]] vs difficulty 6. Requires 1 success.
+**System:** Roll [[10_System/Attributes/Magical/Calculation\|Calculation]] + [[10_System/Schools/Dimensionalism/Dimensionalism\|Dimensionalism]] vs difficulty 6. Requires 1 success.
 **On success:** Calls a minor spirit to inhabit a small animal for an hour.
 **Overcharge:** Can be spent on standard enhancements (Duration) or Potency (+1 to animal stats).
 **On failure:** mana is lost.

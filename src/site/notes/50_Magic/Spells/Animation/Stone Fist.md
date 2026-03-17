@@ -12,7 +12,7 @@
 
 The mage shapes a fist-sized stone golem that punches a target with surprising force.
 
-**System:** Roll [[10_System/Attributes/Calculation\|Calculation]] + [[10_System/Schools/Animation/Animation\|Animation]] vs difficulty 4.
+**System:** Roll [[10_System/Attributes/Magical/Calculation\|Calculation]] + [[10_System/Schools/Animation/Animation\|Animation]] vs difficulty 4.
 **On success:** Shapes a fist-sized stone golem that punches a target with surprising force.
 Each additional success adds duration or intensity.
 **On failure:** mana is lost.

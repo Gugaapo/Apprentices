@@ -11,7 +11,7 @@
 
 The mage performs a complete assessment and repair of a patient's entire physical structure — every wound, break, and infection.
 
-**System:** Roll [[10_System/Attributes/Calculation\|Calculation]] + [[10_System/Schools/Alteration/Alteration\|Alteration]] vs difficulty 6. Requires 4 successes.
+**System:** Roll [[10_System/Attributes/Magical/Calculation\|Calculation]] + [[10_System/Schools/Alteration/Alteration\|Alteration]] vs difficulty 6. Requires 4 successes.
 **On success:** Performs a complete assessment and repair of a patient's entire physical structure — every wound, break, and in...
 **Overcharge:** Can be spent on standard enhancements (Scale) or Potency (+1 healing).
 **On failure:** mana is lost.

@@ -12,7 +12,7 @@
 
 The mage produces a tiny, sustained flame of pure mana energy that hovers above their fingertip. Unlike mundane fire, it burns without fuel or smoke.
 
-**System:** Roll [[10_System/Attributes/Willpower\|Willpower]] + [[10_System/Schools/Projection/Projection\|Projection]] vs difficulty 6. Requires 1 success.
+**System:** Roll [[10_System/Attributes/Magical/Willpower\|Willpower]] + [[10_System/Schools/Projection/Projection\|Projection]] vs difficulty 6. Requires 1 success.
 **On success:** Produces a tiny, sustained flame of pure mana energy that hovers above their fingertip. Unlike mundane fire, it...
 **Overcharge:** Can be spent on standard enhancements (Duration, Scale) or Potency (+1 intensity).
 **On failure:** mana is lost.

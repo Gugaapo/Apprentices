@@ -11,7 +11,7 @@
 
 The mage rapidly generates replacement blood from the patient's own bone marrow, reversing the effects of severe blood loss.
 
-**System:** Roll [[10_System/Attributes/Calculation\|Calculation]] + [[10_System/Schools/Alteration/Alteration\|Alteration]] vs difficulty 6. Requires 3 successes.
+**System:** Roll [[10_System/Attributes/Magical/Calculation\|Calculation]] + [[10_System/Schools/Alteration/Alteration\|Alteration]] vs difficulty 6. Requires 3 successes.
 **On success:** Rapidly generates replacement blood from the patient's own bone marrow, reversing the effects of severe blood l...
 **Overcharge:** Can be spent on standard enhancements (Scale) or Potency (+1 healing).
 **On failure:** mana is lost.

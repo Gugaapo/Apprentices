@@ -27,7 +27,7 @@ Under Academy rules, acquiring a dot in a [[10_System/06 The Magic System#The Ca
 | **Tier 5** | *Grand Foresight* | Receive cryptic but accurate glimpses of major events weeks in advance. |
 
 ## Mechanical Focus
-Divination provides information and bonuses to [[50_Magic/Glossary/Mind Defense\|Mind Defense]]. It relies heavily on [[10_System/Attributes/Memory\|Memory]] for processing data and [[10_System/Attributes/Finesse\|Finesse]] for shaping the spell cleanly.
+Divination provides information and bonuses to [[50_Magic/Glossary/Mind Defense\|Mind Defense]]. It relies heavily on [[10_System/Attributes/Magical/Memory\|Memory]] for processing data and [[10_System/Attributes/Magical/Finesse\|Finesse]] for shaping the spell cleanly.
 
 ---
 
@@ -66,8 +66,8 @@ Divination provides information and bonuses to [[50_Magic/Glossary/Mind Defense\
 
 | Tier | Scope of Effect | Attribute Pairing | Typical Duration | Design Prompts |
 | :--- | :--- | :--- | :--- | :--- |
-| **Tier 1** | Detect active magic within 10m. Identify the school of a spell being cast nearby. Sense if a door is warded. | [[10_System/Attributes/Memory\|Memory]] + Divination | Concentration (1 min) | *"What could a cautious student do before opening an unfamiliar door in the [[The_Dungeon\|Dungeon]]?"* |
-| **Tier 2** | See through one wall or obstacle (brief flash). Identify the emotional state of a nearby person via mana aura reading. | [[10_System/Attributes/Memory\|Memory]] + Divination | Instant / 1 round | *"What would help a student cheat on an Academy exam without getting caught?"* |
-| **Tier 3** | View a 10-minute history of a specific location. Detect invisible creatures or illusory constructs. Receive a vague premonition of danger. | [[10_System/Attributes/Memory\|Memory]] + Divination | Scene (10–30 min) | *"What would an investigator need to solve a crime that happened last night?"* |
-| **Tier 4** | Real-time scrying of a distant, known location. Precise danger prediction (specific threats, not vague feelings). Full mana spectrum analysis of a complex ward. | [[10_System/Attributes/Memory\|Memory]] + Divination | Hours / Sustained | *"What would the Crown's intelligence service use to monitor enemy activities?"* |
-| **Tier 5** | Cryptic but accurate visions of major events weeks in advance. Full psychometric history of an object (its entire existence). Continent-wide scrying. | [[10_System/Attributes/Memory\|Memory]] + Divination | Sustained / Exhausting | *"What power would make kings fear and worship you in equal measure?"* |
+| **Tier 1** | Detect active magic within 10m. Identify the school of a spell being cast nearby. Sense if a door is warded. | [[10_System/Attributes/Magical/Memory\|Memory]] + Divination | Concentration (1 min) | *"What could a cautious student do before opening an unfamiliar door in the [[The_Dungeon\|Dungeon]]?"* |
+| **Tier 2** | See through one wall or obstacle (brief flash). Identify the emotional state of a nearby person via mana aura reading. | [[10_System/Attributes/Magical/Memory\|Memory]] + Divination | Instant / 1 round | *"What would help a student cheat on an Academy exam without getting caught?"* |
+| **Tier 3** | View a 10-minute history of a specific location. Detect invisible creatures or illusory constructs. Receive a vague premonition of danger. | [[10_System/Attributes/Magical/Memory\|Memory]] + Divination | Scene (10–30 min) | *"What would an investigator need to solve a crime that happened last night?"* |
+| **Tier 4** | Real-time scrying of a distant, known location. Precise danger prediction (specific threats, not vague feelings). Full mana spectrum analysis of a complex ward. | [[10_System/Attributes/Magical/Memory\|Memory]] + Divination | Hours / Sustained | *"What would the Crown's intelligence service use to monitor enemy activities?"* |
+| **Tier 5** | Cryptic but accurate visions of major events weeks in advance. Full psychometric history of an object (its entire existence). Continent-wide scrying. | [[10_System/Attributes/Magical/Memory\|Memory]] + Divination | Sustained / Exhausting | *"What power would make kings fear and worship you in equal measure?"* |

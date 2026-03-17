@@ -12,7 +12,7 @@
 
 The mage forcibly sends a spirit back to its origin, removing it from the physical world.
 
-**System:** Roll [[10_System/Attributes/Willpower\|Willpower]] + [[10_System/Schools/Soul Magic/Soul Magic\|Soul Magic]] vs difficulty 5.
+**System:** Roll [[10_System/Attributes/Magical/Willpower\|Willpower]] + [[10_System/Schools/Soul Magic/Soul Magic\|Soul Magic]] vs difficulty 5.
 **On success:** Forcibly sends a spirit back to its origin, removing it from the physical world.
 Each additional success adds duration or intensity.
 **On failure:** mana is lost.

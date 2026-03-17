@@ -8,7 +8,7 @@
 
 The mage attunes their senses to blood, detecting the presence of bleeding creatures nearby.
 
-**System:** Roll [[10_System/Attributes/Calculation\|Calculation]] + [[10_System/Schools/Alteration/Alteration\|Alteration]] vs difficulty 6. Requires 1 success.
+**System:** Roll [[10_System/Attributes/Magical/Calculation\|Calculation]] + [[10_System/Schools/Alteration/Alteration\|Alteration]] vs difficulty 6. Requires 1 success.
 **On success:** Attunes their senses to blood, detecting the presence of bleeding creatures nearby.
 **Overcharge:** Can be spent on standard enhancements (Duration, Scale) or Potency (+1 to detection range/detail).
 **On failure:** mana is lost.

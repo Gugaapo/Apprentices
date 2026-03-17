@@ -10,7 +10,7 @@
 
 The mage surrounds themselves with a highly polished, invisible magical mirror. When a targeted spell like a Mana Bolt or a Mind Control hex strikes the mage, the mirror...
 
-**System:** Roll [[10_System/Attributes/Calculation\|Calculation]] + [[10_System/Schools/Abjuration/Abjuration\|Abjuration]] vs difficulty 5.
+**System:** Roll [[10_System/Attributes/Magical/Calculation\|Calculation]] + [[10_System/Schools/Abjuration/Abjuration\|Abjuration]] vs difficulty 5.
 **On success:** Surrounds themselves with a highly polished, invisible magical mirror. When a targeted spell like a Mana Bolt or a Mind Control hex strikes the mage, the mirror...
 Each additional success adds duration or intensity.
 **On failure:** mana is lost.

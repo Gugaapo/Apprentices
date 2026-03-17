@@ -12,7 +12,7 @@
 
 The mage generates a fine mist of hyper-reactive mana particles that eat through organic material and corrode metal on contact.
 
-**System:** Roll [[10_System/Attributes/Willpower\|Willpower]] + [[10_System/Schools/Projection/Projection\|Projection]] vs difficulty 6. Requires 2 successes.
+**System:** Roll [[10_System/Attributes/Magical/Willpower\|Willpower]] + [[10_System/Schools/Projection/Projection\|Projection]] vs difficulty 6. Requires 2 successes.
 **On success:** Generates a fine mist of hyper-reactive mana particles that eat through organic material and corrode metal on c...
 **Overcharge:** Can be spent on standard enhancements (Scale) or Potency (+1 damage/corrosion).
 **On failure:** mana is lost.

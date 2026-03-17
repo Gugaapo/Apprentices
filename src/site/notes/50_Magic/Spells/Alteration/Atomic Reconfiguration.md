@@ -10,7 +10,7 @@
 
 The mage operates at the atomic level, rearranging protons and electrons to create entirely new elements from existing matter.
 
-**System:** Roll [[10_System/Attributes/Calculation\|Calculation]] + [[10_System/Schools/Alteration/Alteration\|Alteration]] vs difficulty 6. Requires 5 successes.
+**System:** Roll [[10_System/Attributes/Magical/Calculation\|Calculation]] + [[10_System/Schools/Alteration/Alteration\|Alteration]] vs difficulty 6. Requires 5 successes.
 **On success:** Operates at the atomic level, rearranging protons and electrons to create entirely new elements from existing m...
 **Overcharge:** Can be spent on standard enhancements (Scale) or Potency (+1 effect).
 **On failure:** mana is lost.

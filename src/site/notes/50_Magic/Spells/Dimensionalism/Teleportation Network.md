@@ -12,7 +12,7 @@
 
 The mage establishes a permanent network of teleportation nodes between multiple locations.
 
-**System:** Roll [[10_System/Attributes/Calculation\|Calculation]] + [[10_System/Schools/Dimensionalism/Dimensionalism\|Dimensionalism]] vs difficulty 8.
+**System:** Roll [[10_System/Attributes/Magical/Calculation\|Calculation]] + [[10_System/Schools/Dimensionalism/Dimensionalism\|Dimensionalism]] vs difficulty 8.
 **On success:** Establishes a permanent network of teleportation nodes between multiple locations.
 Each additional success adds duration or intensity.
 **On failure:** mana is lost.

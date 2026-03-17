@@ -8,7 +8,7 @@
 
 Animates loose gravel into a small, fragile construct.
 
-**System:** Roll [[10_System/Attributes/Calculation\|Calculation]] + [[10_System/Schools/Animation/Animation\|Animation]] vs difficulty 6. Requires 1 success.
+**System:** Roll [[10_System/Attributes/Magical/Calculation\|Calculation]] + [[10_System/Schools/Animation/Animation\|Animation]] vs difficulty 6. Requires 1 success.
 **On success:** Animates loose gravel into a small, fragile construct.
 **Overcharge:** Can be spent on standard enhancements (Duration, Scale) or Potency (+1 to minion stats).
 **On failure:** mana is lost.

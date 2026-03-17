@@ -12,7 +12,7 @@
 
 The mage opens a sustained breach and calls forth an army of lesser creatures that follow their command.
 
-**System:** Roll [[10_System/Attributes/Calculation\|Calculation]] + [[10_System/Schools/Dimensionalism/Dimensionalism\|Dimensionalism]] vs difficulty 6. Requires 5 successes.
+**System:** Roll [[10_System/Attributes/Magical/Calculation\|Calculation]] + [[10_System/Schools/Dimensionalism/Dimensionalism\|Dimensionalism]] vs difficulty 6. Requires 5 successes.
 **On success:** Opens a sustained breach and calls forth an army of lesser creatures that follow their command.
 **Overcharge:** Can be spent on standard enhancements (Duration, Scale) or Potency (+1 to minion stats).
 **On failure:** mana is lost.

@@ -12,7 +12,7 @@
 
 The mage raises a skeleton from a corpse, creating a simple undead servant.
 
-**System:** Roll [[10_System/Attributes/Calculation\|Calculation]] + [[10_System/Schools/Animation/Animation\|Animation]] vs difficulty 6. Requires 2 successes.
+**System:** Roll [[10_System/Attributes/Magical/Calculation\|Calculation]] + [[10_System/Schools/Animation/Animation\|Animation]] vs difficulty 6. Requires 2 successes.
 **On success:** Raises a skeleton from a corpse, creating a simple undead servant.
 **Overcharge:** Can be spent on standard enhancements (Duration, Scale) or Potency (+1 to minion stats).
 **On failure:** mana is lost.

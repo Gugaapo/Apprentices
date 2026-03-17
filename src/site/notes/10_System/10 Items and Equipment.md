@@ -20,7 +20,7 @@ To acquire a piece of equipment during the loop, you must reach the appropriate 
 ---
 
 ## Weapons
-Mundane weapons add a static modifier to the base damage a character inflicts when they successfully strike a target using **[[10_System/Attributes/Melee Combat\|Melee Combat]]** or **[[10_System/Attributes/Ranged Combat\|Ranged Combat]]**. If they hit, the target takes damage equal to the weapon's Base Damage rating.
+Mundane weapons add a static modifier to the base damage a character inflicts when they successfully strike a target using **[[10_System/Attributes/Physical/Melee Combat\|Melee Combat]]** or **[[10_System/Attributes/Physical/Ranged Combat\|Ranged Combat]]**. If they hit, the target takes damage equal to the weapon's Base Damage rating.
 
 ### Modifier: Masterwork Quality
 A weapon purchased at the *Wealthy* Funds level or higher is perfectly balanced. It grants **+1 die** to the attack roll (but does not increase Base Damage). This does not carry over between loops unless Soul-bound.
@@ -35,8 +35,8 @@ Instead of increasing a defense number or target threshold, mundane armor in thi
 2. When the armor takes more damage than it has Temporary Boxes, it is considered "Shattered" or "Ruined" and provides no further benefit until repaired or replaced (requiring a Time Slot and Funds).
 3. Temporary Health Boxes from armor *do not heal* magically or through rest; the armor must be physically repaired or replaced.
 
-### [[10_System/Attributes/Stealth\|Stealth]] Penalties
-While a thick layer of chainmail or a riot shield provides excellent temporary health, the GM should assess a **-1 to -3 dice penalty** when a character attempts to roll **[[10_System/Attributes/Stealth\|Stealth]]** or **[[10_System/Attributes/Mobility\|Mobility]]** while wearing Heavy Armor.
+### [[10_System/Attributes/Physical/Stealth\|Stealth]] Penalties
+While a thick layer of chainmail or a riot shield provides excellent temporary health, the GM should assess a **-1 to -3 dice penalty** when a character attempts to roll **[[10_System/Attributes/Physical/Stealth\|Stealth]]** or **[[10_System/Attributes/Physical/Mobility\|Mobility]]** while wearing Heavy Armor.
 
 ---
 
@@ -49,7 +49,7 @@ Mundane weapons are easy to buy in [[30_Locations/Cities and Towns/Cyoria\|Cyori
 Acquiring anything magical beyond standard "student supplies" generally requires:
 1. Reaching the required **Funds Level**.
 2. Spending a **Time Slot** actively searching the black market or smuggling rings.
-3. Passing a **[[10_System/Attributes/Streetwise\|Streetwise]]** or **[[10_System/Attributes/Academics\|Academics]]** roll to find a reliable supplier.
+3. Passing a **[[10_System/Attributes/Social/Streetwise\|Streetwise]]** or **[[10_System/Attributes/Mental/Academics\|Academics]]** roll to find a reliable supplier.
 
 ---
 

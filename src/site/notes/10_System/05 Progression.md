@@ -24,7 +24,7 @@ Study Points represent time spent practicing, reading, attending Academy lecture
 
 #### What SP Buys (The Costs):
 - **Learn a New Spell:** SP equal to the Spell's Tier (e.g., Tier 3 spell = 3 SP). *Requires the appropriate dots in the Core School.*
-- **Master a Spell:** SP equal to the Spell's Tier. *Max Mastered Spells = [[10_System/Attributes/Memory\|Memory]] × 2.*
+- **Master a Spell:** SP equal to the Spell's Tier. *Max Mastered Spells = [[10_System/Attributes/Magical/Memory\|Memory]] × 2.*
 - **Increase an Attribute (Mental, Physical, Social, or Magical):** New Rating × 3 SP. *(e.g., Going from Tier 2 to Tier 3 costs 9 SP).*
 - **Increase a Core Magic School (1 to 5):** New Rating × 4 SP. *(e.g., Going from Tier 3 to Tier 4 in Alteration costs 16 SP).*
 

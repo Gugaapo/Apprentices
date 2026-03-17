@@ -11,7 +11,7 @@
 
 The mage conjures a collection of pre-charged crystal batteries from distant sources and arranges them for use.
 
-**System:** Roll [[10_System/Attributes/Calculation\|Calculation]] + [[10_System/Schools/Dimensionalism/Dimensionalism\|Dimensionalism]] vs difficulty 7.
+**System:** Roll [[10_System/Attributes/Magical/Calculation\|Calculation]] + [[10_System/Schools/Dimensionalism/Dimensionalism\|Dimensionalism]] vs difficulty 7.
 **On success:** Conjures a collection of pre-charged crystal batteries from distant sources and arranges them for use.
 Each additional success adds duration or intensity.
 **On failure:** mana is lost.

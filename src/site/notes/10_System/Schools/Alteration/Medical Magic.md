@@ -29,7 +29,7 @@ Acquiring dots and Powers here requires deep dedication. The spells are extremel
 | **Tier 5** | *[[Total Biological Reconstruction\|Total Biological Reconstruction]]* | Regrow a lost limb, repair spinal injuries, or reverse the effects of severe magical corruption. |
 
 ## Mechanical Focus
-Medical Magic uses [[10_System/Attributes/Calculation\|Calculation]] (for anatomical precision) and [[10_System/Attributes/Medicine\|Medicine]] (mundane medical knowledge) together. A high [[10_System/Attributes/Medicine\|Medicine]] attribute significantly boosts the effectiveness of Medical Magic spells. Without mundane anatomical knowledge, even a high-tier medical mage will cause more harm than good.
+Medical Magic uses [[10_System/Attributes/Magical/Calculation\|Calculation]] (for anatomical precision) and [[10_System/Attributes/Mental/Medicine\|Medicine]] (mundane medical knowledge) together. A high [[10_System/Attributes/Mental/Medicine\|Medicine]] attribute significantly boosts the effectiveness of Medical Magic spells. Without mundane anatomical knowledge, even a high-tier medical mage will cause more harm than good.
 
 ---
 

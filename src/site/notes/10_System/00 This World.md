@@ -40,7 +40,7 @@ The act of using magic is called **[[50_Magic/Glossary/Shaping\|Shaping]]**, so 
 Magic fundamentally exists in two forms:
 
 ### Unstructured Magic
-The raw expression of intent. A mage simply visualizes an effect and "shapes in the air," clumsily forcing [[50_Magic/Glossary/mana\|mana]] to flow without a structured path until it happens. Because it relies purely on [[10_System/Attributes/Willpower\|Willpower]] and lacks an organized framework of canals, it is horribly inefficient. Unstructured magic is useful for tiny parlor tricks (like lighting a candle or gently closing a door), but trying to use it for anything complex or powerful would take decades of trial and error. It is slow, clumsy, but highly flexible.
+The raw expression of intent. A mage simply visualizes an effect and "shapes in the air," clumsily forcing [[50_Magic/Glossary/mana\|mana]] to flow without a structured path until it happens. Because it relies purely on [[10_System/Attributes/Magical/Willpower\|Willpower]] and lacks an organized framework of canals, it is horribly inefficient. Unstructured magic is useful for tiny parlor tricks (like lighting a candle or gently closing a door), but trying to use it for anything complex or powerful would take decades of trial and error. It is slow, clumsy, but highly flexible.
 
 ### Structured Magic (Spells)
 Because the chaotic nature of "shaping in the air" is too dangerous and slow for emergencies, the ancients developed a "divine limiter" system: **Spells**. 

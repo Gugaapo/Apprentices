@@ -12,7 +12,7 @@
 
 The mage touches a corpse and briefly reactivates its vocal cords, asking it one question.
 
-**System:** Roll [[10_System/Attributes/Calculation\|Calculation]] + [[10_System/Schools/Animation/Animation\|Animation]] vs difficulty 4.
+**System:** Roll [[10_System/Attributes/Magical/Calculation\|Calculation]] + [[10_System/Schools/Animation/Animation\|Animation]] vs difficulty 4.
 **On success:** Touches a corpse and briefly reactivates its vocal cords, asking it one question.
 Each additional success adds duration or intensity.
 **On failure:** mana is lost.

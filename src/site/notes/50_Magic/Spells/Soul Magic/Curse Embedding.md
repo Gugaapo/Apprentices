@@ -12,7 +12,7 @@
 
 The mage carves a potent curse deep into a target's soul, making it very difficult to remove.
 
-**System:** Roll [[10_System/Attributes/Willpower\|Willpower]] + [[10_System/Schools/Soul Magic/Soul Magic\|Soul Magic]] vs difficulty 6.
+**System:** Roll [[10_System/Attributes/Magical/Willpower\|Willpower]] + [[10_System/Schools/Soul Magic/Soul Magic\|Soul Magic]] vs difficulty 6.
 **On success:** Carves a potent curse deep into a target's soul, making it very difficult to remove.
 Each additional success adds duration or intensity.
 **On failure:** mana is lost.

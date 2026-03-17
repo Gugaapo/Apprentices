@@ -8,7 +8,7 @@
 
 The mage touches a bleeding wound and forces the blood to clot immediately, sealing the wound from the inside.
 
-**System:** Roll [[10_System/Attributes/Calculation\|Calculation]] + [[10_System/Schools/Alteration/Alteration\|Alteration]] vs difficulty 6. Requires 1 success.
+**System:** Roll [[10_System/Attributes/Magical/Calculation\|Calculation]] + [[10_System/Schools/Alteration/Alteration\|Alteration]] vs difficulty 6. Requires 1 success.
 **On success:** Touches a bleeding wound and forces the blood to clot immediately, sealing the wound from the inside.
 **Overcharge:** Can be spent on standard enhancements (Scale) or Potency (+1 healing).
 **On failure:** mana is lost.

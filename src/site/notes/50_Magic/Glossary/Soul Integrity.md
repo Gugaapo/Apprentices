@@ -6,6 +6,6 @@
 
 **Soul Integrity** is the durability of your character's spiritual core. Physical wounds heal upon death when the loop resets, but damage to the Soul is strictly permanent across timelines.
 
-**[[10_System/Attributes/Calculation\|Calculation]]:** `6 + Memory + Calculation + Finesse + Willpower` (Base 10)
+**[[10_System/Attributes/Magical/Calculation\|Calculation]]:** `6 + Memory + Calculation + Finesse + Willpower` (Base 10)
 
 Eldritch attacks, failing horrific forbidden spells, or being struck by [[10_System/Schools/Soul Magic/Soul Carving\|Soul Carving]] magics can deal Soul Damage. If all boxes of a character's Soul Integrity are checked, they suffer **True Death**, meaning their soul is shattered and they do not return on the next restart.

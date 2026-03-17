@@ -8,7 +8,7 @@
 
 The mage assembles bones from multiple corpses into a large, powerful skeletal construct.
 
-**System:** Roll [[10_System/Attributes/Calculation\|Calculation]] + [[10_System/Schools/Animation/Animation\|Animation]] vs difficulty 6. Requires 3 successes.
+**System:** Roll [[10_System/Attributes/Magical/Calculation\|Calculation]] + [[10_System/Schools/Animation/Animation\|Animation]] vs difficulty 6. Requires 3 successes.
 **On success:** Assembles bones from multiple corpses into a large, powerful skeletal construct.
 **Overcharge:** Can be spent on standard enhancements (Duration, Scale) or Potency (+1 to minion stats).
 **On failure:** mana is lost.

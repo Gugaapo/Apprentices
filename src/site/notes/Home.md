@@ -29,12 +29,12 @@ Use the sidebar to browse, or press `Ctrl+K` to search.
 > [!info] Tip
 > Use the sidebar on the left to navigate through the folder structure of the vault.
 
-| File                                                                          | Last Modified            |
-| ----------------------------------------------------------------------------- | ------------------------ |
-| [[00_Meta/Session Log Template\|Session Log Template]]                     | 3:07 PM - March 17, 2026 |
-| [[00_Meta/Character Sheet Template\|Character Sheet Template]]             | 3:07 PM - March 17, 2026 |
-| [[Home\|Home]]                                                             | 3:06 PM - March 17, 2026 |
-| [[40_People/Factions/Houses/Noble_Houses_Overview\|Noble_Houses_Overview]] | 2:22 PM - March 17, 2026 |
-| [[20_World/02 The Imperial Artifacts\|02 The Imperial Artifacts]]          | 2:21 PM - March 17, 2026 |
+| File                                                          | Last Modified            |
+| ------------------------------------------------------------- | ------------------------ |
+| [[10_System/Attributes/Social/Streetwise\|Streetwise]]     | 7:15 PM - March 17, 2026 |
+| [[10_System/Attributes/Social/Society\|Society]]           | 7:15 PM - March 17, 2026 |
+| [[10_System/Attributes/Social/Intimidation\|Intimidation]] | 7:15 PM - March 17, 2026 |
+| [[10_System/Attributes/Social/Insight\|Insight]]           | 7:15 PM - March 17, 2026 |
+| [[10_System/Attributes/Social/Deception\|Deception]]       | 7:15 PM - March 17, 2026 |
 
 { .block-language-dataview}

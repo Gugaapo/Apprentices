@@ -8,7 +8,7 @@
 
 The mage instantly closes distance using a short Projection-assisted burst and delivers a devastating enhanced strike.
 
-**System:** Roll [[10_System/Attributes/Willpower\|Willpower]] + [[10_System/Schools/Projection/Projection\|Projection]] vs difficulty 6. Requires 3 successes.
+**System:** Roll [[10_System/Attributes/Magical/Willpower\|Willpower]] + [[10_System/Schools/Projection/Projection\|Projection]] vs difficulty 6. Requires 3 successes.
 **On success:** Instantly closes distance using a short Projection-assisted burst and delivers a devastating enhanced strike.
 **Overcharge:** Can be spent on Potency (+1 damage) or to apply the *Hindered* Status Effect.
 **On failure:** mana is lost.
