@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-system/attributes/charm/","tags":["attribute","social"],"dgShowFileTree":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/10-system/attributes/charm/","tags":["attribute","social"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
 
 # Charm

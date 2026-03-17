@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/50-magic/spells/illusionism/psychic-ping/","tags":["spell","illusionism"],"dgShowFileTree":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/50-magic/spells/illusionism/psychic-ping/","tags":["spell","illusionism"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
 
 ### Psychic Ping

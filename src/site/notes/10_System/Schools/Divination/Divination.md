@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-system/schools/divination/divination/","tags":["rules","magic","divination"],"dgShowFileTree":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/10-system/schools/divination/divination/","tags":["rules","magic","divination"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
 
 # Divination

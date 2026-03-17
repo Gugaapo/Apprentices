@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/50-magic/spells/alteration/elongated-reach/","tags":["spell","alteration"],"dgShowFileTree":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/50-magic/spells/alteration/elongated-reach/","tags":["spell","alteration"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
 
 ### Elongated Reach

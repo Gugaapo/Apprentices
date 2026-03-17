@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/70-bestiary/magical-beasts/eyebeast/","tags":["lore","bestiary","magical_beast","aberration"],"dgShowFileTree":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/70-bestiary/magical-beasts/eyebeast/","tags":["lore","bestiary","magical_beast","aberration"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
 
 # Eyebeast

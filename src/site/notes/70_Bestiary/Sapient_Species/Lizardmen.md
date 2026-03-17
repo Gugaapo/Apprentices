@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/70-bestiary/sapient-species/lizardmen/","tags":["lore","species"],"dgShowFileTree":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/70-bestiary/sapient-species/lizardmen/","tags":["lore","species"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
 
 # Lizardmen

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-system/schools/alteration/transformation/","tags":["rules","magic","transformation"],"dgShowFileTree":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/10-system/schools/alteration/transformation/","tags":["rules","magic","transformation"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
 
 # Transformation

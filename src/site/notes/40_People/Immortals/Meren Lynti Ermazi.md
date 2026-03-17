@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-people/immortals/meren-lynti-ermazi/","dgShowFileTree":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/40-people/immortals/meren-lynti-ermazi/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
 
 

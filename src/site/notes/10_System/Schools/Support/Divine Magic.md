@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-system/schools/support/divine-magic/","tags":["rules","magic","divine-magic"],"dgShowFileTree":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/10-system/schools/support/divine-magic/","tags":["rules","magic","divine-magic"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
 
 # Divine Magic

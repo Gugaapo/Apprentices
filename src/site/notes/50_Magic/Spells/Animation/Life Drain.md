@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/50-magic/spells/animation/life-drain/","tags":["spell","animation"],"dgShowFileTree":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/50-magic/spells/animation/life-drain/","tags":["spell","animation"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
 
 ### Life Drain

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/50-magic/spells/animation/speak-with-dead/","tags":["spell","animation"],"dgShowFileTree":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/50-magic/spells/animation/speak-with-dead/","tags":["spell","animation"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
 
 ### Speak with Dead

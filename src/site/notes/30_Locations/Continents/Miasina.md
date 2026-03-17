@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-locations/continents/miasina/","tags":["location","continent","history"],"dgShowFileTree":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/30-locations/continents/miasina/","tags":["location","continent","history"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
 
 

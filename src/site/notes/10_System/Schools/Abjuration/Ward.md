@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-system/schools/abjuration/ward/","tags":["rules","magic","ward"],"dgShowFileTree":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/10-system/schools/abjuration/ward/","tags":["rules","magic","ward"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
 
 # Ward

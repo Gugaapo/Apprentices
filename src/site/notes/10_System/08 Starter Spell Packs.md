@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-system/08-starter-spell-packs/","tags":["rules","character-creation","spells","guide"],"dgShowFileTree":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/10-system/08-starter-spell-packs/","tags":["rules","character-creation","spells","guide"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
 
 # Chapter 7: Starter Spell Packs

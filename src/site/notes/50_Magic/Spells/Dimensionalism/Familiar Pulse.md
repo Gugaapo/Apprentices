@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/50-magic/spells/dimensionalism/familiar-pulse/","tags":["spell","dimensionalism"],"dgShowFileTree":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/50-magic/spells/dimensionalism/familiar-pulse/","tags":["spell","dimensionalism"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
 
 ### Familiar Pulse

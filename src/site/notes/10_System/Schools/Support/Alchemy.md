@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-system/schools/support/alchemy/","tags":["rules","magic","alchemy"],"dgShowFileTree":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/10-system/schools/support/alchemy/","tags":["rules","magic","alchemy"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
 
 # Alchemy

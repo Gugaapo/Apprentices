@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20-world/society/the-academy-system/","tags":["lore","society","education"],"dgShowFileTree":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/20-world/society/the-academy-system/","tags":["lore","society","education"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
 
 

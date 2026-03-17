@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-people/factions/houses/house-ashirai/","tags":["lore","society","soul_magic"],"dgShowFileTree":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/40-people/factions/houses/house-ashirai/","tags":["lore","society","soul_magic"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
 
 

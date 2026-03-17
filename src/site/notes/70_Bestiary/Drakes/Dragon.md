@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/70-bestiary/drakes/dragon/","tags":["lore","bestiary","draconic"],"dgShowFileTree":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/70-bestiary/drakes/dragon/","tags":["lore","bestiary","draconic"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
 
 # Dragon

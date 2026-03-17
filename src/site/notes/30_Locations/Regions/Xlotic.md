@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-locations/regions/xlotic/","tags":["location","major"],"dgShowFileTree":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/30-locations/regions/xlotic/","tags":["location","major"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
 
 
@@ -36,8 +36,21 @@ While a smattering of common [[30_Locations/Other/Ikosian Empire\|Ikosian]] is s
 ## The Xlotic Desert
 
 The deep desert has no major human settlements
+:::hidden
+, but it contains:
 
+- **Ziggurat of the Sun** — A [[70_Bestiary/Sapient_Species/Sulrothum\|sulrothum]]-occupied complex built on former Ikosian temple ruins, deep in the desert interior. This is where the **Imperial Ring** is held by the high priest of a wasp-like tool-using species (the [[70_Bestiary/Sapient_Species/Sulrothum\|sulrothum]]).
+- A **seasonal river** and a large **underground lake** beneath the ziggurat complex.
+- A massive, terrifying apex predator **Sandworm** that swims through the dunes, notably **immune to mind magic**.
+:::
 ### Environmental Hazards
 Without constant high-tier [[40_People/Factions/Cyorian Academy/Classes/Ward Class\|Ward Class]] protection and cooling spells ([[40_People/Factions/Cyorian Academy/Classes/Alteration Class\|Alteration Class]]), mages will succumb to the lethal temperatures.
 
 ---
+:::hidden
+## Campaign Significance
+
+- Location of the **[[60_Items/Key Items/04 Imperial Ring\|Imperial Ring]]** — one of the five Keys to escape the time loop.
+- Players must navigate the desert and deal with the **[[70_Bestiary/Sapient_Species/Sulrothum\|sulrothum]]** to retrieve it.
+- The [[70_Bestiary/Sapient_Species/Sulrothum\|sulrothum]] are protected by divine favor, making them resistant to normal magical approaches.
+:::

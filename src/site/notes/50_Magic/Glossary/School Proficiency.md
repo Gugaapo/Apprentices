@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/50-magic/glossary/school-proficiency/","tags":["rules","vocabulary","glossary","proficiency"],"dgShowFileTree":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/50-magic/glossary/school-proficiency/","tags":["rules","vocabulary","glossary","proficiency"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
 
 # School Proficiency

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/70-bestiary/magical-plants/soulseizer-chrysanthemum/","tags":["lore","bestiary","magical_plant"],"dgShowFileTree":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/70-bestiary/magical-plants/soulseizer-chrysanthemum/","tags":["lore","bestiary","magical_plant"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
 
 # Soulseizer Chrysanthemum

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20-world/history/timeline/06-the-splinter-wars/","title":"The Splinter Wars","tags":["lore","history","war","firearms","timeline"],"dgShowFileTree":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/20-world/history/timeline/06-the-splinter-wars/","title":"The Splinter Wars","tags":["lore","history","war","firearms","timeline"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
 
 

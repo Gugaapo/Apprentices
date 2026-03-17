@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-people/immortals/lepi-amurru-tusa/","dgShowFileTree":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/40-people/immortals/lepi-amurru-tusa/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20-world/history/timeline/01-age-of-the-primordials/","title":"Age of the Primordials","tags":["lore","history","myth","timeline"],"dgShowFileTree":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/20-world/history/timeline/01-age-of-the-primordials/","title":"Age of the Primordials","tags":["lore","history","myth","timeline"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-system/10-items-and-equipment/","tags":["rules","items","equipment","weapons","armor","consumables","focus"],"dgShowFileTree":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/10-system/10-items-and-equipment/","tags":["rules","items","equipment","weapons","armor","consumables","focus"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
 
 # Items and Equipment

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/60-items/materials/crystalized-mana/","tags":["item","material","mana"],"dgShowFileTree":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/60-items/materials/crystalized-mana/","tags":["item","material","mana"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
 
 

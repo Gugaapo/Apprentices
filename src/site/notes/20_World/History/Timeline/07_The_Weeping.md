@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20-world/history/timeline/07-the-weeping/","title":"The Weeping","tags":["lore","history","plague","timeline"],"dgShowFileTree":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/20-world/history/timeline/07-the-weeping/","title":"The Weeping","tags":["lore","history","plague","timeline"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-system/00-this-world/","tags":["rules","lore","primer"],"dgShowFileTree":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/10-system/00-this-world/","tags":["rules","lore","primer"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
 
 # Chapter 0: This World

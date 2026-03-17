@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-system/attributes/memory/","tags":["attribute","magical"],"dgShowFileTree":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/10-system/attributes/memory/","tags":["attribute","magical"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
 
 # Memory

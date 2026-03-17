@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-locations/continents/blantyrre/","tags":["location","continent"],"dgShowFileTree":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/30-locations/continents/blantyrre/","tags":["location","continent"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
 
 

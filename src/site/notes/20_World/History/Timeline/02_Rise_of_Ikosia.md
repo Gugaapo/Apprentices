@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20-world/history/timeline/02-rise-of-ikosia/","title":"Rise of Ikosia","tags":["lore","history","ikosia","timeline"],"dgShowFileTree":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/20-world/history/timeline/02-rise-of-ikosia/","title":"Rise of Ikosia","tags":["lore","history","ikosia","timeline"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
 
 

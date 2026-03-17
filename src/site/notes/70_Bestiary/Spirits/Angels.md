@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/70-bestiary/spirits/angels/","dgShowFileTree":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/70-bestiary/spirits/angels/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
 
 

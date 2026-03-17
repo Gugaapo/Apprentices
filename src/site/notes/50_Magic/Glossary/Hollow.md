@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/50-magic/glossary/hollow/","tags":["rules","glossary","sanity","hollow"],"dgShowFileTree":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/50-magic/glossary/hollow/","tags":["rules","glossary","sanity","hollow"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
 
 # Hollow

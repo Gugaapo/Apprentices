@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-system/backgrounds/military-brat/","tags":["rules","background","character-creation"],"dgShowFileTree":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/10-system/backgrounds/military-brat/","tags":["rules","background","character-creation"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
 
 

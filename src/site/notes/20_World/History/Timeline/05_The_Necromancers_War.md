@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20-world/history/timeline/05-the-necromancers-war/","title":"The Necromancers' War","tags":["lore","history","undead","timeline"],"dgShowFileTree":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/20-world/history/timeline/05-the-necromancers-war/","title":"The Necromancers' War","tags":["lore","history","undead","timeline"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
 
 

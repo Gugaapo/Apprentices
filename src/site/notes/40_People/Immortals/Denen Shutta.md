@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-people/immortals/denen-shutta/","dgShowFileTree":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/40-people/immortals/denen-shutta/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
 
 

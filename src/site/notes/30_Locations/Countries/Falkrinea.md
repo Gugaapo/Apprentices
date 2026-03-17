@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-locations/countries/falkrinea/","tags":["location","country"],"dgShowFileTree":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/30-locations/countries/falkrinea/","tags":["location","country"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/50-magic/glossary/transformation-shell/","tags":["rule","vocabulary","transformation"],"dgShowFileTree":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/50-magic/glossary/transformation-shell/","tags":["rule","vocabulary","transformation"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
 
 

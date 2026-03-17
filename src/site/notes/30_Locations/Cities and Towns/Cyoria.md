@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-locations/cities-and-towns/cyoria/","tags":["location","major","city","eldemar"],"dgShowFileTree":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/30-locations/cities-and-towns/cyoria/","tags":["location","major","city","eldemar"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
 
 

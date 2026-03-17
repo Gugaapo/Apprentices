@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/50-magic/glossary/specializations/","tags":["rules","vocabulary","glossary","magic","specialization"],"dgShowFileTree":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/50-magic/glossary/specializations/","tags":["rules","vocabulary","glossary","magic","specialization"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
 
 # Specializations

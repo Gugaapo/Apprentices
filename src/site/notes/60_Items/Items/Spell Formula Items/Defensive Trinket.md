@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/60-items/items/spell-formula-items/defensive-trinket/","tags":["item","spell_formula"],"dgShowFileTree":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/60-items/items/spell-formula-items/defensive-trinket/","tags":["item","spell_formula"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
 
 # Defensive Trinket

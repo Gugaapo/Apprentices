@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/60-items/items/power-sources/standard-cut-crystal/","tags":["item","power_source","crystal"],"dgShowFileTree":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/60-items/items/power-sources/standard-cut-crystal/","tags":["item","power_source","crystal"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
 
 # Standard Cut Crystal

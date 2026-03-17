@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/50-magic/glossary/spell-mastery/","tags":["rules","glossary","magic","mastery"],"dgShowFileTree":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/50-magic/glossary/spell-mastery/","tags":["rules","glossary","magic","mastery"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
 
 # Spell Mastery (Muscle Memory)

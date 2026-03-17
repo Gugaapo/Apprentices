@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-system/attributes/academics/","tags":["attribute","mental"],"dgShowFileTree":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/10-system/attributes/academics/","tags":["attribute","mental"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
 
 # Academics

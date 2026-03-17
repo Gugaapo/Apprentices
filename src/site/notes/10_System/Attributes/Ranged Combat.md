@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-system/attributes/ranged-combat/","tags":["attribute","physical"],"dgShowFileTree":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/10-system/attributes/ranged-combat/","tags":["attribute","physical"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
 
 # Ranged Combat

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-system/09-crafting/","tags":["rules","items","crafting"],"dgShowFileTree":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/10-system/09-crafting/","tags":["rules","items","crafting"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
 
 # Magical Crafting: Alchemy & Spell Formula

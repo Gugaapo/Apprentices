@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20-world/society/the-triumvirate-church-and-faith/","tags":["lore","society","religion","church"],"dgShowFileTree":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/20-world/society/the-triumvirate-church-and-faith/","tags":["lore","society","religion","church"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
 
 
