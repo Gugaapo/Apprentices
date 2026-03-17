@@ -11,25 +11,25 @@ Use this cheat sheet to quickly roll up a first-year student at the Cyorian Acad
 ## Step 1: Choose a Background
 Choose **one** background to define your character's past.
 
-| Background | Starting Bonus |
-|---|---|
-| **[[10_System/Backgrounds/Noble Scion\|Noble Scion]]** | +3 Attribute Points |
-| **[[10_System/Backgrounds/Magical Lineage\|Magical Lineage]]** | +1 free dot in any Core School Proficiency |
-| **[[10_System/Backgrounds/Street Rat\|Street Rat]]** | Free [[50_Magic/Traits/Merits/Social Chameleon\|Social Chameleon]] merit |
-| **[[10_System/Backgrounds/Scholar's Child\|Scholar's Child]]** | Free [[50_Magic/Traits/Merits/Eidetic Memory\|Eidetic Memory]] merit |
-| **[[10_System/Backgrounds/State Orphan\|State Orphan]]** | +1 [[10_System/Attributes/Willpower\|Willpower]], +1 [[10_System/Attributes/Stealth\|Stealth]] |
-| **[[10_System/Backgrounds/Rural Outsider\|Rural Outsider]]** | +2 extra Flaw Points (max 6) |
-| **[[10_System/Backgrounds/Temple Acolyte\|Temple Acolyte]]** | +1 free dot in [[10_System/Schools/Abjuration/Ward\|Ward]] |
-| **[[10_System/Backgrounds/Merchant Family\|Merchant Family]]** | Double starting funds + stipend |
-| **[[10_System/Backgrounds/Industrial Pioneer\|Industrial Pioneer]]** | +1 [[10_System/Attributes/Calculation\|Calculation]], +1 [[10_System/Attributes/Academics\|Academics]] |
-| **[[10_System/Backgrounds/Alchemist's Apprentice\|Alchemist's Apprentice]]** | +1 free dot in [[10_System/Schools/Support/Alchemy\|Alchemy]] + alchemy kit |
-| **[[10_System/Backgrounds/Dungeon Scavenger\|Dungeon Scavenger]]** | +1 free dot in [[10_System/Attributes/Survival\|Survival]], +1 [[10_System/Attributes/Awareness\|Awareness]] |
-| **[[10_System/Backgrounds/Prodigy\|Prodigy]]** | Free [[50_Magic/Traits/Merits/Academic Prodigy\|Academic Prodigy]] merit |
-| **[[10_System/Backgrounds/Foreign Exchange Student\|Foreign Exchange Student]]** | +1 dot in [[10_System/Attributes/Insight\|Insight]], +1 dot in [[10_System/Attributes/Society\|Society]] |
-| **[[10_System/Backgrounds/Military Brat\|Military Brat]]** | +1 dot in [[10_System/Attributes/Melee Combat\|Melee Combat]] or [[10_System/Attributes/Ranged Combat\|Ranged Combat]], starts with weapon |
-| **[[10_System/Backgrounds/Disgraced Nobility\|Disgraced Nobility]]** | +1 dot in [[10_System/Attributes/Deception\|Deception]], +1 dot in [[10_System/Attributes/Academics\|Academics]] |
-| **[[10_System/Backgrounds/Syndicate Scion\|Syndicate Scion]]** | +1 dot in [[10_System/Attributes/Streetwise\|Streetwise]], +1 dot in [[Sleight\|Sleight]] |
-| **[[10_System/Backgrounds/Monster Hunter's Heir\|Monster Hunter's Heir]]** | +1 dot in [[10_System/Attributes/Survival\|Survival]], +1 dot in [[10_System/Attributes/Awareness\|Awareness]] |
+| Background                       | Starting Bonus                                                      |
+| -------------------------------- | ------------------------------------------------------------------- |
+| **[[10_System/Backgrounds/Noble Scion\|Noble Scion]]**              | +3 Attribute Points                                                 |
+| **[[10_System/Backgrounds/Magical Lineage\|Magical Lineage]]**          | +1 free dot in any Core School Proficiency                          |
+| **[[10_System/Backgrounds/Street Rat\|Street Rat]]**               | Free [[50_Magic/Traits/Merits/Social Chameleon\|Social Chameleon]] merit                                     |
+| **[[10_System/Backgrounds/Scholar's Child\|Scholar's Child]]**          | Free [[50_Magic/Traits/Merits/Eidetic Memory\|Eidetic Memory]] merit                                       |
+| **[[10_System/Backgrounds/State Orphan\|State Orphan]]**             | +1 [[10_System/Attributes/Willpower\|Willpower]], +1 [[10_System/Attributes/Stealth\|Stealth]]                                    |
+| **[[10_System/Backgrounds/Rural Outsider\|Rural Outsider]]**           | +2 extra Flaw Points (max 6)                                        |
+| **[[10_System/Backgrounds/Temple Acolyte\|Temple Acolyte]]**           | +1 free dot in [[10_System/Schools/Abjuration/Ward\|Ward]]                                             |
+| **[[10_System/Backgrounds/Merchant Family\|Merchant Family]]**          | Double starting funds + stipend                                     |
+| **[[10_System/Backgrounds/Industrial Pioneer\|Industrial Pioneer]]**       | +1 [[10_System/Attributes/Calculation\|Calculation]], +1 [[10_System/Attributes/Academics\|Academics]]                                |
+| **[[10_System/Backgrounds/Alchemist's Apprentice\|Alchemist's Apprentice]]**   | +1 free dot in [[10_System/Schools/Support/Alchemy\|Alchemy]] + alchemy kit                            |
+| **[[10_System/Backgrounds/Dungeon Scavenger\|Dungeon Scavenger]]**        | +1 free dot in [[10_System/Attributes/Survival\|Survival]], +1 [[10_System/Attributes/Awareness\|Awareness]]                       |
+| **[[10_System/Backgrounds/Prodigy\|Prodigy]]**                  | Free [[50_Magic/Traits/Merits/Academic Prodigy\|Academic Prodigy]] merit                                     |
+| **[[10_System/Backgrounds/Foreign Exchange Student\|Foreign Exchange Student]]** | +1 dot in [[10_System/Attributes/Insight\|Insight]], +1 dot in [[10_System/Attributes/Society\|Society]]                        |
+| **[[10_System/Backgrounds/Military Brat\|Military Brat]]**            | +1 dot in [[10_System/Attributes/Melee Combat\|Melee Combat]] or [[10_System/Attributes/Ranged Combat\|Ranged Combat]], starts with weapon |
+| **[[10_System/Backgrounds/Disgraced Nobility\|Disgraced Nobility]]**       | +1 dot in [[10_System/Attributes/Deception\|Deception]], +1 dot in [[10_System/Attributes/Academics\|Academics]]                    |
+| **[[10_System/Backgrounds/Syndicate Scion\|Syndicate Scion]]**          | +1 dot in [[10_System/Attributes/Streetwise\|Streetwise]], +1 dot in [[10_System/Attributes/Sleight of Hands\|Sleight of Hands]]            |
+| **[[10_System/Backgrounds/Monster Hunter's Heir\|Monster Hunter's Heir]]**    | +1 dot in [[10_System/Attributes/Survival\|Survival]], +1 dot in [[10_System/Attributes/Awareness\|Awareness]]                     |
 
 ---
 

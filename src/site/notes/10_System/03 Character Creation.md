@@ -28,13 +28,13 @@ Above ordinary mages, there exist rare individuals known as **[[50_Magic/Glossar
 ### How Do People See Mages?
 The answer depends entirely on *who* you ask:
 
-| Group            | View of Mages                                                                                                                                                                                                                            |
-| ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Commoners**    | A mix of hope and suspicion. Academy graduates earn excellent wages, but a mage who snaps could burn down a city block. Many parents dream of their child testing positive for the gift.                                                 |
-| **The Nobility** | Resentful and threatened. The old Houses see commoner mages as thieves stealing *their* birthright. They still hold immense political power and will use it to remind "new money" mages of their place.                                  |
-| **The Military** | Invaluable assets. The state views trained mages as strategic weapons. Generous scholarships often come with **mandatory military service** clauses buried in the fine print.                                                            |
-| **The Church**   | Watchful and wary. The [[The_Triumvirate_Church\|Triumvirate Church]] holds the sole legal authority over [[10_System/Schools/Soul Magic/Soul Magic\|Soul Magic]] and [[10_System/Schools/Animation/Necromancy\|Necromancy]]. Any mage who dabbles in forbidden arts will find Templars at their door. |
-| **Criminals**    | A goldmine. Magical talent is highly prized by smuggling rings, assassin guilds, and underground fighting pits. A desperate student drowning in debt is an easy recruit.                                                                 |
+| Group            | View of Mages                                                                                                                                                                                           |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Commoners**    | A mix of hope and suspicion. Academy graduates earn excellent wages, but a mage who snaps could burn down a city block. Many parents dream of their child testing positive for the gift.                |
+| **The Nobility** | Resentful and threatened. The old Houses see commoner mages as thieves stealing *their* birthright. They still hold immense political power and will use it to remind "new money" mages of their place. |
+| **The Military** | Invaluable assets. The state views trained mages as strategic weapons. Generous scholarships often come with **mandatory military service** clauses buried in the fine print.                           |
+| **The Church**   | Watchful and wary. The [[40_People/Factions/Triumvirate Church\|Triumvirate Church]] holds the sole legal authority over [[10_System/Schools/Soul Magic/Soul Magic\|Soul Magic]] and [[10_System/Schools/Animation/Necromancy\|Necromancy]]. Any mage who dabbles in forbidden arts will find Templars at their door.           |
+| **Criminals**    | A goldmine. Magical talent is highly prized by smuggling rings, assassin guilds, and underground fighting pits. A desperate student drowning in debt is an easy recruit.                                |
 
 ### Career Paths for a Mage
 The Academy doesn't just teach you magic, it certifies you for a *profession*. Upon graduation, common career paths include:

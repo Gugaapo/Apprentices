@@ -1,0 +1,28 @@
+---
+{"dg-publish":true,"permalink":"/20-world/society/magic-users-of-pre-ikosian-altazia/","dgShowFileTree":true,"noteIcon":""}
+---
+
+
+# Magic Users of Pre-Ikosian Altazia
+
+Before the [[20_World/History/Timeline/04_The_Cataclysm\|Cataclysm]] and the large-scale migration of [[30_Locations/Other/Ikosian Empire\|Ikosian]] mages to [[30_Locations/Continents/Altazia\|Altazia]], the continent was a complex landscape of warring tribes and isolated city states. [[30_Locations/Continents/Altazia\|Altazian]] humans were far less populous, and their magical traditions were heavily connected to native religions. However, three distinct magical traditions proved exceptionally novel and influential, changing [[30_Locations/Other/Ikosian Empire\|Ikosian]]  magical tradition forever: the [[70_Bestiary/Sapient_Species/Shifters\|Shifters]], the [[20_World/Society/Magic Users of Pre-Ikosian Altazia#Witches\|Witches]], and the [[20_World/Society/Magic Users of Pre-Ikosian Altazia#Morlocks\|Morlocks]].
+
+## Witches
+
+In pre-Ikosian [[30_Locations/Continents/Altazia\|Altazia]], only the priesthood was allowed to wield magic openly. However, women (who were generally barred from the patriarchal priesthood) sometimes came into possession of magic. These 'witches' lived on the edges of their communities, offering magical services to those who sought them out. 
+
+Shunned by society and opposed by the priesthood, witches formed 'covens' to share magical insights and protect each other. They grew insular and secretive, developing their own customs and a highly antagonistic relationship with normal society.
+
+*   **Potion Making:** Due to their conflict with the priesthood, witches had to figure out alternative sources of magical healing. They refined rudimentary herbal remedies into supernatural cures, eventually branching out into mind-affecting drugs, [[10_System/Schools/Alteration/Transformation\|transformation potions]], and poisons.
+*   **Soul Magic & Beliefs:** Witches used [[10_System/Schools/Soul Magic/Soul Magic\|Soul Magic]] for enforcing deals via geas, forging familiar links, and reading soul auras. Observing the creation of souls in developing children, they noted that a child's soul 'buds off' from the mother's soul. This led to the belief that a person’s ‘soul lineage’ originated solely from female ancestors, making sons spiritual dead ends. Some covens killed male offspring, while others used them for political marriages or coven labor.
+*   **The Golden Age & Fall:** After the [[20_World/History/Timeline/03_Twilight_and_Silence\|Silence of the Gods]], divine healing vanished, making witch potions the primary source of medical care. The covens entered a golden age but fractured due to internal tensions between tradition-bound elders and ambitious young witches.
+*   **Ikosian Assimilation:** When [[30_Locations/Other/Ikosian Empire\|Ikosian]]  conquered [[30_Locations/Continents/Altazia\|Altazia]], they tempted young witches into their service, legitimizing them and using their potion basics to develop what is today known as **[[10_System/Schools/Support/Alchemy\|Alchemy]]**. The [[30_Locations/Other/Ikosian Empire\|Ikosian]]  then cracked down on unlicensed covens. The surviving modern covens use [[30_Locations/Other/Ikosian Empire\|Ikosian]]  spellcasting and [[10_System/Schools/Support/Alchemy\|alchemy]], but remain on the margins of society due to lingering prejudices and their matriarchal traditions. Many powerful modern mage families and Noble Houses draw their roots from ancient witch lineages.
+
+## Morlocks
+
+The Morlocks were a culture of subterranean humans specifically adapted for underground existence in [[30_Locations/Continents/Altazia\|Altazia]]'s [[30_Locations/Other/Dungeon\|Dungeon]]. They possessed white hair, vivid blue eyes, excellent low-light vision, and perfect hearing.
+
+*   **Underground Empire:** The ancestors of the morlocks colonized the surface layers of the [[30_Locations/Other/Dungeon\|Dungeon]], battling creatures for living space. At their height, just before the [[20_World/History/Timeline/03_Twilight_and_Silence\|Silence of the Gods]], they possessed the highest level of technology and magical sophistication on the continent.
+*   **Blood Magic & Cannibalism:** They were feared and hated by surface humans for their slave raids. Morlocks excelled in **[[10_System/Schools/Alteration/Blood Magic\|Blood Magic]]** and practiced ritual cannibalism, believing they could steal the powers of their enemies and preserve the wisdom of their ancestors by eating their flesh.
+*   **The Fall:** The [[20_World/History/Timeline/03_Twilight_and_Silence\|Silence of the Gods]] removed their divinely-granted powers, causing them to struggle and increase surface raids. When the [[30_Locations/Other/Ikosian Empire\|Ikosian]]  arrived, they broke the backs of the morlock kingdoms, leaving them vulnerable to deep [[30_Locations/Other/Dungeon\|Dungeon]] creatures. The surviving morlocks fled to the surface and surrendered.
+*   **Aftermath:** The [[30_Locations/Other/Ikosian Empire\|Ikosian]]  forced the morlocks to convert and scattered them to speed up assimilation. Today, morlocks exist on the periphery of society and suffer heavy discrimination. However, their [[10_System/Schools/Alteration/Blood Magic\|Blood Magic]] survived, secretly compiled by [[30_Locations/Other/Ikosian Empire\|Ikosian]]  mages. Many modern Houses and magical bloodlines owe their existence to the [[10_System/Schools/Alteration/Blood Magic\|blood magic]] acquired from the morlocks.

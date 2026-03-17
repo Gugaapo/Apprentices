@@ -16,12 +16,12 @@ Welcome to the collective knowledge repository for our Mother of Learning campai
 > [!info] Tip
 > Use the sidebar on the left to navigate through the folder structure of the vault.
 
-| File                                                            | Last Modified             |
-| --------------------------------------------------------------- | ------------------------- |
-| [[10_System/00 This World\|00 This World]]                   | 10:44 AM - March 17, 2026 |
-| [[10_System/02 Economy\|02 Economy]]                         | 10:40 AM - March 17, 2026 |
-| [[10_System/10 Items and Equipment\|10 Items and Equipment]] | 10:40 AM - March 17, 2026 |
-| [[Home\|Home]]                                               | 10:40 AM - March 17, 2026 |
-| [[10_System/09 Crafting\|09 Crafting]]                       | 10:25 AM - March 17, 2026 |
+| File                                                                                                 | Last Modified             |
+| ---------------------------------------------------------------------------------------------------- | ------------------------- |
+| [[20_World/01 Time Loop and The Sovereign Gate\|01 Time Loop and The Sovereign Gate]]             | 11:02 AM - March 17, 2026 |
+| [[20_World/Society/The Triumvirate Church and Faith\|The Triumvirate Church and Faith]]           | 11:02 AM - March 17, 2026 |
+| [[gemini-scribe/Agent-Sessions/World-Building Integration Plan\|World-Building Integration Plan]] | 11:02 AM - March 17, 2026 |
+| [[40_People/Immortals/Lepi-Amurru Tusa\|Lepi-Amurru Tusa]]                                        | 11:02 AM - March 17, 2026 |
+| [[20_World/Society/Magic Users of Pre-Ikosian Altazia\|Magic Users of Pre-Ikosian Altazia]]       | 11:02 AM - March 17, 2026 |
 
 { .block-language-dataview}
