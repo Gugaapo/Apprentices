@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-people/factions/cyorian-academy/enrollments/enrollment-rules/","tags":["academy","enrollment","rules"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/40-people/factions/cyorian-academy/enrollments/enrollment-rules/","tags":["academy","enrollment","rules"],"dgShowBacklinks":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
 
 # Academy Enrolment Rules

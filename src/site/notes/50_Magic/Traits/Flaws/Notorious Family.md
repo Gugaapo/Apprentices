@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/50-magic/traits/flaws/notorious-family/","tags":["rules","traits","flaws"],"dgShowFileTree":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/50-magic/traits/flaws/notorious-family/","tags":["rules","traits","flaws"],"dgShowBacklinks":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
 
 # Notorious Family

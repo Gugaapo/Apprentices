@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"dgShowBacklinks":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
 
 
@@ -18,10 +18,10 @@ Welcome to the collective knowledge repository for our Mother of Learning campai
 
 | File                                                               | Last Modified             |
 | ------------------------------------------------------------------ | ------------------------- |
-| [[Sessions/System_Optimization_Plan\|System_Optimization_Plan]] | 12:32 PM - March 17, 2026 |
-| [[Sessions/Session 0\|Session 0]]                               | 12:32 PM - March 17, 2026 |
-| [[Sessions/Session_01\|Session_01]]                             | 12:32 PM - March 17, 2026 |
-| [[Sessions/Playtest_Transcription\|Playtest_Transcription]]     | 12:32 PM - March 17, 2026 |
-| [[gemini-scribe/Prompts/example-expert\|example-expert]]        | 12:32 PM - March 17, 2026 |
+| [[gemini-scribe/AGENTS\|AGENTS]]                                | 2:01 PM - March 17, 2026  |
+| [[50_Magic/Spell List\|Spell List]]                             | 1:55 PM - March 17, 2026  |
+| [[Sessions/Session_01\|Session_01]]                             | 12:39 PM - March 17, 2026 |
+| [[Sessions/System_Optimization_Plan\|System_Optimization_Plan]] | 12:39 PM - March 17, 2026 |
+| [[Sessions/Session 0\|Session 0]]                               | 12:39 PM - March 17, 2026 |
 
 { .block-language-dataview}

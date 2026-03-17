@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-system/02-economy/","tags":["rules","items","economy","funds"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/10-system/02-economy/","tags":["rules","items","economy","funds"],"dgShowBacklinks":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
 
 # Economy & Funds

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-system/attributes/melee-combat/","tags":["attribute","physical"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/10-system/attributes/melee-combat/","tags":["attribute","physical"],"dgShowBacklinks":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
 
 # Melee Combat

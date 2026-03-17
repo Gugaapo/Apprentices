@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-locations/continents/altazia/","tags":["location","continent"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/30-locations/continents/altazia/","tags":["location","continent"],"dgShowBacklinks":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
 
 [[30_Locations/Regions/Splinter States\|Splinter States]]

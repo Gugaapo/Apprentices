@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20-world/society/spread-of-magical-training/","tags":["lore","society","magic"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/20-world/society/spread-of-magical-training/","tags":["lore","society","magic"],"dgShowBacklinks":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
 
 

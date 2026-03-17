@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-system/03-character-creation/","tags":["rules","character-creation"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/10-system/03-character-creation/","tags":["rules","character-creation"],"dgShowBacklinks":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
 
 # Chapter 4: Character Creation

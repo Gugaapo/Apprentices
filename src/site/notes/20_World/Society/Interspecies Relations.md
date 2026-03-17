@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20-world/society/interspecies-relations/","tags":["lore","society","species"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/20-world/society/interspecies-relations/","tags":["lore","society","species"],"dgShowBacklinks":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
 
 

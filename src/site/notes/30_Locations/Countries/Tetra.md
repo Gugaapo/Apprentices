@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-locations/countries/tetra/","tags":["location","country","splinter_state"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/30-locations/countries/tetra/","tags":["location","country","splinter_state"],"dgShowBacklinks":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
 
 

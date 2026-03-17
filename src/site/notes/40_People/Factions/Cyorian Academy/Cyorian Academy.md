@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-people/factions/cyorian-academy/cyorian-academy/","tags":["organization","academy","eldemar"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/40-people/factions/cyorian-academy/cyorian-academy/","tags":["organization","academy","eldemar"],"dgShowBacklinks":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
 
 

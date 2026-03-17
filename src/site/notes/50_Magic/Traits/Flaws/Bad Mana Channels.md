@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/50-magic/traits/flaws/bad-mana-channels/","tags":["rules","traits","flaws"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/50-magic/traits/flaws/bad-mana-channels/","tags":["rules","traits","flaws"],"dgShowBacklinks":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
 
 # Bad Mana Channels

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-system/backgrounds/scholar-s-child/","tags":["rules","character-creation","background"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/10-system/backgrounds/scholar-s-child/","tags":["rules","character-creation","background"],"dgShowBacklinks":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
 
 # Scholar's Child

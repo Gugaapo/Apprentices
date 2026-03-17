@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-system/03b-quick-character-creation/","tags":["rules","character-creation","quick-reference"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/10-system/03b-quick-character-creation/","tags":["rules","character-creation","quick-reference"],"dgShowBacklinks":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
 
 # Quick Character Creation

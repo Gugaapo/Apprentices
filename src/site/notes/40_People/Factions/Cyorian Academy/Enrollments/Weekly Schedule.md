@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-people/factions/cyorian-academy/enrollments/weekly-schedule/","tags":["academy","enrollment","schedule"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/40-people/factions/cyorian-academy/enrollments/weekly-schedule/","tags":["academy","enrollment","schedule"],"dgShowBacklinks":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
 
 # The Weekly Schedule Matrix

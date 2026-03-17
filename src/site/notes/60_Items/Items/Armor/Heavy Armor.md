@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/60-items/items/armor/heavy-armor/","tags":["item","armor"],"dgShowFileTree":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/60-items/items/armor/heavy-armor/","tags":["item","armor"],"dgShowBacklinks":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
 
 # Heavy Armor

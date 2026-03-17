@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-locations/other/the-hole/","tags":["location","major","dungeon","mana-well","cyoria"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/30-locations/other/the-hole/","tags":["location","major","dungeon","mana-well","cyoria"],"dgShowBacklinks":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
 
 
