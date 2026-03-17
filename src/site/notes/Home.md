@@ -18,10 +18,10 @@ Welcome to the collective knowledge repository for our Mother of Learning campai
 
 | File                                                            | Last Modified             |
 | --------------------------------------------------------------- | ------------------------- |
+| [[10_System/00 This World\|00 This World]]                   | 10:44 AM - March 17, 2026 |
 | [[10_System/02 Economy\|02 Economy]]                         | 10:40 AM - March 17, 2026 |
 | [[10_System/10 Items and Equipment\|10 Items and Equipment]] | 10:40 AM - March 17, 2026 |
 | [[Home\|Home]]                                               | 10:40 AM - March 17, 2026 |
 | [[10_System/09 Crafting\|09 Crafting]]                       | 10:25 AM - March 17, 2026 |
-| [[10_System/08 Starter Spell Packs\|08 Starter Spell Packs]] | 10:25 AM - March 17, 2026 |
 
 { .block-language-dataview}
