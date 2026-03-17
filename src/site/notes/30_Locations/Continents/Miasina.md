@@ -8,7 +8,7 @@
 Miasina is the ancestral heart of human civilization and the birthplace of the [[30_Locations/Other/Ikosian Empire\|Ikosian Empire]].
 
 ## The Cataclysm
-Once a lush and fertile continent, Miasina was devastated by the **[[20_World/History/Timeline/04_The_Cataclysm\|Cataclysm]]**, a rapid desertification event that turned the northern region of [[30_Locations/Regions/Xlotic\|Xlotic]] into an uninhabitable wasteland. This forced the Ikosian people to migrate north to [[30_Locations/Continents/Altazia\|Altazia]].
+Once a lush and fertile continent, Miasina was devastated by the **[[20_World/History/Timeline/04 The Cataclysm\|Cataclysm]]**, a rapid desertification event that turned the northern region of [[30_Locations/Regions/Xlotic\|Xlotic]] into an uninhabitable wasteland. This forced the Ikosian people to migrate north to [[30_Locations/Continents/Altazia\|Altazia]].
 
 ## Regions
 - **[[30_Locations/Regions/Xlotic\|Xlotic]]**: A vast desert in the north 

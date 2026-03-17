@@ -16,12 +16,12 @@ Welcome to the collective knowledge repository for our Mother of Learning campai
 > [!info] Tip
 > Use the sidebar on the left to navigate through the folder structure of the vault.
 
-| File                                                               | Last Modified             |
-| ------------------------------------------------------------------ | ------------------------- |
-| [[gemini-scribe/AGENTS\|AGENTS]]                                | 2:01 PM - March 17, 2026  |
-| [[50_Magic/Spell List\|Spell List]]                             | 1:55 PM - March 17, 2026  |
-| [[Sessions/Session_01\|Session_01]]                             | 12:39 PM - March 17, 2026 |
-| [[Sessions/System_Optimization_Plan\|System_Optimization_Plan]] | 12:39 PM - March 17, 2026 |
-| [[Sessions/Session 0\|Session 0]]                               | 12:39 PM - March 17, 2026 |
+| File                                                           | Last Modified            |
+| -------------------------------------------------------------- | ------------------------ |
+| [[20_World/History/Time Loop\|Time Loop]]                   | 2:20 PM - March 17, 2026 |
+| [[90_AI_Context/HISTORY\|HISTORY]]                          | 2:20 PM - March 17, 2026 |
+| [[60_Items/Key Items/06 Sovereign Gate\|06 Sovereign Gate]] | 2:20 PM - March 17, 2026 |
+| [[40_People/NPCs/Teachers/Zenomir Olgai\|Zenomir Olgai]]    | 2:20 PM - March 17, 2026 |
+| [[40_People/NPCs/Others/Oganj\|Oganj]]                      | 2:20 PM - March 17, 2026 |
 
 { .block-language-dataview}

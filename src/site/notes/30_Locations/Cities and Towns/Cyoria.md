@@ -57,7 +57,7 @@ Cyoria serves as the kingdom's intellectual heart. The Academy is an elite insti
 ## Campaign Significance
 
 - **Primary setting** for the entire campaign.
-- The city is **invaded at the end of every restart** during the Summer Festival by forces from [[30_Locations/Other/Ulquaan Ibasa\|Ulquaan Ibasa]] and the [[40_People/Factions/Esoteric Order of the Celestial Dragon\|Esoteric Order]] led by [[40_People/NPCs/Enemies/Quatach-Ichl\|Quatach-Ichl]]. This triggers the [[20_World/History/01 Time Loop\|Time Loop]]'s reset.
+- The city is **invaded at the end of every restart** during the Summer Festival by forces from [[30_Locations/Other/Ulquaan Ibasa\|Ulquaan Ibasa]] and the [[40_People/Factions/Esoteric Order of the Celestial Dragon\|Esoteric Order]] led by [[40_People/NPCs/Enemies/Quatach-Ichl\|Quatach-Ichl]]. This triggers the [[20_World/History/Time Loop\|Time Loop]]'s reset.
 - The Sovereign Gate — the mechanism controlling the time loop — is hidden deep within the Hole.
 - Preventing or surviving the invasion is a central challenge of every loop iteration.
 :::

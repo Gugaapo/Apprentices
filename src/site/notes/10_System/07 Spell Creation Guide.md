@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/10-system/07-spell-creation-guide/","tags":["rules","magic","spells","guide","homebrew"],"dgShowBacklinks":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
 
-# Chapter 6: Spell Creation Guide
+
 
 > **Purpose:** This guide is for both **DMs** and **players** who want to create new spells (Powers) that feel mechanically balanced and tonally consistent with the world of [[30_Locations/Continents/Ersetu\|Ersetu]]. Read this *after* [[10_System/06 The Magic System\|06 The Magic System]] — that chapter covers how casting works; this one covers how to **design** what gets cast.
 

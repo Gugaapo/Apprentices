@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/10-system/03-character-creation/","tags":["rules","character-creation"],"dgShowBacklinks":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
 
-# Chapter 4: Character Creation
+
 
 Creating a character for **Apprentices** is about defining who they are and how they will survive the gruelling, cutthroat environment of the [[40_People/Factions/Cyorian Academy/Cyorian Academy\|Cyorian Academy]].
 
@@ -19,7 +19,7 @@ Not everyone can use magic. The ability to sense, draw upon, and shape [[50_Magi
 The role of mages in [[30_Locations/Countries/Eldemar\|Eldemar]] has changed dramatically in recent decades.
 
 - **The Old World:** For millennia, magic was the exclusive weapon of the [[40_People/Factions/Houses/Noble_Houses_Overview\|Noble Houses]]. Techniques were jealously guarded bloodline secrets, and a single trained battlemage could rout an entire regiment of mundane soldiers. Mages *were* the aristocracy, and the aristocracy *were* mages. Non-magical commoners viewed them with a volatile mix of awe, fear, and resentment.
-- **The Fall:** The [[20_World/History/Timeline/06_The_Splinter_Wars\|Splinter Wars]] shattered this paradigm. Cheap, mass-produced firearms proved that a peasant with a rifle could kill an archmage with a well-placed shot. The [[20_World/History/Timeline/07_The_Weeping\|Weeping]] that followed, a devastating magical plague, annihilated entire noble bloodlines. The old magical elite was broken almost overnight.
+- **The Fall:** The [[20_World/History/Timeline/06 The Splinter Wars\|Splinter Wars]] shattered this paradigm. Cheap, mass-produced firearms proved that a peasant with a rifle could kill an archmage with a well-placed shot. The [[20_World/History/Timeline/07 The Weeping\|Weeping]] that followed, a devastating magical plague, annihilated entire noble bloodlines. The old magical elite was broken almost overnight.
 - **The New World:** Desperate for fresh mages to fill their decimated ranks, governments like Eldemar established massive, state-funded Academies that actively recruit talented commoners. Magic is being **democratized**. Your character is a product of this new era, possibly the first mage in their entire family line, sitting in a classroom next to the spoiled heir of a dying [[40_People/Factions/Houses/Noble_Houses_Overview\|Noble House.]]
 
 ### [[50_Magic/Glossary/Archmage\|Archmages]]

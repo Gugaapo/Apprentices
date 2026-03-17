@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/10-system/00-this-world/","tags":["rules","lore","primer"],"dgShowBacklinks":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
 
-# Chapter 0: This World
+
 
 Welcome to the vibrant, dangerous, and rapidly changing world of **Ersetu**. Before diving into the mechanics of spellcasting and character creation, this chapter provides a brief overview of the world your characters inhabit.
 

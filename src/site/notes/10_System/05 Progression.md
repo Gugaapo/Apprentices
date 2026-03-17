@@ -3,7 +3,6 @@
 ---
 
 
-## Progression & Growth: Time is the Currency
 
 Because the Academy environment is grueling, the ultimate currency for progression is not arbitrary XP, it's **Time**. Progression is tied directly to how you choose to spend your days.
 
@@ -44,8 +43,3 @@ If SP is time, IP is *breakthroughs*. You cannot become an Archmage just by sitt
 - **Break the Tier 5 Cap (1 IP + SP cost):** To reach Tier 5 (Master/Mythic) in *any* Attribute or Magic School, grinding SP isn't enough. You must spend 1 IP to achieve the final paradigm shift required for true mastery.
 - **Soul-Bind an Item (2 IP):** Spending IP to permanently bind a non-magical or minor magical item to the character's soul so it travels back in time with them during the Reset.
 
-:::hidden
-### 4. The Monthly Check
-At the end of the month, the Academy holds rigorous evaluations, or the plot simply advances to a new phase (or the Loop resets). The characters retain the Study Points (SP) and Insights they earned. 
-- **Checkpointing:** If you need 12 SP to level up an Attribute, and the loop ends when you have 10 SP invested, you simply continue the next loop with 10 SP already invested towards that goal.
-:::

@@ -2,9 +2,8 @@
 {"dg-publish":true,"permalink":"/10-system/10-items-and-equipment/","tags":["rules","items","equipment","weapons","armor","consumables","focus"],"dgShowBacklinks":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
 
-# Items and Equipment
 
-In **The Loop**, mundane gear is incredibly useful in the early stages of a loop, but because the characters are mages, true power comes from their spells and [[50_Magic/Glossary/mana\|mana]]. Mundane weapons and armor are abstracted rather than rigidly simulated.
+In **Apprentices**, mundane gear is incredibly useful in the early stages of a loop, but because the characters are mages, true power comes from their spells and [[50_Magic/Glossary/mana\|mana]]. Mundane weapons and armor are abstracted rather than rigidly simulated.
 
 **General Rule:** If a mundane item breaks, is confiscated, or left behind during a loop, it is gone forever (until the loop resets, at which point you wake up with whatever you originally possessed on Day 1).
 

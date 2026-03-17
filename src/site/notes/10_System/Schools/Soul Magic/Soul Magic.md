@@ -38,7 +38,7 @@ Soul Magic is the only school that can directly damage a character's **[[50_Magi
 
 Soul Magic is the study of the **metaphysical architecture of the self** — the soul, its connection to the body, and the fundamental questions of life, death, and consciousness. It is the most dangerous and most illegal branch of magic, and for good reason: its practitioners can directly damage, manipulate, or sever the bond between a person's soul and their physical form.
 
-In the age before the Silence of the Gods, soul magic was allegedly practiced openly by divine servants. When the gods departed, the knowledge was sealed away by the [[The_Triumvirate_Church\|Triumvirate Church]], who declared it heretical. The most infamous practitioner in living memory is [[40_People/NPCs/Enemies/Quatach-Ichl\|Quatach-Ichl]], the immortal lich who fought in the [[20_World/History/Timeline/05_The_Necromancers_War\|Necromancer's War]].
+In the age before the Silence of the Gods, soul magic was allegedly practiced openly by divine servants. When the gods departed, the knowledge was sealed away by the [[The_Triumvirate_Church\|Triumvirate Church]], who declared it heretical. The most infamous practitioner in living memory is [[40_People/NPCs/Enemies/Quatach-Ichl\|Quatach-Ichl]], the immortal lich who fought in the [[20_World/History/Timeline/05 The Necromancers War\|Necromancer's War]].
 
 ### The Truth of Necromancy and Undead
 Contrary to popular myth, creating corporeal undead (zombies, skeletons, undead beasts) is not as simple as snapping one's fingers and casting a single combat spell. 

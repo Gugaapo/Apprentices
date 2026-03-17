@@ -15,6 +15,6 @@ To humans, there is little difference between this behavior and pure Evil. Set l
 ## Summoning
 Demons must be summoned to the material plane. Once here, they do not return until their vessel (an ectoplasmic shell, a puppet, or a possessed body) is destroyed. They accept life force and souls as payment, making them easier to hire than mages. Some ancient demons know secrets and restricted spells that many mages badly want to acquire.
 
-The [[20_World/History/Timeline/03_Twilight_and_Silence\|Silence of the Gods]] definitely created more demon summoners. Modern demons are bolder and more aggressive when dealing with [[70_Bestiary/Spirits/Angels\|angels]], but because demons constantly fight among themselves, they haven't managed to inflict huge losses on the united angelic strongholds.
+The [[20_World/History/Timeline/03 Twilight and Silence\|Silence of the Gods]] definitely created more demon summoners. Modern demons are bolder and more aggressive when dealing with [[70_Bestiary/Spirits/Angels\|angels]], but because demons constantly fight among themselves, they haven't managed to inflict huge losses on the united angelic strongholds.
 
 Demons are extremely proficient in [[10_System/Schools/Soul Magic/Soul Magic\|soul warfare]], far more so than humans, because they depend on [[10_System/Schools/Soul Magic/Soul Magic\|soul magic]] skills just to survive on a daily basis in the spirit realm.

@@ -20,7 +20,7 @@
 
 The Kingdom of Eldemar is the primary national setting of this campaign. It is one of the "Big Three" major powers of the [[30_Locations/Continents/Altazia\|Altazia]] continent, originally the head of a group of loosely allied states called the **Old Alliance** (officially the Alliance of Eldemar).
 
-A terrible king and internal problems caused the alliance to fracture. The subsequent **[[20_World/History/Timeline/06_The_Splinter_Wars\|Splinter Wars]]** — made especially devastating by the introduction of firearms, which allowed smaller nations to defeat those with powerful mage armies — split it apart further. Today, Eldemar is formed from the core of the Old Alliance. It is ruled by a King, though the **Council of Elders** (composed of [[40_People/Factions/Houses/Noble_Houses_Overview\|Noble Houses]]) holds immense political sway.
+A terrible king and internal problems caused the alliance to fracture. The subsequent **[[20_World/History/Timeline/06 The Splinter Wars\|Splinter Wars]]** — made especially devastating by the introduction of firearms, which allowed smaller nations to defeat those with powerful mage armies — split it apart further. Today, Eldemar is formed from the core of the Old Alliance. It is ruled by a King, though the **Council of Elders** (composed of [[40_People/Factions/Houses/Noble_Houses_Overview\|Noble Houses]]) holds immense political sway.
 
 ---
 

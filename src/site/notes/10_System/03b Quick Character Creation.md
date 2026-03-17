@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/10-system/03b-quick-character-creation/","tags":["rules","character-creation","quick-reference"],"dgShowBacklinks":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
 
-# Quick Character Creation
+
 
 Use this cheat sheet to quickly roll up a first-year student at the Cyorian Academy. For detailed lore and full explanations of these steps, please see [[10_System/03 Character Creation\|03 Character Creation]].
 

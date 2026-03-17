@@ -29,7 +29,7 @@ Despite its harsh climate, the island is incredibly rich in ambient [[50_Magic/G
 
 ## History
 
-The island was settled by undead nobility and their followers who fled following their defeat in the **[[20_World/History/Timeline/05_The_Necromancers_War\|Necromancer's War]]**. They retreated there, correctly assuming the mainland nations would not pursue them to such an inhospitable place, settling the south of the island.
+The island was settled by undead nobility and their followers who fled following their defeat in the **[[20_World/History/Timeline/05 The Necromancers War\|Necromancer's War]]**. They retreated there, correctly assuming the mainland nations would not pursue them to such an inhospitable place, settling the south of the island.
 
 ---
 

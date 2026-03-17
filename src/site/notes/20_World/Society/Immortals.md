@@ -29,7 +29,7 @@ The Immortal Eleven helped each other become immortal, making them highly unusua
 7. [[40_People/Immortals/Aidak Cren\|Aidak Cren]]: Martial artist and [[10_System/Schools/Support/Alchemy\|alchemist]], residing in [[30_Locations/Continents/Hsan\|Hsan]].
 8. [[40_People/Immortals/Manani Weshekari\|Manani Weshekari]]: (Likely Deceased) Combat mage lost in the [[30_Locations/Other/Dungeon\|deep dungeon]].
 9. [[40_People/Immortals/Sherden-Anixua Zenich\|Sherden-Anixua Zenich]]: (Deceased) Obsessed with dragons and dragon magic, killed by a dragon mage.
-10. [[40_People/Immortals/Sakelus Arexino\|Sakelus Arexino]]: (Deceased) Combat mage killed by gunfire in the [[20_World/History/Timeline/06_The_Splinter_Wars\|Splinter Wars]].
+10. [[40_People/Immortals/Sakelus Arexino\|Sakelus Arexino]]: (Deceased) Combat mage killed by gunfire in the [[20_World/History/Timeline/06 The Splinter Wars\|Splinter Wars]].
 11. [[40_People/Immortals/Isek Kalko\|Isek Kalko]]: (Deceased) [[10_System/Schools/Abjuration/Ward\|Ward]] specialist assassinated in a massive explosion.
 
 *(Note: Undead and [[70_Bestiary/Spirits_Overview\|spirits]] are not considered true immortals, as they naturally do not age.)*

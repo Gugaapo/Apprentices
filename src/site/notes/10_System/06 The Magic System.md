@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/10-system/06-the-magic-system/","tags":["rules","magic","spells","dynamic-casting"],"dgShowBacklinks":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
 
-# Chapter 2: The Magic System
+
 
 In Apprentices, spells are not rigid, unchangeable actions. Instead, a spell is a complex architecture of **mana canals** that mages mould, push, and weave into existence. The act of casting is colloquially referred to as **[[50_Magic/Glossary/Shaping\|Shaping]]**—a mage sensing the [[50_Magic/Glossary/mana\|mana]] in the atmosphere and physically shaping it into a specific canal matrix to guide and transform the energy into an effect.
 

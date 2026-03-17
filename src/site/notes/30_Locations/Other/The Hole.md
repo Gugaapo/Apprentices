@@ -26,7 +26,7 @@ As the highest known tier of a Mana Well, the energy pouring from The Hole is so
 
 :::hidden
 ### The Sovereign Gate
-Hidden deep within the uncharted, highly dangerous depths of The Hole lies the **Sovereign Gate**, the ancient, divine artifact mechanism that controls the [[20_World/History/01 Time Loop\|Time Loop]]. 
+Hidden deep within the uncharted, highly dangerous depths of The Hole lies the **Sovereign Gate**, the ancient, divine artifact mechanism that controls the [[20_World/History/Time Loop\|Time Loop]]. 
 
 ### The Prison of Panaxeth
 The deepest levels of The Hole contain ancient, incredibly powerful planar seals. These seals are responsible for keeping the Primordial **[[40_People/NPCs/Enemies/Panaxeth\|Panaxeth]]** imprisoned beneath the city. 

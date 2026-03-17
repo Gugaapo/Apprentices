@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/10-system/08-starter-spell-packs/","tags":["rules","character-creation","spells","guide"],"dgShowBacklinks":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
 
-# Chapter 7: Starter Spell Packs
+
 
 > **Purpose:** Choosing your first spells from a catalogue of 800+ options is overwhelming. This chapter provides **curated recommendations** — 3-5 reliable Tier 1–2 spells per Core School that are thematically iconic, mechanically useful, and appropriate for a first-year Academy student.
 

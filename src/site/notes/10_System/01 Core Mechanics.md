@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/10-system/01-core-mechanics/","tags":["rules","core","attributes","skills","health","sanity"],"dgShowBacklinks":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
 
-# Chapter 1: Core Mechanics & The Apprentice
+
 
 Welcome to **Apprentices**. This chapter covers the fundamental mechanics of the game, how to roll the dice, and what your character's attributes mean.
 

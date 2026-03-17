@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/10-system/04-traits/","tags":["rules","traits","merits","flaws"],"dgShowBacklinks":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
 
-# Chapter 3: Traits & Progression
+
 
 Traits are permanent markers on a character's mind and soul. Some are prerequisites for specialised [[50_Magic/Glossary/Shaping\|Shaping]] Skills, while others provide unique benefits or drawbacks that carry throughout their career.
 
