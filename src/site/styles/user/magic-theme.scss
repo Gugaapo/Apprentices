@@ -30,6 +30,9 @@
 /* ======================== */
 .sidebar {
   border-right: 1px solid var(--mg-border) !important;
+  min-width: 280px !important;
+  width: 280px !important;
+  margin-right: 16px !important;
 }
 
 .filetree-sidebar {
@@ -42,7 +45,7 @@
 .filetree-sidebar > div {
   border: 1px solid var(--mg-gold-dim) !important;
   border-radius: 6px !important;
-  padding: 12px 8px !important;
+  padding: 14px 16px !important;
   margin: 8px 6px !important;
   position: relative !important;
   background: rgba(13, 10, 26, 0.3) !important;
