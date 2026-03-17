@@ -7,12 +7,14 @@
 
 :root {
   --mg-gold: #c9a84c;
+  --mg-gold-dim: rgba(201, 168, 76, 0.3);
   --mg-purple: #9b72cf;
   --mg-text: #ccc;
   --mg-dim: #666;
   --mg-hover-bg: rgba(155, 114, 207, 0.08);
   --mg-active-bg: rgba(155, 114, 207, 0.12);
   --mg-border: rgba(155, 114, 207, 0.15);
+  --mg-tree-line: rgba(155, 114, 207, 0.18);
 }
 
 /* Site name */
@@ -23,23 +25,90 @@
   letter-spacing: 1px !important;
 }
 
-/* Sidebar */
+/* ======================== */
+/*  SIDEBAR + FRAME         */
+/* ======================== */
 .sidebar {
   border-right: 1px solid var(--mg-border) !important;
 }
 
-/* Folder container — subtle left border on hover */
+.filetree-sidebar {
+  font-family: 'Crimson Text', serif !important;
+  font-size: 15px !important;
+}
+
+/* Decorative frame around the file tree */
+.filetree-sidebar .filetree-wrapper,
+.filetree-sidebar > div {
+  border: 1px solid var(--mg-gold-dim) !important;
+  border-radius: 6px !important;
+  padding: 12px 8px !important;
+  margin: 8px 6px !important;
+  position: relative !important;
+  background: rgba(13, 10, 26, 0.3) !important;
+}
+
+/* Corner ornaments via pseudo-elements */
+.filetree-sidebar .filetree-wrapper::before,
+.filetree-sidebar > div::before {
+  content: '✦' !important;
+  position: absolute !important;
+  top: -8px !important;
+  left: 50% !important;
+  transform: translateX(-50%) !important;
+  background: #1a1428 !important;
+  padding: 0 8px !important;
+  color: var(--mg-gold) !important;
+  font-size: 10px !important;
+  letter-spacing: 4px !important;
+}
+
+/* ======================== */
+/*  TREE HIERARCHY LINES    */
+/* ======================== */
+
+/* Every folder draws a vertical connector line */
 .folder {
-  border-left: 1px solid transparent !important;
-  margin-left: 4px !important;
-  transition: border-color 0.2s !important;
+  position: relative !important;
+  margin-left: 6px !important;
+  padding-left: 14px !important;
 }
 
-.folder:hover {
-  border-left-color: var(--mg-border) !important;
+/* Vertical tree line running down the left side of open folders */
+.folder > .inner-folder,
+.folder > div:not(.foldername-wrapper) {
+  border-left: 1px solid var(--mg-tree-line) !important;
+  margin-left: 6px !important;
+  padding-left: 6px !important;
 }
 
-/* Folder names */
+/* Horizontal branch tick for each child item */
+.folder .filename {
+  position: relative !important;
+}
+
+.folder .filename::before {
+  content: '' !important;
+  position: absolute !important;
+  left: -8px !important;
+  top: 50% !important;
+  width: 8px !important;
+  height: 1px !important;
+  background: var(--mg-tree-line) !important;
+}
+
+/* ======================== */
+/*  FOLDER NAMES            */
+/* ======================== */
+.foldername-wrapper {
+  padding: 4px 6px !important;
+  border-radius: 4px !important;
+}
+
+.foldername-wrapper:hover {
+  background: var(--mg-hover-bg) !important;
+}
+
 .foldername {
   font-family: 'Cinzel', serif !important;
   font-size: 12px !important;
@@ -48,22 +117,24 @@
   letter-spacing: 0.3px !important;
 }
 
-/* Chevron icons */
+/* Replace chevron color */
 .foldername-wrapper .svg-icon {
-  color: var(--mg-dim) !important;
+  color: var(--mg-gold-dim) !important;
   width: 12px !important;
   height: 12px !important;
 }
 
-/* File links — left border accent */
+/* ======================== */
+/*  FILE LINKS              */
+/* ======================== */
 .filename {
   font-family: 'Crimson Text', serif !important;
   font-size: 14px !important;
   color: var(--mg-text) !important;
   border-radius: 4px !important;
   border-left: 2px solid transparent !important;
-  margin-left: 8px !important;
-  padding-left: 10px !important;
+  margin-left: 4px !important;
+  padding: 3px 8px 3px 10px !important;
   transition: all 0.2s !important;
 }
 
@@ -79,6 +150,10 @@
   color: var(--mg-gold) !important;
   border-left-color: var(--mg-gold) !important;
 }
+
+/* ======================== */
+/*  REMAINING ELEMENTS      */
+/* ======================== */
 
 /* Tags */
 .tag {
