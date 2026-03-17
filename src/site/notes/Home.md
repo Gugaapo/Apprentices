@@ -16,12 +16,12 @@ Welcome to the collective knowledge repository for our Mother of Learning campai
 > [!info] Tip
 > Use the sidebar on the left to navigate through the folder structure of the vault.
 
-| File                                                             | Last Modified             |
-| ---------------------------------------------------------------- | ------------------------- |
-| [[60_Items/Key Items/06 Sovereign Gate\|06 Sovereign Gate]]   | 11:58 AM - March 17, 2026 |
-| [[60_Items/Key Items/05 Imperial Staff\|05 Imperial Staff]]   | 11:57 AM - March 17, 2026 |
-| [[60_Items/Key Items/04 Imperial Ring\|04 Imperial Ring]]     | 11:57 AM - March 17, 2026 |
-| [[60_Items/Key Items/03 Imperial Orb\|03 Imperial Orb]]       | 11:57 AM - March 17, 2026 |
-| [[60_Items/Key Items/02 Imperial Dagger\|02 Imperial Dagger]] | 11:57 AM - March 17, 2026 |
+| File                                                           | Last Modified             |
+| -------------------------------------------------------------- | ------------------------- |
+| [[60_Items/Materials/Crystalized Mana\|Crystalized Mana]]   | 12:05 PM - March 17, 2026 |
+| [[60_Items/Key Items/06 Sovereign Gate\|06 Sovereign Gate]] | 11:58 AM - March 17, 2026 |
+| [[60_Items/Key Items/05 Imperial Staff\|05 Imperial Staff]] | 11:57 AM - March 17, 2026 |
+| [[60_Items/Key Items/04 Imperial Ring\|04 Imperial Ring]]   | 11:57 AM - March 17, 2026 |
+| [[60_Items/Key Items/03 Imperial Orb\|03 Imperial Orb]]     | 11:57 AM - March 17, 2026 |
 
 { .block-language-dataview}
