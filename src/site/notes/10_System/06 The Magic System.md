@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-system/06-the-magic-system/","tags":["rules","magic","spells","dynamic-casting"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/10-system/06-the-magic-system/","tags":["rules","magic","spells","dynamic-casting"],"dgShowFileTree":true,"noteIcon":""}
 ---
 
 # Chapter 2: The Magic System

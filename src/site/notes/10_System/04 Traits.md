@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-system/04-traits/","tags":["rules","traits","merits","flaws"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/10-system/04-traits/","tags":["rules","traits","merits","flaws"],"dgShowFileTree":true,"noteIcon":""}
 ---
 
 # Chapter 3: Traits & Progression

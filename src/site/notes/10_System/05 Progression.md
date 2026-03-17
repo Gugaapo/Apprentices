@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-system/05-progression/","tags":["rules","progression","character-creation"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/10-system/05-progression/","tags":["rules","progression","character-creation"],"dgShowFileTree":true,"noteIcon":""}
 ---
 
 

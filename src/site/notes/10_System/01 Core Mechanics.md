@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-system/01-core-mechanics/","tags":["rules","core","attributes","skills","health","sanity"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/10-system/01-core-mechanics/","tags":["rules","core","attributes","skills","health","sanity"],"dgShowFileTree":true,"noteIcon":""}
 ---
 
 # Chapter 1: Core Mechanics & The Apprentice

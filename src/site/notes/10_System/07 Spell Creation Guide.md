@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-system/07-spell-creation-guide/","tags":["rules","magic","spells","guide","homebrew"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/10-system/07-spell-creation-guide/","tags":["rules","magic","spells","guide","homebrew"],"dgShowFileTree":true,"noteIcon":""}
 ---
 
 # Chapter 6: Spell Creation Guide
