@@ -22,19 +22,14 @@ A character's wealth is represented by their current Funds level:
 ## The Struggle: Living Expenses
 Living in [[30_Locations/Cities and Towns/Cyoria\|Cyoria]], especially as an Academy student, is not free. 
 
-**At the start of every loop (Day 1), every character must establish their Living Situation.**
-If a character begins the loop at the **Poor** or **Destitute** Funds level, they must secure their basic living expenses before they can focus on saving the city. 
+**At the start hidden
+## The Great Reset
+The core tragedy of the time loop applies to the economy: **Physical wealth and items do not carry over.** 
 
-If they do not upgrade their Funds to at least **Adequate** by **Day 5** of the loop, they suffer a persistent **-1 die penalty** to all Physical and Mental rolls due to malnutrition, lack of sleep, or crushing stress, which lasts until they manage to secure proper lodging and food.
+If you spend three weeks robbing a bank to reach the *Astronomical* Funds level and buy a Masterwork Sword on Day 28... on Day 1 of the next loop, you wake up in your bed at your original Starting Funds level, and the sword is gone. 
 
-## Acquiring Funds
-
-To buy expensive gear or survive the month, players must spend **Time Slots** to acquire Funds. 
-
-When a player dedicates a Time Slot to making money (e.g., working a mundane job, brewing and selling alchemical potions, mugging someone in the lower city, or robbing a vault), they make an appropriate Skill Roll (e.g., *[[10_System/Attributes/Academics\|Academics]], [[10_System/Schools/Support/Alchemy\|Alchemy]], [[10_System/Attributes/Stealth\|Stealth]]*).
-
-Depending on the danger and difficulty:
-* **Standard Work (Safe):** Requires 2 dedicated Time Slots and a successful Skill Roll to raise your Funds by **1 level** for the duration of the loop.
-* **Dangerous/Illegal Work (Risky):** Requires 1 dedicated Time Slot and a successful, high-difficulty Skill Roll to raise your Funds by **1 level** (or potentially **2 levels** for massive heists). *Failure usually results in severe Hard Moves from the GM (jail time, injury, police tracking).*
-
-
+### What Actually Matters
+Because physical wealth resets, the true currency of the loop is **Information**.
+* Finding the passcode to a noble's safe means you don't have to roll to crack it next loop—you just walk in and take the money.
+* Learning the exact day and time a wealthy merchant leaves his carriage unguarded is a permanent upgrade to your ability to acquire Funds quickly in future loops.
+:::
