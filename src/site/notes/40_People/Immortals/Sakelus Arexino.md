@@ -1,0 +1,11 @@
+---
+{"dg-publish":true,"permalink":"/40-people/immortals/sakelus-arexino/","dgShowFileTree":true,"noteIcon":""}
+---
+
+
+# Sakelus Arexino
+
+**Status:** Deceased
+**Affiliation:** The [[100_sources/Immortals\|Immortal Eleven]]
+
+Another combat magic oriented mage, Sakelus participated in the first round of [[20_World/History/Timeline/06_The_Splinter_Wars\|Splinter Wars]] where he suffered an ignoble death via gunfire. Most witnesses agree that his death had been entirely avoidable, but Sakelus considered rifles and other gunpowder weapons to be mere toys and deliberately walked into a trap that ended up claiming his life.

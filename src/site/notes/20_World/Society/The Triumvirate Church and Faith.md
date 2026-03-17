@@ -11,7 +11,7 @@ Religion in [[30_Locations/Continents/Altazia\|Altazia]] is dominated by the Tri
 The core tenet of the faith revolves around three primary deities who are believed to have shaped the world, established the laws of magic, and eventually withdrawn from direct interference. Their silence is interpreted not as abandonment, but as a test of humanity's stewardship over the world and its magical resources.
 
 ## Political Power and Influence
-The Church is not merely a spiritual guide; it is a major political player. It holds vast tracts of land, commands immense wealth, and maintains its own order of militant paladins and inquisitors. The Church frequently clashes with secular governments and the [[40_People/Factions/Noble_Houses/Noble_Houses_Overview\|Noble Houses]] over matters of policy, taxation, and the regulation of magic.
+The Church is not merely a spiritual guide; it is a major political player. It holds vast tracts of land, commands immense wealth, and maintains its own order of militant paladins and inquisitors. The Church frequently clashes with secular governments and the [[40_People/Factions/Houses/Noble_Houses_Overview\|Noble Houses]] over matters of policy, taxation, and the regulation of magic.
 
 ## Control of Divine Relics and Soul Magic
 The Church fiercely polices the use of soul magic and controls the narrative and access surrounding divine power.

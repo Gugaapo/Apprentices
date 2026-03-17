@@ -16,12 +16,12 @@ Welcome to the collective knowledge repository for our Mother of Learning campai
 > [!info] Tip
 > Use the sidebar on the left to navigate through the folder structure of the vault.
 
-| File                                                                                                 | Last Modified             |
-| ---------------------------------------------------------------------------------------------------- | ------------------------- |
-| [[20_World/01 Time Loop and The Sovereign Gate\|01 Time Loop and The Sovereign Gate]]             | 11:02 AM - March 17, 2026 |
-| [[20_World/Society/The Triumvirate Church and Faith\|The Triumvirate Church and Faith]]           | 11:02 AM - March 17, 2026 |
-| [[gemini-scribe/Agent-Sessions/World-Building Integration Plan\|World-Building Integration Plan]] | 11:02 AM - March 17, 2026 |
-| [[40_People/Immortals/Lepi-Amurru Tusa\|Lepi-Amurru Tusa]]                                        | 11:02 AM - March 17, 2026 |
-| [[20_World/Society/Magic Users of Pre-Ikosian Altazia\|Magic Users of Pre-Ikosian Altazia]]       | 11:02 AM - March 17, 2026 |
+| File                                                                    | Last Modified             |
+| ----------------------------------------------------------------------- | ------------------------- |
+| [[40_People/Immortals/Tehanna Arta\|Tehanna Arta]]                   | 11:40 AM - March 17, 2026 |
+| [[40_People/Immortals/Sherden-Anixua Zenich\|Sherden-Anixua Zenich]] | 11:40 AM - March 17, 2026 |
+| [[40_People/Immortals/Sakelus Arexino\|Sakelus Arexino]]             | 11:40 AM - March 17, 2026 |
+| [[40_People/Immortals/Peleset Harata\|Peleset Harata]]               | 11:40 AM - March 17, 2026 |
+| [[40_People/Immortals/Nesir Kode\|Nesir Kode]]                       | 11:40 AM - March 17, 2026 |
 
 { .block-language-dataview}
