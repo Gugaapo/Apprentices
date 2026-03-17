@@ -13,9 +13,13 @@ During Character Creation, every player must choose **One Mentor Professor**.
 * **The Benefit:** The player's assigned Mentor is available to them during the **Afternoon (Hybrid)** time slots. Seeking them out allows players to ask questions, learn advanced techniques, or request custom training (earning SP or Insights depending on the roleplay).
 
 ## 2. Electing Majors and Minors (Day 1)
-
+:::hidden
+Every time the loop resets, the players start on the first day of the academy month. 
+:::
 On this day, they must actively submit their desired class schedule for that loop. 
-
+:::hidden
+Because the characters retain their memories, they can aggressively change their schedule every loop to learn different things.
+:::
 ### Majors (Mandatory)
 Each student must select **exactly 2 Major Classes** from the available disciplines.
 * Majors represent the student's core focus for that month.
@@ -33,3 +37,6 @@ The [[40_People/Factions/Cyorian Academy/Cyorian Academy\|Cyorian Academy]] does
 * **Expulsion Threshold:** If a student accumulates **3 Violations** within a single loop month, they are formally expelled.
 * **The Consequences of Expulsion:** Being expelled is disastrous for progression in that specific loop. The student's Academy pass is revoked. They are physically barred from the premises, cannot access the Grand Library (preventing theoretical SP gain), and cannot interact with any Professors (including their Mentor) on academy grounds. 
 
+:::hidden
+* **Resetting the Record:** Because the bureaucratic record resets at the end of the month, an expelled student simply starts the *next* loop as a student in perfectly good standing again.
+:::

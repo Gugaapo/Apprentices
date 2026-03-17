@@ -33,5 +33,23 @@ The region is littered with ancient ruins featuring inscriptions in **Old Majara
 - **Green Hell** — A particularly dangerous patch of jungle that contains the **Imperial Orb**, hidden in a cave beneath a chameleon drake nest and guarded by a magically enhanced hydra.
 - **Chameleon Drakes** — Native apex predators, along with murderous vines and other dangerous creatures.
 
+:::hidden
+- **No [[70_Bestiary/Sapient_Species/Aranea\|Aranea]]** — Koth has no aranea presence, making it attractive to the Silent Doorway Adepts web who want to colonize the continent.
+:::
+---
+:::hidden
+## Inhabitants
+
+- [[40_People/NPCs/Others/Daimen Kazinski\|Daimen Kazinski]] — Starts every loop here with his fiancée
+- Orissa Taramatula — Daimen's fiancée
+- Ulanna Taramatula — Orissa's aunt
 
 ---
+
+## Campaign Significance
+
+- The location of the **[[60_Items/Key Items/03 Imperial Orb\|Imperial Orb]]** — one of the five Keys to escape the time loop.
+- Players must work with [[40_People/NPCs/Others/Daimen Kazinski\|Daimen Kazinski]] and his expedition team to navigate Green Hell and recover the Orb. [[40_People/NPCs/Others/Daimen Kazinski\|Daimen]] spends much of his time exploring the Kothian ruins.
+- Traveling to Koth requires weeks of sea travel or dangerous long-distance teleportation. Initially difficult to reach from [[30_Locations/Continents/Altazia\|Altazia]], travel to Koth was revolutionized by the discovery and activation of the **Bakora Gate** (a massive teleportation portal).
+- The environment requires specialized magical survival skills ([[10_System/Schools/Alteration/Medical Magic\|Medical Magic]] to resist plagues, [[40_People/Factions/Cyorian Academy/Classes/Ward Class\|Ward Class]] magic to keep out predators).
+:::

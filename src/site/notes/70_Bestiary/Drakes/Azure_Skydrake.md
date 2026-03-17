@@ -17,3 +17,19 @@ Historically, sightings usually involved a person being out in the total wildern
 
 They are not as peaceful as the stories imply; their attacks were made in response to considerable provocations. Little is known about the azure skydrake at this time. No one knows where they nest, what they eat, or what their lifecycle is. They have never been observed feeding, but they do land to drink every once in a while. All observed sightings have been of a lone skydrake, but that doesn’t necessarily mean they don’t congregate into groups at some point.
 
+:::hidden
+## Mechanical Stat Block
+
+**Health:** 15 Boxes (Elephantine)
+**Mind Defense:** 5
+**Armor:** 2 Temporary Health Boxes (Scales)
+
+### Key Attributes (Dice Pools)
+- **Physical:** Strength 7, Athletics 6, Acrobatics 5, Hand-to-Hand 4
+- **Mental/Magical:** Readiness 5, Willpower 5, Finesse 5, Projection (Innate Lightning/Force) 5
+
+### Attacks & Abilities
+- **Lightning Breath:** Roll: Finesse + Projection (10 dice). Damage: 4 + Successes (Lightning). Can target multiple enemies in a line.
+- **Force Shield (Reaction):** When attacked, roll Willpower + Projection (10 dice). Each success grants 1 Temporary Health Box against that specific attack.
+- **Tail/Claw Swipe:** Roll: Strength + Hand-to-Hand (11 dice). Damage: 3 + Successes.
+:::

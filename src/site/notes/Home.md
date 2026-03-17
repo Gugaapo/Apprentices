@@ -16,12 +16,12 @@ Welcome to the collective knowledge repository for our Mother of Learning campai
 > [!info] Tip
 > Use the sidebar on the left to navigate through the folder structure of the vault.
 
-| File                                                           | Last Modified             |
-| -------------------------------------------------------------- | ------------------------- |
-| [[50_Magic/Spell List\|Spell List]]                         | 12:15 PM - March 17, 2026 |
-| [[60_Items/Materials/Magical Materials\|Magical Materials]] | 12:12 PM - March 17, 2026 |
-| [[60_Items/Materials/Crystalized Mana\|Crystalized Mana]]   | 12:05 PM - March 17, 2026 |
-| [[60_Items/Key Items/06 Sovereign Gate\|06 Sovereign Gate]] | 11:58 AM - March 17, 2026 |
-| [[60_Items/Key Items/05 Imperial Staff\|05 Imperial Staff]] | 11:57 AM - March 17, 2026 |
+| File                                                                                                   | Last Modified             |
+| ------------------------------------------------------------------------------------------------------ | ------------------------- |
+| [[Sessions/System_Optimization_Plan\|System_Optimization_Plan]]                                     | 12:22 PM - March 17, 2026 |
+| [[Sessions/Session_01\|Session_01]]                                                                 | 12:22 PM - March 17, 2026 |
+| [[gemini-scribe/Agent-Sessions/Magic School Flavor Text Updates\|Magic School Flavor Text Updates]] | 12:22 PM - March 17, 2026 |
+| [[gemini-scribe/Agent-Sessions/Magic School Example Powers\|Magic School Example Powers]]           | 12:22 PM - March 17, 2026 |
+| [[gemini-scribe/Agent-Sessions/Cyorian Academy Schedule Update\|Cyorian Academy Schedule Update]]   | 12:22 PM - March 17, 2026 |
 
 { .block-language-dataview}

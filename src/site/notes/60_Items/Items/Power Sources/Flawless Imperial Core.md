@@ -1,0 +1,7 @@
+---
+{"dg-publish":true,"permalink":"/60-items/items/power-sources/flawless-imperial-core/","tags":["item","power_source","crystal"],"dgShowFileTree":true,"noteIcon":""}
+---
+
+# Flawless Imperial Core
+
+A massive power battery used for sustained rituals or colossal constructs. Coveted by dangerous individuals.

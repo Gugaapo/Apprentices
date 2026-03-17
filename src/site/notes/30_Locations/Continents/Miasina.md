@@ -12,7 +12,9 @@ Once a lush and fertile continent, Miasina was devastated by the **[[20_World/Hi
 
 ## Regions
 - **[[30_Locations/Regions/Xlotic\|Xlotic]]**: A vast desert in the north 
-
+:::hidden
+home to the [[30_Locations/Other/Ziggurat of the Sun\|Ziggurat of the Sun]]. 
+:::
 - **[[30_Locations/Regions/Koth\|Koth]]**: The jungle-covered southern region, rich in ancient ruins and the origin of the **Old Majara** language (used in [[10_System/Schools/Soul Magic/Soul Magic\|Soul Magic]] and rituals).
 
 ## Legacy

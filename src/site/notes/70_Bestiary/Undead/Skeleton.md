@@ -16,3 +16,19 @@ Reanimated skeletal remains of humans, humanoids, or beasts. Stripped entirely o
 ## Lore
 Created through illegal necromancy—a dark combination of [[10_System/Schools/Soul Magic/Soul Magic\|Soul Magic]] and [[10_System/Schools/Animation/Necromancy\|Necromancy]]. The original soul of the creature is entirely gone; the skeleton is merely a puppet powered by the necromancer's animating magic. They are used as cheap, expendable foot soldiers and guards by dark mages and the Ibasan invaders. Because they do not rot, they can be stored indefinitely until activated.
 
+:::hidden
+## Mechanical Stat Block
+
+**Health:** 5 Boxes (Fragile bones)
+**Mind Defense:** Immune (No mind to breach)
+**Armor:** 0 (Passive: Piercing weapons lose 2 successes on damage calculation)
+
+### Key Attributes (Dice Pools)
+- **Physical:** Strength 2, Athletics 2, Acrobatics 2, Weapon Combat 2
+- **Mental/Magical:** Readiness 1, Willpower 0 (Automaton)
+- **Social:** Intimidation 1
+
+### Attacks & Abilities
+- **Rusty Weapon / Claws:** Roll: Strength + Weapon Combat (4 dice). Damage: 1 + Successes.
+- **Tireless:** Immune to exhaustion, poison, and disease. Never suffers wound penalties until destroyed.
+:::

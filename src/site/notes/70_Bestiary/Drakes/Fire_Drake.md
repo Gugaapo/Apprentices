@@ -15,3 +15,19 @@ Despite their fierce looks and behavior, fire drakes are omnivores and enjoy eat
 Fire drakes are famous for being one of the few drake species successfully domesticated by humans. A mage must soul-bond with a fire drake from a very young age for it to remain controllable by the time it reaches adulthood, and even then they tend to be a little volatile and unpredictable. Their territorial nature makes them ill-suited for cities, so it’s best to keep them in the countryside. Like all magical animals, they require ambient [[50_Magic/Glossary/mana\|mana]] to survive in, though they can venture out of magical areas for a fairly long time.
 
 Mages that bond with fire drakes are typically part of a family business that revolves around breeding and training them. They are mostly used in warfare as war beasts, though they have suffered quite a bit since the advent of the Splinter Wars and firearms. They are considered obsolete by some, but fortunately for the species, they are still quite numerous in the wild.
+:::hidden
+## Mechanical Stat Block
+
+**Health:** 7 Boxes
+**Mind Defense:** 2
+**Armor:** 3 Temporary Health Boxes (Scales)
+
+### Key Attributes (Dice Pools)
+- **Physical:** Strength 4, Athletics 4, Acrobatics 3, Hand-to-Hand 4
+- **Mental/Magical:** Readiness 3, Willpower 3, Finesse 3, Projection (Innate Fire) 4
+
+### Attacks & Abilities
+- **Fire Breath:** Roll: Finesse + Projection (7 dice). Damage: 3 + Successes (Fire) in a 5-meter cone.
+- **Bite/Claws:** Roll: Strength + Hand-to-Hand (8 dice). Damage: 2 + Successes.
+- **Pack Tactics:** Gains +1 die to attack pools if an allied drake is engaged in melee with the same target.
+:::
