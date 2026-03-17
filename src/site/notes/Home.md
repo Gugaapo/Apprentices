@@ -29,12 +29,12 @@ Use the sidebar to browse, or press `Ctrl+K` to search.
 > [!info] Tip
 > Use the sidebar on the left to navigate through the folder structure of the vault.
 
-| File                                                                  | Last Modified            |
-| --------------------------------------------------------------------- | ------------------------ |
-| [[20_World/History/Timeline/08 The Modern Era\|08 The Modern Era]] | 7:47 PM - March 17, 2026 |
-| [[10_System/Attributes/Social/Streetwise\|Streetwise]]             | 7:15 PM - March 17, 2026 |
-| [[10_System/Attributes/Social/Society\|Society]]                   | 7:15 PM - March 17, 2026 |
-| [[10_System/Attributes/Social/Intimidation\|Intimidation]]         | 7:15 PM - March 17, 2026 |
-| [[10_System/Attributes/Social/Insight\|Insight]]                   | 7:15 PM - March 17, 2026 |
+| File                                                                              | Last Modified            |
+| --------------------------------------------------------------------------------- | ------------------------ |
+| [[20_World/History/Timeline/03 Twilight and Silence\|03 Twilight and Silence]] | 7:49 PM - March 17, 2026 |
+| [[20_World/History/Timeline/08 The Modern Era\|08 The Modern Era]]             | 7:47 PM - March 17, 2026 |
+| [[10_System/Attributes/Social/Streetwise\|Streetwise]]                         | 7:15 PM - March 17, 2026 |
+| [[10_System/Attributes/Social/Society\|Society]]                               | 7:15 PM - March 17, 2026 |
+| [[10_System/Attributes/Social/Intimidation\|Intimidation]]                     | 7:15 PM - March 17, 2026 |
 
 { .block-language-dataview}
