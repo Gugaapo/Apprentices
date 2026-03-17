@@ -10,7 +10,7 @@ Angels are spirits that serve the gods as part of the angelic hierarchy. They ar
 ## Origins and The Silence
 Officially, angels (and other spirits) were created by the gods. Unofficially, people wonder if this is true, as no living spirit remembers the creation of the world. Some heretics claim the gods merely found the spirits and co-opted them as servants.
 
-The [[Silence of the Gods\|Silence of the Gods]] weakened angels, but they inherited considerable infrastructure from their divine masters. Their reach in the spiritual realm shrank, but their strongholds remain essentially unassailable. 
+The [[20_World/History/Timeline/03_Twilight_and_Silence\|Silence of the Gods]] weakened angels, but they inherited considerable infrastructure from their divine masters. Their reach in the spiritual realm shrank, but their strongholds remain essentially unassailable. 
 
 ## Morality and Mindset
 Angels are deliberately mysterious when interacting with material beings, heavily restricted in what they can say. They are clearly not human in mentality. They care about obeying rules, listening to superiors, and staying true to their morals on a deep, instinctual level that humans find next to impossible to grasp. To angels, humans and other material beings are severely lacking in dedication, thoughtfulness, and selflessness.
