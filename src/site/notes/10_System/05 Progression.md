@@ -19,9 +19,7 @@ Study Points represent time spent practicing, reading, attending Academy lecture
 
 #### How to Earn SP:
 - **Session Reward:** 2 to 3 SP per session (representing a week or two of in-game studying/surviving).
-:::hiddem
-- **End of Loop Bonus:** A lump sum at the end of a Reset based on how long characters survived and how strictly they stuck to their study schedule.
-:::
+
 - **Base Study Yield:** Spending a Time Slot studying alone or attending a standard class grants **1 SP** towards a specific goal.
 
 #### What SP Buys (The Costs):

@@ -8,6 +8,6 @@
 **Cost/Value:** -2 points
 
 ## Description
-The existential horrors of the world—and the crushing reality of the time loop—affect you far more deeply than your peers. Your psychological defenses are thin, making you highly susceptible to trauma and despair.
+The existential horrors of the world affect you far more deeply than your peers. Your psychological defenses are thin, making you highly susceptible to trauma and despair.
 
 **Mechanic:** You suffer a **-2 dice penalty** on all rolls made to resist Sanity Erosion.

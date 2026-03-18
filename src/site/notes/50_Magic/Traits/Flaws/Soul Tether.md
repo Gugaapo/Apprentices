@@ -8,6 +8,6 @@
 **Cost/Value:** -2 points
 
 ## Description
-You form intense, almost metaphysical empathic bonds with your fellow students (or other Loopers). Their pain is your pain, and their deaths leave a gaping, bleeding hole in your psyche.
+You form intense, almost metaphysical empathic bonds with your fellow students. Their pain is your pain, and their deaths leave a gaping, bleeding hole in your psyche.
 
 **Mechanic:** If another Student or close ally dies in your presence (or you learn of their death), you immediately suffer **1 point of Sanity Erosion**.
