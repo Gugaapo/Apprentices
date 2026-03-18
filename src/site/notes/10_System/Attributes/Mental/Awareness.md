@@ -6,7 +6,7 @@
 
 **Category:** Mental
 
-Awareness (formerly Readiness) measures your passive and active perception of the world around you. It dictates your ability to spot ambushes, notice hidden details, and react to sudden danger. In a time loop where assassins and monsters lurk in the shadows, Awareness is often the difference between life and death.
+Awareness (formerly Readiness) measures your passive and active perception of the world around you. It dictates your ability to spot ambushes, notice hidden details, and react to sudden danger. In a world where assassins and monsters lurk in the shadows, Awareness is often the difference between life and death.
 
 ### Common Uses
 - **Spotting Danger:** Noticing the glint of a sniper's scope or the subtle shifting of an invisible stalker.

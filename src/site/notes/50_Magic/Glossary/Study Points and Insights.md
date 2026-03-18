@@ -7,7 +7,9 @@
 **Study Points (SP)** and **Insight Points (IP)** are the two primary progression currencies used to advance a character's abilities in the campaign, representing "The Grind" versus "The Epiphany."
 
 ### Study Points (SP) - "The Grind"
-SP represents academic learning, repetition, and dedicated practice. Because the characters are in a Time Loop, SP is their primary, steadily growing currency. Characters earn SP by attending classes, reading in the library, surviving the loop, and studying during Time Slots.
+SP represents academic learning, repetition, and dedicated practice. 
+
+Characters earn SP by attending classes, reading in the library, surviving encounters, and studying during Time Slots.
 
 It is used to purchase standard mechanical upgrades:
 - **Learn a New Spell:** SP equal to the Spell's Tier

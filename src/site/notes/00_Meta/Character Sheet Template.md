@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/00-meta/character-sheet-template/","tags":["character","looper"],"dgShowBacklinks":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
 
-# Looper: [Name]
+# Student: [Name]
 
 **Concept:** 
 **Mentor:** 
@@ -38,6 +38,7 @@
 **Ongoing Spell Limit:** XXX *(Equal to Calculation rating)*
 
 ### The Body State (Physical Health)
+
 
 *Take damage from top to bottom. Penalties apply to all dice rolls.*
 - [ ] **Bruised (0)**

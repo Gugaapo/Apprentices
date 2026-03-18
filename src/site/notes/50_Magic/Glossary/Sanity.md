@@ -2,8 +2,9 @@
 {"dg-publish":true,"permalink":"/50-magic/glossary/sanity/","tags":["rules","vocabulary","glossary","sanity"],"dgShowBacklinks":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
 
-# Loop-
-**Sanity** measures a character's psychological anchor to reality and their humanity. Enduring the Time Loop involves repeated traumatic deaths, witnessing horrific acts, or making severe moral compromises.
+
+**Sanity** measures a character's psychological anchor to reality and their humanity. 
+
 
 **Starting Value:** 10 Boxes
 

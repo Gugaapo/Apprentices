@@ -6,7 +6,7 @@
 
 **Category:** Social
 
-Charm (formerly Persuasion) is the art of getting people to like you, making friends, and engaging in honest or friendly negotiation. It relies on personal magnetism, likability, and the ability to make others feel comfortable and valued. In a time loop, Charm is incredibly useful for quickly establishing trust with strangers or convincing Academy teachers to share their knowledge.
+Charm (formerly Persuasion) is the art of getting people to like you, making friends, and engaging in honest or friendly negotiation. It relies on personal magnetism, likability, and the ability to make others feel comfortable and valued. Charm is incredibly useful for quickly establishing trust with strangers or convincing Academy teachers to share their knowledge.
 
 ### Common Uses
 - **Befriending:** Quickly establishing rapport and trust with a new acquaintance.

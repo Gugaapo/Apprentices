@@ -15,7 +15,7 @@ Each day is divided into **3 Time Slots**:
 Every slot you spend huddled in a library or sweating in a training room is a slot *not* spent tracking down cultists or traversing dangerous areas. 
 
 ### 2. Study Points (SP) - "The Grind"
-Study Points represent time spent practicing, reading, attending Academy lectures, and doing repetitive shaping exercises. Because the characters are in a Time Loop, SP is their primary, steadily growing currency.
+Study Points represent time spent practicing, reading, attending Academy lectures, and doing repetitive shaping exercises.
 
 #### How to Earn SP:
 - **Session Reward:** 2 to 3 SP per session (representing a week or two of in-game studying/surviving).
@@ -34,9 +34,10 @@ Study Points represent time spent practicing, reading, attending Academy lecture
 If SP is time, IP is *breakthroughs*. You cannot become an Archmage just by sitting in a library for 100 years; you have to push your limits, fight for your life, and uncover the secrets of the world. IP is a rare, narrative currency.
 
 #### How to Earn IP:
-- **Solving a Mystery:** Discovering a major clue about the Time Loop, the Cult, or the Sovereign Gate.
-- **Surviving a Deadly Threat:** Defeating or surviving an encounter with a "Loop-Aware" entity, a boss-level monster, or an Archmage.
-- **Major Milestones:** 1 IP awarded at the end of a highly successful, plot-advancing Loop.
+- **Solving a Mystery:** Discovering a major clue. 
+
+- **Surviving a Deadly Threat:** Defeating or surviving an encounter with a boss-level monster, or an Archmage.
+- **Major Milestones:** 1 IP awarded at the end of a highly successful session.
 
 #### What IP Buys (The Costs):
 - **Unlock a Specialization (1 IP):** You cannot just "buy" dots in [[10_System/Schools/Illusionism/Mind Magic\|Mind Magic]], [[10_System/Schools/Dimensionalism/Teleportation\|Teleportation]], or [[10_System/Schools/Divination/Chronomancy\|Chronomancy]] with SP. You must spend 1 IP to have the epiphany required to unlock the Specialization tree (usually after finding a rare teacher, stealing a forbidden grimoire, or dissecting a magical beast).

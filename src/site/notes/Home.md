@@ -29,12 +29,12 @@ Use the sidebar to browse, or press `Ctrl+K` to search.
 > [!info] Tip
 > Use the sidebar on the left to navigate through the folder structure of the vault.
 
-| File                                                              | Last Modified             |
-| ----------------------------------------------------------------- | ------------------------- |
-| [[50_Magic/Traits/Merits/Wealthy Patron\|Wealthy Patron]]      | 11:56 AM - March 18, 2026 |
-| [[50_Magic/Glossary/Soul Sigil\|Soul Sigil]]                   | 11:55 AM - March 18, 2026 |
-| [[00_Meta/Character Sheet Template\|Character Sheet Template]] | 11:55 AM - March 18, 2026 |
-| [[50_Magic/Glossary/The Body State\|The Body State]]           | 11:54 AM - March 18, 2026 |
-| [[10_System/01 Core Mechanics\|01 Core Mechanics]]             | 11:53 AM - March 18, 2026 |
+| File                                                                          | Last Modified            |
+| ----------------------------------------------------------------------------- | ------------------------ |
+| [[50_Magic/Glossary/Study Points and Insights\|Study Points and Insights]] | 2:29 PM - March 18, 2026 |
+| [[50_Magic/Glossary/Hollow\|Hollow]]                                       | 2:28 PM - March 18, 2026 |
+| [[10_System/Attributes/Social/Charm\|Charm]]                               | 2:27 PM - March 18, 2026 |
+| [[10_System/Attributes/Mental/Awareness\|Awareness]]                       | 2:27 PM - March 18, 2026 |
+| [[10_System/05 Progression\|05 Progression]]                               | 2:27 PM - March 18, 2026 |
 
 { .block-language-dataview}
