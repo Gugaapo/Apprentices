@@ -42,5 +42,5 @@ If SP is time, IP is *breakthroughs*. You cannot become an Archmage just by sitt
 - **Create a Custom Spell (1 IP + SP cost):** Inventing a brand new spell formula from scratch that doesn't exist in the Academy archives.
 - **Purchase a Trait / Merit (1 IP):** Unlocking a new permanent character trait (like *Mana Battery*, *Photographic Memory*, or *[[50_Magic/Traits/Merits/Inner Peace\|Inner Peace]]*) or permanently removing Flaws (like *[[50_Magic/Traits/Flaws/Nightmares\|Nightmares]]* or *[[50_Magic/Traits/Flaws/Soul Tether\|Soul Tether]]*).
 - **Break the Tier 5 Cap (1 IP + SP cost):** To reach Tier 5 (Master/Mythic) in *any* Attribute or Magic School, grinding SP isn't enough. You must spend 1 IP to achieve the final paradigm shift required for true mastery.
-- **Soul-Bind an Item (2 IP):** Spending IP to permanently bind a non-magical or minor magical item to the character's soul so it travels back in time with them during the Reset.
+
 
