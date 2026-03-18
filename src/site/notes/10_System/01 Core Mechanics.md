@@ -65,12 +65,12 @@ Each attribute and School Proficiency can have a **Specialization** — a narrow
 ### 1. Magical Attributes (The Soul's [[50_Magic/Glossary/Shaping\|Shaping]])
 These represent the inherent power and processing speed of the Student's magical mind.
 
-| Attribute                        | Description                                                                       |
-| :------------------------------- | :-------------------------------------------------------------------------------- |
-| **[[10_System/Attributes/Magical/Memory\|Memory]]**           | Capability to recall complex formulas across resets. Used for Sanity Resistance.  |
-| **[[10_System/Attributes/Magical/Calculation\|Calculation]]** | Mental processing speed. Used for multitasking and maintaining multiple spells.   |
-| **[[10_System/Attributes/Magical/Finesse\|Finesse]]**         | Precision and subtlety. Used for delicate shaping and avoiding collateral damage. |
-| **[[10_System/Attributes/Magical/Willpower\|Willpower]]**     | Raw force of intent. Used for [[50_Magic/Glossary/Mind Defense\|Mind Defense]] and brute-force magic.             |
+| Attribute                        | Description                                                                                    |
+| :------------------------------- | :--------------------------------------------------------------------------------------------- |
+| **[[10_System/Attributes/Magical/Memory\|Memory]]**           | Capability to recall complex formulas across long periods of time. Used for Sanity Resistance. |
+| **[[10_System/Attributes/Magical/Calculation\|Calculation]]** | Mental processing speed. Used for multitasking and maintaining multiple spells.                |
+| **[[10_System/Attributes/Magical/Finesse\|Finesse]]**         | Precision and subtlety. Used for delicate shaping and avoiding collateral damage.              |
+| **[[10_System/Attributes/Magical/Willpower\|Willpower]]**     | Raw force of intent. Used for [[50_Magic/Glossary/Mind Defense\|Mind Defense]] and brute-force magic.                          |
 
 ### 2. Mental Attributes
 These represent logical reasoning, awareness, and retained academic knowledge. These can be improved over time.

@@ -38,7 +38,8 @@
 **Ongoing Spell Limit:** XXX *(Equal to Calculation rating)*
 
 ### The Body State (Physical Health)
-*Resets every loop. Take damage from top to bottom. Penalties apply to all dice rolls.*
+
+*Take damage from top to bottom. Penalties apply to all dice rolls.*
 - [ ] **Bruised (0)**
 - [ ] **Hurt (-1)**
 - [ ] **Injured (-1)**
@@ -48,9 +49,9 @@
 - [ ] **Incapacitated** *(Unconscious/Dying)*
 
 ### Persistent Integrity (Soul & Mind)
-*Does NOT reset between loops.*
+
 **[[50_Magic/Glossary/Soul Integrity\|Soul Integrity]]:** `[ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]` (10)
-**[[50_Magic/Glossary/Loop-Sanity\|Sanity]]:** `[ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]` (10)
+**[[50_Magic/Glossary/Sanity\|Sanity]]:** `[ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]` (10)
 
 ---
 

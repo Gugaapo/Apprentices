@@ -49,7 +49,7 @@ The only "naturally" arising undead in the world are ghosts and other incorporea
 
 **What it feels like to cast:** There is no pleasant way to describe it. Soul magic users report a sensation of "reaching through" the physical world into a cold, dark layer beneath it. Observers see faint black or violet energy crackling around the caster's hands, accompanied by a deep, bone-level chill.
 
-**The mandatory cost:** Every single use of Soul Magic triggers a [[50_Magic/Glossary/Loop-Sanity\|Sanity Erosion]] check. There are no exceptions. The human mind was not designed to interact with souls directly.
+**The mandatory cost:** Every single use of Soul Magic triggers a [[50_Magic/Glossary/Sanity\|Sanity Erosion]] check. There are no exceptions. The human mind was not designed to interact with souls directly.
 
 ---
 

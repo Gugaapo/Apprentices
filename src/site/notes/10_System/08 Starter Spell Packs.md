@@ -7,20 +7,20 @@
 > **Purpose:** Choosing your first spells from a catalogue of 800+ options is overwhelming. This chapter provides **curated recommendations** — 3-5 reliable Tier 1–2 spells per Core School that are thematically iconic, mechanically useful, and appropriate for a first-year Academy student.
 
 > [!TIP] These are recommendations, not restrictions.
-> You are free to pick *any* Tier 1–2 spell from the Spell Index for your school. These packs simply highlight the spells that will serve you best in the widest range of situations during your first loops.
+> You are free to pick *any* Tier 1–2 spell from the Spell Index for your school. These packs simply highlight the spells that will serve you best in the widest range of situations during your first days.
 
 ---
 
 ## [[10_System/Schools/Projection/Projection\|Projection]] — *Generate*
 The bread-and-butter combat school. If you want to throw bolts of force and light, start here.
 
-| Spell | Tier | Why Pick It |
-| :--- | :--- | :--- |
-| **[[50_Magic/Spells/Projection/Combat Flare\|Combat Flare]]** | 1 | A sharp flash of light designed specifically for combat. Unlike decorative light spells, this one is optimized for disorientation. |
-| **[[50_Magic/Spells/Projection/Pressure Wave\|Pressure Wave]]** | 1 | Extends their palm and releases a flat pulse of kinetic force. Objects within arm's reach are pushed back... |
-| **[[50_Magic/Spells/Projection/Ignite\|Ignite]]** | 1 | The simplest elemental Evocation. Snap fingers to produce a small, completely controllable flame or a localized chill. |
-| **[[50_Magic/Spells/Projection/Mana Bolt\|Mana Bolt]]** | 2 | *The* ranged attack. Condenses raw mana into a glowing, high-velocity projectile. Your primary combat spell for early Loops. |
-| **[[50_Magic/Spells/Projection/Detonation Charge\|Detonation Charge]]** | 2 | Creates a small, sticky sphere of compressed energy, attaches it to a surface, and detonates it remotely for demolition or traps. |
+| Spell                                                                   | Tier | Why Pick It                                                                                                                        |
+| :---------------------------------------------------------------------- | :--- | :--------------------------------------------------------------------------------------------------------------------------------- |
+| **[[50_Magic/Spells/Projection/Combat Flare\|Combat Flare]]**           | 1    | A sharp flash of light designed specifically for combat. Unlike decorative light spells, this one is optimized for disorientation. |
+| **[[50_Magic/Spells/Projection/Pressure Wave\|Pressure Wave]]**                                    | 1    | Extends their palm and releases a flat pulse of kinetic force. Objects within arm's reach are pushed back...                       |
+| **[[50_Magic/Spells/Projection/Ignite\|Ignite]]**                       | 1    | The simplest elemental Evocation. Snap fingers to produce a small, completely controllable flame or a localized chill.             |
+| **[[50_Magic/Spells/Projection/Mana Bolt\|Mana Bolt]]**                                            | 2    | *The* ranged attack. Condenses raw mana into a glowing, high-velocity projectile. Your primary combat spell for early days.        |
+| **[[50_Magic/Spells/Projection/Detonation Charge\|Detonation Charge]]** | 2    | Creates a small, sticky sphere of compressed energy, attaches it to a surface, and detonates it remotely for demolition or traps.  |
 
 ---
 

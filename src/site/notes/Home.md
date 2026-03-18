@@ -29,12 +29,12 @@ Use the sidebar to browse, or press `Ctrl+K` to search.
 > [!info] Tip
 > Use the sidebar on the left to navigate through the folder structure of the vault.
 
-| File                                                                                 | Last Modified            |
-| ------------------------------------------------------------------------------------ | ------------------------ |
-| [[40_People/Factions/Cyorian Academy/Classes/Abjuration Class\|Abjuration Class]] | 9:44 AM - March 18, 2026 |
-| [[10_System/06 The Magic System\|06 The Magic System]]                            | 9:44 AM - March 18, 2026 |
-| [[60_Items/Key Items/05 Imperial Staff\|05 Imperial Staff]]                       | 9:43 AM - March 18, 2026 |
-| [[60_Items/Key Items/04 Imperial Ring\|04 Imperial Ring]]                         | 9:43 AM - March 18, 2026 |
-| [[60_Items/Key Items/03 Imperial Orb\|03 Imperial Orb]]                           | 9:43 AM - March 18, 2026 |
+| File                                                              | Last Modified             |
+| ----------------------------------------------------------------- | ------------------------- |
+| [[50_Magic/Traits/Merits/Wealthy Patron\|Wealthy Patron]]      | 11:56 AM - March 18, 2026 |
+| [[50_Magic/Glossary/Soul Sigil\|Soul Sigil]]                   | 11:55 AM - March 18, 2026 |
+| [[00_Meta/Character Sheet Template\|Character Sheet Template]] | 11:55 AM - March 18, 2026 |
+| [[50_Magic/Glossary/The Body State\|The Body State]]           | 11:54 AM - March 18, 2026 |
+| [[10_System/01 Core Mechanics\|01 Core Mechanics]]             | 11:53 AM - March 18, 2026 |
 
 { .block-language-dataview}

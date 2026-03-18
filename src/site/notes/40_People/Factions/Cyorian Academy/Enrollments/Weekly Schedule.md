@@ -6,7 +6,7 @@
 
 The [[40_People/Factions/Cyorian Academy/Cyorian Academy\|Cyorian Academy]] offers its core discipline classes during the **Morning (Standard Studying)** Time Slot of the 5-day work week (Monday - Friday). Weekends are entirely free for students to do as they please.
 
-To simulate the difficult choices of university enrollment, the 7 Core Schools and their associated Specializations/Electives are spread concurrently across the week. If a student wishes to take two classes offered on the same morning, they have a **Schedule Conflict**. They must choose one or the other for that specific time loop. 
+To simulate the difficult choices of university enrollment, the 7 Core Schools and their associated Specializations/Electives are spread concurrently across the week. If a student wishes to take two classes offered on the same morning, they have a **Schedule Conflict**. They must choose one or the other for that specific school year. 
 
 *(Note: [[10_System/Schools/Soul Magic/Soul Magic\|Soul Magic]], [[10_System/Schools/Alteration/Blood Magic\|Blood Magic]], and [[10_System/Schools/Illusionism/Mind Magic\|Mind Magic]] are strictly forbidden or inherently restricted, and are not taught publicly at the Academy, nor are they on this schedule.)*
 
@@ -22,7 +22,7 @@ To simulate the difficult choices of university enrollment, the 7 Core Schools a
 
 ## How to use the Schedule
 
-When a Loop begins, players must define their 2 Mandatory Majors and up to 3 Optional Minors.
+When the school begins, players must define their 2 Mandatory Majors and up to 3 Optional Minors.
 
 **Example Conflict:**
 - **Zorian** wants to study *[[40_People/Factions/Cyorian Academy/Classes/Divination Class\|Divination]]*, *[[40_People/Factions/Cyorian Academy/Classes/Alteration Class\|Alteration]]*, *[[40_People/Factions/Cyorian Academy/Classes/Animation Class\|Animation]]*, and *[[40_People/Factions/Cyorian Academy/Classes/Combat Magic Class\|Combat Magic]]*.
