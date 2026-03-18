@@ -3,7 +3,7 @@
 ---
 
 
-# Ersetu
+
 
 Ersetu is the name of the planet that serves as the setting for this campaign.
 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/50-magic/traits/merits/natural-shaper/","tags":["rules","traits","merits"],"dgShowBacklinks":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
 
-# Natural Shaper
+
 
 **Category:** Merits
 **Cost/Value:** 2 points

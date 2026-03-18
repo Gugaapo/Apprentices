@@ -3,7 +3,7 @@
 ---
 
 
-# Ikosian Empire
+
 
 The Ikosian Empire was the dominant human superpower that unified much of the known world before its eventual collapse.
 

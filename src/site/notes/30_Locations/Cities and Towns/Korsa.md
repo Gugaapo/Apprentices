@@ -3,7 +3,7 @@
 ---
 
 
-# Korsa
+
 
 Korsa is the third-largest city in [[30_Locations/Countries/Eldemar\|Eldemar]] and serves as a major trade and industrial hub.
 

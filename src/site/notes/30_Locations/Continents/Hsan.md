@@ -3,7 +3,6 @@
 ---
 
 
-# Hsan
 
 Hsan is a mysterious and isolationist continent located to the west of [[30_Locations/Continents/Altazia\|Altazia]].
 

@@ -3,7 +3,7 @@
 ---
 
 
-# Eldemar
+
 
 ## Overview
 
@@ -40,20 +40,9 @@ Today, Eldemar is a **smaller but fiercely nationalistic** monarchy that yearns 
 The kingdom is also undergoing a **[[20_World/Society/Technological Revolution\|Technological Revolution]]**, integrating trains and mass-produced firearms. It is leading the charge in the **[[20_World/Society/Spread of Magical Training\|democratization of magic]]**, allowing commoners to attend prestigious academies.
 
 ---
-:::hidden
-## Key Features
 
-- **Royal Treasury** — Located in the capital, it contains the **Imperial Dagger**, one of the five Imperial Treasures.
-- **[[30_Locations/Cities and Towns/Cyoria\|Cyoria]]** — The kingdom's largest and most magically important city.
-
-:::
 
 ---
-:::hidden
-## Inhabitants
 
-- The Kazinski family originates from Cirin.
-- Multiple Noble Houses hold territory throughout the kingdom.
-:::
 
 ![Eldemar.png](/img/user/zImg/Eldemar.png)

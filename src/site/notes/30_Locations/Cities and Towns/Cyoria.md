@@ -3,7 +3,7 @@
 ---
 
 
-# Cyoria
+
 
 ## Overview
 
@@ -40,24 +40,5 @@ Cyoria serves as the kingdom's intellectual heart. The Academy is an elite insti
 
 ---
 
-:::hidden
-## Inhabitants
-
-- the party — second-year students at the Academy
-- [[40_People/NPCs/Allies/Zach Noveda\|Zach Noveda]] — Sole heir of [[40_People/Factions/Houses/House Noveda\|House Noveda]], time loop Controller
-- [[40_People/NPCs/Enemies/Red Robe\|Red Robe]] (Jornak Dokochin) — Third time traveler (covert)
-- [[40_People/NPCs/Teachers/Professor Xvim Chao\|Professor Xvim Chao]] — Academy teacher and mentor
-- [[40_People/NPCs/Teachers/Professor Ilsa Zileti\|Professor Ilsa Zileti]] — Academy teacher
-- [[40_People/NPCs/Allies/Taiven\|Taiven]] — Combat mage and dungeoneer
-- [[40_People/NPCs/Students/Kael Tverinov\|Kael Tverinov]] — Student and alchemist
-- [[40_People/NPCs/Allies/Spear of Resolve\|Spear of Resolve]] — [[70_Bestiary/Sapient_Species/Aranea\|Aranea]] Matriarch (in the Dungeon beneath)
 
 ---
-
-## Campaign Significance
-
-- **Primary setting** for the entire campaign.
-- The city is **invaded at the end of every restart** during the Summer Festival by forces from [[30_Locations/Other/Ulquaan Ibasa\|Ulquaan Ibasa]] and the [[40_People/Factions/Esoteric Order of the Celestial Dragon\|Esoteric Order]] led by [[40_People/NPCs/Enemies/Quatach-Ichl\|Quatach-Ichl]]. This triggers the [[20_World/History/Time Loop\|Time Loop]]'s reset.
-- The Sovereign Gate — the mechanism controlling the time loop — is hidden deep within the Hole.
-- Preventing or surviving the invasion is a central challenge of every loop iteration.
-:::

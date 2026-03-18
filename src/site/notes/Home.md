@@ -29,12 +29,12 @@ Use the sidebar to browse, or press `Ctrl+K` to search.
 > [!info] Tip
 > Use the sidebar on the left to navigate through the folder structure of the vault.
 
-| File                                                         | Last Modified            |
-| ------------------------------------------------------------ | ------------------------ |
-| [[30_Locations/Other/The Hole\|The Hole]]                 | 2:37 PM - March 18, 2026 |
-| [[50_Magic/Traits/Merits/Inner Peace\|Inner Peace]]       | 2:36 PM - March 18, 2026 |
-| [[50_Magic/Traits/Merits/Eidetic Memory\|Eidetic Memory]] | 2:36 PM - March 18, 2026 |
-| [[50_Magic/Traits/Flaws/Soul Tether\|Soul Tether]]        | 2:35 PM - March 18, 2026 |
-| [[50_Magic/Traits/Flaws/Nightmares\|Nightmares]]          | 2:34 PM - March 18, 2026 |
+| File                                                              | Last Modified            |
+| ----------------------------------------------------------------- | ------------------------ |
+| [[30_Locations/Regions/Xlotic\|Xlotic]]                        | 2:52 PM - March 18, 2026 |
+| [[30_Locations/Cities and Towns/Cyoria\|Cyoria]]               | 2:52 PM - March 18, 2026 |
+| [[50_Magic/Glossary/Sanity\|Sanity]]                           | 2:51 PM - March 18, 2026 |
+| [[30_Locations/Cities and Towns/Korsa\|Korsa]]                 | 2:51 PM - March 18, 2026 |
+| [[30_Locations/Cities and Towns/Knyazov Dveri\|Knyazov Dveri]] | 2:51 PM - March 18, 2026 |
 
 { .block-language-dataview}

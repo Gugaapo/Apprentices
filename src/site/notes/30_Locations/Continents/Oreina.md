@@ -3,7 +3,7 @@
 ---
 
 
-# Oreina
+
 
 Oreina is the fifth major continent of [[30_Locations/Continents/Ersetu\|Ersetu]], located near the planet's south pole.
 

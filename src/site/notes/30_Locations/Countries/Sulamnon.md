@@ -3,7 +3,7 @@
 ---
 
 
-# Sulamnon
+
 
 Sulamnon is one of the "Big Three" major powers on the continent of [[30_Locations/Continents/Altazia\|Altazia]]. It is the primary rival of [[30_Locations/Countries/Eldemar\|Eldemar]].
 

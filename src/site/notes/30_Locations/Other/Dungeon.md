@@ -3,7 +3,7 @@
 ---
 
 
-# The Dungeon
+
 
 The Dungeon (also called the Underworld or the Labyrinth) is a vast, planet-wide megastructure of tunnels and chambers that exists beneath the surface of [[30_Locations/Continents/Ersetu\|Ersetu]]. It connects to the surface world through openings both large and small, and descends into unfathomable depths below, creating a habitat full of dangers and wonders beneath our feet.
 

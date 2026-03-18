@@ -3,7 +3,7 @@
 ---
 
 
-# Falkrinea
+
 
 Falkrinea is the third of the "Big Three" major powers on [[30_Locations/Continents/Altazia\|Altazia]].
 

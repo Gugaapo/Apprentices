@@ -3,7 +3,7 @@
 ---
 
 
-# Abnazia
+
 
 The Kingdom of Abnazia is a [[30_Locations/Regions/Splinter States\|Splinter State]] in western [[30_Locations/Continents/Altazia\|Altazia]].
 

@@ -3,7 +3,7 @@
 ---
 
 
-# Shivan Archipelago
+
 
 The Shivan Archipelago is a large cluster of islands located to the southeast of [[30_Locations/Continents/Altazia\|Altazia]].
 

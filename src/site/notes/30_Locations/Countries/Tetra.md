@@ -3,7 +3,7 @@
 ---
 
 
-# Tetra
+
 
 Tetra is a powerful  [[30_Locations/Regions/Splinter States\|Splinter State]] located on the coast of [[30_Locations/Continents/Altazia\|Altazia]].
 

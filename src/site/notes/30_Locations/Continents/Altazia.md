@@ -2,8 +2,7 @@
 {"dg-publish":true,"permalink":"/30-locations/continents/altazia/","tags":["location","continent"],"dgShowBacklinks":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
 
-[[30_Locations/Regions/Splinter States\|Splinter States]]
-# Altazia
+
 
 Altazia is the primary setting of this campaign. It is the continent where [[30_Locations/Countries/Eldemar\|Eldemar]] and the various [[30_Locations/Regions/Splinter States\|Splinter States]] are located.
 
