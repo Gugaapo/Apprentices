@@ -59,7 +59,7 @@ Highly advanced applications of magic are called **[[50_Magic/Glossary/Specializ
 You do not automatically know every spell of a specific level. Instead, spells are treated as explicit **Powers** you select.
 
 - **Learning a Spell:** Every time you gain a dot in a Core School, you choose exactly **one Spell** from that School. The Spell rating cannot exceed your total dots in that School.
-- **[[50_Magic/Glossary/Specializations\|Specializations]] & Cross-School Spells:** Spells are listed under their parent Core School, and are often tagged with a specific **Specialization** (e.g., *[[10_System/Schools/Alteration/Transformation\|Transformation]]* under [[10_System/Schools/Alteration/Alteration\|Alteration]]). Additionally, spells that blend effects may have a **Cross-School Prerequisite**. (Example: A Tier 3 *Homing Missile* spell might require [[40_People/Factions/Cyorian Academy/Classes/Animation Class\|Animation Class]] 3 as its primary school, but also list a Cross-School Prerequisite of *[[40_People/Factions/Cyorian Academy/Classes/Projection Class\|Projection Class]] 2* to fuel the explosive payload).
+- **[[50_Magic/Glossary/Specializations\|Specializations]] & Cross-School Spells:** Spells are listed under their parent Core School, and are often tagged with a specific **Specialization** (e.g., *[[10_System/Schools/Alteration/Transformation\|Transformation]]* under [[10_System/Schools/Alteration/Alteration\|Alteration]]). Additionally, spells that blend effects may have a **Cross-School Prerequisite**. (Example: A Tier 3 *Homing Missile* spell might require [[10_System/Schools/Animation/Animation\|Animation]] 3 as its primary school, but also list a Cross-School Prerequisite of *[[10_System/Schools/Projection/Projection\|Projection]] 2* to fuel the explosive payload).
 
 ---
 
@@ -68,7 +68,7 @@ You do not automatically know every spell of a specific level. Instead, spells a
 When you cast a spell, it works like any other mundane action roll, but fuelled by Mana.
 
 ### The Casting Pool
-Roll **Attribute + [[50_Magic/Glossary/School Proficiency\|School Proficiency]]**. *(Example: Casting a fireball is usually [[10_System/Attributes/Magical/Willpower\|Willpower]] + [[40_People/Factions/Cyorian Academy/Classes/Projection Class\|Projection Class]]).*
+Roll **Attribute + [[50_Magic/Glossary/School Proficiency\|School Proficiency]]**. *(Example: Casting a fireball is usually [[10_System/Attributes/Magical/Willpower\|Willpower]] + [[10_System/Schools/Projection/Projection\|Projection]]).*
 
 ### Success Threshold & Required Successes
 The baseline Difficulty (Target Number) for structured magic is a static **6**. Furthermore, the number of successes required to activate the spell is exactly equal to its Tier.

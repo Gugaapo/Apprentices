@@ -131,7 +131,7 @@ As you take damage from attacks, hazards, or [[50_Magic/Glossary/Mana Burn\|Mana
 
 ### [[50_Magic/Glossary/Mind Defense\|Mind Defense]]
 **[[50_Magic/Glossary/Mind Defense\|Mind Defense]]::** [[10_System/Attributes/Magical/Willpower\|Willpower]] + Highest of ([[10_System/Schools/Illusionism/Mind Magic\|Mind Magic]], [[10_System/Schools/Divination/Divination\|Divination]], [[10_System/Schools/Abjuration/Abjuration\|Abjuration]]).
-- **Passive Breach Threshold::** Attackers using [[10_System/Schools/Illusionism/Mind Magic\|Mind Magic]] or [[40_People/Factions/Cyorian Academy/Classes/Illusionism Class\|Illusionism Class]] must roll more successes than this value to enter your mind.
+- **Passive Breach Threshold::** Attackers using [[10_System/Schools/Illusionism/Mind Magic\|Mind Magic]] or [[10_System/Schools/Illusionism/Illusionism\|Illusionism]] must roll more successes than this value to enter your mind.
 - **The Breach:** If breached, your [[10_System/Attributes/Magical/Memory\|Memory]] can be altered as far as the caster's skill allows it.
 
 ---

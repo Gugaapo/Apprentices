@@ -118,7 +118,7 @@ Each school has a distinct *verb* — the fundamental action its mana performs. 
 | **[[10_System/Schools/Soul Magic/Soul Magic\|Soul Magic]]** | *Violate* | Directly interacts with the soul, death, and the metaphysical self | Requires [[50_Magic/Traits/Merits/Forbidden Knowledge\|Forbidden Knowledge]]; every use triggers [[50_Magic/Glossary/Loop-Sanity\|Sanity]] checks |
 
 > [!NOTE] School Overlap
-> Some effects sit between two schools. In those cases, the spell belongs to the school that best describes the **primary mana action**, and the secondary school becomes a **Cross-School Prerequisite**. For example, a *Homing Missile* (Tier 3) is an [[40_People/Factions/Cyorian Academy/Classes/Animation Class\|Animation Class]] effect that requires [[40_People/Factions/Cyorian Academy/Classes/Projection Class\|Projection Class]] as a prerequisite — the animation (tracking) is the hard part, not the bolt itself.
+> Some effects sit between two schools. In those cases, the spell belongs to the school that best describes the **primary mana action**, and the secondary school becomes a **Cross-School Prerequisite**. For example, a *Homing Missile* (Tier 3) is an [[10_System/Schools/Animation/Animation\|Animation]] effect that requires [[10_System/Schools/Projection/Projection\|Projection]] as a prerequisite — the animation (tracking) is the hard part, not the bolt itself.
 
 ---
 
@@ -132,8 +132,8 @@ Sometimes a desired effect inherently spans the domains of multiple schools. Whe
 3. **The tier cannot exceed either school.** If a spell is Tier 3 under its primary school and requires a secondary, the caster needs at least 3 dots in the primary *and* the listed dots in the secondary.
 
 **Example structure:**
-> *Homing Missile* — [[40_People/Factions/Cyorian Academy/Classes/Animation Class\|Animation Class]] Tier 3
-> **Cross-School Prerequisite:** [[40_People/Factions/Cyorian Academy/Classes/Projection Class\|Projection Class]] 2
+> *Homing Missile* — [[10_System/Schools/Animation/Animation\|Animation]] Tier 3
+> **Cross-School Prerequisite:** [[10_System/Schools/Projection/Projection\|Projection]] 2
 > *This means the caster needs Animation 3 and Projection 2 to learn this spell.*
 
 ---
@@ -212,7 +212,7 @@ Damage (Aggravated).
 
 **Step 1 — Intent:** "I want a ward that, when triggered, fires a concussive blast at the intruder."
 
-**Step 2 — School Check:** The *persistence* and *trigger* are [[10_System/Schools/Abjuration/Abjuration\|Abjuration]] (specifically the Ward specialization). The *blast* is [[40_People/Factions/Cyorian Academy/Classes/Projection Class\|Projection Class]]. The primary action is the ward (it sits there waiting), so this is an **Abjuration** spell with a **Projection prerequisite**.
+**Step 2 — School Check:** The *persistence* and *trigger* are [[10_System/Schools/Abjuration/Abjuration\|Abjuration]] (specifically the Ward specialization). The *blast* is [[10_System/Schools/Projection/Projection\|Projection]]. The primary action is the ward (it sits there waiting), so this is an **Abjuration** spell with a **Projection prerequisite**.
 
 **Step 3 — Tier Budget Check:**
 - Range: Area-bound (10m radius ward zone) — Large room ✅
