@@ -29,12 +29,12 @@ Use the sidebar to browse, or press `Ctrl+K` to search.
 > [!info] Tip
 > Use the sidebar on the left to navigate through the folder structure of the vault.
 
-| File                                                | Last Modified            |
-| --------------------------------------------------- | ------------------------ |
-| [[10_System/05 Progression\|05 Progression]]     | 2:57 PM - March 18, 2026 |
-| [[30_Locations/Regions/Xlotic\|Xlotic]]          | 2:52 PM - March 18, 2026 |
-| [[30_Locations/Cities and Towns/Cyoria\|Cyoria]] | 2:52 PM - March 18, 2026 |
-| [[50_Magic/Glossary/Sanity\|Sanity]]             | 2:51 PM - March 18, 2026 |
-| [[30_Locations/Cities and Towns/Korsa\|Korsa]]   | 2:51 PM - March 18, 2026 |
+| File                                                                                                     | Last Modified            |
+| -------------------------------------------------------------------------------------------------------- | ------------------------ |
+| [[gemini-scribe/Agent-Sessions/Lore Updates for Chapters 52-55\|Lore Updates for Chapters 52-55]]     | 5:51 PM - March 21, 2026 |
+| [[80_Campaign/Loop Timeline\|Loop Timeline]]                                                          | 5:51 PM - March 21, 2026 |
+| [[gemini-scribe/Agent-Sessions/Setting Up the Timelines Plugin\|Setting Up the Timelines Plugin]]     | 5:29 PM - March 21, 2026 |
+| [[80_Campaign/Master_Campaign\|Master_Campaign]]                                                      | 5:29 PM - March 21, 2026 |
+| [[40_People/Factions/Esoteric Order of the Celestial Dragon\|Esoteric Order of the Celestial Dragon]] | 5:29 PM - March 21, 2026 |
 
 { .block-language-dataview}

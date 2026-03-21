@@ -3,7 +3,7 @@
 ---
 
 
-[[30_Locations/Other/Ikosian Empire\|Ikosian]] # Shifters
+# Shifters
 
 In ancient times, a number of [[30_Locations/Continents/Altazia\|Altazian]] tribes discovered a way to permanently bind the soul of an animal to their own, becoming a creature with a dual soul and ability to transform into an animal innately, with no need to use lengthy [[10_System/Schools/Alteration/Transformation\|transformation]] spells or potions.
 
@@ -48,3 +48,4 @@ There are 12 existing shifter tribes in modern [[30_Locations/Continents/Altazia
 *   **Mana Reserves:** Shifters have one soul with two (or multiple) parts, and thus a single mana pool. Their mana potential is an unpredictable blend of their forms.
 *   **Undead Shifters:** Becoming [[70_Bestiary/Undead/Undead\|undead]] does not heavily affect being a shifter, as transformation cloaks the soul in a transformation shell. However, partial transformations are likely severely restricted due to incompatibility.
 *   **Spirits:** You cannot become a shifter of a spirit because [[70_Bestiary/Spirits_Overview\|spirits]] don't have a body. Fusing with a spirit is possible but insanely dangerous due to the spirit's intense personality.
+

@@ -92,3 +92,4 @@ The only "naturally" arising undead in the world are ghosts and other incorporea
 
 **The Requirement of Soul Sight:**
 Soul magic is impossible to practice without first obtaining "soul sight"—the ability to perceive souls directly. Acquiring soul sight is an extremely difficult and dangerous process for most people, often risking permanent psychological or spiritual damage. Because it is highly illegal, only rogue criminals and specialized priests (who are granted exemptions or divine workarounds) specialize in it. It is exceedingly rare to see a standard mage capable of performing even basic Soul Magic.
+

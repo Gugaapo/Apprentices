@@ -40,3 +40,4 @@ Life force is a very potent form of mana, useful for a lot of things. Unlike spe
 **The Price of Power:** No matter the method used, drawing on life force will result in lasting weakening and sickness that will persist for days or even weeks. Vertigo, exhaustion, lethargy, and phantom pains are all typical consequences of life force depletion. Additionally, while losing a little life force from time to time will not permanently affect a person, dipping into one's life force too deeply or too often will inflict permanent physical consequences.
 
 **The Dark Path:** Because of these steep personal costs, true blood mages intensely dislike using their own life force. Instead, they focus on stealing it from others. This stolen life force is frequently used to power massive, highly illegal workings—most notably, **demon summoning**. This is the primary reason the discipline is hunted so ruthlessly by governments and the Church alike.
+
