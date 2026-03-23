@@ -31,10 +31,10 @@ Use the sidebar to browse, or press `Ctrl+K` to search.
 
 | File                                                                   | Last Modified             |
 | ---------------------------------------------------------------------- | ------------------------- |
+| [[00_Meta/Character Sheet Template\|Character Sheet Template]]      | 10:06 AM - March 23, 2026 |
 | [[40_People/Factions/Triumvirate Church\|Triumvirate Church]]       | 10:03 AM - March 23, 2026 |
 | [[50_Magic/Traits/Merits/Forbidden Knowledge\|Forbidden Knowledge]] | 10:03 AM - March 23, 2026 |
 | [[50_Magic/Glossary/Mana Capacity\|Mana Capacity]]                  | 10:01 AM - March 23, 2026 |
-| [[00_Meta/Character Sheet Template\|Character Sheet Template]]      | 10:00 AM - March 23, 2026 |
 | [[10_System/Attributes/Mental/Academics\|Academics]]                | 9:59 AM - March 23, 2026  |
 
 { .block-language-dataview}
