@@ -29,12 +29,12 @@ Use the sidebar to browse, or press `Ctrl+K` to search.
 > [!info] Tip
 > Use the sidebar on the left to navigate through the folder structure of the vault.
 
-| File                                                                                     | Last Modified             |
-| ---------------------------------------------------------------------------------------- | ------------------------- |
-| [[00_Meta/Character Sheet Template\|Character Sheet Template]]                        | 10:00 AM - March 23, 2026 |
-| [[10_System/Attributes/Mental/Academics\|Academics]]                                  | 9:59 AM - March 23, 2026  |
-| [[40_People/Factions/Cyorian Academy/Enrollments/Enrollment Rules\|Enrollment Rules]] | 9:56 AM - March 23, 2026  |
-| [[40_People/Factions/Triumvirate Church\|Triumvirate Church]]                         | 9:55 AM - March 23, 2026  |
-| [[40_People/Factions/Cyorian Academy/Cyorian Academy\|Cyorian Academy]]               | 9:54 AM - March 23, 2026  |
+| File                                                                   | Last Modified             |
+| ---------------------------------------------------------------------- | ------------------------- |
+| [[40_People/Factions/Triumvirate Church\|Triumvirate Church]]       | 10:03 AM - March 23, 2026 |
+| [[50_Magic/Traits/Merits/Forbidden Knowledge\|Forbidden Knowledge]] | 10:03 AM - March 23, 2026 |
+| [[50_Magic/Glossary/Mana Capacity\|Mana Capacity]]                  | 10:01 AM - March 23, 2026 |
+| [[00_Meta/Character Sheet Template\|Character Sheet Template]]      | 10:00 AM - March 23, 2026 |
+| [[10_System/Attributes/Mental/Academics\|Academics]]                | 9:59 AM - March 23, 2026  |
 
 { .block-language-dataview}

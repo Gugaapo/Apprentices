@@ -3,7 +3,6 @@
 ---
 
 
-# Triumvirate Church
 
 ## Overview
 
