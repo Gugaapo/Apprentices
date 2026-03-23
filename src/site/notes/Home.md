@@ -29,12 +29,12 @@ Use the sidebar to browse, or press `Ctrl+K` to search.
 > [!info] Tip
 > Use the sidebar on the left to navigate through the folder structure of the vault.
 
-| File                                                                   | Last Modified             |
-| ---------------------------------------------------------------------- | ------------------------- |
-| [[00_Meta/Character Sheet Template\|Character Sheet Template]]      | 10:06 AM - March 23, 2026 |
-| [[40_People/Factions/Triumvirate Church\|Triumvirate Church]]       | 10:03 AM - March 23, 2026 |
-| [[50_Magic/Traits/Merits/Forbidden Knowledge\|Forbidden Knowledge]] | 10:03 AM - March 23, 2026 |
-| [[50_Magic/Glossary/Mana Capacity\|Mana Capacity]]                  | 10:01 AM - March 23, 2026 |
-| [[10_System/Attributes/Mental/Academics\|Academics]]                | 9:59 AM - March 23, 2026  |
+| File                                                                | Last Modified             |
+| ------------------------------------------------------------------- | ------------------------- |
+| [[40_People/Factions/Houses/House Taramatula\|House Taramatula]] | 10:20 AM - March 23, 2026 |
+| [[40_People/Factions/Houses/House Reid\|House Reid]]             | 10:19 AM - March 23, 2026 |
+| [[40_People/Factions/Houses/House Noveda\|House Noveda]]         | 10:19 AM - March 23, 2026 |
+| [[40_People/Factions/Houses/House Denen\|House Denen]]           | 10:19 AM - March 23, 2026 |
+| [[40_People/Factions/Houses/House Ashirai\|House Ashirai]]       | 10:19 AM - March 23, 2026 |
 
 { .block-language-dataview}

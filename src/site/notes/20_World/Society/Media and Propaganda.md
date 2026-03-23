@@ -11,7 +11,7 @@ The invention of the magitech printing press and the mana-telegraph has revoluti
 Daily newspapers and weekly broadsheets have become a staple of urban life. They report on everything from magitech innovations and dungeon delving expeditions to international politics and high-society gossip. For the first time, the general public is rapidly informed of global events, drastically shifting the political landscape.
 
 ## Propaganda and State Control
-Following the devastation of the [[20_World/History/Timeline/06 The Splinter Wars\|Splinter Wars]], governments and the [[40_People/Factions/Houses/Noble_Houses_Overview\|Noble Houses]] quickly realized the power of mass media. 
+Following the devastation of the [[20_World/History/Timeline/06 The Splinter Wars\|Splinter Wars]], governments and the [[40_People/Factions/Houses/Noble Houses\|Noble Houses]] quickly realized the power of mass media. 
 *   **Narrative Control:** Most major newspapers are secretly or overtly funded by political factions. They are used to sway public opinion, drum up nationalism, or smear political rivals.
 *   **Censorship:** The state frequently censors reports on sensitive topics, such as severe Dungeon breakouts, illegal soul magic cults, or the failures of the [[Magistracy\|Magistracy]].
 

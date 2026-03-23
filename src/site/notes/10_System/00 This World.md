@@ -10,7 +10,7 @@ Welcome to the vibrant, dangerous, and rapidly changing world of **Ersetu**. Bef
 
 ## 1. A World in Transition
 
-Ersetu is a world leaving its ancient past behind. For centuries, magic was the exclusive domain of isolated covens, wealthy city-state guilds, or fiercely guarded [[40_People/Factions/Houses/Noble_Houses_Overview\|Noble Houses]]. To be a commoner was to be mundane, powerless against the whims of the aristocracy and the monsters that lurked in the dark.
+Ersetu is a world leaving its ancient past behind. For centuries, magic was the exclusive domain of isolated covens, wealthy city-state guilds, or fiercely guarded [[40_People/Factions/Houses/Noble Houses\|Noble Houses]]. To be a commoner was to be mundane, powerless against the whims of the aristocracy and the monsters that lurked in the dark.
 
 Today, that paradigm is shattering. The devastation of recent wars decimated the traditional battlemage class, forcing the surviving nations to change tactics. Combining this need with a booming [[20_World/Society/Technological Revolution\|Technological Revolution]]—the rapid integration of trains, firearms, and industrialized alchemy — the major powers of the continent of [[30_Locations/Continents/Altazia\|Altazia]] established massive, state-subsidized academies. 
 
