@@ -14,7 +14,7 @@ During Character Creation, every player must choose **One Mentor Professor**.
 
 ## 2. Electing Majors and Minors (Day 1)
 
-On this day, they must actively submit their desired class schedule for that loop. 
+On this day, they must actively submit their desired class schedule for that year. 
 
 ### Majors (Mandatory)
 Each student must select **exactly 2 Major Classes** from the available disciplines.

@@ -28,16 +28,5 @@ Today, they function as a powerful, albeit vastly reduced, organization. Due to 
 **No one** outside the Church is legally permitted to study or wield [[10_System/Schools/Soul Magic/Soul Magic\|Soul Magic]]. The Church has an institutional interest in combating undead and necromancy, producing dedicated **undead hunters** and fanatical templars — battle priests skilled in fire magic and soul perception — whose sole purpose is to hunt down and legally execute rogue soul mages and necromancers. Because they possess the only legal expertise in these fields, even secular governments and the Big Three are forced to cooperate with the Church to police the darkest magical crimes.
 
 ---
-:::hidden
-## Known Members
-
-- **[[40_People/NPCs/Allies/Alanic Zosk\|Alanic Zosk]]** — An old battle priest stationed near [[30_Locations/Cities and Towns/Knyazov Dveri\|Knyazov Dveri]] skilled in fire magic and soul magic. Teaches the party to perceive his own soul.
 
 ---
-
-## Campaign Significance
-
-- The Church is a **lawful-good faction** that can provide soul magic training, undead hunting expertise, and intelligence on necromantic activity.
-- [[40_People/NPCs/Allies/Alanic Zosk\|Alanic Zosk]] is normally **assassinated in his sleep** during the loop by the soul conspiracy — protecting him is an early quest hook.
-- Church resources (holy water, truth potions, consecrated ground) can be invaluable against undead threats during the invasion.
-:::

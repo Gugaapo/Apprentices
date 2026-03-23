@@ -29,12 +29,12 @@ Use the sidebar to browse, or press `Ctrl+K` to search.
 > [!info] Tip
 > Use the sidebar on the left to navigate through the folder structure of the vault.
 
-| File                                                                                                     | Last Modified            |
-| -------------------------------------------------------------------------------------------------------- | ------------------------ |
-| [[gemini-scribe/Agent-Sessions/Lore Updates for Chapters 52-55\|Lore Updates for Chapters 52-55]]     | 5:51 PM - March 21, 2026 |
-| [[80_Campaign/Loop Timeline\|Loop Timeline]]                                                          | 5:51 PM - March 21, 2026 |
-| [[gemini-scribe/Agent-Sessions/Setting Up the Timelines Plugin\|Setting Up the Timelines Plugin]]     | 5:29 PM - March 21, 2026 |
-| [[80_Campaign/Master_Campaign\|Master_Campaign]]                                                      | 5:29 PM - March 21, 2026 |
-| [[40_People/Factions/Esoteric Order of the Celestial Dragon\|Esoteric Order of the Celestial Dragon]] | 5:29 PM - March 21, 2026 |
+| File                                                                                                 | Last Modified            |
+| ---------------------------------------------------------------------------------------------------- | ------------------------ |
+| [[40_People/Factions/Cyorian Academy/Enrollments/Enrollment Rules\|Enrollment Rules]]             | 9:56 AM - March 23, 2026 |
+| [[40_People/Factions/Triumvirate Church\|Triumvirate Church]]                                     | 9:55 AM - March 23, 2026 |
+| [[40_People/Factions/Cyorian Academy/Cyorian Academy\|Cyorian Academy]]                           | 9:54 AM - March 23, 2026 |
+| [[50_Magic/Traits/Flaws/Nightmares\|Nightmares]]                                                  | 9:52 AM - March 23, 2026 |
+| [[gemini-scribe/Agent-Sessions/Lore Updates for Chapters 52-55\|Lore Updates for Chapters 52-55]] | 5:51 PM - March 21, 2026 |
 
 { .block-language-dataview}
