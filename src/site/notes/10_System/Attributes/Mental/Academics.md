@@ -18,10 +18,10 @@ Academics represents your character's formal education, general knowledge, and g
 
 
 ## Attribute Tiers
-| Tier | Title | Example Capability |
-| :--- | :--- | :--- |
-| **1** | Novice | Basic literacy. Knows common knowledge and recent history. |
-| **2** | Competent | Educated student. Can research effectively and understand standard magical theory. |
-| **3** | Skilled | Academy graduate. Deep knowledge of Altazian history, politics, and advanced spell matrices. |
-| **4** | Expert | Scholar. Can decipher ancient texts, theorize new magical formulas, and recall obscure lore. |
-| **5** | Master | Sage. Unmatched intellect, capable of unraveling the deepest mysteries of the Time Loop and ancient lost magics. |
+| Tier  | Title     | Example Capability                                                                                           |
+| :---- | :-------- | :----------------------------------------------------------------------------------------------------------- |
+| **1** | Novice    | Basic literacy. Knows common knowledge and recent history.                                                   |
+| **2** | Competent | Educated student. Can research effectively and understand standard magical theory.                           |
+| **3** | Skilled   | Academy graduate. Deep knowledge of Altazian history, politics, and advanced spell matrices.                 |
+| **4** | Expert    | Scholar. Can decipher ancient texts, theorize new magical formulas, and recall obscure lore.                 |
+| **5** | Master    | Sage. Unmatched intellect, capable of unraveling the deepest mysteries of the world and ancient lost magics. |

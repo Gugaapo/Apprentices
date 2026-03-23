@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-meta/character-sheet-template/","tags":["character","looper"],"dgShowBacklinks":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/00-meta/character-sheet-template/","tags":["character"],"dgShowBacklinks":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
 
 # Student: [Name]
@@ -95,7 +95,7 @@
 
 ---
 
-## 5. Inventory & Current Loop Notes
+## 5. Inventory & Notes
 
 **Funds Level:** 
 **Held Gear / Armor / Focus:**
