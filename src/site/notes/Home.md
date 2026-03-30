@@ -29,12 +29,12 @@ Use the sidebar to browse, or press `Ctrl+K` to search.
 > [!info] Tip
 > Use the sidebar on the left to navigate through the folder structure of the vault.
 
-| File                                                                        | Last Modified            |
-| --------------------------------------------------------------------------- | ------------------------ |
-| [[10_System/05 Progression\|05 Progression]]                             | 6:00 PM - March 30, 2026 |
-| [[10_System/04 Traits\|04 Traits]]                                       | 6:00 PM - March 30, 2026 |
-| [[10_System/03b Quick Character Creation\|03b Quick Character Creation]] | 5:59 PM - March 30, 2026 |
-| [[10_System/03 Character Creation\|03 Character Creation]]               | 5:59 PM - March 30, 2026 |
-| [[10_System/02 Economy\|02 Economy]]                                     | 5:58 PM - March 30, 2026 |
+| File                                                            | Last Modified            |
+| --------------------------------------------------------------- | ------------------------ |
+| [[00_Meta/Corin Vance - Version 3\|Corin Vance - Version 3]] | 6:35 PM - March 30, 2026 |
+| [[00_Meta/Corin Vance - Version 2\|Corin Vance - Version 2]] | 6:35 PM - March 30, 2026 |
+| [[00_Meta/Corin Vance - Version 1\|Corin Vance - Version 1]] | 6:35 PM - March 30, 2026 |
+| [[10_System/05 Progression\|05 Progression]]                 | 6:00 PM - March 30, 2026 |
+| [[10_System/04 Traits\|04 Traits]]                           | 6:00 PM - March 30, 2026 |
 
 { .block-language-dataview}
