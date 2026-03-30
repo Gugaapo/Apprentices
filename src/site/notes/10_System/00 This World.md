@@ -27,20 +27,20 @@ Your journey begins in **[[30_Locations/Cities and Towns/Cyoria\|Cyoria]]**, the
 
 Cyoria is a massive, sprawling metropolis built around the prestigious **Royal Academy of Magical Arts**. Unlike other cities that grew around natural harbours or vital trade routes, Cyoria was built in a seemingly impractical location for one single, irresistible reason: **Ambient Magic**.
 
-The city is constructed directly over "The Hole"—a massive, plunging chasm that serves as immense entrance to the subterranean world known simply as **[[30_Locations/Other/Dungeon\|The Dungeon]]**. From this unfathomable abyss, vast quantities of raw magical energy (mana) gush upward to the surface. It is the greatest known "[[50_Magic/Glossary/Mana Well\|Mana Well]]" in the world. 
+The city is constructed directly over "The Hole"—a massive, plunging chasm that serves as immense entrance to the subterranean world known simply as **[[30_Locations/Other/Dungeon\|The Dungeon]]**. From this unfathomable abyss, vast quantities of raw magical energy (mana) gush upward to the surface. It is the greatest known "[[10_System/Glossary/Mana Well\|Mana Well]]" in the world. 
 
 [[30_Locations/Other/Dungeon\|The Dungeon]] is incredibly dangerous, infested with monsters that scale in lethality the deeper one descends, but the ambient energy it bleeds into the air makes [[30_Locations/Cities and Towns/Cyoria\|Cyoria]] an absolute paradise for magical research. The city experiences periodic "mana surges" where the air itself hums with raw power, allowing for spells, rituals, and massive magical architecture that would be impossible to sustain anywhere else.
 
 ---
 
-In this world, magic is not a fairy-tale miracle; it is a highly technical discipline of applied physics. The energy that fuels it—**[[50_Magic/Glossary/mana\|mana]]**—permeates the atmosphere like nitrogen or oxygen, though its concentration is higher near the deep places of the earth (like the [[30_Locations/Other/Dungeon\|The Dungeon]] below [[30_Locations/Cities and Towns/Cyoria\|Cyoria]]). A mage must first learn to sense this ambient energy and eventually cultivate it within their own soul. 
+In this world, magic is not a fairy-tale miracle; it is a highly technical discipline of applied physics. The energy that fuels it—**[[10_System/Glossary/mana\|mana]]**—permeates the atmosphere like nitrogen or oxygen, though its concentration is higher near the deep places of the earth (like the [[30_Locations/Other/Dungeon\|The Dungeon]] below [[30_Locations/Cities and Towns/Cyoria\|Cyoria]]). A mage must first learn to sense this ambient energy and eventually cultivate it within their own soul. 
 
-The act of using magic is called **[[50_Magic/Glossary/Shaping\|Shaping]]**, so named because the mage physically shapes the raw mana around them into invisible **canals** to guide and transform it. 
+The act of using magic is called **[[10_System/Glossary/Shaping\|Shaping]]**, so named because the mage physically shapes the raw mana around them into invisible **canals** to guide and transform it. 
 
 Magic fundamentally exists in two forms:
 
 ### Unstructured Magic
-The raw expression of intent. A mage simply visualizes an effect and "shapes in the air," clumsily forcing [[50_Magic/Glossary/mana\|mana]] to flow without a structured path until it happens. Because it relies purely on [[10_System/Attributes/Magical/Willpower\|Willpower]] and lacks an organized framework of canals, it is horribly inefficient. Unstructured magic is useful for tiny parlor tricks (like lighting a candle or gently closing a door), but trying to use it for anything complex or powerful would take decades of trial and error. It is slow, clumsy, but highly flexible.
+The raw expression of intent. A mage simply visualizes an effect and "shapes in the air," clumsily forcing [[10_System/Glossary/mana\|mana]] to flow without a structured path until it happens. Because it relies purely on [[10_System/Attributes/Magical/Willpower\|Willpower]] and lacks an organized framework of canals, it is horribly inefficient. Unstructured magic is useful for tiny parlor tricks (like lighting a candle or gently closing a door), but trying to use it for anything complex or powerful would take decades of trial and error. It is slow, clumsy, but highly flexible.
 
 ### Structured Magic (Spells)
 Because the chaotic nature of "shaping in the air" is too dangerous and slow for emergencies, the ancients developed a "divine limiter" system: **Spells**. 

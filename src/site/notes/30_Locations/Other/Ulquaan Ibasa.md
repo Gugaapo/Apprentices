@@ -23,7 +23,7 @@
 
 Ulquaan Ibasa is an isolated, mountainous island located northeast of [[30_Locations/Continents/Altazia\|Altazia]]. It was historically called the **Isle of the Trolls** for its original inhabitants. Due to international blockades and a lack of resources, the Ibasans turned to piracy, primarily targeting [[30_Locations/Countries/Eldemar\|Eldemar]]. 
 
-Despite its harsh climate, the island is incredibly rich in ambient [[50_Magic/Glossary/mana\|mana]], making it a haven for monsters and outcasts.
+Despite its harsh climate, the island is incredibly rich in ambient [[10_System/Glossary/mana\|mana]], making it a haven for monsters and outcasts.
 
 ---
 

@@ -2,32 +2,30 @@
 {"dg-publish":true,"permalink":"/10-system/schools/soul-magic/soul-carving/","tags":["rules","magic","soul-carving"],"dgShowBacklinks":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
 
-# Soul Carving
+# Soul Carving (Modification)
 
 **Classification:** Specialization
 **Parent School:** [[10_System/Schools/Soul Magic/Soul Magic\|Soul Magic]]
 
+# Lore
 Soul Carving is the most invasive, agonizing, and universally reviled branch of Soul Magic. It focuses on directly modifying, damaging, or enforcing permanent magical effects upon a target's soul.
+> **Casting Roll:** 2d6 + Willpower + [Soul Magic]
 
-## Specialization Rules
-This is an advanced Specialization. To learn **Spells (Powers)** in this field, a mage must use their dot-purchase selections from the **[[10_System/Schools/Soul Magic/Soul Magic\|Soul Magic]]** skill track. Furthermore, specific spells within Soul Carving will explicitly require a secondary prerequisite (such as 1 or 2 dots in collateral Schools) to simulate the mixed-matrix required to cast them.
+# Glyph progression
+| Specialization   | Unlocked Glyphs                               |
+| :--------------- | :-------------------------------------------- |
+| **Soul Carving** | [[50_Magic/Glyphs/1_Functions/Bind\|Bind]] (Graft/Fuse), [[50_Magic/Glyphs/4_Modifiers/Mahl\|Mahl]] (Sigil/Brand) |
 
-## Progression
-Acquiring dots and Powers here requires deep dedication. The spells are extremely potent but narrowly focused.
+# Example Spells
+| Complexity Level | Spell Invocation | Spell Description |
+| :--- | :--- | :--- |
+| Trivial [0 Mana] | *Reis Mahl Klen* | Leaves a temporary, harmless magical mark on a soul. |
+| Regular [1 Mana] | *Reis Mahl Rinn* | Brands a target so their mana slowly leaks away. |
+| Hard [2 Mana] | *Reis Seel Bind* | Grafts a minor magical affinity onto the caster's soul. |
+| Complex [4 Mana] | *Reis Seel Mahl* | Brands an agonizing slaver's mark directly onto an enemy's soul. |
+| Miracle [7 Mana] | *Reis Seel Bind Fetz* | Tears another mage's soul apart and permanently grafts their magical power onto the caster. |
 
-## Example Powers
-
-| Tier       | Example Effect                                         | Description                                                                                                                                                          |
-| :--------- | :----------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Tier 1** | *Soul Sight*                                           | The foundational prerequisite. Allows the caster to perceive the spiritual essence and soul structure of living and dead entities.                                   |
-| **Tier 2** | *Soul Link*                                            | Forges a permanent, metaphysical connection between two souls, allowing them to share pain, emotions, or locate one another across vast distances.                   |
-| **Tier 3** | *Geas / Curse*                                         | Enforces a permanent, binding compulsion or detrimental effect directly onto the target's soul. It cannot be removed by standard [[10_System/Schools/Projection/Negation\|Negation]] or [[10_System/Schools/Illusionism/Mind Magic\|Mind Magic]].     |
-| **Tier 4** | *Soul Mutilation*                                      | Directly attacks the target's soul, causing unimaginable agony that bypasses all physical armor and pain tolerance. Can permanently cripple a mage's mana capacity.  |
-| **Tier 5** | *Soul Splitting*                                       | The darkest art. Tears a fragment of a soul away to create a phylactery, anchor a permanent ward, or graft onto another being.                                       |
-
----
-
-## Lore Deep Dive
+# Lore deep dive
 
 **The Indestructible Core:**
 Souls are fundamentally indestructible. They cannot be truly destroyed or unmade by any known magic. However, they *can* be damaged, twisted, and scarred. Soul Carving is the art of inflicting those scars. Because the soul is the seat of a living being's mana generation and fundamental existence, damaging it causes repercussions that the physical body cannot heal.
@@ -41,8 +39,8 @@ Practicing Soul Carving requires first obtaining "soul sight," an agonizing and 
 ## Design Boundaries
 
 **Soul Carving CAN:**
-- Permanently link two souls together.
-- Inflict permanent curses, compulsions (Geas), or metaphysical damage that bypasses physical healing.
+- Permanently link two souls together (`Bind`).
+- Inflict permanent curses, compulsions (Geas), or metaphysical damage that bypasses physical healing (`Mahl`).
 - Cripple a target's ability to generate or shape mana.
 
 **Soul Carving CANNOT:**

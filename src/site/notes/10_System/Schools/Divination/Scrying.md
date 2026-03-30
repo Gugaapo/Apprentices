@@ -5,29 +5,27 @@
 # Scrying
 
 **Classification:** Specialization
-**Parent School:** [[40_People/Factions/Cyorian Academy/Classes/Divination Class\|Divination Class]]
+**Parent School:** [[10_System/Schools/Divination/Divination\|Divination]]
 
+# Lore
 Scrying is the specialized art of gathering visual and auditory information from afar. It is the most common and practical application of the Divination discipline.
+> **Casting Roll:** 2d6 + Willpower + [Divination]
 
-## Specialization Rules
-This is an advanced Specialization. To learn **Spells (Powers)** in this field, a mage must use their dot-purchase selections from the **[[40_People/Factions/Cyorian Academy/Classes/Divination Class\|Divination Class]]** skill track. Furthermore, specific spells within Scrying will explicitly require a secondary prerequisite (such as 1 or 2 dots in collateral Schools) to simulate the mixed-matrix required to cast them.
+# Glyph progression
+| Specialization | Unlocked Glyphs                                |
+| :------------- | :--------------------------------------------- |
+| **Scrying**    | [[50_Magic/Glyphs/3_Characteristics/Bild\|Bild]] (Image/Vision), [[50_Magic/Glyphs/1_Functions/Auge\|Auge]] (Eye/Sensor) |
 
-## Progression
-Acquiring dots and Powers here requires deep dedication. The spells are extremely potent but narrowly focused.
+# Example Spells
+| Complexity Level | Spell Invocation | Spell Description |
+| :--- | :--- | :--- |
+| Trivial [0 Mana] | *Sehn Bild Klen* | Projects a tiny, blurry image of the next room. |
+| Regular [1 Mana] | *Sehn Auge* | Creates an invisible magical sensor to look through. |
+| Hard [2 Mana] | *Sehn Bild Raum* | Projects a bird's-eye view vision of the surrounding forest. |
+| Complex [4 Mana] | *Sehn Auge Fern* | Places a perfect scrying sensor hundreds of miles away. |
+| Miracle [7 Mana] | *Sehn Auge Alle* | Allows the caster to see everything happening in a massive city simultaneously. |
 
-## Example Powers
-
-| Tier       | Example Effect                                         | Description                                                                                                                                                          |
-| :--------- | :----------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Tier 1** | *Clairaudience*                                        | Allows the caster to hear sounds from a specific location within a short distance.                                                                                   |
-| **Tier 2** | *Arcane Eye*                                           | Creates an invisible, floating sensor that transmits visual information back to the caster.                                                                          |
-| **Tier 3** | *Remote Viewing*                                       | Projects the caster's senses to a distant location, provided they have a strong sympathetic link to the target.                                                      |
-| **Tier 4** | *Pierce Illusion*                                      | A specialized sensory filter that automatically detects and highlights [[10_System/Schools/Illusionism/Illusionism\|Illusionism]] constructs or glamours.                                                       |
-| **Tier 5** | *Omniscience Sphere*                                   | Grants the caster a flawless, 360-degree top-down view of a massive area (like an entire city district) simultaneously.                                              |
-
----
-
-## Lore Deep Dive
+# Lore deep dive
 
 **The Necessity of a Link:**
 Scrying is not omnipotent. A caster cannot simply declare they want to view a stranger halfway across the continent. Divinations require a **sympathetic link** to the target—either a physical object belonging to them, a lock of hair, or a very strong personal memory of the target from the caster. Without this reference point, the spell has nothing to lock onto.
@@ -41,7 +39,7 @@ If a scryer feeds improper information into their spell, or starts with an ill-c
 ## Design Boundaries
 
 **Scrying CAN:**
-- Project the caster's senses (sight, hearing) over distances.
+- Project the caster's senses (sight, hearing) over distances (`Bild`, `Auge`).
 - Locate specific objects or people, provided the caster possesses a strong sympathetic link.
 - Be cast very cheaply. It relies heavily on shaping finesse rather than raw mana reserves.
 

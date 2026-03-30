@@ -17,9 +17,9 @@ The bread-and-butter combat school. If you want to throw bolts of force and ligh
 | Spell                                                                   | Tier | Why Pick It                                                                                                                        |
 | :---------------------------------------------------------------------- | :--- | :--------------------------------------------------------------------------------------------------------------------------------- |
 | **[[50_Magic/Spells/Projection/Combat Flare\|Combat Flare]]**           | 1    | A sharp flash of light designed specifically for combat. Unlike decorative light spells, this one is optimized for disorientation. |
-| **[[50_Magic/Spells/Projection/Pressure Wave\|Pressure Wave]]**                                    | 1    | Extends their palm and releases a flat pulse of kinetic force. Objects within arm's reach are pushed back...                       |
+| **[[Pressure Wave\|Pressure Wave]]**                                    | 1    | Extends their palm and releases a flat pulse of kinetic force. Objects within arm's reach are pushed back...                       |
 | **[[50_Magic/Spells/Projection/Ignite\|Ignite]]**                       | 1    | The simplest elemental Evocation. Snap fingers to produce a small, completely controllable flame or a localized chill.             |
-| **[[50_Magic/Spells/Projection/Mana Bolt\|Mana Bolt]]**                                            | 2    | *The* ranged attack. Condenses raw mana into a glowing, high-velocity projectile. Your primary combat spell for early days.        |
+| **[[Mana Bolt\|Mana Bolt]]**                                            | 2    | *The* ranged attack. Condenses raw mana into a glowing, high-velocity projectile. Your primary combat spell for early days.        |
 | **[[50_Magic/Spells/Projection/Detonation Charge\|Detonation Charge]]** | 2    | Creates a small, sticky sphere of compressed energy, attaches it to a surface, and detonates it remotely for demolition or traps.  |
 
 ---
@@ -31,7 +31,7 @@ The utility and crafting school. Changes material properties — invaluable for 
 | :--- | :--- | :--- |
 | **[[50_Magic/Spells/Alteration/Chameleon Skin\|Chameleon Skin]]** | 1 | Superficially alters pigmentation of skin, hair, and clothing to perfectly match the background. Seamless camouflage. |
 | **[[50_Magic/Spells/Alteration/Purify Water\|Purify Water]]** | 1 | Restructures contaminated water at the molecular level, separating toxins and pathogens from clean water. |
-| **[[50_Magic/Spells/Alteration/Blood Clot Minor\|Blood Clot Minor]]** | 1 | Forces a small wound to instantly seal using mana. Essential, cheap first-aid. |
+| **[[Blood Clot Minor\|Blood Clot Minor]]** | 1 | Forces a small wound to instantly seal using mana. Essential, cheap first-aid. |
 | **[[50_Magic/Spells/Alteration/Iron in the Blood\|Iron in the Blood]]** | 1 | Concentrates the iron naturally present in their blood, hardening their fists and forearms for brawling or blocking. |
 | **[[50_Magic/Spells/Alteration/Bone Set\|Bone Set]]** | 2 | Realigns broken bones and accelerates the fusing process. Heals a weeks-long fracture in minutes. |
 
@@ -44,8 +44,8 @@ The mobility and spatial-control school. Teleportation starts small but scales e
 | :--- | :--- | :--- |
 | **[[50_Magic/Spells/Dimensionalism/Blink\|Blink]]** | 1 | Briefly folds space to instantly teleport to a visible location within a few dozen meters. Amazing tactical mobility tool. |
 | **[[50_Magic/Spells/Dimensionalism/Conjure Tool\|Conjure Tool]]** | 1 | Pulls existing particles together to rapidly weave a simple, temporary mundane object (crowbar, rope, wooden stake). |
-| **[[50_Magic/Spells/Dimensionalism/Object Swap\|Object Swap]]** | 1 | Precisely swaps two small objects of similar size that are both within arm's reach. |
-| **[[50_Magic/Spells/Dimensionalism/Ammunition Cache\|Ammunition Cache]]** | 2 | Creates a dimensional pocket that continuously feeds ammunition into a weapon without needing to manually reload. |
+| **[[Object Swap\|Object Swap]]** | 1 | Precisely swaps two small objects of similar size that are both within arm's reach. |
+| **[[Ammunition Cache\|Ammunition Cache]]** | 2 | Creates a dimensional pocket that continuously feeds ammunition into a weapon without needing to manually reload. |
 | **[[50_Magic/Spells/Dimensionalism/Escape Artist\|Escape Artist]]** | 2 | Safely teleports free of all physical restraints — ropes, chains, manacles, or grapples. |
 
 ---
@@ -56,9 +56,9 @@ The information school. Pure observation — changes nothing, but knowledge is t
 | Spell | Tier | Why Pick It |
 | :--- | :--- | :--- |
 | **[[50_Magic/Spells/Divination/Clairvoyance\|Clairvoyance]]** | 1 | Detaches sensory perception to create a localized invisible sensor up to 100 meters away. Look around corners or through keyholes. |
-| **[[50_Magic/Spells/Divination/Object Reading\|Object Reading]]** | 1 | Touches an object and receives a brief flash of its most recent significant use. Excellent for investigations. |
+| **[[Object Reading\|Object Reading]]** | 1 | Touches an object and receives a brief flash of its most recent significant use. Excellent for investigations. |
 | **[[50_Magic/Spells/Divination/Echoes of the Past\|Echoes of the Past]]** | 1 | Touches a location and visually replays the events that happened there up to 24 hours ago as a silent, ghostly hologram. |
-| **[[50_Magic/Spells/Divination/Micro-Haste\|Micro-Haste]]** | 2 | Slightly accelerates own personal time-stream. Gives the crucial edge of observing fast-moving attacks in slow motion. |
+| **[[Micro-Haste\|Micro-Haste]]** | 2 | Slightly accelerates own personal time-stream. Gives the crucial edge of observing fast-moving attacks in slow motion. |
 | **[[50_Magic/Spells/Divination/Map Render\|Map Render]]** | 2 | Uses scrying to create an aerial view of the surroundings, rendering a perfect mental map. |
 
 ---
@@ -72,7 +72,7 @@ The stealth and deception school. Nothing is real, but the targets don't know th
 | **[[50_Magic/Spells/Illusionism/Minor Glamour\|Minor Glamour]]** | 1 | Creates small, localized cosmetic changes. Change eye color, smooth wrinkles, or make clothes look dirty or clean. |
 | **[[50_Magic/Spells/Illusionism/Attention Divert\|Attention Divert]]** | 1 | Subtly redirects a target's attention away from something specific, allowing you or an ally to slip by unnoticed. |
 | **[[50_Magic/Spells/Illusionism/Disguise Self\|Disguise Self]]** | 2 | Generates a complete, hollow optical illusion over the body, projecting the exact visual appearance, voice, and smell of another person. |
-| **[[50_Magic/Spells/Illusionism/Invisibility Matrix\|Invisibility Matrix]]** | 2 | Seamlessly bends light around the target to vanish completely into the background. (Does not silence footsteps). |
+| **[[Invisibility Matrix\|Invisibility Matrix]]** | 2 | Seamlessly bends light around the target to vanish completely into the background. (Does not silence footsteps). |
 
 ---
 
@@ -83,8 +83,8 @@ The automation school. Infuse objects with fragments of your mind for autonomous
 | :--- | :--- | :--- |
 | **[[50_Magic/Spells/Animation/Clay Figurine\|Clay Figurine]]** | 1 | Shapes a tiny clay figure and animates it to walk, climb, and carry objects up to its own weight. A tiny physical scout. |
 | **[[50_Magic/Spells/Animation/Stone Fist\|Stone Fist]]** | 1 | Shapes a fist-sized stone golem that launches itself and punches a target with surprising concussive force. |
-| **[[50_Magic/Spells/Animation/Repair Golem\|Repair Golem]]** | 1 | Animates a damaged golem's materials, causing cracks to seal and chips to fill. The essential maintenance spell. |
-| **[[50_Magic/Spells/Animation/Brick Golem\|Brick Golem]]** | 2 | Assembles bricks or stones into a small humanoid construct that can carry loads and perform manual labour. |
+| **[[Repair Golem\|Repair Golem]]** | 1 | Animates a damaged golem's materials, causing cracks to seal and chips to fill. The essential maintenance spell. |
+| **[[Brick Golem\|Brick Golem]]** | 2 | Assembles bricks or stones into a small humanoid construct that can carry loads and perform manual labour. |
 | **[[50_Magic/Spells/Animation/Stone Hound\|Stone Hound]]** | 2 | Sculpts a reliable dog-sized golem from stone that serves as a guard dog, tracking target scents and hunting. |
 
 ---
@@ -94,10 +94,10 @@ The defense and preparation school. Counters magic and sets spatial anchors that
 
 | Spell | Tier | Why Pick It |
 | :--- | :--- | :--- |
-| **[[50_Magic/Spells/Abjuration/Personal Shield\|Personal Shield]]** | 1 | Creates a brief, simple personal barrier that absorbs one hit. A cheap, life-saving reflex. |
-| **[[50_Magic/Spells/Abjuration/Minor Deflection\|Minor Deflection]]** | 1 | A tiny, passive ward that slightly redirects weak kinetic impacts or projectiles. |
+| **[[Personal Shield\|Personal Shield]]** | 1 | Creates a brief, simple personal barrier that absorbs one hit. A cheap, life-saving reflex. |
+| **[[Minor Deflection\|Minor Deflection]]** | 1 | A tiny, passive ward that slightly redirects weak kinetic impacts or projectiles. |
 | **[[50_Magic/Spells/Abjuration/Arcane Lock\|Arcane Lock]]** | 1 | Fuses a locking mechanism with a simple magical cipher, forcefully barring access to unauthorized hands. |
-| **[[50_Magic/Spells/Abjuration/Reflective Shield\|Reflective Shield]]** | 2 | Polished invisible mirror shield that bounces targeted spells (like a Mana Bolt) back at the attacker. |
+| **[[Reflective Shield\|Reflective Shield]]** | 2 | Polished invisible mirror shield that bounces targeted spells (like a Mana Bolt) back at the attacker. |
 | **[[50_Magic/Spells/Abjuration/Counter Ward\|Counter Ward]]** | 2 | Pre-casts a ward that waits for and automatically counters one incoming spell. Ultimate passive safety. |
 
 ---
@@ -109,9 +109,9 @@ The defense and preparation school. Counters magic and sets spatial anchors that
 
 | Spell | Tier | Why Pick It |
 | :--- | :--- | :--- |
-| **[[50_Magic/Spells/Soul Magic/Soul Echo\|Soul Echo]]** | 1 | Reads the spiritual residue left by a soul's passage — sensing where souls have recently been. Essential for supernatural tracking. |
-| **[[50_Magic/Spells/Soul Magic/Soul Integrity Check\|Soul Integrity Check]]** | 1 | Examines a target's soul to assess its current condition — checking for damage, corruption, or foreign influence. |
+| **[[Soul Echo\|Soul Echo]]** | 1 | Reads the spiritual residue left by a soul's passage — sensing where souls have recently been. Essential for supernatural tracking. |
+| **[[Soul Integrity Check\|Soul Integrity Check]]** | 1 | Examines a target's soul to assess its current condition — checking for damage, corruption, or foreign influence. |
 
 ---
 
-*For the full catalogue, see the Spell Index. Remember: you learn exactly one spell per dot placed in a [[50_Magic/Glossary/Shaping\|Shaping]] Skill during character creation.*
+*For the full catalogue, see the Spell Index. Remember: you learn exactly one spell per dot placed in a [[10_System/Glossary/Shaping\|Shaping]] Skill during character creation.*

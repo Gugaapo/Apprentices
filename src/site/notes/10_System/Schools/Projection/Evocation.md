@@ -2,35 +2,33 @@
 {"dg-publish":true,"permalink":"/10-system/schools/projection/evocation/","tags":["rules","magic","evocation"],"dgShowBacklinks":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
 
-# Evocation
+# Evocation (Area Control)
 
 **Classification:** Specialization
 **Parent School:** [[10_System/Schools/Projection/Projection\|Projection]]
 
-Evocation is the aggressive, destructive application of the Projection discipline. It is the backbone of what is commonly referred to as "Combat Magic," focusing on the rapid generation of heat, kinetic force, and elemental energy.
+# Lore
+Evocation is the aggressive, destructive application of the Projection discipline. It is the backbone of what is commonly referred to as "Combat Magic," focusing on the rapid generation of heat, kinetic force, and elemental energy over wide areas.
+> **Casting Roll:** 2d6 + Willpower + [Projection]
 
-## Specialization Rules
-This is an advanced Specialization. To learn **Spells (Powers)** in this field, a mage must use their dot-purchase selections from the **[[10_System/Schools/Projection/Projection\|Projection]]** skill track. Furthermore, specific spells within Evocation will explicitly require a secondary prerequisite (such as 1 or 2 dots in collateral Schools) to simulate the mixed-matrix required to cast them.
+# Glyph progression
+| Specialization | Unlocked Glyphs                              |
+| :------------- | :------------------------------------------- |
+| **Evocation**  | [[50_Magic/Glyphs/4_Modifiers/Wolk\|Wolk]] (Cloud/Storm), [[50_Magic/Glyphs/4_Modifiers/Knal\|Knal]] (Explosion) |
 
-## Progression
-Acquiring dots and Powers here requires deep dedication. The spells are extremely potent but narrowly focused.
+# Example Spells
+| Complexity Level | Spell Invocation | Spell Description |
+| :--- | :--- | :--- |
+| Trivial [0 Mana] | *Schf Lict Wolk* | Creates a harmless, tiny glowing cloud. |
+| Regular [1 Mana] | *Schf Luft Knal* | A small concussive pop that pushes targets back. |
+| Hard [2 Mana] | *Schf Feur Knal* | A fiery explosion hitting a small area. |
+| Complex [4 Mana] | *Schf Feur Gros Knal* | A massive fireball destroying a room. |
+| Miracle [7 Mana] | *Schf Plaz Wolk* | Summons a roaring storm of plasma wiping out a battlefield. |
 
-## Example Powers
-
-| Tier       | Example Effect                                         | Description                                                                                                                                                          |
-| :--------- | :----------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Tier 1** | *Force Push*                                           | A quick burst of kinetic energy that can knock a target off balance or shatter a wooden door.                                                                        |
-| **Tier 2** | *Firebolt*                                             | Projects a concentrated sphere of thermal energy that detonates on impact.                                                                                           |
-| **Tier 3** | *Lightning Arc*                                        | Unleashes a volatile stream of electricity that can chain between closely grouped metallic targets.                                                                  |
-| **Tier 4** | *Disintegrate*                                         | A highly concentrated, armor-piercing beam of pure destructive energy that atomizes matter.                                                                          |
-| **Tier 5** | *Inferno*                                              | Generates a massive, self-sustaining firestorm capable of incinerating an entire city block.                                                                         |
-
----
-
-## Lore Deep Dive
+# Lore deep dive
 
 **The Core of Combat Magic:**
-While virtually all magic has some sort of combat application, Evocation is designed specifically for war. It focuses on incredibly fast casting times, overcoming opponent defenses, and requiring zero preparation.
+While virtually all magic has some sort of combat application, Evocation is designed specifically for war and area control. It focuses on incredibly fast casting times, overcoming opponent defenses, and requiring zero preparation.
 
 **The Trade-Off (Speed vs. Safety):**
 Evocation is deceptively simple. The shaping requirements for throwing a fireball are relatively modest, meaning a dedicated mage can learn it quickly. However, the traits that make Evocation so potent in battle come at a severe cost: it strips away mana efficiency and all structural safety features. Evocation places extreme demands on the mage’s mana reserves, and getting the shaping wrong is highly likely to result in the spell detonating in the caster's own face.
@@ -41,7 +39,7 @@ Evocation does not create "real" fire or "real" lightning. It projects pure magi
 ## Design Boundaries
 
 **Evocation CAN:**
-- Deal massive, instantaneous elemental or kinetic damage.
+- Deal massive, instantaneous elemental or kinetic damage over wide areas (`Wolk`, `Knal`).
 - Be cast incredibly quickly, making it ideal for chaotic firefights.
 - Overwhelm physical and magical shielding through sheer brute force.
 

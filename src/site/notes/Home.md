@@ -25,16 +25,16 @@ Use the sidebar to browse, or press `Ctrl+K` to search.
 
 ---
 
-### 🕒 Latest Updates
+### Latest Updates
 > [!info] Tip
 > Use the sidebar on the left to navigate through the folder structure of the vault.
 
-| File                                                              | Last Modified             |
-| ----------------------------------------------------------------- | ------------------------- |
-| [[10_System/Schools/Support/Divine Magic\|Divine Magic]]       | 4:44 PM - March 30, 2026  |
-| [[Schools_Curriculum\|Schools_Curriculum]]                     | 2:25 PM - March 27, 2026  |
-| [[Home\|Home]]                                                 | 11:04 AM - March 27, 2026 |
-| [[30_Locations/Cities and Towns/Cyoria\|Cyoria]]               | 5:40 PM - March 23, 2026  |
-| [[00_Meta/Character Sheet Template\|Character Sheet Template]] | 5:36 PM - March 23, 2026  |
+| File                                                                        | Last Modified            |
+| --------------------------------------------------------------------------- | ------------------------ |
+| [[gemini-scribe/AGENTS\|AGENTS]]                                         | 5:35 PM - March 30, 2026 |
+| [[10_System/01 Core Mechanics\|01 Core Mechanics]]                       | 5:33 PM - March 30, 2026 |
+| [[10_System/03b Quick Character Creation\|03b Quick Character Creation]] | 5:32 PM - March 30, 2026 |
+| [[10_System/06 Magic System\|06 Magic System]]                           | 5:32 PM - March 30, 2026 |
+| [[10_System/11 Apprentices SRD\|11 Apprentices SRD]]                     | 5:32 PM - March 30, 2026 |
 
 { .block-language-dataview}

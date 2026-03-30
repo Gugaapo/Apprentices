@@ -2,32 +2,30 @@
 {"dg-publish":true,"permalink":"/10-system/schools/dimensionalism/teleportation/","tags":["rules","magic","teleportation"],"dgShowBacklinks":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
 
-# Teleportation
+# Teleportation (Self)
 
 **Classification:** Specialization
-**Parent School:** [[40_People/Factions/Cyorian Academy/Classes/Dimensionalism Class\|Dimensionalism Class]]
+**Parent School:** [[10_System/Schools/Dimensionalism/Dimensionalism\|Dimensionalism]]
 
+# Lore
 Teleportation is the complex art of folding space for instantaneous travel. It requires immense calculation, spatial awareness, and deeply embedded anchors to execute safely.
+> **Casting Roll:** 2d6 + Willpower + [Dimensionalism]
 
-## Specialization Rules
-This is an advanced Specialization. To learn **Spells (Powers)** in this field, a mage must use their dot-purchase selections from the **[[40_People/Factions/Cyorian Academy/Classes/Dimensionalism Class\|Dimensionalism Class]]** skill track. Furthermore, specific spells within Teleportation will explicitly require a secondary prerequisite (such as 1 or 2 dots in collateral Schools) to simulate the mixed-matrix required to cast them.
+# Glyph progression
+| Specialization    | Unlocked Glyphs                       |
+| :---------------- | :------------------------------------ |
+| **Teleportation** | [[50_Magic/Glyphs/4_Modifiers/Flhh\|Flhh]] (Flee/Blink), [[50_Magic/Glyphs/4_Modifiers/Ich\|Ich]] (Self) |
 
-## Progression
-Acquiring dots and Powers here requires deep dedication. The spells are extremely potent but narrowly focused.
+# Example Spells
+| Complexity Level | Spell Invocation | Spell Description |
+| :--- | :--- | :--- |
+| Trivial [0 Mana] | *Bewg Ich Klen* | Shifts the caster's balance or footing instantly. |
+| Regular [1 Mana] | *Bewg Ich Hoch* | Teleports the caster a few feet straight up. |
+| Hard [2 Mana] | *Bewg Ich Flhh* | Blinks the caster 30 feet away instantly. |
+| Complex [4 Mana] | *Bewg Ich Fern* | Teleports the caster across the city. |
+| Miracle [7 Mana] | *Bewg Ich Alle* | Teleports the caster anywhere on the continent instantly. |
 
-## Example Powers
-
-| Tier       | Example Effect                                         | Description                                                                                                                                                          |
-| :--------- | :----------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Tier 1** | *Blink Step*                                           | A short, line-of-sight teleport of only a few feet, primarily useful for dodging attacks or bypassing thin obstacles.                                                |
-| **Tier 2** | *Blink*                                                | Teleports the caster to a visible, unoccupied location up to a few dozen yards away.                                                                                 |
-| **Tier 3** | *Combat Warp*                                          | Rapid, consecutive short-range teleports designed to disorient opponents and strike from multiple angles in a single fluid motion.                                   |
-| **Tier 4** | *Chain Teleport*                                       | Allows the caster to teleport long distances by chaining multiple jumps along a pre-calculated route.                                                                |
-| **Tier 5** | *Teleportation Network*                                | Establishes permanent, linked teleportation gates that allow instantaneous travel between distant cities, requiring massive anchor structures.                       |
-
----
-
-## Lore Deep Dive
+# Lore deep dive
 
 **The Pinnacle of Difficulty:**
 Teleportation is considered one of the most notoriously difficult fields of magic to practice. Bending space requires not only a massive quantity of mana, but flawless shaping skills and complex theoretical mathematics. A single error in calculation can result in the caster materializing inside a solid wall or arriving without their limbs. 
@@ -41,7 +39,7 @@ While short-range "blinks" are highly effective in combat, they are incredibly d
 ## Design Boundaries
 
 **Teleportation CAN:**
-- Move the caster (and explicitly held objects) instantaneously from point A to point B.
+- Move the caster (and explicitly held objects) instantaneously from point A to point B (`Ich`, `Flhh`).
 - Bypass physical barriers, provided the destination is known or visible.
 
 **Teleportation CANNOT:**

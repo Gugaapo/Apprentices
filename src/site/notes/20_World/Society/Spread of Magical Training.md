@@ -5,7 +5,7 @@
 
 # Spread of Magical Training
 
-Historically, the practice of magic was the exclusive domain of isolated covens, wealthy city-state guilds, or the immensely powerful [[40_People/Factions/Houses/Noble Houses\|Noble Houses]]. The techniques of magic were fiercely guarded secrets passed down mostly via bloodlines; a commoner had virtually no chance of ever learning to shape [[50_Magic/Glossary/mana\|mana]]. 
+Historically, the practice of magic was the exclusive domain of isolated covens, wealthy city-state guilds, or the immensely powerful [[40_People/Factions/Houses/Noble Houses\|Noble Houses]]. The techniques of magic were fiercely guarded secrets passed down mostly via bloodlines; a commoner had virtually no chance of ever learning to shape [[10_System/Glossary/mana\|mana]]. 
 
 ## The Democratization of Magic
 The disastrous casualties inflicted upon the Great Houses during the [[20_World/History/Timeline/06 The Splinter Wars\|Splinter Wars]] and immediately followed by [[20_World/History/Timeline/07 The Weeping\|The Weeping]] nearly exterminated the traditional battlemage class. The aggressive "Big Three" nations of [[30_Locations/Continents/Altazia\|Altazia]] realized they could no longer rely on aristocrats to fight wars. 

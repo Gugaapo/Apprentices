@@ -9,11 +9,11 @@ The Dungeon (also called the Underworld or the Labyrinth) is a vast, planet-wide
 
 ## The Dungeon and Mana
 
-The Dungeon is very rich in ambient [[50_Magic/Glossary/mana\|mana]], and the deeper one goes the higher the concentration of ambient mana becomes. This effect doesn’t appear to ever actually stop. It is rumored that if someone goes deep enough, the levels of ambient mana become high enough to passively induce mana poisoning in human beings.
+The Dungeon is very rich in ambient [[10_System/Glossary/mana\|mana]], and the deeper one goes the higher the concentration of ambient mana becomes. This effect doesn’t appear to ever actually stop. It is rumored that if someone goes deep enough, the levels of ambient mana become high enough to passively induce mana poisoning in human beings.
 
 Ambient mana in the Dungeon flows from some unreachable place deep underground and gradually rises towards the surface, thinning out as it is absorbed by the walls of the tunnels and the life forms that make their home in them. This flow of mana is also usually accompanied by air currents that keep dungeon air from growing too stale.
 
-The Dungeon is connected to the surface in many places. These openings raise the ambient mana levels on the surface by their very presence and are known as **[[50_Magic/Glossary/Mana Well\|Mana Wells]]**. It is widely believed by mages that all ambient mana ultimately originates from the Dungeon.
+The Dungeon is connected to the surface in many places. These openings raise the ambient mana levels on the surface by their very presence and are known as **[[10_System/Glossary/Mana Well\|Mana Wells]]**. It is widely believed by mages that all ambient mana ultimately originates from the Dungeon.
 
 ## Ecology and Magical Creatures
 

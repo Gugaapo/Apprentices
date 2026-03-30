@@ -2,47 +2,54 @@
 {"dg-publish":true,"permalink":"/10-system/schools/dimensionalism/dimensionalism/","tags":["rules","magic","dimensionalism"],"dgShowBacklinks":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
 
-# Dimensionalism
+# Dimensionalism (Syllabus of Displacement)
 
 **Classification:** Core School
 
-Dimensionalism (formerly "[[10_System/Schools/Dimensionalism/Conjuration\|Conjuration]]") is the manipulation of space and time. Teleportation, summoning, temporal dilation, phasing, dimensional gates, and pocket dimensions all fall under this discipline.
+# Lore
+Bending the space-time fabric to ignore the inconvenience of physical distance. Dimensionalists are the couriers, tacticians, and summoners of the era, treating reality like a folding map. Magic is now cast by weaving geometric roots (Max 4 letters) into compound spell names.
+> **Casting Roll:** 2d6 + Willpower + [Dimensionalism]
 
-## [[50_Magic/Glossary/Specializations\|Specializations]]
-As mages progress their dots in this School, they may elect to unlock highly advanced **[[50_Magic/Glossary/Specializations\|Specializations]]** by meeting secondary prerequisites. The specializations for this school are:
-- **[[10_System/Schools/Dimensionalism/Summoning\|Summoning]]**
-- **[[10_System/Schools/Dimensionalism/Conjuration\|Conjuration]]**
-- **[[10_System/Schools/Dimensionalism/Teleportation\|Teleportation]]**
+# Glyph progression
+*The 3-Glyph Menu Selection:* Every time a character gains 1 point (Dot) in a Core School or Specialization, they choose exactly **3 Glyphs** from their newly unlocked Level (or any previous levels) to permanently add to their Grimoire.
 
-## Progression
-Under Academy rules, acquiring a dot in a [[10_System/06 The Magic System#The Casting System\|School Proficiency]] does not instantly grant knowledge of every spell in that tier. Instead, purchasing a dot in Dimensionalism grants the mage **exactly one Spell (Power)** from this School (at that dot level or lower).
+| Level | Available Glyphs |
+| :---: | :--- |
+| **1** | [[50_Magic/Glyphs/1_Functions/Bewg\|Bewg]] (Move/Displace), [[50_Magic/Glyphs/4_Modifiers/Klen\|Klen]] (Lesser), [[50_Magic/Glyphs/4_Modifiers/Nah\|Nah]] (Near/Short) |
+| **2** | [[50_Magic/Glyphs/3_Characteristics/Raum\|Raum]] (Space/Area size), [[50_Magic/Glyphs/3_Characteristics/Tohr\|Tohr]] (Gateway/Door), [[Stos\|Stos]] (Push) |
+| **3** | [[50_Magic/Glyphs/4_Modifiers/Hoch\|Hoch]] (Up/Levitate), [[50_Magic/Glyphs/4_Modifiers/Abwa\|Abwa]] (Down/Crush), [[Zieh\|Zieh]] (Pull) |
+| **4** | [[50_Magic/Glyphs/4_Modifiers/Fern\|Fern]] (Distance/Far), [[50_Magic/Glyphs/4_Modifiers/Gros\|Gros]] (Greater), [[50_Magic/Glyphs/4_Modifiers/Flig\|Flig]] (Fly) |
+| **5** | [[50_Magic/Glyphs/4_Modifiers/Alle\|Alle]] (Everything/The Void) |
 
-## Example Powers
-
-| Tier | Example Effect | Description |
+# Example Spells
+| Complexity Level | Spell Invocation | Spell Description |
 | :--- | :--- | :--- |
-| **Tier 1** | *Spatial Hop* | Teleport a small object (coin-sized) within 5 meters without touching it. |
-| **Tier 2** | *Blinking Step* | Teleport yourself up to 20 meters to a clearly visualised point of arrival. |
-| **Tier 3** | *Portal Flare* | Briefly open a doorway to a known, previously visited location within a few kilometres. |
-| **Tier 4** | *[[Dimensional Lock\|Dimensional Lock]]* | Anchor space in a room so nothing can teleport in or out. |
-| **Tier 5** | *Continental Bridge* | A permanent spatial tunnel connecting two cities on opposite ends of the world. |
+| Trivial [0 Mana] | [[50_Magic/Glyphs/1_Functions/Bewg\|Bewg]] [[50_Magic/Glyphs/4_Modifiers/Klen\|Klen]] | Slides a pen across a desk without touching it. |
+| Regular [1 Mana] | [[50_Magic/Glyphs/1_Functions/Bewg\|Bewg]] [[50_Magic/Glyphs/4_Modifiers/Hoch\|Hoch]] | Levitates a heavy rock a few feet off the ground. |
+| Hard [2 Mana] | [[50_Magic/Glyphs/1_Functions/Bewg\|Bewg]] [[50_Magic/Glyphs/4_Modifiers/Ich\|Ich]] [[50_Magic/Glyphs/4_Modifiers/Flhh\|Flhh]] | Blinks the caster 30 feet away instantly; requires Teleportation. |
+| Complex [4 Mana] | [[50_Magic/Glyphs/1_Functions/Schf\|Schf]] [[50_Magic/Glyphs/3_Characteristics/Tohr\|Tohr]] [[50_Magic/Glyphs/4_Modifiers/Fern\|Fern]] | Tears open a stable portal to the other side of a city. |
+| Miracle [7 Mana] | [[50_Magic/Glyphs/1_Functions/Ruff\|Ruff]] [[50_Magic/Glyphs/4_Modifiers/Gros\|Gros]] [[50_Magic/Glyphs/2_Objects/Wese\|Wese]] | Summons an ancient beast from the deep wilderness directly into the room; requires Summoning. |
 
-## Mechanical Focus
-Dimensionalism requires precise spatial [[10_System/Attributes/Magical/Calculation\|Calculation]] for complex coordinates. Failed teleport rolls may result in scrambled arrival positions.
+# Specializations
+| Specialization | Unlocked Glyphs |
+| :--- | :--- |
+| [[10_System/Schools/Dimensionalism/Teleportation\|Teleportation]] | [[50_Magic/Glyphs/4_Modifiers/Flhh\|Flhh]] (Blink/Flee), [[50_Magic/Glyphs/4_Modifiers/Ich\|Ich]] (Self) |
+| [[10_System/Schools/Dimensionalism/Summoning\|Summoning]] | [[50_Magic/Glyphs/1_Functions/Ruff\|Ruff]] (Summon), [[50_Magic/Glyphs/2_Objects/Wese\|Wese]] (Creature) |
+| [[10_System/Schools/Dimensionalism/Conjuration\|Conjuration]] | [[50_Magic/Glyphs/2_Objects/Ding\|Ding]] (Object), [[50_Magic/Glyphs/2_Objects/Waff\|Waff]] (Weapon) |
+| [[Spatial Storage\|Spatial Storage]] | [[50_Magic/Glyphs/3_Characteristics/Lagr\|Lagr]] (Pocket Dimension), [[50_Magic/Glyphs/1_Functions/Holn\|Holn]] (Fetch/Retrieve) |
 
----
+# Lore deep dive
 
-## Lore Deep Dive
-
-Dimensionalism is a notoriously difficult field of magic to practice. It requires a **great quantity of mana, excellent shaping skills, and a massive deal of complex theoretical knowledge** to pull off successfully. 
+Dimensionalism is a notoriously difficult field of magic to practice. It requires a **great quantity of mana mana capacity, excellent shaping skills, and a massive deal of complex theoretical knowledge** to pull off successfully. 
 
 Because of the high difficulty of the field, as well as the incredible potential for abuse many of its spells have, Dimensionalism is **not taught to beginning mages**. Only by practicing other forms of magic may a student eventually grow to a point where they can begin to tackle this field. Even then, access to Dimensionalism is often restricted along political lines.
 
 **The Specialist Rarity:** All of these barriers make Dimensionalism a fairly rare type of magic. It is vanishingly rare for someone to actually specialize in it—by the time a mage gains access to Dimensionalism, they typically already have a primary specialty and are reluctant to change it. Most Dimensionalists are mere dabblers who learn a few utility spells.
 
-**What it feels like to cast:** The caster experiences a brief disorientation — a sensation of the world "flattening" as they perceive space as a mathematical grid rather than a physical experience. Observers see the targeted area shimmer, ripple, or fold inward like cloth being gathered. Portals produce a visible tear — a seam of distorted light and compressed air — while teleportation effects cause a soft *pop* of displaced atmosphere.
+**What it feels like to cast:** The caster experiences a brief disorientation — a sensation of the world "flattening" as they perceive space as a mathematical grid rather than a physical experience. Pushing past limits results in severe Mana Burn. Observers see the targeted area shimmer, ripple, or fold inward like cloth being gathered. Portals produce a visible tear — a seam of distorted light and compressed air — while teleportation effects cause a soft *pop* of displaced atmosphere.
 
----
+## Mechanical Focus
+Dimensionalism requires precise spatial [[10_System/Attributes/Magical/Calculation\|Calculation]] to determine maximum structural complexity. All casting rolls use **`2d6 + Willpower + Dimensionalism`**. Failed teleport rolls may result in scrambled arrival positions or severe physical backlash.
 
 ## Design Boundaries
 
@@ -51,25 +58,14 @@ Because of the high difficulty of the field, as well as the incredible potential
 - Open portals connecting two points in physical space
 - Create spatial locks that prevent teleportation into or out of an area
 - Manipulate time locally (temporal dilation) or allow phasing through matter
-- Summon entities from other planes (at high tiers, via [[10_System/Schools/Dimensionalism/Summoning\|Summoning]])
+- Summon entities from other planes (at high complexities, via [[10_System/Schools/Dimensionalism/Summoning\|Summoning]])
 - Conjure physical matter by pulling it from another location or dimension (via [[10_System/Schools/Dimensionalism/Conjuration\|Conjuration]])
 
 **Dimensionalism CANNOT:**
+- **Target Hostile Coordinates Directly (Soul Cohesion Law):** Living beings project an aura of spiritual interference. You cannot directly teleport an object *inside* an unwilling creature, nor teleport their internal organs out. Any attempt to cast a direct Dimensional spell targeting the internal coordinates of a hostile creature's Soul Cohesion boundary is automatically a **Miracle (7 Mana)** effect.
 - Generate energy (that's [[10_System/Schools/Projection/Projection\|Projection]])
 - Alter the properties of matter at the destination (that's [[10_System/Schools/Alteration/Alteration\|Alteration]])
 - Perceive what's at the destination without a secondary [[10_System/Schools/Divination/Divination\|Divination]] effect
 - Create illusions of spatial distortion without actually distorting space (that's [[10_System/Schools/Illusionism/Illusionism\|Illusionism]])
 
-**The key verb is DISPLACE.** If the spell's primary action is moving something through space without physically carrying it, or manipulating the geometry of space/time itself, it belongs in Dimensionalism.
-
----
-
-## Tier-by-Tier Spell Design Guide
-
-| Tier | Scope of Effect | Attribute Pairing | Typical Duration | Design Prompts |
-| :--- | :--- | :--- | :--- | :--- |
-| **Tier 1** | Move a small object (coin-sized, < 1kg) a short distance (5m). No living targets. | [[10_System/Attributes/Magical/Calculation\|Calculation]] + Dimensionalism | Instant | *"What could a lazy student do to avoid getting up from their desk?"* |
-| **Tier 2** | Teleport yourself up to 20m to a clearly visualised destination. Short-range portal for 1 person. | [[10_System/Attributes/Magical/Calculation\|Calculation]] + Dimensionalism | Instant / 1 round | *"What would save your life when something lunges at you?"* |
-| **Tier 3** | Medium-range portal (a few km) to a previously visited location. Brief spatial lock on a room. Transport a small group. | [[10_System/Attributes/Magical/Calculation\|Calculation]] + Dimensionalism | Minutes (= [[10_System/Attributes/Magical/Finesse\|Finesse]]) | *"What would let a team of mages move across [[02_Setting/Locations/Cyoria\|Cyoria]] without being seen?"* |
-| **Tier 4** | City-wide spatial lock. Long-distance portal. Dimensional anchoring of a building. Summon minor entities. | [[10_System/Attributes/Magical/Calculation\|Calculation]] + Dimensionalism | Scene / Hours | *"What would a military strategist demand from a court dimensionalist?"* |
-| **Tier 5** | Continental-scale portals. Permanent spatial tunnels. Access to other planes. Full pocket-dimension creation. | [[10_System/Attributes/Magical/Calculation\|Calculation]] + Dimensionalism | Permanent / Sustained | *"What would the Sovereign Gate's architects have needed to build it?"* |
+**The key verb is DISPLACE (`Bewg`).** If the spell's primary action is moving something through space without physically carrying it, or manipulating the geometry of space/time itself, it belongs in Dimensionalism.

@@ -7,7 +7,7 @@
 **Category:** Magical Beast / Amphibian
 
 ## Description
-Blink Toads are exceptionally large amphibians with specialized, [[50_Magic/Glossary/mana\|mana]]-infused internal organs. They are primarily found in areas with high ambient magic.
+Blink Toads are exceptionally large amphibians with specialized, [[10_System/Glossary/mana\|mana]]-infused internal organs. They are primarily found in areas with high ambient magic.
 
 ## Abilities
 - **Spatial Manipulation**: They have the innate ability to "blink" (teleport short distances) to evade predators, cross obstacles, or ambush prey.

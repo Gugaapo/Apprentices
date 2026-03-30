@@ -2,32 +2,30 @@
 {"dg-publish":true,"permalink":"/10-system/schools/animation/necromancy/","tags":["rules","magic","necromancy"],"dgShowBacklinks":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
 
-# Necromancy
+# Necromancy (Forbidden)
 
 **Classification:** Specialization
-**Parent School:** [[40_People/Factions/Cyorian Academy/Classes/Animation Class\|Animation Class]]
+**Parent School:** [[10_System/Schools/Animation/Animation\|Animation]]
 
-Necromancy is the universally reviled black art of animating corpses using artificial [[50_Magic/Glossary/mana\|mana]] structures or bound spirits. While civilians often use the term interchangeably with [[10_System/Schools/Soul Magic/Soul Magic\|Soul Magic]], technically "necromancy" refers *only* to the creation of undead.
+# Lore
+Necromancy is the universally reviled black art of animating corpses using artificial mana structures or bound spirits. While civilians often use the term interchangeably with Soul Magic, technically "necromancy" refers only to the creation of undead.
+> **Casting Roll:** 2d6 + Willpower + [Animation]
 
-## Specialization Rules
-This is an advanced Specialization. To learn **Spells (Powers)** in this field, a mage must use their dot-purchase selections from the **[[40_People/Factions/Cyorian Academy/Classes/Animation Class\|Animation Class]]** skill track. Furthermore, specific spells within Necromancy will explicitly require a secondary prerequisite (such as 1 or 2 dots in collateral Schools) to simulate the mixed-matrix required to cast them.
+# Glyph progression
+| Specialization | Unlocked Glyphs                               |
+| :------------- | :-------------------------------------------- |
+| **Necromancy** | [[50_Magic/Glyphs/2_Objects/Knoc\|Knoc]] (Bone), [[50_Magic/Glyphs/3_Characteristics/Leic\|Leic]] (Dead Flesh/Corpse) |
 
-## Progression
-Acquiring dots and Powers here requires deep dedication. The spells are extremely potent but narrowly focused.
+# Example Spells
+| Complexity Level | Spell Invocation | Spell Description |
+| :--- | :--- | :--- |
+| Trivial [0 Mana] | *Lebe Knoc Klen* | Makes a skeletal hand twitch and grasp. |
+| Regular [1 Mana] | *Lebe Leic Gehh* | Animates a zombie and makes it walk forward. |
+| Hard [2 Mana] | *Lebe Leic Wach* | Raises a skeleton and orders it to guard a doorway. |
+| Complex [4 Mana] | *Lebe Knoc Gros Werk* | Animates a massive skeletal beast to attack. |
+| Miracle [7 Mana] | *Lebe Leic Seel* | Binds a powerful, intelligent soul into a perfect undead vessel. |
 
-## Example Powers
-
-| Tier       | Example Effect                                         | Description                                                                                                                                                          |
-| :--------- | :----------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Tier 1** | *Corpse Preservation*                                  | Halts the decay of a biological corpse indefinitely, keeping it fresh for future rituals.                                                                            |
-| **Tier 2** | *Animate Skeleton*                                     | Animates a basic skeletal construct to follow simple physical commands and perform menial labor.                                                                     |
-| **Tier 3** | *Corpse Puppetry*                                      | Takes direct control of a fresh corpse, allowing it to move and fight with some of its original reflexes.                                                            |
-| **Tier 4** | *Life Drain*                                           | Rips the life force from a living target to heal the caster or empower an undead minion.                                                                             |
-| **Tier 5** | *Army of the Dead*                                     | Animates and commands a large horde of undead simultaneously, sustaining them with a complex ambient mana matrix.                                                    |
-
----
-
-## Lore Deep Dive
+# Lore deep dive
 
 **The Truth of the Undead:**
 True, naturally occurring undead are exceptionally rare and almost exclusively take the form of incorporeal ghosts. The shambling corpses, skeletons, and zombies that most people associate with necromancy are entirely artificial creations. Mechanically speaking, a zombie is simply a biological golem—a construct of flesh and bone animated by a bound soul.
@@ -41,7 +39,7 @@ Because the soul is enslaved purely as a battery and engine for the corpse, thes
 ## Design Boundaries
 
 **Necromancy CAN:**
-- Animate biological matter (corpses, bones) into tireless, fearless servants.
+- Animate biological matter (corpses, bones) into tireless, fearless servants (`Knoc`, `Leic`).
 - Preserve flesh and halt natural decay indefinitely.
 - Utilize bound souls as an infinite power source for the undead construct.
 

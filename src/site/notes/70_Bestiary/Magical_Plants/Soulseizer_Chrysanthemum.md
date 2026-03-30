@@ -7,7 +7,7 @@
 **Category:** Magical Plant
 
 ## Description
-A beautiful, glowing, and seemingly innocuous subterranean flower found in high-[[50_Magic/Glossary/mana\|mana]] environments like the [[30_Locations/Other/Dungeon\|Dungeon]].
+A beautiful, glowing, and seemingly innocuous subterranean flower found in high-[[10_System/Glossary/mana\|mana]] environments like the [[30_Locations/Other/Dungeon\|Dungeon]].
 
 ## Abilities
 - **Soul Manipulation**: Rather than attacking the physical body, this plant attacks the astral form, draining the life force and trapping the souls of creatures that wander too close to it.

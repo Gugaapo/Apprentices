@@ -11,11 +11,11 @@
 |---|---|
 | **Type** | Massive Chasm / Dungeon Entrance |
 | **Location** | West side of [[30_Locations/Cities and Towns/Cyoria\|Cyoria]], [[30_Locations/Countries/Eldemar\|Eldemar]] |
-| **Classification** | Rank 9 [[50_Magic/Glossary/Mana Well\|Mana Well]] |
+| **Classification** | Rank 9 [[10_System/Glossary/Mana Well\|Mana Well]] |
 
-**The Hole** is a massive, plunging circular chasm located on the west side of the magical metropolis of [[30_Locations/Cities and Towns/Cyoria\|Cyoria]]. It is the most prominent and obvious entrance to the subterranean world known as **[[30_Locations/Other/Dungeon\|The Dungeon]]** and serves as the only known Rank 9 [[50_Magic/Glossary/Mana Well\|Mana Well]] in the world. 
+**The Hole** is a massive, plunging circular chasm located on the west side of the magical metropolis of [[30_Locations/Cities and Towns/Cyoria\|Cyoria]]. It is the most prominent and obvious entrance to the subterranean world known as **[[30_Locations/Other/Dungeon\|The Dungeon]]** and serves as the only known Rank 9 [[10_System/Glossary/Mana Well\|Mana Well]] in the world. 
 
-The sheer magnitude of raw magical energy ([[50_Magic/Glossary/mana\|mana]]) bleeding from this unfathomable abyss powers Cyoria's extensive magical infrastructure. This ambient magic makes the city an absolute paradise for magical research, allowing for spells, rituals, and massive magical architecture that would be impossible to sustain anywhere else. 
+The sheer magnitude of raw magical energy ([[10_System/Glossary/mana\|mana]]) bleeding from this unfathomable abyss powers Cyoria's extensive magical infrastructure. This ambient magic makes the city an absolute paradise for magical research, allowing for spells, rituals, and massive magical architecture that would be impossible to sustain anywhere else. 
 
 ---
 

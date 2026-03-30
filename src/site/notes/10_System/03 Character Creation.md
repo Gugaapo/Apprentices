@@ -3,7 +3,6 @@
 ---
 
 
-
 Creating a character for **Apprentices** is about defining who they are and how they will survive the gruelling, cutthroat environment of the [[40_People/Factions/Cyorian Academy/Cyorian Academy\|Cyorian Academy]].
 
 ---
@@ -13,7 +12,7 @@ Creating a character for **Apprentices** is about defining who they are and how 
 Before you build your character, you need to understand what it *means* to be a mage in the world of **[[30_Locations/Continents/Ersetu\|Ersetu]]**.
 
 ### The Gift
-Not everyone can use magic. The ability to sense, draw upon, and shape [[50_Magic/Glossary/mana\|mana]] is an innate biological trait, you either have it or you don't. Roughly **one in every twenty people** is born with a mana reservoir large enough to cast even the simplest spell. Of those, only a fraction ever receive the rigorous training required to become a true mage. Your character is one of those rare few who both possesses the gift *and* has secured a place at the most prestigious academy on the continent.
+Not everyone can use magic. The ability to sense, draw upon, and shape [[10_System/Glossary/mana\|mana]] is an innate biological trait, you either have it or you don't. Roughly **one in every twenty people** is born with a mana reservoir large enough to cast even the simplest spell. Of those, only a fraction ever receive the rigorous training required to become a true mage. Your character is one of those rare few who both possesses the gift *and* has secured a place at the most prestigious academy on the continent.
 
 ### Mages in Society
 The role of mages in [[30_Locations/Countries/Eldemar\|Eldemar]] has changed dramatically in recent decades.
@@ -22,8 +21,8 @@ The role of mages in [[30_Locations/Countries/Eldemar\|Eldemar]] has changed dra
 - **The Fall:** The [[20_World/History/Timeline/06 The Splinter Wars\|Splinter Wars]] shattered this paradigm. Cheap, mass-produced firearms proved that a peasant with a rifle could kill an archmage with a well-placed shot. The [[20_World/History/Timeline/07 The Weeping\|Weeping]] that followed, a devastating magical plague, annihilated entire noble bloodlines. The old magical elite was broken almost overnight.
 - **The New World:** Desperate for fresh mages to fill their decimated ranks, governments like Eldemar established massive, state-funded Academies that actively recruit talented commoners. Magic is being **democratized**. Your character is a product of this new era, possibly the first mage in their entire family line, sitting in a classroom next to the spoiled heir of a dying [[40_People/Factions/Houses/Noble Houses\|Noble House.]]
 
-### [[50_Magic/Glossary/Archmage\|Archmages]]
-Above ordinary mages, there exist rare individuals known as **[[50_Magic/Glossary/Archmage\|Archmages]]**: mages who have achieved mastery in *multiple* fields of magic to such a degree that they can rival or surpass dedicated specialists in each one. Most mages spend their entire lives mastering a single school; an Archmage has done it several times over. There is no formal institution that grants this title. It is earned purely through reputation, when even accomplished mages acknowledge that someone has transcended the boundaries of specialization. Your character is, needless to say, *very* far from this level.
+### [[10_System/Glossary/Archmage\|Archmages]]
+Above ordinary mages, there exist rare individuals known as **[[10_System/Glossary/Archmage\|Archmages]]**: mages who have achieved mastery in *multiple* fields of magic to such a degree that they can rival or surpass dedicated specialists in each one. Most mages spend their entire lives mastering a single school; an Archmage has done it several times over. There is no formal institution that grants this title. It is earned purely through reputation, when even accomplished mages acknowledge that someone has transcended the boundaries of specialization. Your character is, needless to say, *very* far from this level.
 
 ### How Do People See Mages?
 The answer depends entirely on *who* you ask:
@@ -42,19 +41,19 @@ The Academy doesn't just teach you magic, it certifies you for a *profession*. U
 - **Government Mage:** Employed directly by the Crown for civil engineering, military service, law enforcement, or bureaucratic spellwork (e.g. maintaining city wards). Stable pay, mandatory loyalty oaths.
 - **Guild Specialist:** Joining a merchant or crafter guild as a specialist, enchanting goods, refining alchemical products, or providing medical magic. Lucrative but competitive.
 - **Dungeon Delver:** Venturing into the [[30_Locations/Other/Dungeon\|Dungeon]] beneath [[30_Locations/Cities and Towns/Cyoria\|Cyoria]] (and others) to harvest magical materials, slay dangerous creatures, and retrieve ancient artifacts. Extremely dangerous, extremely profitable.
-- **Private Tutor / Researcher:** Serving a Noble House as a personal mage or pursuing independent arcane research. High status, but you are at the mercy of your patron's politics.
+- **Private Tutor / Researcher:** Serving a Noble House as a personal mage or pursuing independent arcane research. High status, but you are at the mercy of your patron's patron.
 - **Freelance / Mercenary:** Operating independently. The riskiest path, but the most free. Many end up hired by [[30_Locations/Regions/Splinter States\|Splinter States]] or private interests for dangerous jobs.
 
 ### The Dangers
 Being a mage is not glamorous. It is *dangerous*:
 
-- **[[50_Magic/Glossary/Mana Burn\|Mana Burn]]:** Push your body beyond its limits and your own mana will tear you apart from the inside.
-- **[[50_Magic/Glossary/Soul Integrity\|Soul Integrity]]:** The soul is not invincible. Overuse of certain magics, exposure to powerful curses, or tampering with forces beyond your understanding can permanently scar it.
+- **[[10_System/Glossary/Mana Burn\|Mana Burn]]:** Push your body beyond its limits and your own mana will tear you apart from the inside, triggering the Exhaustion Cascade.
+- **[[10_System/Glossary/Soul Integrity\|Soul Integrity]]:** The soul is not invincible. Overuse of certain magics, exposure to powerful curses, or tampering with forces beyond your understanding can permanently scar it.
 - **Sanity:** The things you will see in the [[30_Locations/Other/Dungeon\|Dungeon]], the horrors you will face, and the moral compromises you may be forced to make all take a psychological toll. Mages who lose too much of themselves become "Hollows", empty shells.
 - **Politics:** The Noble Houses, the Church, the military, and the criminal underworld all want a piece of you. Staying neutral is nearly impossible.
 
 > [!IMPORTANT] You Are Not a Hero (Yet)
-> Your character is a **first-year student**. You are not a legendary archmage. You struggle with homework, you burn through your mana pool casting a single decent spell, and you probably can't afford a proper lunch. The world is vast, terrifying, and does not care about your potential. *That* is what makes this interesting.
+> Your character is a **first-year student**. You are not a legendary archmage. You struggle with homework, you burn through your mana capacity casting a single decent spell, and you probably can't afford a proper lunch. The world is vast, terrifying, and does not care about your potential. *That* is what makes this interesting.
 
 ---
 
@@ -79,7 +78,7 @@ Each background provides:
 | [[10_System/Backgrounds/Magical Lineage\|Magical Lineage]] | +1 free dot in any Core School Proficiency | Family Mentor (magical advice, 1/arc) |
 | [[10_System/Backgrounds/Street Rat\|Street Rat]] | Free [[50_Magic/Traits/Merits/Social Chameleon\|Social Chameleon]] merit | Underground Contacts (black market, 1/session) |
 | [[10_System/Backgrounds/Scholar's Child\|Scholar's Child]] | Free [[50_Magic/Traits/Merits/Eidetic Memory\|Eidetic Memory]] merit | Library Access (restricted archives, 1/arc) |
-| [[10_System/Backgrounds/State Orphan\|State Orphan]] | +1 [[10_System/Attributes/Magical/Willpower\|Willpower]], +1 [[10_System/Attributes/Physical/Stealth\|Stealth]] | State Network (bureaucratic blindspots, 1/session) |
+| [[10_System/Backgrounds/State Orphan\|State Orphan]] | +1 [[10_System/Attributes/Magical/Willpower\|Willpower]], +1 [[10_System/Attributes/Physical/Dexterity\|Dexterity]] | State Network (bureaucratic blindspots, 1/session) |
 | [[10_System/Backgrounds/Rural Outsider\|Rural Outsider]] | +2 extra Flaw Points (max 6) | Village Elder (folk magic advice, 1/arc) |
 | [[10_System/Backgrounds/Temple Acolyte\|Temple Acolyte]] | +1 free dot in [[10_System/Schools/Abjuration/Ward\|Ward]] | Temple Network (sanctuary/healing, 1/session) |
 | [[10_System/Backgrounds/Merchant Family\|Merchant Family]] | Double starting funds + stipend | Trade Contacts (sourcing items, 1/session) |
@@ -87,29 +86,29 @@ Each background provides:
 | [[10_System/Backgrounds/Alchemist's Apprentice\|Alchemist's Apprentice]] | +1 free dot in [[10_System/Schools/Support/Alchemy\|Alchemy]] + alchemy kit | Alchemist's Guild (labs/reagents, 1/session) |
 | [[10_System/Backgrounds/Dungeon Scavenger\|Dungeon Scavenger]] | +1 free dot in [[10_System/Attributes/Mental/Survival\|Survival]], +1 [[10_System/Attributes/Mental/Awareness\|Awareness]] | Mercenary Guild (monster intel, 1/arc) |
 | [[10_System/Backgrounds/Prodigy\|Prodigy]] | Free [[50_Magic/Traits/Merits/Academic Prodigy\|Academic Prodigy]] merit | Academic Patron (intervention, 1/arc) |
-| [[10_System/Backgrounds/Foreign Exchange Student\|Foreign Exchange Student]] | +1 dot in [[10_System/Attributes/Social/Insight\|Insight]], +1 dot in [[10_System/Attributes/Social/Society\|10_System/Attributes/Social/Society]] | Foreign Embassy (diplomatic immunity/intel, 1/arc) |
-| [[10_System/Backgrounds/Military Brat\|Military Brat]] | +1 dot in [[10_System/Attributes/Physical/Melee Combat\|Melee Combat]] or [[10_System/Attributes/Physical/Ranged Combat\|Ranged Combat]], starts with weapon | Base Commander (military surplus/intel, 1/arc) |
+| [[10_System/Backgrounds/Foreign Exchange Student\|Foreign Exchange Student]] | +1 dot in [[10_System/Attributes/Social/Insight\|Insight]], +1 dot in [[10_System/Attributes/Social/Connections\|Connections]] | Foreign Embassy (diplomatic immunity/intel, 1/arc) |
+| [[10_System/Backgrounds/Military Brat\|Military Brat]] | +1 dot in [[10_System/Attributes/Physical/Combat\|Combat]], starts with weapon | Base Commander (military surplus/intel, 1/arc) |
 | [[10_System/Backgrounds/Disgraced Nobility\|Disgraced Nobility]] | +1 dot in [[10_System/Attributes/Social/Deception\|Deception]], +1 dot in [[10_System/Attributes/Mental/Academics\|Academics]] | Sympathetic Loyalist (secret favors, 1/arc) |
-| [[10_System/Backgrounds/Syndicate Scion\|Syndicate Scion]] | +1 dot in [[10_System/Attributes/Social/Streetwise\|Streetwise]], +1 dot in [[Sleight\|Sleight]] | Gang Lieutenant (muscle/smuggling, 1/session) |
+| [[10_System/Backgrounds/Syndicate Scion\|Syndicate Scion]] | +1 dot in [[10_System/Attributes/Social/Connections\|Connections]], +1 dot in [[10_System/Attributes/Physical/Dexterity\|Dexterity]] | Gang Lieutenant (muscle/smuggling, 1/session) |
 | [[10_System/Backgrounds/Monster Hunter's Heir\|Monster Hunter's Heir]] | +1 dot in [[10_System/Attributes/Mental/Survival\|Survival]], +1 dot in [[10_System/Attributes/Mental/Awareness\|Awareness]] | Hunter's Lodge (rare materials/tracking, 1/arc) |
 
 *Click any background name for full details, roleplay hooks, and flavour text.*
 
 ## Step 2: Attributes
-Your character has 4 categories of Attributes: **Magical, Mental, Social, and Physical**.
-* **Base Value:** Every Attribute starts at **1 dot** for free (representing average human baseline).
+Your character has 4 categories of Attributes: **Magical, Mental, Social, and Physical**. These values add directly to your 2d6 rolls.
+* **Base Value:** Magical attributes start at **1 dot** for free (representing the biological gift). Mental, Social, and Physical attributes start at **0 dots** (representing a completely untrained baseline).
 * **Maximum:** No Attribute can start higher than **3 dots**. (You can increase them to 4 or 5 during enrollment using Study Points).
-* **The Points:** You have **4 Points** to distribute among your Magical attributes. For your Mental, Physical, and Social categories, you use an array of **[9, 7, 5]** points. Choose one category to receive 9 points, one to receive 7, and one to receive 5. (1 point = +1 dot).
+* **The Points:** You have **4 Points** to distribute among your Magical attributes. For your Mental, Physical, and Social categories, you use an array of **[5, 4, 3]** points. Choose one category to receive 5 points, one to receive 4, and one to receive 3. (1 point = +1 dot).
 * *(Note: Specialisations cannot be chosen at creation. You must earn them through roleplay after reaching 3 dots in enrollment).*
 
-## Step 3: [[50_Magic/Glossary/School Proficiency\|School Proficiency]] (Magic Schools)
-As an Academy student, you have some basic training in magic. Each of the 8 Core Magic Schools has its own **[[50_Magic/Glossary/School Proficiency\|School Proficiency]]** that represents your ability to cast spells from that school. Your dot rating in a school determines the highest tier of spell you can attempt to cast from it.
-* **Base Value:** Every school's [[50_Magic/Glossary/School Proficiency\|School Proficiency]] starts at **0 dots** (untrained). A rating of 0 means you have no practical ability in that school.
-* **The Points:** You have **2 Points** to distribute across the 8 Core Schools (or support fields like [[10_System/Schools/Support/Alchemy\|Alchemy]]). Each point spent raises one school's [[50_Magic/Glossary/School Proficiency\|School Proficiency]] by 1 dot.
+## Step 3: [[10_System/Glossary/School Proficiency\|School Proficiency]] (Magic Schools)
+As an Academy student, you have some basic training in magic. Each of the 8 Core Magic Schools has its own **[[10_System/Glossary/School Proficiency\|School Proficiency]]** that represents your ability to cast spells from that school. Your dot rating in a school determines the highest Complexity of spell you can attempt to cast from it.
+* **Base Value:** Every school's [[10_System/Glossary/School Proficiency\|School Proficiency]] starts at **0 dots** (untrained). A rating of 0 means you have no practical ability in that school.
+* **The Points:** You have **2 Points** to distribute across the 8 Core Schools (or support fields like [[10_System/Schools/Support/Alchemy\|Alchemy]]). Each point spent raises one school's [[10_System/Glossary/School Proficiency\|School Proficiency]] by 1 dot.
 * **Maximum:** No school can start higher than **3 dots**.
-* **Spells (Powers):** For every dot you place in a school's [[50_Magic/Glossary/School Proficiency\|School Proficiency]], you may select exactly one Spell from that school. The Tier of the spell cannot exceed your dot rating in that school. (Therefore, your character will learn exactly 2 spells at creation, one for each dot placed).
-* **Total Spells:** There is no hard cap on the total number of spells your character can learn over the course of the campaign. You are only limited by the time and effort you spend studying, attending classes, and practicing.
-* **Restricted/Forbidden Magic:** You cannot put starting points into [[50_Magic/Glossary/Specializations\|Specializations]] (such as [[10_System/Schools/Illusionism/Mind Magic\|Mind Magic]], [[10_System/Schools/Alteration/Blood Magic\|Blood Magic]], [[10_System/Schools/Animation/Necromancy\|Necromancy]], etc.) unless you establish the prerequisites during character creation (such as purchasing specific Merits in Step 4).
+* **Glyph Syllabuses:** Learning a school grants you access to its specific Function, Object, and Characteristic Glyphs (e.g., *Tvor*, *Vatr*).
+* **Spells Known:** For every dot you place in a school's [[10_System/Glossary/School Proficiency\|School Proficiency]], you may select exactly **one Spell Formula** from that school. The Complexity of the spell cannot exceed your dot rating in that school. (Therefore, your character will learn exactly 2 spells at creation, one for each dot placed).
+* **Restricted/Forbidden Magic:** You cannot put starting points into [[10_System/Glossary/Specializations\|Specializations]] (such as [[10_System/Schools/Illusionism/Mind Magic\|Mind Magic]], [[10_System/Schools/Alteration/Blood Magic\|Blood Magic]], [[10_System/Schools/Animation/Necromancy\|Necromancy]], etc.) unless you establish the prerequisites during character creation (such as purchasing specific Merits in Step 4).
 
 ## Step 4: Merits & Flaws
 Merits are special advantages, while Flaws are permanent drawbacks.
@@ -125,18 +124,19 @@ You must establish your bureaucratic record at the [[40_People/Factions/Cyorian 
 ## Step 6: Derived Stats & Finishing Touches
 Calculate your fixed derived stats:
 
-1. **[[50_Magic/Glossary/Mana Capacity\|Mana Capacity]]:** `(Willpower + Calculation) x 5`. This is your maximum [[50_Magic/Glossary/mana\|mana]] pool.
+1. **[[10_System/Glossary/Mana Capacity\|Mana Capacity]] (Mana Capacity):** `4 + Core Resonance`. This is your hard limit before you enter the Exhaustion Cascade (Mana Burn).
 2. **Physical Health (The Body State):** You have a track of **7 Boxes** representing your body's physical integrity. As you take damage, you mark off boxes from top to bottom. Specific boxes impose dice penalties on all rolls:
    - [ ] **Bruised (0)**
    - [ ] **Hurt (-1)**
    - [ ] **Injured (-1)**
    - [ ] **Wounded (-2)**
    - [ ] **Mauled (-2)**
-   - [ ] **Crippled (-5)**
+   - [ ] **Crippled (-4)**
    - [ ] **Incapacitated** (Unconscious/Dying)
    *(Note: The [[50_Magic/Traits/Flaws/Physical Frailty\|Physical Frailty]] flaw reduces this track by removing the top boxes).*
-3. **[[50_Magic/Glossary/Mind Defense\|Mind Defense]] (Passive):** `Willpower + Highest of (Divination or Abjuration)`.
-4. **[[50_Magic/Glossary/Soul Integrity\|Soul Integrity]]:** **10 Boxes**.
-5. **Sanity:** **10 Boxes**.
-6. **Ongoing Spell Limit:** Equal to your `Calculation` rating. This is the absolute maximum number of "Sustained" or "Ongoing" spells you can have active at the exact same time. If you cast another ongoing spell while at your limit, the oldest active spell immediately drops.
-7. **Mastered Spells:** You may designate a number of your known spells up to `Memory × 2` as Mastered (costing 0 SP during character creation). Mastered spells cost 1 less Mana (minimum 1), can be cast silently without hand gestures, and can be used as instant reactions. Specify them on your sheet.
+3. **[[10_System/Glossary/Mind Defense\|Mind Defense]] (Passive TN):** `6 + Willpower + Highest of (Divination or Abjuration)`.
+4. **[[10_System/Glossary/Physical Defense\|Physical Defense]] (Evasion):** `6 + Mobility + Highest of (Awareness or Dexterity)`.
+5. **[[10_System/Glossary/Soul Integrity\|Soul Integrity]]:** **10 Boxes**.
+6. **Sanity:** **10 Boxes**.
+7. **Max Modifiers:** `Calculation - 1`. This is the maximum number of modifiers you can attach to a single Formula.
+8. **Mastered Spells:** You may designate a number of your known formulas up to your `Memory` rating as Mastered (costing 0 SP during character creation). Mastered spells permanently lower their Complexity Category by 1 step for you (reducing Mana cost by 1, minimum 1), skip calculation rolls, and can be used as instant reactions. Specify them on your sheet.

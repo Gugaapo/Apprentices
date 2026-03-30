@@ -17,7 +17,7 @@ You view the entitled noble scions around you with a mix of envy and disdain. Th
 
 ## Mechanical Benefits
 
-- **Starting Bonus:** Gain +1 free dot in **[[10_System/Attributes/Magical/Willpower\|Willpower]]** and +1 free dot in **[[10_System/Attributes/Physical/Stealth\|Stealth]]**.
+- **Starting Bonus:** Gain +1 free dot in **[[10_System/Attributes/Magical/Willpower\|Willpower]]** and +1 free dot in **[[10_System/Attributes/Physical/Dexterity\|Dexterity]]**.
 - **Connection — State Network:** You know how to navigate the bureaucratic blindspots of Eldemar's social services and infrastructure. Once per session, you can call in a favor from a former ward-mate or sympathetic clerk to access low-profile state resources, forge minor identification, or find a safe place to hide within the city's lower-class districts.
 
 ---

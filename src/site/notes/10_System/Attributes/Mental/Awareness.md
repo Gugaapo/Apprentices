@@ -6,22 +6,23 @@
 
 **Category:** Mental
 
-Awareness (formerly Readiness) measures your passive and active perception of the world around you. It dictates your ability to spot ambushes, notice hidden details, and react to sudden danger. In a world where assassins and monsters lurk in the shadows, Awareness is often the difference between life and death.
+Awareness measures your passive and active perception of the world around you, as well as your deductive reasoning. It dictates your ability to spot ambushes, investigate a scene for clues, notice hidden details, and react to sudden danger. In a world where assassins and monsters lurk in the shadows, Awareness is often the difference between life and death.
 
 ### Common Uses
 - **Spotting Danger:** Noticing the glint of a sniper's scope or the subtle shifting of an invisible stalker.
-- **Eavesdropping:** Overhearing whispered conversations in a crowded tavern.
-- **Initiative:** Reacting quickly when a situation suddenly turns violent.
+- **Investigation:** Searching a room for clues, piecing together forensic evidence, and following physical tracks.
+- **Contextual Deduction:** Reacting quickly when a situation suddenly turns violent, or spotting inconsistencies in a story based on physical evidence.
 
 ### Specializations
-- Ambushes, Eavesdropping, Spotting Illusions, Body Language.
+- Ambushes, Eavesdropping, Forensic Analysis, Deduction, Tracking.
 
 
 ## Attribute Tiers
 | Tier | Title | Example Capability |
 | :--- | :--- | :--- |
-| **1** | Novice | Distracted. Frequently surprised and misses subtle details in the environment. |
-| **2** | Competent | Alert. Hard to ambush in normal situations; notices when things are out of place. |
-| **3** | Skilled | Vigilant. Can spot disguised illusions, hidden traps, and track movement in the dark. |
-| **4** | Expert | Hyper-aware. Almost impossible to surprise; can sense shifts in air currents or faint magical static. |
-| **5** | Master | Omniscient senses. Can perceive the exact layout of a battlefield instinctively and react to threats before they manifest. |
+| **0** | Untrained | Distracted. Frequently surprised and misses obvious details in the environment. |
+| **1** | Novice | Alert. Hard to ambush in normal situations; notices when things are out of place. |
+| **2** | Competent | Investigator. Can spot disguised traces, hidden compartments, and connect basic clues. |
+| **3** | Skilled | Vigilant. Can deduce hidden truths from minimal physical evidence and track movement in the dark. |
+| **4** | Expert | Hyper-aware. Almost impossible to surprise; can sense shifts in air currents or piece together a timeline from a single hair. |
+| **5** | Master | Omniscient Senses. Can perceive the exact layout of a battlefield instinctively, solve a case at a glance, and react to threats before they manifest. |

@@ -5,29 +5,27 @@
 # Golemancy
 
 **Classification:** Specialization
-**Parent School:** [[40_People/Factions/Cyorian Academy/Classes/Animation Class\|Animation Class]]
+**Parent School:** [[10_System/Schools/Animation/Animation\|Animation]]
 
-Golemancy is the respected craft of constructing, animating, and programming complex artificial constructs. Golemancers use specialized [[50_Magic/Glossary/mana\|mana]] cores and intricate shaping matrices to power their creations.
+# Lore
+Golemancy is the respected craft of constructing, animating, and programming complex artificial constructs. Golemancers use specialized mana cores and intricate shaping matrices to power their creations.
+> **Casting Roll:** 2d6 + Willpower + [Animation]
 
-## Specialization Rules
-This is an advanced Specialization. To learn **Spells (Powers)** in this field, a mage must use their dot-purchase selections from the **[[40_People/Factions/Cyorian Academy/Classes/Animation Class\|Animation Class]]** skill track. Furthermore, specific spells within Golemancy will explicitly require a secondary prerequisite (such as 1 or 2 dots in collateral Schools) to simulate the mixed-matrix required to cast them.
+# Glyph progression
+| Specialization | Unlocked Glyphs                               |
+| :------------- | :-------------------------------------------- |
+| **Golemancy**  | [[50_Magic/Glyphs/3_Characteristics/Baut\|Baut]] (Construct/Statue), [[50_Magic/Glyphs/4_Modifiers/Wach\|Wach]] (Guard) |
 
-## Progression
-Acquiring dots and Powers here requires deep dedication. The spells are extremely potent but narrowly focused.
+# Example Spells
+| Complexity Level | Spell Invocation | Spell Description |
+| :--- | :--- | :--- |
+| Trivial [0 Mana] | *Lebe Baut Klen* | Animates a tiny clay figurine to walk. |
+| Regular [1 Mana] | *Lebe Baut Folg* | Makes a stone statue follow the caster. |
+| Hard [2 Mana] | *Lebe Baut Wach* | Orders a golem to relentlessly guard a doorway. |
+| Complex [4 Mana] | *Lebe Baut Werk* | Animates a massive stone golem to dig a tunnel or fight. |
+| Miracle [7 Mana] | *Lebe Baut Seel* | Breathes terrifying, permanent pseudo-sentience into a colossal dread-construct. |
 
-## Example Powers
-
-| Tier       | Example Effect                                         | Description                                                                                                                                                          |
-| :--------- | :----------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Tier 1** | *Clay Figurine*                                        | Animates a tiny clay construct that can perform extremely simple, repetitive tasks or act as a minor distraction.                                                    |
-| **Tier 2** | *Gravel Golem*                                         | Forms a basic, human-sized golem from loose rocks and earth for manual labor or simple defense.                                                                      |
-| **Tier 3** | *Stone Hound*                                          | Animates a specialized, agile stone construct capable of tracking, guarding, and following complex commands.                                                         |
-| **Tier 4** | *Bound Sentinel*                                       | Creates a heavily armored, permanent golem guardian bound to a specific location or person, powered by an internal core.                                             |
-| **Tier 5** | *Awaken Intelligence*                                  | Imbues a highly advanced golem with a pseudo-soul, granting it independent thought, personality, and problem-solving abilities.                                      |
-
----
-
-## Lore Deep Dive
+# Lore deep dive
 
 **The Illusion of Life:**
 Golemancy is a highly advanced application of the [[10_System/Schools/Animation/Animation\|Animation]] discipline. Spells in this field work by infusing a portion of the caster's mind into an inanimate target, granting it a measure of autonomy and independence. However, because the spell relies entirely on the caster’s own mind and knowledge, a golem cannot perform complex actions that the caster themselves does not understand. 
@@ -41,7 +39,7 @@ Like undead, basic golems are mindless constructs. They follow their programmed 
 ## Design Boundaries
 
 **Golemancy CAN:**
-- Create tireless, loyal physical servants for labor or combat.
+- Create tireless, loyal physical servants for labor or combat (`Baut`, `Wach`).
 - Program complex, conditional triggers for the golem to follow.
 - Utilize mundane materials (stone, iron, wood) to dictate the construct's physical durability.
 

@@ -16,7 +16,7 @@ A character's wealth is represented by their current Funds level:
 2. **Poor (Standard Starting for Low-Born):** You can afford basic rations, a shared dorm room, and very cheap mundane tools.
 3. **Adequate (Standard Starting for Middle-Class):** You can afford comfortable living, decent meals, standard mundane weapons, and perhaps one or two cheap alchemical ingredients per month.
 4. **Affluent (Standard Starting for Nobility):** You can afford luxury housing, high-end mundane gear, minor magical items, and bribes for lower-level officials.
-5. **Wealthy:** You can buy expensive spell components, high-grade crystalized [[50_Magic/Glossary/mana\|mana]], and influence powerful people without blinking.
+5. **Wealthy:** You can buy expensive spell components, high-grade crystalized [[10_System/Glossary/mana\|mana]], and influence powerful people without blinking.
 6. **Astronomical:** You have tapped into a major magical vault or criminal enterprise. You can buy almost anything that has a price tag.
 
 ## The Struggle: Living Expenses
@@ -31,7 +31,7 @@ If they do not upgrade their Funds to at least **Adequate** by **Day 5** of the 
 
 To buy expensive gear or survive the month, players must spend **Time Slots** to acquire Funds. 
 
-When a player dedicates a Time Slot to making money (e.g., working a mundane job, brewing and selling alchemical potions, mugging someone in the lower city, or robbing a vault), they make an appropriate Skill Roll (e.g., *[[10_System/Attributes/Mental/Academics\|Academics]], [[10_System/Schools/Support/Alchemy\|Alchemy]], [[10_System/Attributes/Physical/Stealth\|Stealth]]*).
+When a player dedicates a Time Slot to making money (e.g., working a mundane job, brewing and selling alchemical potions, mugging someone in the lower city, or robbing a vault), they make an appropriate Skill Roll (e.g., *[[10_System/Attributes/Mental/Academics\|Academics]], [[10_System/Schools/Support/Alchemy\|Alchemy]], [[Stealth\|Stealth]]*).
 
 Depending on the danger and difficulty:
 * **Standard Work (Safe):** Requires 2 dedicated Time Slots and a successful Skill Roll to raise your Funds by **1 level** for the duration of the month.

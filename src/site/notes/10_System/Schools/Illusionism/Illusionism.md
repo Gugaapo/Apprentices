@@ -2,36 +2,41 @@
 {"dg-publish":true,"permalink":"/10-system/schools/illusionism/illusionism/","tags":["rules","magic","illusionism"],"dgShowBacklinks":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
 
-# Illusionism
+# Illusionism (Syllabus of Deception)
 
 **Classification:** Core School
 
-Illusionism is a multi-disciplinary magical field that deals with the creation of highly realistic magical constructs in order to deceive, distract, or entertain the target. Most illusions are intangible ghosts made out of light and sound.
+# Lore
+Hijacking the sensory input of reality. Illusionism doesn't change physical matter—it changes the human mind perceiving the matter, making it invaluable for espionage and psychological warfare. Magic is now cast by weaving geometric roots (Max 4 letters) into compound spell names.
+> **Casting Roll:** 2d6 + Willpower + [Illusionism]
 
-## [[50_Magic/Glossary/Specializations\|Specializations]]
-As mages progress their dots in this School, they may elect to unlock highly advanced **[[50_Magic/Glossary/Specializations\|Specializations]]** by meeting secondary prerequisites. The specializations for this school are:
-- **[[10_System/Schools/Illusionism/Glamour\|Glamour]]**
-- **[[10_System/Schools/Illusionism/Mind Magic\|Mind Magic]]**
+# Glyph progression
+*The 3-Glyph Menu Selection:* Every time a character gains 1 point (Dot) in a Core School or Specialization, they choose exactly **3 Glyphs** from their newly unlocked Level (or any previous levels) to permanently add to their Grimoire.
 
-## Progression
-Under Academy rules, acquiring a dot in a [[10_System/06 The Magic System#The Casting System\|School Proficiency]] does not instantly grant knowledge of every spell in that tier. Instead, purchasing a dot in Illusionism grants the mage **exactly one Spell (Power)** from this School (at that dot level or lower).
+| Level | Available Glyphs |
+| :---: | :--- |
+| **1** | [[50_Magic/Glyphs/1_Functions/Tusc\|Tusc]] (Deceive/Phantom), [[50_Magic/Glyphs/3_Characteristics/Bild\|Bild]] (Visual), [[50_Magic/Glyphs/3_Characteristics/Klan\|Klan]] (Auditory) |
+| **2** | [[50_Magic/Glyphs/3_Characteristics/Ruch\|Ruch]] (Smell), [[50_Magic/Glyphs/3_Characteristics/Tast\|Tast]] (Touch/Texture), [[50_Magic/Glyphs/3_Characteristics/Dunk\|Dunk]] (Darkness) |
+| **3** | [[50_Magic/Glyphs/4_Modifiers/Klen\|Klen]] (Lesser), [[50_Magic/Glyphs/2_Objects/Geis\|Geis]] (Mind/Belief), [[50_Magic/Glyphs/3_Characteristics/Kost\|Kost]] (Taste), [[50_Magic/Glyphs/4_Modifiers/Irre\|Irre]] (Play/Distract) |
+| **4** | [[50_Magic/Glyphs/4_Modifiers/Gros\|Gros]] (Greater), [[50_Magic/Glyphs/3_Characteristics/Pein\|Pein]] (Mental Pain) |
+| **5** | [[50_Magic/Glyphs/3_Characteristics/Trau\|Trau]] (Dream/Subconscious) |
 
-## Example Powers
-
-| Tier | Example Effect | Description |
+# Example Spells
+| Complexity Level | Spell Invocation | Spell Description |
 | :--- | :--- | :--- |
-| **Tier 1** | *Minor Glitch* | A faint, brief sound in an empty room or a flickering shadow at the edge of vision. |
-| **Tier 2** | *False Image* | A static, silent 3D image of a person or object convincing at a glance. |
-| **Tier 3** | *Auditory Hallucination* | Realistic voices or ambient sounds that follow and affect a specific target. |
-| **Tier 4** | *Full Sensory Scene* | A complete multi-sensory illusion: sight, sound, smell, and temperature. |
-| **Tier 5** | *Phantasmagoria* | An illusion of such depth it causes real psychosomatic harm to those who believe it completely. |
+| Trivial [0 Mana] | [[50_Magic/Glyphs/1_Functions/Tusc\|Tusc]] [[50_Magic/Glyphs/3_Characteristics/Klan\|Klan]] | Creates the faint sound of footsteps in an empty hall. |
+| Regular [1 Mana] | [[50_Magic/Glyphs/1_Functions/Tusc\|Tusc]] [[50_Magic/Glyphs/3_Characteristics/Bild\|Bild]] [[50_Magic/Glyphs/4_Modifiers/Birg\|Birg]] | Bends light around someone to turn them invisible; requires Glamour. |
+| Hard [2 Mana] | [[50_Magic/Glyphs/1_Functions/Tusc\|Tusc]] [[50_Magic/Glyphs/3_Characteristics/Tast\|Tast]] [[50_Magic/Glyphs/3_Characteristics/Pein\|Pein]] | Creates phantom sensations of severe burning on a target's skin; 2 Mental Damage. |
+| Complex [4 Mana] | [[50_Magic/Glyphs/1_Functions/Tusc\|Tusc]] [[50_Magic/Glyphs/2_Objects/Geis\|Geis]] [[50_Magic/Glyphs/3_Characteristics/Ernn\|Ernn]] | Replaces the last 10 minutes of a guard's memory; requires Mind Magic. |
+| Miracle [7 Mana] | [[50_Magic/Glyphs/1_Functions/Tusc\|Tusc]] [[50_Magic/Glyphs/3_Characteristics/Trau\|Trau]] [[50_Magic/Glyphs/4_Modifiers/Gros\|Gros]] | Traps a target's consciousness entirely inside a fabricated, inescapable lucid nightmare. |
 
-## Mechanical Focus
-Illusionism contests the target's [[50_Magic/Glossary/Mind Defense\|Mind Defense]]. Success is driven by [[10_System/Attributes/Magical/Calculation\|Calculation]] for detail richness and [[10_System/Attributes/Magical/Finesse\|Finesse]] for seamless integration into the environment.
+# Specializations
+| Specialization | Unlocked Glyphs |
+| :--- | :--- |
+| [[10_System/Schools/Illusionism/Glamour\|Glamour]] | [[50_Magic/Glyphs/4_Modifiers/Birg\|Birg]] (Hide/Invisibility), [[50_Magic/Glyphs/4_Modifiers/Tarn\|Tarn]] (Face/Disguise) |
+| [[10_System/Schools/Illusionism/Mind Magic\|Mind Magic]] | [[50_Magic/Glyphs/1_Functions/Zwin\|Zwin]] (Compel), [[50_Magic/Glyphs/4_Modifiers/Reiz\|Reiz]] (Charm), [[50_Magic/Glyphs/4_Modifiers/Wirr\|Wirr]] (Confuse), [[50_Magic/Glyphs/3_Characteristics/Ernn\|Ernn]] (Memory) |
 
----
-
-## Lore Deep Dive
+# Lore deep dive
 
 **The Nature of Illusions:** Contrary to popular belief, **disbelieving an illusion does absolutely nothing.** The image is real—it is physically constructed out of light and sound—it is just not what it appears to be. However, most illusions are very delicate and are easy to dispel with magic, or sometimes even simple physical force (like throwing a rock through them to prove they are hollow).
 
@@ -41,7 +46,8 @@ While basic illusions are just intangible ghosts, skilled illusionists can weave
 
 Today, this is no longer true. Modern magical literacy means obvious illusions are quickly recognized as such, and even fairly realistic ones will often cause suspicion. This, combined with the fact that Illusionism is quite difficult to practice flawlessly, has caused the number of illusionists to greatly decline. Many mages lament the current state of the discipline, though some have found great success applying their skills to the entertainment industry.
 
----
+## Mechanical Focus
+Illusionism contests the target's [[10_System/Glossary/Mind Defense\|Mind Defense]]. All casting rolls use **`2d6 + Willpower + Illusionism`**. Success is driven by the caster's [[10_System/Attributes/Magical/Calculation\|Calculation]] limit for detail richness.
 
 ## Design Boundaries
 
@@ -57,16 +63,4 @@ Today, this is no longer true. Modern magical literacy means obvious illusions a
 - Provide real information about the world (that's [[10_System/Schools/Divination/Divination\|Divination]])
 - Animate autonomous constructs (that's [[10_System/Schools/Animation/Animation\|Animation]])
 
-**The key verb is DECEIVE.** If the spell's primary action is making someone perceive something that isn't what it appears to be, it belongs in Illusionism.
-
----
-
-## Tier-by-Tier Spell Design Guide
-
-| Tier | Scope of Effect | Attribute Pairing | Typical Duration | Design Prompts |
-| :--- | :--- | :--- | :--- | :--- |
-| **Tier 1** | A single-sense trick: a faint sound in an empty room, a flickering shadow. Unconvincing under scrutiny. | [[10_System/Attributes/Magical/Calculation\|Calculation]] + Illusionism | Concentration (1 min) | *"What could a mischievous student use to prank a classmate?"* |
-| **Tier 2** | A static, single-sense illusion convincing enough to fool casual observers. A phantom person standing still. | [[10_System/Attributes/Magical/Calculation\|Calculation]] + Illusionism | Minutes (= [[10_System/Attributes/Magical/Finesse\|Finesse]]) | *"What would let someone walk past a guard without being recognized?"* |
-| **Tier 3** | Multi-sense illusions (sight + sound). Moving images. Targeted hallucinations. Pierces casual resistance. | [[10_System/Attributes/Magical/Calculation\|Calculation]] + Illusionism | Scene (10–30 min) | *"What would an infiltrator need to convincingly impersonate someone?"* |
-| **Tier 4** | Full sensory environments. Mass illusions affecting a crowd. | [[10_System/Attributes/Magical/Calculation\|Calculation]] + Illusionism | Hours | *"What would a spymaster use to stage a convincing assassination scene?"* |
-| **Tier 5** | Illusions so profound they cause real psychosomatic damage. Reality-warping perception fields. | [[10_System/Attributes/Magical/Calculation\|Calculation]] + Illusionism | Sustained / Permanent | *"What power would make an entire city see something that never happened?"* |
+**The key verb is DECEIVE (`Tusc`).** If the spell's primary action is making someone perceive something that isn't what it appears to be, it belongs in Illusionism.

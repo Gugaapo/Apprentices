@@ -4,4 +4,4 @@
 
 # Combat Stimulant
 
-A potent shot of adrenaline and alchemical pain-killers. It does not suppress penalties from [[50_Magic/Glossary/Mana Burn\|Mana Burn]] or magical damage.
+A potent shot of adrenaline and alchemical pain-killers. It does not suppress penalties from [[10_System/Glossary/Mana Burn\|Mana Burn]] or magical damage.

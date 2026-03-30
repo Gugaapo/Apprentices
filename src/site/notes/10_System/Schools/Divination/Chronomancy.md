@@ -5,29 +5,27 @@
 # Chronomancy
 
 **Classification:** Specialization
-**Parent School:** [[40_People/Factions/Cyorian Academy/Classes/Divination Class\|Divination Class]]
+**Parent School:** [[10_System/Schools/Divination/Divination\|Divination]]
 
+# Lore
 Chronomancy is an intensely theoretical and resource-heavy discipline. While true time travel is considered impossible, practitioners can manipulate localized time dilution, temporal stasis, and attempt to reconstruct the past or predict the future.
+> **Casting Roll:** 2d6 + Willpower + [Divination]
 
-## Specialization Rules
-This is an advanced Specialization. To learn **Spells (Powers)** in this field, a mage must use their dot-purchase selections from the **[[40_People/Factions/Cyorian Academy/Classes/Divination Class\|Divination Class]]** skill track. Furthermore, specific spells within Chronomancy will explicitly require a secondary prerequisite (such as 1 or 2 dots in collateral Schools) to simulate the mixed-matrix required to cast them.
+# Glyph progression
+| Specialization  | Unlocked Glyphs                                    |
+| :-------------- | :------------------------------------------------- |
+| **Chronomancy** | [[50_Magic/Glyphs/4_Modifiers/Schn\|Schn]] (Fast), [[50_Magic/Glyphs/4_Modifiers/Lang\|Lang]] (Slow), [[50_Magic/Glyphs/4_Modifiers/Wart\|Wart]] (Pause) |
 
-## Progression
-Acquiring dots and Powers here requires deep dedication. The spells are extremely potent but narrowly focused.
+# Example Spells
+| Complexity Level | Spell Invocation | Spell Description |
+| :--- | :--- | :--- |
+| Trivial [0 Mana] | *Sehn Zeit Klen* | Senses exactly what time of day it is. |
+| Regular [1 Mana] | *Sehn Schn* | Slightly accelerates the caster's perception of time. |
+| Hard [2 Mana] | *Sehn Lang* | Slows down perception to see a flying arrow clearly. |
+| Complex [4 Mana] | *Sehn Wart* | Briefly pauses the caster's flow of time to avoid an attack. |
+| Miracle [7 Mana] | *Sehn Zeit Suta Alle* | Perfectly calculates and reacts to all timelines in a fight. |
 
-## Example Powers
-
-| Tier       | Example Effect                                         | Description                                                                                                                                                          |
-| :--------- | :----------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Tier 1** | *Age Reading*                                          | Determines the exact age, temporal history, and significant past events associated with an object or person.                                                         |
-| **Tier 2** | *Micro-Haste*                                          | Accelerates the caster's localized time slightly, granting enhanced reflexes and movement speed for a few crucial seconds.                                           |
-| **Tier 3** | *Moment's Pause*                                       | Briefly halts localized time for a single object or small area, freezing it in place mid-air or mid-action.                                                          |
-| **Tier 4** | *Temporal Dodge*                                       | Rewinds the caster's personal time by a fraction of a second to undo a fatal mistake or avoid an incoming attack.                                                    |
-| **Tier 5** | *Reversion*                                            | Reverts an object or person to a previous state, effectively "healing" wounds or repairing shattered items by rewinding their timeline.                              |
-
----
-
-## Lore Deep Dive
+# Lore deep dive
 
 **The Illusion of Time Travel:**
 True, grand-scale time travel (jumping back years to change history) is universally considered impossible by modern magical theory. What Chronomancy *actually* does is manipulate localized temporal flow—speeding up the caster's perception, slowing down an enemy, or freezing a specific object in stasis.
@@ -38,7 +36,7 @@ When Chronomancers attempt to look backward or forward in time, they are technic
 ## Design Boundaries
 
 **Chronomancy CAN:**
-- Accelerate, decelerate, or pause localized time for specific targets.
+- Accelerate, decelerate, or pause localized time for specific targets (`Schn`, `Lang`, `Wart`).
 - Reconstruct past events based on the physical clues left in an area.
 - Predict immediate, short-term futures (like a sword swing a split-second before it happens).
 

@@ -7,33 +7,28 @@
 **Classification:** Specialization
 **Parent School:** [[10_System/Schools/Dimensionalism/Dimensionalism\|Dimensionalism]]
 
-Conjuration creates ectoplasmic constructs for various purposes. Force projectiles, force fields, tangible illusions, instant walls, and floating discs all fall under this discipline. 
+# Lore
+Conjuration creates ectoplasmic constructs for various purposes. Force projectiles, force fields, tangible illusions, instant walls, and floating discs all fall under this discipline.
+> **Casting Roll:** 2d6 + Willpower + [Dimensionalism]
+
+# Glyph progression
+| Specialization  | Unlocked Exclusive Glyphs                              |
+| :-------------- | :----------------------------------------------------- |
+| **Conjuration** | [[50_Magic/Glyphs/2_Objects/Zeug\|Zeug]] (Matter/Ectoplasm), [[50_Magic/Glyphs/2_Objects/Werk\|Werk]] (Tool/Construct) |
+
+# Example Spells
+| Complexity Level | Spell Invocation      | Spell Description                                                                                     |
+| :--------------- | :-------------------- | :---------------------------------------------------------------------------------------------------- |
+| Trivial [0 Mana] | *Schf Zeug Klen*      | A simple ectoplasmic hand that can grip, push, or drag small objects.                                 |
+| Regular [1 Mana] | *Scht Zeug Wand*      | A conjured full-body ectoplasmic barrier that absorbs incoming force and most spells.                 |
+| Hard [2 Mana]    | *Schf Zeug Werk*      | A weightless, hovering platform capable of supporting the caster and equipment.                       |
+| Complex [4 Mana] | *Scht Zeug Wand Gros* | A thick, instant fortification wall that blocks passage, projectiles, and most spells.                |
+| Milacre [7 Mana] | *Schf Zeug Werk Lebe* | A fully formed, humanoid ectoplasmic construct capable of independent movement. (Requires Animation). |
+
+# Lore deep dive
 
 > [!NOTE] Ectoplasm
 > No one is quite sure what ectoplasm actually is, and its exact properties are being studied to this very day. It behaves like a malleable solid, stops spells as a brick wall would, and affects targets like a real physical object. Its durability and realism scale entirely with the skill of the caster.
-
-## Specialization Rules
-This is an advanced Specialization. To learn **Spells (Powers)** in this field, a mage must use their dot-purchase selections from the **[[10_System/Schools/Dimensionalism/Dimensionalism\|Dimensionalism]]** skill track. Furthermore, specific spells within Conjuration will explicitly require a secondary prerequisite (such as 1 or 2 dots in collateral Schools) to simulate the mixed-matrix required to cast them.
-
-## Progression
-Acquiring dots and Powers here requires deep dedication. The spells are extremely potent but narrowly focused.
-
-## Example Powers
-
-| Tier | Example Effect | Description |
-| :--- | :--- | :--- |
-| **Tier 1** | *Force Hand* | A simple ectoplasmic hand that can grip, push, or drag small objects. |
-| **Tier 2** | *[[Aegis\|Aegis]] Shield* | A conjured full-body ectoplasmic barrier that absorbs incoming force and most spells (equal to a brick wall). |
-| **Tier 3** | *Floating Disc* | A weightless, hovering platform capable of supporting the caster and equipment indefinitely. |
-| **Tier 4** | *Conjured Wall* | A thick, instant fortification wall that blocks passage, projectiles, and most Tier 3 spells. |
-| **Tier 5** | *Ectoplasmic Simulacrum* | A fully formed, humanoid ectoplasmic construct capable of independent movement and combat. |
-
-## Mechanical Focus
-Conjuration's durability scales with [[10_System/Attributes/Magical/Willpower\|Willpower]] (for structural strength) and realism scales with [[10_System/Attributes/Magical/Finesse\|Finesse]]. 
-
----
-
-## Lore Deep Dive
 
 **The Nature of Constructs:** Conjured items and creatures aren’t real. Upon destruction, they evaporate into nothing, dissolving into a smoke-like form before gradually fading away. Severed parts (like the arm of a conjured beast) will likewise evaporate once separated from the core of the conjuration. 
 
@@ -41,7 +36,8 @@ Conjuration's durability scales with [[10_System/Attributes/Magical/Willpower\|W
 
 **Peaceful Utility:** Conjuration also has massive peaceful and economic applications. Historically, it has been often used during trickier constructions, allowing people to transport and handle massive stone blocks and other unwieldy things. Even today, this is often the case: fancy mechanical cranes are expensive to build and maintain; a conjured hand only costs mana.
 
----
+## Mechanical Focus
+Conjuration's durability scales with [[10_System/Attributes/Magical/Willpower\|Willpower]] (for structural strength) and realism scales with [[10_System/Attributes/Magical/Finesse\|Finesse]]. 
 
 ## Design Boundaries
 

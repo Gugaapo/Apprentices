@@ -2,32 +2,30 @@
 {"dg-publish":true,"permalink":"/10-system/schools/illusionism/glamour/","tags":["rules","magic","glamour"],"dgShowBacklinks":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
 
-# Glamour
+# Glamour (Environment)
 
 **Classification:** Specialization
 **Parent School:** [[10_System/Schools/Illusionism/Illusionism\|Illusionism]]
 
+# Lore
 Glamour is the specialized application of Illusionism focused on personal disguise, aesthetic alteration, and subtly deceiving the senses of others regarding the caster's appearance or nature.
+> **Casting Roll:** 2d6 + Willpower + [Illusionism]
 
-## Specialization Rules
-This is an advanced Specialization. To learn **Spells (Powers)** in this field, a mage must use their dot-purchase selections from the **[[10_System/Schools/Illusionism/Illusionism\|Illusionism]]** skill track. Furthermore, specific spells within Glamour will explicitly require a secondary prerequisite (such as 1 or 2 dots in collateral Schools) to simulate the mixed-matrix required to cast them.
+# Glyph progression
+| Specialization | Unlocked Glyphs                               |
+| :------------- | :-------------------------------------------- |
+| **Glamour**    | [[50_Magic/Glyphs/4_Modifiers/Birg\|Birg]] (Hide/Invisibility), [[50_Magic/Glyphs/4_Modifiers/Tarn\|Tarn]] (Face) |
 
-## Progression
-Acquiring dots and Powers here requires deep dedication. The spells are extremely potent but narrowly focused.
+# Example Spells
+| Complexity Level | Spell Invocation | Spell Description |
+| :--- | :--- | :--- |
+| Trivial [0 Mana] | *Tusc Bild Klen* | Creates a tiny, static illusory butterfly. |
+| Regular [1 Mana] | *Tusc Bild Birg* | Bends light around someone to turn them invisible. |
+| Hard [2 Mana] | *Tusc Tarn* | Perfectly disguises the caster's face as someone else. |
+| Complex [4 Mana] | *Tusc Bild Klan Birg* | Completely cloaks a group in perfect audiovisual invisibility. |
+| Miracle [7 Mana] | *Tusc Bild Gros* | Creates a flawless, moving illusion of an entire fake army. |
 
-## Example Powers
-
-| Tier       | Example Effect                                         | Description                                                                                                                                                          |
-| :--------- | :----------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Tier 1** | *Minor Disguise*                                       | Alters the color of the caster's hair, eyes, or clothing temporarily.                                                                                                |
-| **Tier 2** | *Voice Mimicry*                                        | Flawlessly replicates the voice and vocal cadence of a specific individual the caster has heard.                                                                     |
-| **Tier 3** | *Full Persona*                                         | A comprehensive, multi-sensory optical illusion that completely masks the caster's physical appearance, making them look like a different person.                    |
-| **Tier 4** | *Scent & Heat Masking*                                 | Weaves additional energies into the glamour to fool exotic senses, such as thermal vision or a werewolf's sense of smell.                                            |
-| **Tier 5** | *Tangible Disguise*                                    | Employs [[10_System/Schools/Dimensionalism/Conjuration\|Conjuration]] to make the disguise physically solid. A guard patting the caster down will feel the fake armor instead of the caster's real robes.          |
-
----
-
-## Lore Deep Dive
+# Lore deep dive
 
 **The Decline of Illusion:**
 In ancient times, when mages were rare and the general public had a fuzzy conception of magic, a simple visual glamour could easily cow a superstitious peasant or allow an assassin to walk right past a king's guard. Today, with the explosion of magical literacy, this is no longer true. People are suspicious. A guard who sees a slightly shimmering, entirely silent nobleman will immediately recognize an obvious illusion.
@@ -41,7 +39,7 @@ Some illusionists cheat by employing mental compulsions ([[10_System/Schools/Ill
 ## Design Boundaries
 
 **Glamour CAN:**
-- Completely alter the visual, auditory, and olfactory presentation of a target.
+- Completely alter the visual, auditory, and olfactory presentation of a target (`Birg`, `Tarn`).
 - Be layered with Conjuration to provide physical, tactile feedback to a disguise.
 - Be cast over willing allies or objects (e.g., making a sword look like a walking stick).
 

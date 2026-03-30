@@ -8,7 +8,9 @@
 
 Calculation measures your mental processing speed, spatial reasoning, and ability to handle multi-step magical matrices on the fly. It is the engine behind your ability to multitask and manage complex spellwork in high-stress situations without losing focus.
 
-Mechanically, Calculation acts as your mental RAM. It dictates your **Ongoing Spell Limit** (the maximum number of active, sustained spells you can maintain at once) and combines with your Willpower to determine your total **Mana Capacity**.
+Mechanically, Calculation acts as your mental RAM. It combines with your Willpower to determine your total **Mana Capacity**. 
+
+Crucially, it dictates your **Modifier Threshold** (how many modifiers you can safely weave into a single Formula without causing **Frail Scaffolding**). Your safe threshold is `Calculation - 1`. If you exceed this, you take automatic Mana Strain (wounds) and TN penalties. It also sets your **Ongoing Spell Limit** (the maximum number of active, sustained spells you can maintain at once).
 
 ### Common Uses
 - **Multitasking:** Maintaining an active ward while focusing on other actions.
@@ -18,8 +20,8 @@ Mechanically, Calculation acts as your mental RAM. It dictates your **Ongoing Sp
 ## Attribute Tiers
 | Tier | Title | Example Capability |
 | :--- | :--- | :--- |
-| **1** | Novice | Average mental math. **Limit:** 1 Ongoing Spell. |
-| **2** | Competent | Quick thinker. Can handle multi-step calculations. **Limit:** 2 Ongoing Spells. |
-| **3** | Skilled | Parallel processing. **Limit:** 3 Ongoing Spells. |
-| **4** | Expert | Advanced parallel processing. **Limit:** 4 Ongoing Spells. |
-| **5** | Master | Supercomputer mind. Can calculate dozens of kinetic vectors perfectly. **Limit:** 5 Ongoing Spells. |
+| **1** | Novice | Average mental math. **Limit:** 1 Ongoing Spell. 0 Safe Modifiers. |
+| **2** | Competent | Quick thinker. Can handle multi-step calculations. **Limit:** 2 Ongoing Spells. 1 Safe Modifier. |
+| **3** | Skilled | Parallel processing. **Limit:** 3 Ongoing Spells. 2 Safe Modifiers. |
+| **4** | Expert | Advanced parallel processing. **Limit:** 4 Ongoing Spells. 3 Safe Modifiers. |
+| **5** | Master | Supercomputer mind. Can calculate dozens of kinetic vectors perfectly. **Limit:** 5 Ongoing Spells. 4 Safe Modifiers. |

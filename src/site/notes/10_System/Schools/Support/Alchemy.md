@@ -6,23 +6,25 @@
 
 Alchemy is **magical chemistry**—it does not require shaping skill to use, only knowledge, proper ingredients, and following the recipe. Medical elixirs, temporary enhancement potions, powerful poisons, mind-affecting brews, exotic alloys, and extra-durable construction materials are all within its scope.
 
-> [!NOTE] No [[50_Magic/Glossary/Shaping\|Shaping]] Required
-> Alchemy is one of the few magical disciplines that **does not require any shaping skill**. Any sufficiently knowledgeable person with access to alchemical ingredients and equipment can practice it. 
+> [!NOTE] Physical Roots & No Shaping Required
+> Alchemy is one of the few magical disciplines that **does not require any shaping skill**. You aren't mixing "red weed" and "blue mushrooms." You are sourcing elements that hold lexical truth. An alchemist extracts physical manifestations of geometric **Root Words** (e.g., finding a salamander ash that naturally possesses the *Feur* root). Mixing an elixir is assembling these physical roots.
 > 
-> See **[[10_System/09 Crafting\|09 Crafting]]** in the Items and Setup section for specific crafting rules, Time Slot requirements, and material handling.
+> **The Built-In Limit (Overriding):** A character can only process one potion at a time. Drinking a new potion immediately flushes and overrides the active effect of the previous one, preventing buff-stacking.
+> 
+> See **[[10_System/09 Crafting\|09 Crafting]]** for specific crafting rules, Time Slot requirements, and material handling.
 
 ## Tier Examples
 
 | Tier       | Example Effect                                                          | Description                                                                                                                                            |
 | :--------- | :---------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Tier 1** | *Minor Healing Salve*                                                   | A topical compound that accelerates surface wound healing over 1-2 hours.                                                                              |
-| **Tier 2** | *Mana Booster Potion*                                                   | Temporarily increases the rate of [[50_Magic/Glossary/mana\|mana]] regeneration for ~30 minutes.                                                                               |
+| **Tier 2** | *Mana Booster Potion*                                                   | Temporarily increases the rate of [[10_System/Glossary/mana\|mana]] regeneration for ~30 minutes.                                                                               |
 | **Tier 3** | *Enhanced Metal Alloy*                                                  | Forge a material with magical properties, enhanced sharpness, magical conductivity, or heightened durability.                                          |
 | **Tier 4** | *[[10_System/Schools/Alteration/Transformation\|Transformation]] Potion* | A dangerous but accessible path to partial [[10_System/Schools/Alteration/Transformation\|Transformation]] effects, bottled for use by non-specialists. |
-| **Tier 5** | *Enhancement Elixir Base*                                               | A critical component for an Enhancement Ritual, reducing the permanent [[50_Magic/Glossary/mana\|mana]] reserve cost substantially.                                            |
+| **Tier 5** | *Enhancement Elixir Base*                                               | A critical component for an Enhancement Ritual, reducing the permanent [[10_System/Glossary/mana\|mana]] reserve cost substantially.                                            |
 
 ## Mechanical Focus
-Alchemy rolls use the [[10_System/Attributes/Mental/Academics\|Academics]] (chemistry/alchemy lore) and [[10_System/Attributes/Mental/Survival\|Survival]] (ingredient knowledge) mental attributes rather than any Magical attribute. A mage with high [[10_System/Attributes/Mental/Academics\|Academics]] but no shaping skill can be an excellent alchemist. [[10_System/Schools/Animation/Golemancy\|Golemancy]] cores generally require alchemical materials.
+Alchemy rolls use `2d6 + Attribute (usually Academics or Survival) + Alchemy` rather than any Magical attribute like Finesse or Calculation. A mage with high [[10_System/Attributes/Mental/Academics\|Academics]] but no shaping skill can be an excellent alchemist. [[10_System/Schools/Animation/Golemancy\|Golemancy]] cores generally require alchemical materials.
 
 ---
 

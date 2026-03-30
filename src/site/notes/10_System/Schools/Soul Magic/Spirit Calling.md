@@ -2,32 +2,30 @@
 {"dg-publish":true,"permalink":"/10-system/schools/soul-magic/spirit-calling/","tags":["rules","magic","spirit-calling"],"dgShowBacklinks":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
 
-# Spirit Calling
+# Spirit Calling (Ghosts)
 
 **Classification:** Specialization
 **Parent School:** [[10_System/Schools/Soul Magic/Soul Magic\|Soul Magic]]
 
+# Lore
 Spirit Calling is the incredibly dangerous and highly illegal branch of Soul Magic dedicated to interacting with, binding, and containing incorporeal souls and unruly spirits.
+> **Casting Roll:** 2d6 + Willpower + [Soul Magic]
 
-## Specialization Rules
-This is an advanced Specialization. To learn **Spells (Powers)** in this field, a mage must use their dot-purchase selections from the **[[10_System/Schools/Soul Magic/Soul Magic\|Soul Magic]]** skill track. Furthermore, specific spells within Spirit Calling will explicitly require a secondary prerequisite (such as 1 or 2 dots in collateral Schools) to simulate the mixed-matrix required to cast them.
+# Glyph progression
+| Specialization     | Unlocked Glyphs                    |
+| :----------------- | :--------------------------------- |
+| **Spirit Calling** | [[50_Magic/Glyphs/2_Objects/Spuk\|Spuk]] (Ghost), [[50_Magic/Glyphs/1_Functions/Sagt\|Sagt]] (Speak) |
 
-## Progression
-Acquiring dots and Powers here requires deep dedication. The spells are extremely potent but narrowly focused.
+# Example Spells
+| Complexity Level | Spell Invocation | Spell Description |
+| :--- | :--- | :--- |
+| Trivial [0 Mana] | *Reis Spuk Klen* | Causes a brief chill as a spirit passes near. |
+| Regular [1 Mana] | *Reis Spuk Sagt* | Forces the lingering spiritual imprint of a corpse to whisper its secrets. |
+| Hard [2 Mana] | *Reis Spuk Angs* | Compels a hostile ghost to manifest and terrify enemies. |
+| Complex [4 Mana] | *Reis Spuk Saug* | Forces a summoned spirit to drain the life from a target. |
+| Miracle [7 Mana] | *Reis Spuk Fetz* | Tears a powerful spirit apart, absorbing its raw essence permanently. |
 
-## Example Powers
-
-| Tier       | Example Effect                                         | Description                                                                                                                                                          |
-| :--------- | :----------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Tier 1** | *Soul Sight*                                           | The foundational prerequisite. Allows the caster to perceive the spiritual essence and soul structure of living and dead entities.                                   |
-| **Tier 2** | *Speak with Dead*                                      | Temporarily summons the lingering spirit or psychic echo of a recently deceased individual to answer basic questions.                                                |
-| **Tier 3** | *Spirit Binding*                                       | Forcibly binds an unruly ghost or free-floating soul into a physical object or prepared containment vessel.                                                          |
-| **Tier 4** | *Exorcism*                                             | Violently tears a possessing spirit or foreign soul out of a host body, often damaging both in the process.                                                          |
-| **Tier 5** | *Animate the Dead*                                     | The pinnacle of this field (often called [[10_System/Schools/Animation/Necromancy\|Necromancy]]). Forcibly binds a soul into a prepared corpse to act as an eternal, mindless battery for the flesh golem.   |
-
----
-
-## Lore Deep Dive
+# Lore deep dive
 
 **The Prerequisite of Soul Sight:**
 Spirit Calling is completely impossible to practice without first obtaining "soul sight." This is an extremely difficult, excruciatingly painful, and highly dangerous process. A mage cannot manipulate what they cannot see. Because obtaining soul sight is strictly illegal in almost all civilized nations, the only people who specialize in Spirit Calling are underground criminals, ancient liches, and the hypocritical high inquisitors of the Triumvirate Church.
@@ -41,7 +39,7 @@ Technically, Necromancy (the animation of corpses) is just a specific applicatio
 ## Design Boundaries
 
 **Spirit Calling CAN:**
-- Perceive, communicate with, and bind incorporeal spirits and souls.
+- Perceive, communicate with, and bind incorporeal spirits and souls (`Spuk`, `Sagt`).
 - Tear foreign souls out of host bodies (exorcism).
 - Enslave a soul to power a physical construct or corpse.
 

@@ -3,7 +3,6 @@
 ---
 
 
-
 Because the Academy environment is grueling, the ultimate currency for progression is not arbitrary XP, it's **Time**. Progression is tied directly to how you choose to spend your days.
 
 ### 1. The Daily Time Slots
@@ -23,10 +22,10 @@ Study Points represent time spent practicing, reading, attending Academy lecture
 - **Base Study Yield:** Spending a Time Slot studying alone or attending a standard class grants **1 SP** towards a specific goal.
 
 #### What SP Buys (The Costs):
-- **Learn a New Spell:** SP equal to the Spell's Tier (e.g., Tier 3 spell = 3 SP). *Requires the appropriate dots in the Core School.*
-- **Master a Spell:** SP equal to the Spell's Tier. *Max Mastered Spells = [[10_System/Attributes/Magical/Memory\|Memory]] × 2.*
-- **Increase an Attribute (Mental, Physical, Social, or Magical):** New Rating × 3 SP. *(e.g., Going from Tier 2 to Tier 3 costs 9 SP).*
-- **Increase a Core Magic School (1 to 5):** New Rating × 4 SP. *(e.g., Going from Tier 3 to Tier 4 in Alteration costs 16 SP).*
+- **Learn a New Spell Formula:** SP equal to the Spell's Complexity value (e.g., *Complex* formula = 4 SP). In a free-form system, players can combine their known glyphs anytime on the fly (Unstructured). "Learning a New Spell Formula" represents spending downtime to mathematically structure an Unstructured phrase they already know the glyphs for, officially adding it to their spellbook so it no longer suffers the +1 Mana unstructured penalty.
+- **Master a Spell:** SP equal to the Spell's Complexity value. *Max Mastered Spells = [[10_System/Attributes/Magical/Memory\|Memory]].*
+- **Increase an Attribute (Mental, Physical, Social, or Magical):** New Rating × 3 SP. *(e.g., Going from 2 to 3 dots costs 9 SP).*
+- **Increase a Core Magic School (1 to 5 dots):** New Rating × 4 SP. *(e.g., Going from 3 to 4 dots in Alteration costs 16 SP).* Gaining a dot grants the student exactly 3 new Glyphs from that school's syllabus to permanently add to their Grimoire vocabulary.
 
 ### 3. Insight Points (IP) - "The Epiphany"
 If SP is time, IP is *breakthroughs*. You cannot become an Archmage just by sitting in a library for 100 years; you have to push your limits, fight for your life, and uncover the secrets of the world. IP is a rare, narrative currency.
@@ -39,8 +38,8 @@ If SP is time, IP is *breakthroughs*. You cannot become an Archmage just by sitt
 
 #### What IP Buys (The Costs):
 - **Unlock a Specialization (1 IP):** You cannot just "buy" dots in [[10_System/Schools/Illusionism/Mind Magic\|Mind Magic]], [[10_System/Schools/Dimensionalism/Teleportation\|Teleportation]], or [[10_System/Schools/Divination/Chronomancy\|Chronomancy]] with SP. You must spend 1 IP to have the epiphany required to unlock the Specialization tree (usually after finding a rare teacher, stealing a forbidden grimoire, or dissecting a magical beast).
-- **Create a Custom Spell (1 IP + SP cost):** Inventing a brand new spell formula from scratch that doesn't exist in the Academy archives.
-- **Purchase a Trait / Merit (1 IP):** Unlocking a new permanent character trait (like *Mana Battery*, *Photographic Memory*, or *[[50_Magic/Traits/Merits/Inner Peace\|Inner Peace]]*) or permanently removing Flaws (like *[[50_Magic/Traits/Flaws/Nightmares\|Nightmares]]* or *[[50_Magic/Traits/Flaws/Soul Tether\|Soul Tether]]*).
-- **Break the Tier 5 Cap (1 IP + SP cost):** To reach Tier 5 (Master/Mythic) in *any* Attribute or Magic School, grinding SP isn't enough. You must spend 1 IP to achieve the final paradigm shift required for true mastery.
+- **Decipher a Wild Glyph (1 IP + SP cost):** Representing a player finding a forbidden or unknown phonetic root in the world and spending an Insight Point to successfully decode and integrate it into their living Grimoire vocabulary.
+- **Purchase a Trait / Merit (1 IP):** Unlocking a new permanent character trait (like *[[50_Magic/Traits/Merits/Mana Battery\|Mana Battery]]*  or *[[50_Magic/Traits/Merits/Inner Peace\|Inner Peace]]*) or permanently removing Flaws (like *[[50_Magic/Traits/Flaws/Nightmares\|Nightmares]]* or *[[50_Magic/Traits/Flaws/Soul Tether\|Soul Tether]]*).
+- **Break the 5-Dot Cap (1 IP + SP cost):** To reach 5 dots in *any* Attribute or Magic School, grinding SP isn't enough. You must spend 1 IP to achieve the final paradigm shift required for true mastery.
 
 

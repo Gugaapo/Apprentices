@@ -17,7 +17,7 @@ While you might occasionally struggle with Altazian idioms or the sheer arroganc
 
 ## Mechanical Benefits
 
-- **Starting Bonus:** Gain +1 free dot in **[[10_System/Attributes/Social/Insight\|Insight]]** and +1 free dot in **[[90_AI_Context/SOCIETY\|90_AI_Context/SOCIETY]]**.
+- **Starting Bonus:** Gain +1 free dot in **[[10_System/Attributes/Social/Insight\|Insight]]** and +1 free dot in **[[10_System/Attributes/Social/Connections\|Connections]]**.
 - **Connection — The Embassy:** You maintain ties to your homeland's diplomatic mission or expatriate community in Cyoria. Once per arc, you can use this connection to secure foreign goods, seek diplomatic sanctuary, or obtain information that Eldemarian censors have tried to suppress.
 
 ---

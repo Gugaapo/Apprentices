@@ -2,39 +2,41 @@
 {"dg-publish":true,"permalink":"/10-system/schools/animation/animation/","tags":["rules","magic","animation"],"dgShowBacklinks":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
 
-# Animation
+# Animation (Syllabus of Autonomy)
 
 **Classification:** Core School
 
-Animation is the art of infusing a portion of the caster's own mind into a target, granting it a measure of autonomy and independent action. Illusions, animated objects, conjured creatures, and imperfect copies of the caster all draw heavily from this discipline.
+# Lore
+Infusing fragments of the soul and logic into inanimate objects or corpses. It is the pinnacle of engineering translated into magic—violating entropy by giving life to the lifeless. Magic is now cast by weaving geometric  roots (Max 4 letters) into compound spell names.
+> **Casting Roll:** 2d6 + Willpower + [Animation]
 
-> [!IMPORTANT] Key Limitation
-> Animation spells rely entirely on the **caster's own knowledge and skill**. An animated construct cannot perform any action the caster themselves could not perform. A golem animated by a non-swimmer will not swim. Animation targeting living people without their consent is considered **restricted material** and highly illegal.
+# Glyph progression
+*The 3-Glyph Menu Selection:* Every time a character gains 1 point (Dot) in a Core School or Specialization, they choose exactly **3 Glyphs** from their newly unlocked Level (or any previous levels) to permanently add to their Grimoire.
 
-## [[50_Magic/Glossary/Specializations\|Specializations]]
-As mages progress their dots in this School, they may elect to unlock highly advanced **[[50_Magic/Glossary/Specializations\|Specializations]]** by meeting secondary prerequisites. The specializations for this school are:
-- **[[10_System/Schools/Animation/Golemancy\|Golemancy]]**
-- **[[10_System/Schools/Animation/Necromancy\|Necromancy]]**
+| Level | Available Glyphs                                                   |
+| :---: | :----------------------------------------------------------------- |
+| **1** | [[50_Magic/Glyphs/1_Functions/Lebe\|Lebe]] (Animate/Move), [[50_Magic/Glyphs/2_Objects/Ding\|Ding]] (Object), [[50_Magic/Glyphs/4_Modifiers/Trag\|Trag]] (Carry/Fetch) |
+| **2** | [[50_Magic/Glyphs/4_Modifiers/Gehh\|Gehh]] (Walk), [[50_Magic/Glyphs/4_Modifiers/Folg\|Folg]] (Follow)                                 |
+| **3** | [[50_Magic/Glyphs/2_Objects/Werk\|Werk]] (Work/Action), [[50_Magic/Glyphs/4_Modifiers/Klen\|Klen]] (Lesser), [[50_Magic/Glyphs/1_Functions/Steh\|Steh]] (Stop)         |
+| **4** | [[50_Magic/Glyphs/4_Modifiers/Denk\|Denk]] (Think/Logic), [[50_Magic/Glyphs/4_Modifiers/Gros\|Gros]] (Greater), [[50_Magic/Glyphs/4_Modifiers/Slag\|Slag]] (Strike)      |
+| **5** | [[50_Magic/Glyphs/2_Objects/Seel\|Seel]] (Simulated Soul/True Autonomy)                            |
 
-## Progression
-Under Academy rules, acquiring a dot in a [[10_System/06 The Magic System#The Casting System\|School Proficiency]] does not instantly grant knowledge of every spell in that tier. Instead, purchasing a dot in Animation grants the mage **exactly one Spell (Power)** from this School (at that dot level or lower).
+# Example Spells
+| Complexity Level | Spell Invocation | Spell Description |
+| :--- | :--- | :--- |
+| Trivial [0 Mana] | [[50_Magic/Glyphs/1_Functions/Lebe\|Lebe]] [[50_Magic/Glyphs/4_Modifiers/Gehh\|Gehh]] | Makes a broom sweep the floor by itself. |
+| Regular [1 Mana] | [[50_Magic/Glyphs/1_Functions/Lebe\|Lebe]] [[50_Magic/Glyphs/4_Modifiers/Folg\|Folg]] [[50_Magic/Glyphs/2_Objects/Ding\|Ding]] | Makes a lantern float and follow you down a dark tunnel. |
+| Hard [2 Mana] | [[50_Magic/Glyphs/1_Functions/Lebe\|Lebe]] [[50_Magic/Glyphs/3_Characteristics/Leic\|Leic]] [[50_Magic/Glyphs/4_Modifiers/Wach\|Wach]] | Raises a skeleton and orders it to guard a doorway; requires Necromancy. |
+| Complex [4 Mana] | [[50_Magic/Glyphs/1_Functions/Lebe\|Lebe]] [[50_Magic/Glyphs/3_Characteristics/Baut\|Baut]] [[50_Magic/Glyphs/2_Objects/Werk\|Werk]] | Animates a massive stone golem to dig a tunnel or fight; requires Golemancy. |
+| Miracle [7 Mana] | [[50_Magic/Glyphs/1_Functions/Lebe\|Lebe]] [[50_Magic/Glyphs/2_Objects/Seel\|Seel]] | Breathes terrifying, permanent pseudo-sentience into a colossal dread-construct. |
 
-## Example Powers
+# Specializations
+| Specialization | Unlocked Glyphs |
+| :--- | :--- |
+| [[10_System/Schools/Animation/Golemancy\|Golemancy]] | [[50_Magic/Glyphs/3_Characteristics/Baut\|Baut]] (Construct/Statue), [[50_Magic/Glyphs/4_Modifiers/Wach\|Wach]] (Guard) |
+| [[10_System/Schools/Animation/Necromancy\|Necromancy]] | [[50_Magic/Glyphs/3_Characteristics/Leic\|Leic]] (Corpse), [[50_Magic/Glyphs/2_Objects/Knoc\|Knoc]] (Bone), [[50_Magic/Glyphs/4_Modifiers/Hord\|Hord]] (Swarm/Many) |
 
-| Tier       | Example Effect       | Description                                                                                                                         |
-| :--------- | :------------------- | :---------------------------------------------------------------------------------------------------------------------------------- |
-| **Tier 1** | *Dancing Lights*     | Animate a candle flame or small object to move according to a simple, repeating pattern.                                            |
-| **Tier 2** | *Guardian Construct* | Animate a simple golem or mechanical device to carry out a single, defined task (patrol, guard, carry).                             |
-| **Tier 3** | *Homing Missile*     | Infuse a [[10_System/Schools/Projection/Projection\|Projection]] bolt with enough animation to track and pursue a designated target. |
-| **Tier 4** | *Simulacrum (Minor)* | Create a semi-autonomous imperfect copy of yourself that can carry out complex tasks and even cast simple spells.                   |
-| **Tier 5** | *True Golem*         | Animate a powerful construct capable of independent judgment, multi-step problem solving, and tactical adaptation.                  |
-
-## Mechanical Focus
-Animation scales with the caster's [[10_System/Attributes/Magical/Calculation\|Calculation]] (for construct complexity) and [[10_System/Attributes/Magical/Memory\|Memory]] (for breadth of skills the construct can mimic). An animated construct's skill caps are always equal to or below the caster's own.
-
----
-
-## Lore Deep Dive
+# Lore deep dive
 
 Animation is the art of **imparting a fragment of the caster's own mind** into an inanimate object or magical construct, granting it a degree of autonomous action. The animated target does not gain true intelligence — it receives a copy of the caster's knowledge, filtered through a simplified decision-making matrix. 
 
@@ -44,9 +46,10 @@ This creates a fundamental ceiling: **an animated construct cannot do anything t
 
 **Living Targets:** While typically used on inanimate objects that have no will of their own, Animation *can* be used on living beings if the caster is powerful enough to override their will, or if the target simply doesn't resist. However, animating unwilling people is strictly forbidden by Academy law, as it is functionally equivalent to mind control.
 
-**What it feels like to cast:** The caster feels a portion of their consciousness "stretch" outward into the target. It's often described as a headache-inducing split-attention effect. Maintaining multiple animated constructs simultaneously is mentally exhausting.
+**What it feels like to cast:** The caster feels a portion of their consciousness "stretch" outward into the target. It's often described as a headache-inducing split-attention effect. Maintaining multiple animated constructs simultaneously is mentally exhausting and rapidly drains Capacity, risking Mana Burn.
 
----
+## Mechanical Focus
+All casting rolls use **`2d6 + Willpower + Animation`**. Animation scales with the caster's [[10_System/Attributes/Magical/Calculation\|Calculation]] (for construct complexity) and [[10_System/Attributes/Magical/Memory\|Memory]] (for breadth of skills the construct can mimic). An animated construct's skill caps are always equal to or below the caster's own.
 
 ## Design Boundaries
 
@@ -54,22 +57,13 @@ This creates a fundamental ceiling: **an animated construct cannot do anything t
 - Give objects autonomous movement and simple decision-making
 - Create constructs that patrol, guard, carry, or fight on the caster's behalf
 - Infuse projectiles with tracking behaviour (homing bolts, seeking missiles)
-- Build semi-autonomous copies of the caster (simulacra) at high tiers
+- Build semi-autonomous copies of the caster (simulacra) at high complexities
 - Affect living beings (if the caster is overwhelmingly powerful or the target is willing)
 
 **Animation CANNOT:**
+- **Infiltrate Hostile Biology (Soul Cohesion Law):** Living beings passively project an aura of spiritual interference. You cannot directly seize control of an unwilling creature's nervous system or animate their internal biology without overwhelming their Soul Cohesion. Any attempt to directly animate the body of a hostile, living creature is automatically a **Miracle (7 Mana)** effect.
 - Create intelligence that exceeds the caster's own
 - Generate energy or alter matter (the construct still needs Projection or Alteration for those)
 - Produce sensory deceptions (that's [[10_System/Schools/Illusionism/Illusionism\|Illusionism]])
 
----
-
-## Tier-by-Tier Spell Design Guide
-
-| Tier | Scope of Effect | Attribute Pairing | Typical Duration | Design Prompts |
-| :--- | :--- | :--- | :--- | :--- |
-| **Tier 1** | Animate a small object with a simple repeating pattern. No combat capability. | [[10_System/Attributes/Magical/Calculation\|Calculation]] + Animation | Minutes (= [[10_System/Attributes/Magical/Finesse\|Finesse]]) | *"What chore could a lazy student automate with their first animation spell?"* |
-| **Tier 2** | Animate a construct capable of one defined task. Basic golem. | [[10_System/Attributes/Magical/Calculation\|Calculation]] + Animation | Hours | *"What would a mage need to guard their room while they sleep?"* |
-| **Tier 3** | Animate projectiles with tracking (homing bolts). Constructs capable of multi-step tasks. | [[10_System/Attributes/Magical/Calculation\|Calculation]] + Animation | Scene / Sustained | *"What would make a combat mage's attacks nearly impossible to dodge?"* |
-| **Tier 4** | Semi-autonomous simulacrum capable of independent action, speech, and basic spellcasting. | [[10_System/Attributes/Magical/Calculation\|Calculation]] + Animation | Days (requires sustained mana) | *"What would let a mage be in two places at once?"* |
-| **Tier 5** | True Golem: a construct with independent judgment, tactical adaptation, and full access to the caster's skill set. | [[10_System/Attributes/Magical/Calculation\|Calculation]] + Animation | Permanent (with mana source) | *"What would match a squad of trained soldiers in combat effectiveness?"* |
+**The key verb is ANIMATE (`Lebe`).**
