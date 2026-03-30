@@ -25,16 +25,16 @@ Use the sidebar to browse, or press `Ctrl+K` to search.
 
 ---
 
-### Latest Updates
+### 🕒 Latest Updates
 > [!info] Tip
 > Use the sidebar on the left to navigate through the folder structure of the vault.
 
-| File                                                                | Last Modified             |
-| ------------------------------------------------------------------- | ------------------------- |
-| [[40_People/Factions/Houses/House Taramatula\|House Taramatula]] | 10:20 AM - March 23, 2026 |
-| [[40_People/Factions/Houses/House Reid\|House Reid]]             | 10:19 AM - March 23, 2026 |
-| [[40_People/Factions/Houses/House Noveda\|House Noveda]]         | 10:19 AM - March 23, 2026 |
-| [[40_People/Factions/Houses/House Denen\|House Denen]]           | 10:19 AM - March 23, 2026 |
-| [[40_People/Factions/Houses/House Ashirai\|House Ashirai]]       | 10:19 AM - March 23, 2026 |
+| File                                                              | Last Modified             |
+| ----------------------------------------------------------------- | ------------------------- |
+| [[10_System/Schools/Support/Divine Magic\|Divine Magic]]       | 4:44 PM - March 30, 2026  |
+| [[Schools_Curriculum\|Schools_Curriculum]]                     | 2:25 PM - March 27, 2026  |
+| [[Home\|Home]]                                                 | 11:04 AM - March 27, 2026 |
+| [[30_Locations/Cities and Towns/Cyoria\|Cyoria]]               | 5:40 PM - March 23, 2026  |
+| [[00_Meta/Character Sheet Template\|Character Sheet Template]] | 5:36 PM - March 23, 2026  |
 
 { .block-language-dataview}

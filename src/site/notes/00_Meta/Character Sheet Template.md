@@ -32,7 +32,7 @@
 
 ## 2. Derived Stats & Health Tracks
 
-**[[50_Magic/Glossary/Mana Capacity\|Max Mana]]:** XX / XX *(Calculated as: [Willpower + Calculation] x 5)*
+**[[50_Magic/Glossary/Mana Capacity\|Mana Capacity]]:** XX / XX *(Calculated as: [Willpower + Calculation] x 5)*
 
 **[[50_Magic/Glossary/Mind Defense\|Mind Defense]]:**  XXX *(Calculated as: Willpower + Highest of Divination or Ward)*
 **Ongoing Spell Limit:** XXX *(Equal to Calculation rating)*

@@ -7,12 +7,12 @@
 
 ## Overview
 
-| Attribute | Detail |
-|---|---|
-| **Type** | Major City |
-| **Region** | [[30_Locations/Countries/Eldemar\|Eldemar]], eastern coast of Altazia |
-| **Population** | ~500,000 |
-| **Notable Feature** | The Hole — the only known Rank 9 [[50_Magic/Glossary/Mana Well\|mana well]] |
+| Attribute           | Detail                                         |
+| ------------------- | ---------------------------------------------- |
+| **Type**            | Major City                                     |
+| **Region**          | [[30_Locations/Countries/Eldemar\|Eldemar]], eastern coast of Altazia          |
+| **Population**      | ~500,000                                       |
+| **Notable Feature** | The Hole — the only known Rank 9 [[50_Magic/Glossary/Mana Well\|Mana Well]] |
 
 ---
 
