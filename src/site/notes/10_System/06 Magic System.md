@@ -153,3 +153,6 @@ Roll: `2d6 + Willpower + School Proficiency`
 ### 5. CONSEQUENCES
 - **Overcharge:** Points above TN = +1 Wound per point OR +Status Effect.
 - **Mana Burn:** Exceeding your Mana Capacity = Immediate Physical Wounds.
+
+
+[[10_System/05 Progression\|Progression]] ================================================== [[10_System/07 Crafting\|Crafting]]

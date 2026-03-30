@@ -75,3 +75,6 @@ You have 4 categories of Attributes: Magical, Mental, Physical, and Social. Thes
 * **Sanity:** 10 Boxes.
 * **Max Modifiers:** `Calculation - 1`.
 * **Mastered Spells:** You may designate a number of known formulas up to your `Memory` rating as Mastered. They cost 0 SP at creation, permanently lower their Complexity Category by 1 step for you (reducing Mana cost), and skip calculation rolls.
+
+
+[[10_System/03 Character Creation\|Character Creation]] =========================================== [[10_System/04 Traits\|Traits]]

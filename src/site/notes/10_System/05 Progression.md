@@ -43,3 +43,6 @@ If SP is time, IP is *breakthroughs*. You cannot become an Archmage just by sitt
 - **Break the 5-Dot Cap (1 IP + SP cost):** To reach 5 dots in *any* Attribute or Magic School, grinding SP isn't enough. You must spend 1 IP to achieve the final paradigm shift required for true mastery.
 
 
+
+
+[[10_System/04 Traits\|Traits]] ================================================== [[10_System/06 Magic System\|Magic System]]

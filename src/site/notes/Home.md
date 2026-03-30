@@ -31,10 +31,10 @@ Use the sidebar to browse, or press `Ctrl+K` to search.
 
 | File                                                                        | Last Modified            |
 | --------------------------------------------------------------------------- | ------------------------ |
-| [[gemini-scribe/AGENTS\|AGENTS]]                                         | 5:35 PM - March 30, 2026 |
-| [[10_System/01 Core Mechanics\|01 Core Mechanics]]                       | 5:33 PM - March 30, 2026 |
-| [[10_System/03b Quick Character Creation\|03b Quick Character Creation]] | 5:32 PM - March 30, 2026 |
-| [[10_System/06 Magic System\|06 Magic System]]                           | 5:32 PM - March 30, 2026 |
-| [[10_System/11 Apprentices SRD\|11 Apprentices SRD]]                     | 5:32 PM - March 30, 2026 |
+| [[10_System/05 Progression\|05 Progression]]                             | 6:00 PM - March 30, 2026 |
+| [[10_System/04 Traits\|04 Traits]]                                       | 6:00 PM - March 30, 2026 |
+| [[10_System/03b Quick Character Creation\|03b Quick Character Creation]] | 5:59 PM - March 30, 2026 |
+| [[10_System/03 Character Creation\|03 Character Creation]]               | 5:59 PM - March 30, 2026 |
+| [[10_System/02 Economy\|02 Economy]]                                     | 5:58 PM - March 30, 2026 |
 
 { .block-language-dataview}
