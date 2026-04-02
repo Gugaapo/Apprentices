@@ -10,16 +10,15 @@
 The science of changing physical properties without adding or removing mass. Alteration is considered the most surgically precise magic, requiring a deep understanding of physics, chemistry, and biology. Magic is now cast by weaving geometric  roots (Max 4 letters) into compound spell names.
 > **Casting Roll:** 2d6 + Willpower + [Alteration]
 
-# Glyph progression
-*The 3-Glyph Menu Selection:* Every time a character gains 1 point (Dot) in a Core School or Specialization, they choose exactly **3 Glyphs** from their newly unlocked Level (or any previous levels) to permanently add to their Grimoire.
+# Core Syllabus (Fluency)
+*The Core Lexicon:* Acquiring 1 Dot in Alteration permanently grants the character complete fluency in the following base Verbs and Nouns for unstructured casting.
 
-| Level | Available Glyphs |
-| :---: | :--- |
-| **1** | [[50_Magic/Glyphs/1_Functions/Andr\|Andr]] (Alter/Restructure), [[50_Magic/Glyphs/3_Characteristics/Farb\|Farb]] (Color), [[50_Magic/Glyphs/3_Characteristics/Temp\|Temp]] (Temperature), [[50_Magic/Glyphs/3_Characteristics/Klan\|Klan]] (Sound) |
-| **2** | [[50_Magic/Glyphs/3_Characteristics/Dich\|Dich]] (Density), [[50_Magic/Glyphs/3_Characteristics/Form\|Form]] (Shape), [[50_Magic/Glyphs/4_Modifiers/Hart\|Hart]] (Hard/Rigid) |
-| **3** | [[50_Magic/Glyphs/3_Characteristics/Zust\|Zust]] (State: Liquid/Gas/Solid), [[50_Magic/Glyphs/4_Modifiers/Klen\|Klen]] (Lesser), [[50_Magic/Glyphs/4_Modifiers/Weic\|Weic]] (Soft/Liquid) |
-| **4** | [[50_Magic/Glyphs/3_Characteristics/Schw\|Schw]] (Gravity/Weight), [[50_Magic/Glyphs/4_Modifiers/Gros\|Gros]] (Greater), [[50_Magic/Glyphs/4_Modifiers/Scha\|Scha]] (Sharp) |
-| **5** | [[50_Magic/Glyphs/3_Characteristics/Atom\|Atom]] (Molecular structure) |
+| Core Verbs & Nouns |
+| :--- |
+| [[50_Magic/Glyphs/1_Functions/Andr\|Andr]] (Alter/Restructure), [[50_Magic/Glyphs/3_Characteristics/Dich\|Dich]] (Density), [[50_Magic/Glyphs/3_Characteristics/Form\|Form]] (Shape), [[50_Magic/Glyphs/3_Characteristics/Temp\|Temp]] (Temperature), [[50_Magic/Glyphs/3_Characteristics/Zust\|Zust]] (State) |
+
+> [!NOTE] Rumored Wild Glyphs
+> Extreme manifestations of Alteration—such as [[50_Magic/Glyphs/3_Characteristics/Schw\|Schw]] (Gravity), [[50_Magic/Glyphs/4_Modifiers/Weic\|Weic]] (Transmute Material)—cannot be learned academically. They are Wild Glyphs that must be discovered in the world.
 
 # Example Spells
 | Complexity Level | Spell Invocation | Spell Description |

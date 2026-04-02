@@ -10,16 +10,15 @@
 Magic is fundamentally information. Divination does not change the world; it understands it. Academics respect Diviners as perfect detectives and scholars, treating their magic as pure, passive observation. Magic is now cast by weaving geometric roots (Max 4 letters) into compound spell names.
 > **Casting Roll:** 2d6 + Willpower + [Divination]
 
-# Glyph progression
-*The 3-Glyph Menu Selection:* Every time a character gains 1 point (Dot) in a Core School or Specialization, they choose exactly **3 Glyphs** from their newly unlocked Level (or any previous levels) to permanently add to their Grimoire.
+# Core Syllabus (Fluency)
+*The Core Lexicon:* Acquiring 1 Dot in Divination permanently grants the character complete fluency in the following base Verbs and Nouns for unstructured casting.
 
-| Level | Available Glyphs |
-| :---: | :--- |
-| **1** | [[50_Magic/Glyphs/1_Functions/Sehn\|Sehn]] (Perceive/Sense), [[50_Magic/Glyphs/2_Objects/Aura\|Aura]] (Magic energy) |
-| **2** | [[50_Magic/Glyphs/3_Characteristics/Stim\|Stim]] (Voice), [[50_Magic/Glyphs/2_Objects/Geis\|Geis]] (Thoughts), [[50_Magic/Glyphs/1_Functions/Horr\|Horr]] (Hear/Listen) |
-| **3** | [[50_Magic/Glyphs/3_Characteristics/Raum\|Raum]] (Surroundings), [[50_Magic/Glyphs/4_Modifiers/Klen\|Klen]] (Lesser), [[50_Magic/Glyphs/1_Functions/Spur\|Spur]] (Track) |
-| **4** | [[50_Magic/Glyphs/3_Characteristics/Zeit\|Zeit]] (Time/The Past), [[50_Magic/Glyphs/4_Modifiers/Gros\|Gros]] (Greater), [[50_Magic/Glyphs/4_Modifiers/Kart\|Kart]] (Topology map) |
-| **5** | [[50_Magic/Glyphs/3_Characteristics/Wahr\|Wahr]] (Truth/Pierce Illusion) |
+| Core Verbs & Nouns |
+| :--- |
+| [[50_Magic/Glyphs/1_Functions/Sehn\|Sehn]] (Perceive), [[50_Magic/Glyphs/2_Objects/Aura\|Aura]] (Magic Energy), [[50_Magic/Glyphs/3_Characteristics/Raum\|Raum]] (Surroundings), [[50_Magic/Glyphs/1_Functions/Spur\|Spur]] (Track) |
+
+> [!NOTE] Rumored Wild Glyphs
+> Extreme manifestations of Divination—such as [[50_Magic/Glyphs/3_Characteristics/Stim\|Stim]] (Inner Voice), [[50_Magic/Glyphs/2_Objects/Geis\|Geis]] (Surface Thoughts), [[Zuku\|Zuku]] (Future)—cannot be learned academically. They are Wild Glyphs that must be discovered in the world.
 
 # Example Spells
 | Complexity Level | Spell Invocation | Spell Description |

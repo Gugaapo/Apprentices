@@ -11,8 +11,10 @@
 Blood Magic deals with the manipulation of a person's life force, usually using the target's (or caster's) own blood as a proxy. Ritual sacrifice, powering spells through one's own health, improved enhancement rituals, and bloodline theft all fall under this discipline.
 > **Casting Roll:** 2d6 + Willpower + [Alteration]
 
-# Glyph progression
-| Specialization  | Unlocked Glyphs                                                       |
+# Advanced Syllabus (Dialect)
+*The 3-Glyph Menu Selection:* This is a specialized dialect. Every time you gain a Dot in this Specialization, you may choose up to **3 Modifiers** from its list to permanently add to your Grimoire's vocabulary.
+
+| Exclusive Modifiers  | Unlocked Glyphs                                                       |
 | :-------------- | :-------------------------------------------------------------------- |
 | **Blood Magic** | (Forbidden application of Medical Magic - Uses [[50_Magic/Glyphs/2_Objects/Blut\|Blut]] and [[50_Magic/Glyphs/2_Objects/Flei\|Flei]]) |
 
@@ -36,7 +38,9 @@ Life force is a very potent form of mana, useful for a lot of things. Unlike spe
 
 **The Dark Path:** Because of these steep personal costs, true blood mages intensely dislike using their own life force. Instead, they focus on stealing it from others. This stolen life force is frequently used to power massive, highly illegal workings—most notably, **demon summoning**. This is the primary reason the discipline is hunted so ruthlessly by governments and the Church alike.
 
-
+:::hidden
+**The True Nature of Blood Magic:** The deepest secret of Blood Magic, and the reason its very existence is suppressed, is that it relies on using life force (usually through human sacrifice) as a fuel source to prevent the terrible, mutating effects of potent Alteration spells on the user's own body. Furthermore, advanced Blood Magic allows a practitioner to literally steal the innate bloodline abilities (like [[70_Bestiary/Sapient_Species/Shifters\|shifter]] traits or elemental affinities) of a victim and graft them onto themselves. Authorities suppress this knowledge entirely because even knowing it is possible provides an overwhelming temptation for power-hungry mages to resort to mass murder.
+:::
 
 ## Mechanical Focus
 Blood magic bypasses the Personal [[10_System/Glossary/Mana Well\|Mana Well]] system, using Vitality as a secondary resource. Each use depletes Vitality (a tracked pool separate from HP) which heals 1 point per long rest. At 0 Vitality, the character is critically weakened and subsequent use is lethal.

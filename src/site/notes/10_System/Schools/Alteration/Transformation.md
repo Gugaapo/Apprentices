@@ -11,8 +11,10 @@
 Transformation magic changes a target's form, in whole or in part, through shape shifting and augmentation spells that apply a transformation shell over the target's soul. Crucially, both the target and the caster must have souls for transformation to work. It cannot affect the truly soulless, such as constructs or minor undead.
 > **Casting Roll:** 2d6 + Willpower + [Alteration]
 
-# Glyph progression
-| Specialization     | Unlocked Glyphs                                         |
+# Advanced Syllabus (Dialect)
+*The 3-Glyph Menu Selection:* This is a specialized dialect. Every time you gain a Dot in this Specialization, you may choose up to **3 Modifiers** from its list to permanently add to your Grimoire's vocabulary.
+
+| Exclusive Modifiers     | Unlocked Glyphs                                         |
 | :----------------- | :------------------------------------------------------ |
 | **Transformation** | [[50_Magic/Glyphs/2_Objects/Meta\|Meta]] (Metal), [[50_Magic/Glyphs/2_Objects/Holz\|Holz]] (Wood/Plant), [[50_Magic/Glyphs/3_Characteristics/Luft\|Luft]] (Air) |
 

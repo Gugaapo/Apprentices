@@ -10,16 +10,15 @@
 Hijacking the sensory input of reality. Illusionism doesn't change physical matter—it changes the human mind perceiving the matter, making it invaluable for espionage and psychological warfare. Magic is now cast by weaving geometric roots (Max 4 letters) into compound spell names.
 > **Casting Roll:** 2d6 + Willpower + [Illusionism]
 
-# Glyph progression
-*The 3-Glyph Menu Selection:* Every time a character gains 1 point (Dot) in a Core School or Specialization, they choose exactly **3 Glyphs** from their newly unlocked Level (or any previous levels) to permanently add to their Grimoire.
+# Core Syllabus (Fluency)
+*The Core Lexicon:* Acquiring 1 Dot in Illusionism permanently grants the character complete fluency in the following base Verbs and Nouns for unstructured casting.
 
-| Level | Available Glyphs |
-| :---: | :--- |
-| **1** | [[50_Magic/Glyphs/1_Functions/Tusc\|Tusc]] (Deceive/Phantom), [[50_Magic/Glyphs/3_Characteristics/Bild\|Bild]] (Visual), [[50_Magic/Glyphs/3_Characteristics/Klan\|Klan]] (Auditory) |
-| **2** | [[50_Magic/Glyphs/3_Characteristics/Ruch\|Ruch]] (Smell), [[50_Magic/Glyphs/3_Characteristics/Tast\|Tast]] (Touch/Texture), [[50_Magic/Glyphs/3_Characteristics/Dunk\|Dunk]] (Darkness) |
-| **3** | [[50_Magic/Glyphs/4_Modifiers/Klen\|Klen]] (Lesser), [[50_Magic/Glyphs/2_Objects/Geis\|Geis]] (Mind/Belief), [[50_Magic/Glyphs/3_Characteristics/Kost\|Kost]] (Taste), [[50_Magic/Glyphs/4_Modifiers/Irre\|Irre]] (Play/Distract) |
-| **4** | [[50_Magic/Glyphs/4_Modifiers/Gros\|Gros]] (Greater), [[50_Magic/Glyphs/3_Characteristics/Pein\|Pein]] (Mental Pain) |
-| **5** | [[50_Magic/Glyphs/3_Characteristics/Trau\|Trau]] (Dream/Subconscious) |
+| Core Verbs & Nouns |
+| :--- |
+| [[50_Magic/Glyphs/1_Functions/Tusc\|Tusc]] (Deceive/Phantom), [[50_Magic/Glyphs/3_Characteristics/Bild\|Bild]] (Visual), [[50_Magic/Glyphs/3_Characteristics/Klan\|Klan]] (Auditory), [[50_Magic/Glyphs/3_Characteristics/Ruch\|Ruch]] (Smell), [[50_Magic/Glyphs/3_Characteristics/Tast\|Tast]] (Touch/Texture), [[50_Magic/Glyphs/3_Characteristics/Kost\|Kost]] (Taste) |
+
+> [!NOTE] Rumored Wild Glyphs
+> Extreme manifestations of Illusionism—such as [[50_Magic/Glyphs/3_Characteristics/Trau\|Trau]] (Dream/Subconscious), [[50_Magic/Glyphs/3_Characteristics/Pein\|Pein]] (Mental Pain), [[50_Magic/Glyphs/3_Characteristics/Dunk\|Dunk]] (Darkness), and [[50_Magic/Glyphs/2_Objects/Geis\|Geis]] (True Belief)—cannot be learned academically. They are Wild Glyphs that must be discovered in the world.
 
 # Example Spells
 | Complexity Level | Spell Invocation | Spell Description |

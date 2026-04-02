@@ -54,4 +54,5 @@ Mages are not gods; they are scholars wielding tremendous power in fragile bodie
 
 ---
 
-[[10_System/01 Core Mechanics\|Core Mechanics]]
+### *What's Next?*
+*Now that you know the basics of the world, Cyoria, and the nature of magic, proceed to **[[10_System/01 Core Mechanics\|01 Core Mechanics]]** to learn the mechanical rules of this system.*

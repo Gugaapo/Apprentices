@@ -11,8 +11,10 @@
 Golemancy is the respected craft of constructing, animating, and programming complex artificial constructs. Golemancers use specialized mana cores and intricate shaping matrices to power their creations.
 > **Casting Roll:** 2d6 + Willpower + [Animation]
 
-# Glyph progression
-| Specialization | Unlocked Glyphs                               |
+# Advanced Syllabus (Dialect)
+*The 3-Glyph Menu Selection:* This is a specialized dialect. Every time you gain a Dot in this Specialization, you may choose up to **3 Modifiers** from its list to permanently add to your Grimoire's vocabulary.
+
+| Exclusive Modifiers | Unlocked Glyphs                               |
 | :------------- | :-------------------------------------------- |
 | **Golemancy**  | [[50_Magic/Glyphs/3_Characteristics/Baut\|Baut]] (Construct/Statue), [[50_Magic/Glyphs/4_Modifiers/Wach\|Wach]] (Guard) |
 

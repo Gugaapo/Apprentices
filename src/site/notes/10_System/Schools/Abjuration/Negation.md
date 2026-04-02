@@ -11,8 +11,8 @@
 Negation is the art of dispelling, disrupting, or negating other magical effects. It is a must-have discipline for every mage, serving as the reactive and stabilizing shield that unmakes other magic. Magic is now cast by weaving geometric Glyphs into spell formulas.
 > **Casting Roll:** 2d6 + Willpower + [Abjuration]
 
-# Glyph progression
-*The 3-Glyph Menu Selection:* Taking this specialization natively unlocks its exclusive Modifiers for spellcrafting. When gaining a dot, you may select these exclusive roots to add to your Grimoire.
+# Advanced Syllabus (Dialect)
+*The 3-Glyph Menu Selection:* This is a specialized dialect. Every time you gain a Dot in this Specialization, you may choose up to **3 Modifiers** from its list to permanently add to your Grimoire's vocabulary.
 
 | Specialization | Unlocked Glyphs |
 | :--- | :--- |

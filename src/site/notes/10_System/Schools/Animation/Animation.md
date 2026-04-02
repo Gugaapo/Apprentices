@@ -10,16 +10,15 @@
 Infusing fragments of the soul and logic into inanimate objects or corpses. It is the pinnacle of engineering translated into magic—violating entropy by giving life to the lifeless. Magic is now cast by weaving geometric  roots (Max 4 letters) into compound spell names.
 > **Casting Roll:** 2d6 + Willpower + [Animation]
 
-# Glyph progression
-*The 3-Glyph Menu Selection:* Every time a character gains 1 point (Dot) in a Core School or Specialization, they choose exactly **3 Glyphs** from their newly unlocked Level (or any previous levels) to permanently add to their Grimoire.
+# Core Syllabus (Fluency)
+*The Core Lexicon:* Acquiring 1 Dot in Animation permanently grants the character complete fluency in the following base Verbs and Nouns for unstructured casting.
 
-| Level | Available Glyphs                                                   |
-| :---: | :----------------------------------------------------------------- |
-| **1** | [[50_Magic/Glyphs/1_Functions/Lebe\|Lebe]] (Animate/Move), [[50_Magic/Glyphs/2_Objects/Ding\|Ding]] (Object), [[50_Magic/Glyphs/4_Modifiers/Trag\|Trag]] (Carry/Fetch) |
-| **2** | [[50_Magic/Glyphs/4_Modifiers/Gehh\|Gehh]] (Walk), [[50_Magic/Glyphs/4_Modifiers/Folg\|Folg]] (Follow)                                 |
-| **3** | [[50_Magic/Glyphs/2_Objects/Werk\|Werk]] (Work/Action), [[50_Magic/Glyphs/4_Modifiers/Klen\|Klen]] (Lesser), [[50_Magic/Glyphs/1_Functions/Steh\|Steh]] (Stop)         |
-| **4** | [[50_Magic/Glyphs/4_Modifiers/Denk\|Denk]] (Think/Logic), [[50_Magic/Glyphs/4_Modifiers/Gros\|Gros]] (Greater), [[50_Magic/Glyphs/4_Modifiers/Slag\|Slag]] (Strike)      |
-| **5** | [[50_Magic/Glyphs/2_Objects/Seel\|Seel]] (Simulated Soul/True Autonomy)                            |
+| Core Verbs & Nouns |
+| :--- |
+| [[50_Magic/Glyphs/1_Functions/Lebe\|Lebe]] (Animate), [[50_Magic/Glyphs/2_Objects/Ding\|Ding]] (Object), [[50_Magic/Glyphs/4_Modifiers/Gehh\|Gehh]] (Walk/Move) |
+
+> [!NOTE] Rumored Wild Glyphs
+> Extreme manifestations of Animation—such as [[50_Magic/Glyphs/2_Objects/Seel\|Seel]] (False Soul), [[Geda\|Geda]] (Independence)—cannot be learned academically. They are Wild Glyphs that must be discovered in the world.
 
 # Example Spells
 | Complexity Level | Spell Invocation | Spell Description |

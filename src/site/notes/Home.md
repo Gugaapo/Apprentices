@@ -29,12 +29,12 @@ Use the sidebar to browse, or press `Ctrl+K` to search.
 > [!info] Tip
 > Use the sidebar on the left to navigate through the folder structure of the vault.
 
-| File                                                            | Last Modified            |
-| --------------------------------------------------------------- | ------------------------ |
-| [[00_Meta/Corin Vance - Version 3\|Corin Vance - Version 3]] | 6:35 PM - March 30, 2026 |
-| [[00_Meta/Corin Vance - Version 2\|Corin Vance - Version 2]] | 6:35 PM - March 30, 2026 |
-| [[00_Meta/Corin Vance - Version 1\|Corin Vance - Version 1]] | 6:35 PM - March 30, 2026 |
-| [[10_System/05 Progression\|05 Progression]]                 | 6:00 PM - March 30, 2026 |
-| [[10_System/04 Traits\|04 Traits]]                           | 6:00 PM - March 30, 2026 |
+| File                                                               | Last Modified            |
+| ------------------------------------------------------------------ | ------------------------ |
+| [[10_System/Schools/Alteration/Transformation\|Transformation]] | 7:40 PM - April 02, 2026 |
+| [[10_System/Schools/Alteration/Blood Magic\|Blood Magic]]       | 7:40 PM - April 02, 2026 |
+| [[10_System/Schools/Alteration/Medical Magic\|Medical Magic]]   | 7:40 PM - April 02, 2026 |
+| [[10_System/Schools/Soul Magic/Soul Carving\|Soul Carving]]     | 7:40 PM - April 02, 2026 |
+| [[10_System/Schools/Soul Magic/Spirit Calling\|Spirit Calling]] | 7:40 PM - April 02, 2026 |
 
 { .block-language-dataview}

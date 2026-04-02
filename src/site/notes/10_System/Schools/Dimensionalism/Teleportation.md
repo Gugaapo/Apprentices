@@ -11,8 +11,10 @@
 Teleportation is the complex art of folding space for instantaneous travel. It requires immense calculation, spatial awareness, and deeply embedded anchors to execute safely.
 > **Casting Roll:** 2d6 + Willpower + [Dimensionalism]
 
-# Glyph progression
-| Specialization    | Unlocked Glyphs                       |
+# Advanced Syllabus (Dialect)
+*The 3-Glyph Menu Selection:* This is a specialized dialect. Every time you gain a Dot in this Specialization, you may choose up to **3 Modifiers** from its list to permanently add to your Grimoire's vocabulary.
+
+| Exclusive Modifiers    | Unlocked Glyphs                       |
 | :---------------- | :------------------------------------ |
 | **Teleportation** | [[50_Magic/Glyphs/4_Modifiers/Flhh\|Flhh]] (Flee/Blink), [[50_Magic/Glyphs/4_Modifiers/Ich\|Ich]] (Self) |
 

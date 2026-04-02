@@ -11,8 +11,8 @@
 Ward magic transforms the temporary defenses of Abjuration into persistent, area-anchored spells. Wards envelop an entire area and enforce a particular effect on everything inside that domain. While usually protective in nature, some wards react violently when triggered. Magic is now cast by weaving geometric Glyphs into spell formulas.
 > **Casting Roll:** 2d6 + Willpower + [Abjuration]
 
-# Glyph progression
-*The 3-Glyph Menu Selection:* Taking this specialization natively unlocks its exclusive Modifiers for spellcrafting. When gaining a dot, you may select these exclusive roots to add to your Grimoire.
+# Advanced Syllabus (Dialect)
+*The 3-Glyph Menu Selection:* This is a specialized dialect. Every time you gain a Dot in this Specialization, you may choose up to **3 Modifiers** from its list to permanently add to your Grimoire's vocabulary.
 
 | Specialization | Unlocked Glyphs |
 | :--- | :--- |

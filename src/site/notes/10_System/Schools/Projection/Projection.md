@@ -10,16 +10,15 @@
 Projection is the brute force of the academic world. To project is to reach into the void and draw forth violent, raw energy from pure mana. It is highly volatile, favoring military tacticians and elemental researchers. Magic is now cast by weaving geometric Glyphs into spell formulas.
 > **Casting Roll:** 2d6 + Willpower + [Projection]
 
-# Glyph progression
-*The 3-Glyph Menu Selection:* Every time a character gains 1 point (Dot) in a Core School or Specialization, they choose exactly **3 Glyphs** from their newly unlocked Level (or any previous levels) to permanently add to their Grimoire.
+# Core Syllabus (Fluency)
+*The Core Lexicon:* Acquiring 1 Dot in Projection permanently grants the character complete fluency in the following base Verbs and Nouns for unstructured casting.
 
-| Level | Available Glyphs |
-| :---: | :--- |
-| **1** | [[50_Magic/Glyphs/1_Functions/Schf\|Schf]] (Create/Invoke), [[50_Magic/Glyphs/3_Characteristics/Feur\|Feur]] (Fire), [[50_Magic/Glyphs/3_Characteristics/Lict\|Lict]] (Light), [[50_Magic/Glyphs/3_Characteristics/Erde\|Erde]] (Earth/Rock), [[50_Magic/Glyphs/4_Modifiers/Klen\|Klen]] (Lesser) |
-| **2** | [[50_Magic/Glyphs/3_Characteristics/Kraf\|Kraf]] (Kinetic Force), [[50_Magic/Glyphs/4_Modifiers/Nah\|Nah]] (Lightning), [[50_Magic/Glyphs/1_Functions/Ball\|Ball]] (Shoot/Blast) |
-| **3** | [[50_Magic/Glyphs/3_Characteristics/Luft\|Luft]] (Air/Concussion), [[50_Magic/Glyphs/3_Characteristics/Damp\|Damp]] (Steam), [[50_Magic/Glyphs/3_Characteristics/Donn\|Donn]] (Thunder) |
-| **4** | [[50_Magic/Glyphs/3_Characteristics/Plaz\|Plaz]] (Plasma), [[50_Magic/Glyphs/4_Modifiers/Gros\|Gros]] (Greater), [[50_Magic/Glyphs/3_Characteristics/Angs\|Angs]] (Beam/Ray) |
-| **5** | [[50_Magic/Glyphs/3_Characteristics/Rein\|Rein]] (Pure Mana) |
+| Core Verbs & Nouns |
+| :--- |
+| [[50_Magic/Glyphs/1_Functions/Schf\|Schf]] (Create/Invoke), [[50_Magic/Glyphs/3_Characteristics/Feur\|Feur]] (Fire), [[50_Magic/Glyphs/3_Characteristics/Lict\|Lict]] (Light), [[50_Magic/Glyphs/3_Characteristics/Erde\|Erde]] (Rock), [[50_Magic/Glyphs/3_Characteristics/Kraf\|Kraf]] (Kinetic Force), [[50_Magic/Glyphs/3_Characteristics/Luft\|Luft]] (Air), [[50_Magic/Glyphs/3_Characteristics/Damp\|Damp]] (Steam) |
+
+> [!NOTE] Rumored Wild Glyphs
+> Extreme manifestations of Projection—such as [[50_Magic/Glyphs/4_Modifiers/Nah\|Nah]] (Lightning), [[50_Magic/Glyphs/3_Characteristics/Donn\|Donn]] (Thunder), [[50_Magic/Glyphs/3_Characteristics/Plaz\|Plaz]] (Plasma), [[50_Magic/Glyphs/3_Characteristics/Rein\|Rein]] (Pure Mana) or [[50_Magic/Glyphs/3_Characteristics/Angs\|Angs]] (Beam)—cannot be learned academically. They are Wild Glyphs that must be discovered in the world.
 
 # Example Spells
 | Complexity Level | Spell Invocation | Spell Description |

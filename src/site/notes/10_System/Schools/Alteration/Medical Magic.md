@@ -11,8 +11,10 @@
 Medical Magic is a multi-disciplinary field combining [[10_System/Schools/Divination/Divination\|Divination]] (to diagnose illness) and [[10_System/Schools/Alteration/Alteration\|Alteration]] (to heal wounds and cure disease).
 > **Casting Roll:** 2d6 + Willpower + [Alteration]
 
-# Glyph progression
-| Specialization    | Unlocked Glyphs                                          |
+# Advanced Syllabus (Dialect)
+*The 3-Glyph Menu Selection:* This is a specialized dialect. Every time you gain a Dot in this Specialization, you may choose up to **3 Modifiers** from its list to permanently add to your Grimoire's vocabulary.
+
+| Exclusive Modifiers    | Unlocked Glyphs                                          |
 | :---------------- | :------------------------------------------------------- |
 | **Medical Magic** | [[50_Magic/Glyphs/2_Objects/Flei\|Flei]] (Flesh), [[50_Magic/Glyphs/2_Objects/Blut\|Blut]] (Blood), [[50_Magic/Glyphs/1_Functions/Heil\|Heil]] (Mend/Heal) |
 

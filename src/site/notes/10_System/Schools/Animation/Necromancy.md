@@ -11,8 +11,10 @@
 Necromancy is the universally reviled black art of animating corpses using artificial mana structures or bound spirits. While civilians often use the term interchangeably with Soul Magic, technically "necromancy" refers only to the creation of undead.
 > **Casting Roll:** 2d6 + Willpower + [Animation]
 
-# Glyph progression
-| Specialization | Unlocked Glyphs                               |
+# Advanced Syllabus (Dialect)
+*The 3-Glyph Menu Selection:* This is a specialized dialect. Every time you gain a Dot in this Specialization, you may choose up to **3 Modifiers** from its list to permanently add to your Grimoire's vocabulary.
+
+| Exclusive Modifiers | Unlocked Glyphs                               |
 | :------------- | :-------------------------------------------- |
 | **Necromancy** | [[50_Magic/Glyphs/2_Objects/Knoc\|Knoc]] (Bone), [[50_Magic/Glyphs/3_Characteristics/Leic\|Leic]] (Dead Flesh/Corpse) |
 

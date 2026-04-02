@@ -11,8 +11,10 @@
 Mind Magic is the direct manipulation of a living mind — thoughts, emotions, memories, and motor control. It is the most heavily restricted and surveilled branch of magic in the Academy.
 > **Casting Roll:** 2d6 + Willpower + [Illusionism]
 
-# Glyph progression
-| Specialization | Unlocked Glyphs                            |
+# Advanced Syllabus (Dialect)
+*The 3-Glyph Menu Selection:* This is a specialized dialect. Every time you gain a Dot in this Specialization, you may choose up to **3 Modifiers** from its list to permanently add to your Grimoire's vocabulary.
+
+| Exclusive Modifiers | Unlocked Glyphs                            |
 | :------------- | :----------------------------------------- |
 | **Mind Magic** | [[50_Magic/Glyphs/3_Characteristics/Ernn\|Ernn]] (Memory), [[50_Magic/Glyphs/2_Objects/Werk\|Werk]] (Command/Obey) |
 

@@ -53,5 +53,3 @@ Traits are permanent markers on a character's mind and soul. Some are prerequisi
 | **[[50_Magic/Traits/Flaws/Notorious Family\|Notorious Family]]**   | -1     | -1 to [[10_System/Attributes/Social/Charm\|Charm]] and [[10_System/Attributes/Social/Society\|10_System/Attributes/Social/Society]] rolls when dealing with law-abiding citizens/Academy staff. |
 | **[[50_Magic/Traits/Flaws/Magical Signature Anomaly\|Magical Signature Anomaly]]** | -1     | Your personal mana signature is highly distinct and lingers for days; Warders/Diviners gain +2 to track you. |
 | **[[50_Magic/Traits/Flaws/Severe Phobia\|Severe Phobia]]**         | -1 / -2| -2 to all 2d6 rolls when confronted with a specific phobia (-1 for uncommon, -2 for common).|
-
-[[10_System/03b Quick Character Creation\|Quick Character Creation]] ======================================= [[10_System/05 Progression\|Progression]]

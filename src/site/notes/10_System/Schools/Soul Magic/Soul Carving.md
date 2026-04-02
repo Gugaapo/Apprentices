@@ -11,8 +11,10 @@
 Soul Carving is the most invasive, agonizing, and universally reviled branch of Soul Magic. It focuses on directly modifying, damaging, or enforcing permanent magical effects upon a target's soul.
 > **Casting Roll:** 2d6 + Willpower + [Soul Magic]
 
-# Glyph progression
-| Specialization   | Unlocked Glyphs                               |
+# Advanced Syllabus (Dialect)
+*The 3-Glyph Menu Selection:* This is a specialized dialect. Every time you gain a Dot in this Specialization, you may choose up to **3 Modifiers** from its list to permanently add to your Grimoire's vocabulary.
+
+| Exclusive Modifiers   | Unlocked Glyphs                               |
 | :--------------- | :-------------------------------------------- |
 | **Soul Carving** | [[50_Magic/Glyphs/1_Functions/Bind\|Bind]] (Graft/Fuse), [[50_Magic/Glyphs/4_Modifiers/Mahl\|Mahl]] (Sigil/Brand) |
 

@@ -11,12 +11,12 @@
 Combat Magic is not a standalone discipline — it is a category of practice and casting philosophy applied to spells from multiple schools. It refers to spells optimized for battle: fast casting time, high power output, designed to overcome defenses with minimal preparation. Magic is now cast by weaving geometric roots (Max 4 letters) into compound spell names.
 > **Casting Roll:** 2d6 + Willpower + [Projection]
 
-# Glyph progression
-*The 3-Glyph Menu Selection:* Taking this specialization natively unlocks its exclusive Modifiers for spellcrafting. When gaining a dot, you may select these exclusive roots to add to your Grimoire.
+# Advanced Syllabus (Dialect)
+*The 3-Glyph Menu Selection:* Combat Magic is a specialized dialect. Every time you gain a Dot in Combat Magic, you may choose up to **3 Modifiers** from this Specialization to permanently add to your Grimoire's vocabulary.
 
-| Specialization | Unlocked Glyphs |
-| :--- | :--- |
-| **Combat Magic** | [[50_Magic/Glyphs/4_Modifiers/Schn\|Schn]] (Fast/Projectile), [[50_Magic/Glyphs/4_Modifiers/Kuge\|Kuge]] (Bullet), [[50_Magic/Glyphs/4_Modifiers/Slag\|Slag]] (Strike) |
+| Exclusive Modifiers |
+| :--- |
+| [[50_Magic/Glyphs/4_Modifiers/Schn\|Schn]] (Fast/Projectile), [[50_Magic/Glyphs/4_Modifiers/Kuge\|Kuge]] (Bullet), [[50_Magic/Glyphs/4_Modifiers/Slag\|Slag]] (Strike) |
 
 # Example Spells
 | Complexity Level | Spell Invocation | Spell Description |

@@ -11,8 +11,10 @@
 Evocation is the aggressive, destructive application of the Projection discipline. It is the backbone of what is commonly referred to as "Combat Magic," focusing on the rapid generation of heat, kinetic force, and elemental energy over wide areas.
 > **Casting Roll:** 2d6 + Willpower + [Projection]
 
-# Glyph progression
-| Specialization | Unlocked Glyphs                              |
+# Advanced Syllabus (Dialect)
+*The 3-Glyph Menu Selection:* This is a specialized dialect. Every time you gain a Dot in this Specialization, you may choose up to **3 Modifiers** from its list to permanently add to your Grimoire's vocabulary.
+
+| Exclusive Modifiers | Unlocked Glyphs                              |
 | :------------- | :------------------------------------------- |
 | **Evocation**  | [[50_Magic/Glyphs/4_Modifiers/Wolk\|Wolk]] (Cloud/Storm), [[50_Magic/Glyphs/4_Modifiers/Knal\|Knal]] (Explosion) |
 

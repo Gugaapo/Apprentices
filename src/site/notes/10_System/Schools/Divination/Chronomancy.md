@@ -11,8 +11,10 @@
 Chronomancy is an intensely theoretical and resource-heavy discipline. While true time travel is considered impossible, practitioners can manipulate localized time dilution, temporal stasis, and attempt to reconstruct the past or predict the future.
 > **Casting Roll:** 2d6 + Willpower + [Divination]
 
-# Glyph progression
-| Specialization  | Unlocked Glyphs                                    |
+# Advanced Syllabus (Dialect)
+*The 3-Glyph Menu Selection:* This is a specialized dialect. Every time you gain a Dot in this Specialization, you may choose up to **3 Modifiers** from its list to permanently add to your Grimoire's vocabulary.
+
+| Exclusive Modifiers  | Unlocked Glyphs                                    |
 | :-------------- | :------------------------------------------------- |
 | **Chronomancy** | [[50_Magic/Glyphs/4_Modifiers/Schn\|Schn]] (Fast), [[50_Magic/Glyphs/4_Modifiers/Lang\|Lang]] (Slow), [[50_Magic/Glyphs/4_Modifiers/Wart\|Wart]] (Pause) |
 

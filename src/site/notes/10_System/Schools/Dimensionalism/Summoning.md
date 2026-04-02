@@ -11,8 +11,10 @@
 Summing is a sub-field of Dimensionalism dealing specifically with the retrieval and binding of entities, familiars, creatures, objects, and (at extreme tiers) spirits from other planes.
 > **Casting Roll:** 2d6 + Willpower + [Dimensionalism]
 
-# Glyph progression
-| Specialization | Unlocked Glyphs                             |
+# Advanced Syllabus (Dialect)
+*The 3-Glyph Menu Selection:* This is a specialized dialect. Every time you gain a Dot in this Specialization, you may choose up to **3 Modifiers** from its list to permanently add to your Grimoire's vocabulary.
+
+| Exclusive Modifiers | Unlocked Glyphs                             |
 | :------------- | :------------------------------------------ |
 | **Summoning**  | [[50_Magic/Glyphs/1_Functions/Ruff\|Ruff]] (Call/Summon), [[50_Magic/Glyphs/2_Objects/Wese\|Wese]] (Creature) |
 

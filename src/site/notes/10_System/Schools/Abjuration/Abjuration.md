@@ -10,16 +10,15 @@
 Bending mana defensively to deny, protect, and isolate. Abjuration is the immovable object, focusing on rigid geometry to lock down physical reality and surgically counter enemy canals. Magic is now cast by weaving geometric roots (Max 4 letters) into compound spell names.
 > **Casting Roll:** 2d6 + Willpower + [Abjuration]
 
-# Glyph progression
-*The 3-Glyph Menu Selection:* Every time a character gains 1 point (Dot) in a Core School or Specialization, they choose exactly **3 Glyphs** from their newly unlocked Level (or any previous levels) to permanently add to their Grimoire.
+# Core Syllabus (Fluency)
+*The Core Lexicon:* Acquiring 1 Dot in Abjuration permanently grants the character complete fluency in the following base Verbs and Nouns for unstructured casting.
 
-| Level | Available Glyphs |
-| :---: | :--- |
-| **1** | [[50_Magic/Glyphs/1_Functions/Scht\|Scht]] (Defend/Protect), [[50_Magic/Glyphs/2_Objects/Lebn\|Lebn]] (Living target), [[50_Magic/Glyphs/1_Functions/Wegg\|Wegg]] (Remove/Dispel) |
-| **2** | [[50_Magic/Glyphs/1_Functions/Nill\|Nill]] (Nullify/Counter), [[50_Magic/Glyphs/4_Modifiers/Kupp\|Kupp]] (Dome) |
-| **3** | [[50_Magic/Glyphs/4_Modifiers/Wand\|Wand]] (Wall/Flat barrier), [[50_Magic/Glyphs/4_Modifiers/Klen\|Klen]] (Lesser), [[50_Magic/Glyphs/4_Modifiers/Lage\|Lage]] (Layer/Stacking) |
-| **4** | [[50_Magic/Glyphs/4_Modifiers/Kres\|Kres]] (Area/Circle), [[50_Magic/Glyphs/4_Modifiers/Gros\|Gros]] (Greater), [[50_Magic/Glyphs/1_Functions/Sieg\|Sieg]] (Close/Seal) |
-| **5** | [[50_Magic/Glyphs/4_Modifiers/Fang\|Fang]] (Absorb/Reflect) |
+| Core Verbs & Nouns |
+| :--- |
+| [[50_Magic/Glyphs/1_Functions/Scht\|Scht]] (Defend), [[50_Magic/Glyphs/1_Functions/Nill\|Nill]] (Counter), [[50_Magic/Glyphs/4_Modifiers/Kupp\|Kupp]] (Dome), [[50_Magic/Glyphs/4_Modifiers/Wand\|Wand]] (Wall) |
+
+> [!NOTE] Rumored Wild Glyphs
+> Extreme manifestations of Abjuration—such as [[Absb\|Absb]] (Absorb Energy), [[Refl\|Refl]] (Reflect)—cannot be learned academically. They are Wild Glyphs that must be discovered in the world.
 
 # Example Spells
 | Complexity Level | Spell Invocation | Spell Description |

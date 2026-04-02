@@ -10,16 +10,15 @@
 A forbidden branch. While other magics play with the physical world, Soul Magic rips apart the metaphysical code of life itself. It is taboo, horrific, and strictly regulated by the Cyorian Academy. Magic is now cast by weaving geometric Glyphs into spell formulas.
 > **Casting Roll:** 2d6 + Willpower + [Soul Magic]
 
-# Glyph progression
-*The 3-Glyph Menu Selection:* Every time a character gains 1 point (Dot) in a Core School or Specialization, they choose exactly **3 Glyphs** from their newly unlocked Level (or any previous levels) to permanently add to their Grimoire.
+# Core Syllabus (Fluency)
+*The Core Lexicon:* Acquiring 1 Dot in Soul Magic permanently grants the character complete fluency in the following base Verbs and Nouns for unstructured casting.
 
-| Level | Available Glyphs |
-| :---: | :--- |
-| **1** | [[50_Magic/Glyphs/1_Functions/Reis\|Reis]] (Violate/Tear), [[50_Magic/Glyphs/4_Modifiers/Rinn\|Rinn]] (Leak/Bleed) |
-| **2** | [[50_Magic/Glyphs/2_Objects/Seel\|Seel]] (Soul), [[50_Magic/Glyphs/3_Characteristics/Angs\|Angs]] (Fear/Madness) |
-| **3** | [[50_Magic/Glyphs/2_Objects/Mutr\|Mutr]] (Flesh/Mutation), [[50_Magic/Glyphs/4_Modifiers/Klen\|Klen]] (Lesser), [[50_Magic/Glyphs/3_Characteristics/Qual\|Qual]] (Agony/Suffering) |
-| **4** | [[50_Magic/Glyphs/1_Functions/Saug\|Saug]] (Drain/Leech), [[50_Magic/Glyphs/4_Modifiers/Gros\|Gros]] (Greater) |
-| **5** | [[50_Magic/Glyphs/4_Modifiers/Fetz\|Fetz]] (Shred/Destroy) |
+| Core Verbs & Nouns |
+| :--- |
+| [[50_Magic/Glyphs/1_Functions/Reis\|Reis]] (Violate/Tear), [[50_Magic/Glyphs/4_Modifiers/Rinn\|Rinn]] (Leak/Bleed), [[50_Magic/Glyphs/2_Objects/Seel\|Seel]] (Soul), [[50_Magic/Glyphs/2_Objects/Mutr\|Mutr]] (Flesh/Mutation) |
+
+> [!NOTE] Rumored Wild Glyphs
+> Extreme manifestations of Soul Magic—such as [[50_Magic/Glyphs/1_Functions/Saug\|Saug]] (Drain/Leech), [[50_Magic/Glyphs/4_Modifiers/Fetz\|Fetz]] (Shred/Destroy), [[50_Magic/Glyphs/3_Characteristics/Qual\|Qual]] (Agony/Suffering), and [[50_Magic/Glyphs/3_Characteristics/Angs\|Angs]] (Fear/Madness)—cannot be learned academically. They are Wild Glyphs that must be discovered in the world.
 
 # Example Spells
 | Complexity Level | Spell Invocation | Spell Description |

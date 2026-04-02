@@ -11,8 +11,10 @@
 Sealing is the highly specialized application of Abjuration and Ward magic focused entirely on locking things down—physically, spatially, and magically. It is the art of absolute containment.
 > **Casting Roll:** 2d6 + Willpower + [Abjuration]
 
-# Glyph progression
-| Specialization | Unlocked Glyphs                     |
+# Advanced Syllabus (Dialect)
+*The 3-Glyph Menu Selection:* This is a specialized dialect. Every time you gain a Dot in this Specialization, you may choose up to **3 Modifiers** from its list to permanently add to your Grimoire's vocabulary.
+
+| Exclusive Modifiers | Unlocked Glyphs                     |
 | :------------- | :---------------------------------- |
 | **Sealing**    | `Kett` (Chains/Bind), `Slos` (Lock) |
 

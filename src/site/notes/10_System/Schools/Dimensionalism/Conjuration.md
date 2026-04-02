@@ -11,8 +11,10 @@
 Conjuration creates ectoplasmic constructs for various purposes. Force projectiles, force fields, tangible illusions, instant walls, and floating discs all fall under this discipline.
 > **Casting Roll:** 2d6 + Willpower + [Dimensionalism]
 
-# Glyph progression
-| Specialization  | Unlocked Exclusive Glyphs                              |
+# Advanced Syllabus (Dialect)
+*The 3-Glyph Menu Selection:* This is a specialized dialect. Every time you gain a Dot in this Specialization, you may choose up to **3 Modifiers** from its list to permanently add to your Grimoire's vocabulary.
+
+| Exclusive Modifiers  | Unlocked Exclusive Glyphs                              |
 | :-------------- | :----------------------------------------------------- |
 | **Conjuration** | [[50_Magic/Glyphs/2_Objects/Zeug\|Zeug]] (Matter/Ectoplasm), [[50_Magic/Glyphs/2_Objects/Werk\|Werk]] (Tool/Construct) |
 

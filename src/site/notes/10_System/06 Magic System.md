@@ -29,23 +29,35 @@ The GM sets the Target Number (TN) based on environmental friction and internal 
 
 ## 2. The Language of Magic (The Lexicon)
 
-Students do not abstractly "learn a firebolt spell." By purchasing Dots in a Core School, they unlock fluency in that School's vocabulary, enabling them to construct mathematical **Formulas**. Formulas are the blueprints written in your Grimoire; a **Spell** is the physical manifestation of those formulas in reality.
+Students do not abstractly "learn a firebolt spell." By studying, they unlock fluencies that enable them to construct mathematical **Formulas**. Formulas are the blueprints written in your Grimoire; a **Spell** is the physical manifestation of those formulas in reality.
 
 Every formula is built with **Glyphs**:
 1. **Exactly ONE Verb (Function):** The core School pushing the magic (e.g., `Schf` / Create).
 2. **Exactly ONE Noun (Object/Characteristic):** The physical medium being manipulated (e.g., `Feur` / Fire).
 3. **Optional Modifiers:** Extra tags shaping trajectory or limits (e.g., `Kupp` / Dome).
 
-| Core School | Primary Verb (Function) | Core Noun (Object/Characteristic) |
+### The Tri-Tier Progression System
+Glyphs are fundamentally categorized into three tiers of learning:
+
+1. **The Core Lexicon (The Alphabet)**
+   - **How to acquire:** Purchasing 1 Dot in a **Core School** (e.g., Projection, Alteration) automatically grants the mage complete fluency in that school's standard `Verbs` and base `Nouns`. No individual glyph tracking is required.
+
+2. **The Advanced Lexicon (The Dialects)**
+   - **How to acquire:** **Specializations** (e.g., Combat Magic) are advanced dialects that must be unlocked with IP and then leveled with SP. Each Dot gained in a Specialization grants the player exactly **3 Advanced Modifiers** from that Specialization's syllabus.
+
+3. **The Wild Lexicon (The Loot)**
+   - **How to acquire:** Extreme scale modifiers (like `Gros` / Greater) or terrifying nouns (like `Plaz` / Plasma) are not taught at the Academy. They are exclusively considered **Wild Glyphs** and can only be discovered physically in the world through adventuring (forbidden tomes, boss loot) and unlocked with IP.
+
+| Core School | Primary Verb (Function) | Core Example Nouns (Fluency) |
 | :--- | :--- | :--- |
-| **[[10_System/Schools/Projection/Projection\|Projection]]** | `Schf` (Create/Invoke) | `Feur` (Fire), `Bliz` (Lightning), `Lict` (Light), `Kraf` (Kinetic) |
-| **[[10_System/Schools/Alteration/Alteration\|Alteration]]** | `Andr` (Restructure/Alter) | `Dich` (Density), `Form` (Shape), `Temp` (Temperature), `Schw` (Gravity) |
-| **[[10_System/Schools/Dimensionalism/Dimensionalism\|Dimensionalism]]** | `Bewg` (Displace), `Tohr` (Gateway) | `Raum` (Space), `Fern` (Distance) |
-| **[[10_System/Schools/Divination/Divination\|Divination]]** | `Sehn` (Perceive) | `Aura` (Magic Aura), `Zeit` (Time/Past) |
-| **[[10_System/Schools/Illusionism/Illusionism\|Illusionism]]** | `Var` (Deceive/Phantom) | `Bild` (Visual), `Klan` (Auditory), `Geis` (Mind) |
-| **[[10_System/Schools/Animation/Animation\|Animation]]** | `Lebe` (Animate) | `Ding` (Object), `Baut` (Construct) |
-| **[[10_System/Schools/Abjuration/Abjuration\|Abjuration]]** | `Scht` (Defend), `Nill` (Counter) | Modifiers: `Kupp` (Dome), `Wand` (Wall), `Wart` (Delayed Trigger) |
-| **[[10_System/Schools/Soul Magic/Soul Magic\|Soul Magic]]** | `Reis` (Violate) | `Seel` (Soul), `Saug` (Drain), `Flei` (Flesh) |
+| **[[10_System/Schools/Projection/Projection\|Projection]]** | `Schf` (Create/Invoke) | `Feur` (Fire), `Lict` (Light), `Erde` (Rock), `Kraf` (Force) |
+| **[[10_System/Schools/Alteration/Alteration\|Alteration]]** | `Andr` (Restructure/Alter) | `Dich` (Density), `Form` (Shape), `Temp` (Temperature) |
+| **[[10_System/Schools/Dimensionalism/Dimensionalism\|Dimensionalism]]** | `Bewg` (Displace), `Tohr` (Gateway) | `Raum` (Space), `Dist` (Distance) |
+| **[[10_System/Schools/Divination/Divination\|Divination]]** | `Sehn` (Perceive) | `Aura` (Magic Aura), `Raum` (Surroundings), `Spur` (Track) |
+| **[[10_System/Schools/Illusionism/Illusionism\|Illusionism]]** | `Tusc` (Deceive/Phantom) | `Bild` (Visual), `Klan` (Auditory), `Ruch` (Smell), `Tast` (Touch) |
+| **[[10_System/Schools/Animation/Animation\|Animation]]** | `Lebe` (Animate) | `Ding` (Object), `Gehh` (Walk/Move) |
+| **[[10_System/Schools/Abjuration/Abjuration\|Abjuration]]** | `Scht` (Defend), `Nill` (Counter) | `Kupp` (Dome), `Wand` (Wall) |
+| **[[10_System/Schools/Soul Magic/Soul Magic\|Soul Magic]]** | `Reis` (Violate) | `Seel` (Soul), `Rinn` (Leak), `Mutr` (Flesh) |
 
 ---
 
@@ -153,6 +165,3 @@ Roll: `2d6 + Willpower + School Proficiency`
 ### 5. CONSEQUENCES
 - **Overcharge:** Points above TN = +1 Wound per point OR +Status Effect.
 - **Mana Burn:** Exceeding your Mana Capacity = Immediate Physical Wounds.
-
-
-[[10_System/05 Progression\|Progression]] ================================================== [[10_System/07 Crafting\|Crafting]]

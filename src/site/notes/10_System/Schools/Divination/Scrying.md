@@ -11,8 +11,10 @@
 Scrying is the specialized art of gathering visual and auditory information from afar. It is the most common and practical application of the Divination discipline.
 > **Casting Roll:** 2d6 + Willpower + [Divination]
 
-# Glyph progression
-| Specialization | Unlocked Glyphs                                |
+# Advanced Syllabus (Dialect)
+*The 3-Glyph Menu Selection:* This is a specialized dialect. Every time you gain a Dot in this Specialization, you may choose up to **3 Modifiers** from its list to permanently add to your Grimoire's vocabulary.
+
+| Exclusive Modifiers | Unlocked Glyphs                                |
 | :------------- | :--------------------------------------------- |
 | **Scrying**    | [[50_Magic/Glyphs/3_Characteristics/Bild\|Bild]] (Image/Vision), [[50_Magic/Glyphs/1_Functions/Auge\|Auge]] (Eye/Sensor) |
 

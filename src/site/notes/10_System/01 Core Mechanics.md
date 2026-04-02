@@ -147,6 +147,3 @@ When facing trauma or committing atrocities, roll **Resist Erosion::** `2d6 + Me
 - **Sanity 7 (Detachment):** -1 to mundane Social rolls.
 - **Sanity 4 (Dissociation):** Develop a Derangement (Paranoia, Phobia); -2 to [[10_System/Attributes/Magical/Finesse\|Finesse]] rolls due to mental tremors.
 - **Sanity 2 (Apathy):** Must pass a TN 8 [[10_System/Attributes/Magical/Willpower\|Willpower]] check to take *any* action (including defending yourself).
-
-
-[[10_System/00 This World\|This World]] ================================================== [[10_System/02 Economy\|Economy]]

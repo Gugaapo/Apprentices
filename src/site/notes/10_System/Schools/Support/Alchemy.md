@@ -11,7 +11,7 @@ Alchemy is **magical chemistry**—it does not require shaping skill to use, onl
 > 
 > **The Built-In Limit (Overriding):** A character can only process one potion at a time. Drinking a new potion immediately flushes and overrides the active effect of the previous one, preventing buff-stacking.
 > 
-> See **[[10_System/07 Crafting\|07 Crafting]]** for specific crafting rules, Time Slot requirements, and material handling.
+> See **[[10_System/09 Crafting\|09 Crafting]]** for specific crafting rules, Time Slot requirements, and material handling.
 
 ## Tier Examples
 
