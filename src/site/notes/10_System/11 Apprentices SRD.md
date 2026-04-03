@@ -10,16 +10,16 @@
 
 ## 1. Quick Character Creation
 1. **Choose 1 Background:** (e.g., [[10_System/Backgrounds/Noble Scion\|Noble Scion]], [[10_System/Backgrounds/Street Rat\|Street Rat]]) which grants a starting bonus and a narrative Connection.
-2. **Attributes:** All 22 attributes start at **1 dot** (Max 3).
-   - **Magical (4 Pts):** [[10_System/Attributes/Magical/Memory\|Memory]], [[10_System/Attributes/Magical/Calculation\|Calculation]], [[10_System/Attributes/Magical/Finesse\|Finesse]], [[10_System/Attributes/Magical/Willpower\|Willpower]].
-   - **Arrays [9, 7, 5]:** Assign one array to Mental, one to Physical, one to Social.
+2. **Attributes:** There are 16 attributes in a 4x4 Grid (Max 3 at creation).
+   - **Magical (4 Pts):** [[10_System/Attributes/Magical/Memory\|Memory]], [[10_System/Attributes/Magical/Calculation\|Calculation]], [[10_System/Attributes/Magical/Finesse\|Finesse]], [[10_System/Attributes/Magical/Willpower\|Willpower]]. Base **1 dot**.
+   - **Mundane:** Mental, Physical, Social. Base **0 dots**. Assign Arrays **[5, 4, 3]** points to these categories.
 3. **Magic Schools:** 8 Core Schools start at **0 dots**. 
    - You have **2 Points** to spend (Max 3 dots per school).
-   - Select exactly **1 Spell Formula** per dot spent.
+   - A dot in a Core School grants fluency in its base Verbs/Nouns. Select exactly **1 Spell Formula** per dot spent.
 4. **Merits & Flaws:** Take up to 4 Points of Flaws to buy Merits.
 5. **Academy Logistics:** Pick 1 Mentor Professor and 2 Majors.
 6. **Derived Stats:**
-   - **Mana Capacity:** `4 + [[Core Resonance]]`
+   - **Mana Capacity:** `4 + [[Core Resonance]]` (Highest of Calculation, Finesse, or Willpower)
    - **Max Modifiers:** `Calculation - 1`
    - **Mind Defense (Passive TN):** `6 + Willpower + Highest of (Divination or Abjuration)`
    - **Health Track:** 7 Boxes (Bruised 0 to Incapacitated)
@@ -35,7 +35,7 @@
   * 6 (Base / Calm)
   * 8–10 (Combat Friction / Stress)
   * 12–15+ (Absurdly complex physics)
-* **Overcharge:** Every point *above* the TN is 1 Overcharge. Spend to add **+1 Damage** or trigger a **Status Effect** (e.g., *Lingering Harm* for Fire).
+* **Overcharge:** Every point *above* the TN is 1 Overcharge. Spend to add **+1 Damage**, trigger a **Status Effect** (e.g., *Lingering Harm* for Fire), or if substituting [[10_System/Attributes/Magical/Finesse\|Finesse]] for Willpower, spend 2 Overcharge to seamlessly duplicate the identical spell onto a secondary target.
 * **[[10_System/Glossary/Physical Defense\|Physical Defense]] (Evasion):** `6 + Mobility + Highest of (Awareness or Dexterity)`.
   * Attackers must roll *higher* than this passive TN to hit you with physical attacks or targeted spells.
   * You may also use an instant Reaction (like a Mastered `Scht` spell) to generate a magical shield threshold instead.
@@ -81,27 +81,32 @@ Any sustained spell, triggered ward (`Ceka`), or un-discharged magic permanently
 
 ---
 
-## 6. The Glyph Lexicon (Common Roots)
-*All spells are constructed by combining exactly ONE **Function** + **Object/Characteristic**, plus Optional **Modifiers**.*
+## 6. The Tri-Tier Glyph Lexicon
+*Spells are constructed by combining exactly ONE **Function** + **Object/Characteristic**, plus Optional **Modifiers**.*
+
+**The Tri-Tier System:**
+1. **Core (Alphabet):** Fluency granted automatically by points in Core Schools (Base Verbs and Nouns).
+2. **Advanced (Dialects):** 3 Modifiers learned per dot gained in a Specialization.
+3. **Wild (Loot):** Extreme modifiers discovered physically in the world.
 
 **Primary Functions (The Schools):**
 * `Schf` (Create/Invoke) - Projection
 * `Andr` (Restructure/Alter) - Alteration
-* `Bewg` (Displace/Move) - Dimensionalism
-* `Sehn` (Perceive/Sense) - Divination
-* `Var` (Deceive/Phantom) - Illusionism
-* `Lebe` (Animate/Move) - Animation
-* `Scht` (Defend/Protect) - Abjuration
-* `Reis` (Violate/Tear) - Soul Magic
+* `Bewg` (Displace), `Tohr` (Gateway) - Dimensionalism
+* `Sehn` (Perceive) - Divination
+* `Tusc` (Deceive/Phantom) - Illusionism
+* `Lebe` (Animate) - Animation
+* `Scht` (Defend), `Nill` (Counter) - Abjuration
+* `Reis` (Violate) - Soul Magic
 
-**Common Characteristics & Objects (Elements):**
-* `Feur` (Fire) | `Bliz` (Lightning) | `Kraf` (Kinetic Force)
+**Common Base Nouns (Fluency):**
+* `Feur` (Fire) | `Lict` (Light) | `Erde` (Rock) | `Kraf` (Force)
 * `Dich` (Density) | `Form` (Shape) | `Temp` (Temperature)
-* `Raum` (Space) | `Fern` (Distance) | `Aura` (Magic Energy)
-* `Bild` (Visual Image) | `Klan` (Auditory Sound)
-* `Ziv` (Living Target) | `Kupp` (Dome Structure)
+* `Raum` (Space/Surroundings) | `Dist` (Distance) | `Aura` (Magic Energy)
+* `Bild` (Visual) | `Klan` (Auditory) | `Spur` (Track)
+* `Ding` (Object) | `Wand` (Wall) | `Kupp` (Dome)
 
-**Common Modifiers:**
+**Example Advanced / Wild Modifiers:**
 * `Klen` (Lesser / Minor)
 * `Gros` (Greater / Major)
 * `Wart` (Delayed Trigger / Ward) 
