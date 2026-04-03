@@ -29,12 +29,12 @@ Use the sidebar to browse, or press `Ctrl+K` to search.
 > [!info] Tip
 > Use the sidebar on the left to navigate through the folder structure of the vault.
 
-| File                                                    | Last Modified            |
-| ------------------------------------------------------- | ------------------------ |
-| [[90_AI_Context/AI Rules Primer\|AI Rules Primer]]   | 8:03 PM - April 02, 2026 |
-| [[90_AI_Context/INSTRUCTIONS\|INSTRUCTIONS]]         | 8:03 PM - April 02, 2026 |
-| [[10_System/11 Apprentices SRD\|11 Apprentices SRD]] | 8:03 PM - April 02, 2026 |
-| [[50_Magic/Glyphs/1_Functions/Andr\|Andr]]           | 8:00 PM - April 02, 2026 |
-| [[50_Magic/Glyphs/4_Modifiers/Zone\|Zone]]           | 7:56 PM - April 02, 2026 |
+| File                                                            | Last Modified            |
+| --------------------------------------------------------------- | ------------------------ |
+| [[10_System/00 This World\|00 This World]]                   | 8:20 PM - April 02, 2026 |
+| [[10_System/11 Apprentices SRD\|11 Apprentices SRD]]         | 8:20 PM - April 02, 2026 |
+| [[10_System/10 Items and Equipment\|10 Items and Equipment]] | 8:19 PM - April 02, 2026 |
+| [[10_System/09 Crafting\|09 Crafting]]                       | 8:19 PM - April 02, 2026 |
+| [[10_System/07 Crafting\|07 Crafting]]                       | 8:19 PM - April 02, 2026 |
 
 { .block-language-dataview}

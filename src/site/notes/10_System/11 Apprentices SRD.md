@@ -111,3 +111,6 @@ Any sustained spell, triggered ward (`Ceka`), or un-discharged magic permanently
 * `Gros` (Greater / Major)
 * `Wart` (Delayed Trigger / Ward) 
 * `Schn` (Fast / Projectile)
+
+
+[[10_System/10 Items and Equipment\|Items and Equipment]] =================================================

@@ -33,3 +33,6 @@ Artifice anchors Root Words into physical mediums for instant casting. The craft
 > Allies can help! An ally can spend a matching Time Slot to Assist the crafting roll (+1 to the roll), or supply the necessary magic (e.g., providing the Formula if the crafter hasn't learned it). 
 > 
 > Furthermore, **Complex Material Caches cannot simply be bought**—they often require the entire party to dedicate a Night slot to raid a dungeon, harvest from a dangerous beast, or steal from an Academy vault.
+
+
+[[10_System/08 Items and Equipment\|Items and Equipment]] =================================== [[10_System/10 Items and Equipment\|Items and Equipment]]

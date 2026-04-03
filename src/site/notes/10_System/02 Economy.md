@@ -38,3 +38,6 @@ Depending on the danger and difficulty:
 * **Dangerous/Illegal Work (Risky):** Requires 1 dedicated Time Slot and a successful, high-difficulty Skill Roll to raise your Funds by **1 level** (or potentially **2 levels** for massive heists). *Failure usually results in severe Hard Moves from the GM (jail time, injury, police tracking).*
 
 
+
+
+[[10_System/01 Core Mechanics\|Core Mechanics]] ======================================== [[10_System/03 Character Creation\|Character Creation]]

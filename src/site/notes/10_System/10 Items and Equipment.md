@@ -73,3 +73,6 @@ A magical focus is a tool (wand, staff, ring, specific gem) designed to stabiliz
 - If a Critical Failure (Natural 2) is rolled while casting through a Focus, the GM may rule that the Focus cracks or shatters instead of (or in addition to) the spell backfiring onto the caster.
 
 ---
+
+
+[[10_System/09 Crafting\|Crafting]] =============================================== [[10_System/11 Apprentices SRD\|Apprentices SRD]]

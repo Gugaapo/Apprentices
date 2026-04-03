@@ -140,3 +140,5 @@ Calculate your fixed derived stats:
 6. **Sanity:** **10 Boxes**.
 7. **Max Modifiers:** `Calculation - 1`. This is the maximum number of modifiers you can attach to a single Formula.
 8. **Mastered Spells:** You may designate a number of your known formulas up to your `Memory` rating as Mastered (costing 0 SP during character creation). Mastered spells permanently lower their Complexity Category by 1 step for you (reducing Mana cost by 1, minimum 1), skip calculation rolls, and can be used as instant reactions. Specify them on your sheet.
+
+[[10_System/02 Economy\|Economy]] ========================================= [[10_System/03b Quick Character Creation\|Quick Character Creation]]
