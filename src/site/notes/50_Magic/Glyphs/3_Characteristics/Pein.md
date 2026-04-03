@@ -1,0 +1,14 @@
+---
+{"dg-publish":true,"permalink":"/50-magic/glyphs/3-characteristics/pein/","noteIcon":""}
+---
+
+
+# Pein
+**Translation:** Mental Pain
+**School/Menu:** Illusionism (Level 4)
+
+The characteristic glyph representing psychosomatic agony and sheer neural overload.
+
+## Example Formations
+- **[[50_Magic/Glyphs/1_Functions/Tusc\|Tusc]] [[50_Magic/Glyphs/3_Characteristics/Pein\|Pein]]**: Deceive Pain (Inflict excruciating phantom agony that causes no physical damage)
+- **[[50_Magic/Glyphs/1_Functions/Tusc\|Tusc]] [[50_Magic/Glyphs/3_Characteristics/Pein\|Pein]] [[50_Magic/Glyphs/4_Modifiers/Gros\|Gros]]**: Deceive Pain Greater (A massive psychic scream)

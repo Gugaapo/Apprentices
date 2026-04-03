@@ -1,0 +1,14 @@
+---
+{"dg-publish":true,"permalink":"/50-magic/glyphs/4-modifiers/ende/","noteIcon":""}
+---
+
+
+# Ende
+**Translation:** End / Cease
+**School/Menu:** Negation (Abjuration Specialization)
+
+A restricted modifier glyph that forces an ongoing magical effect, curse, or animation matrix to permanently terminate.
+
+## Example Formations
+- **[[50_Magic/Glyphs/1_Functions/Nill\|Nill]] [[50_Magic/Glyphs/1_Functions/Lebe\|Lebe]] [[50_Magic/Glyphs/4_Modifiers/Ende\|Ende]]**: Nullify Animate End (Instantly deactivate a golem or undead)
+- **[[50_Magic/Glyphs/1_Functions/Nill\|Nill]] [[50_Magic/Glyphs/1_Functions/Andr\|Andr]] [[50_Magic/Glyphs/4_Modifiers/Ende\|Ende]]**: Nullify Alter End (Forcefully end a transformation spell)
