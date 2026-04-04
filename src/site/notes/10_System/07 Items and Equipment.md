@@ -74,4 +74,4 @@ A magical focus is a tool (wand, staff, ring, specific gem) designed to stabiliz
 ---
 
 
-[[10_System/06 Crafting\|Crafting]] ================================================== [[10_System/08 Crafting\|Crafting]]
+[[10_System/06 Crafting\|Crafting]] ================================================== [[08 Crafting\|Crafting]]

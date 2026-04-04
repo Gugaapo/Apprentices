@@ -11,7 +11,7 @@ Your **Calculation** attribute measures your mental processing speed, spatial re
 
 Mechanically, Calculation acts as your mental RAM. It combines with your Willpower to determine your total **Mana Capacity**. 
 
-Crucially, it dictates your **Modifier Threshold** (how many modifiers you can safely weave into a single Formula without causing **Frail Scaffolding**). Your safe threshold is strictly equal to your `Calculation` rating. If you exceed this, you take automatic Mana Strain (wounds) and TN penalties. It also sets your **Ongoing Spell Limit** (the maximum number of active, sustained spells you can maintain at once).
+Crucially, it dictates your **Modifier Threshold** (how many modifiers you can safely weave into a single Formula without causing **Frail Scaffolding**). Your safe threshold is strictly equal to your `Calculation` rating. If you exceed this, you take automatic Mana Strain (wounds). It also sets your **Ongoing Spell Limit** (the maximum number of active, sustained spells you can maintain at once).
 
 ### Associated Magic Moves
 - **[[10_System/00 Moves/02 Magic Moves#Joint Casting\|Joint Casting]]:** Used when you link your mental Calculation pool with an ally to mathematically combine your limits for an overwhelming spell.

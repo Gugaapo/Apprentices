@@ -95,10 +95,16 @@ Each background provides:
 *Click any background name for full details, roleplay hooks, and flavour text.*
 
 ## Step 2: Choose a Playbook
-The quickest way to make a character is to choose a **Playbook**. A playbook represents your starting archetype, provides your base attributes, and gives you unique mechanical "Moves" that define how you interact with the world and magic.
+A **Playbook** represents your starting archetype. It provides your base attributes, starting health limits, and gives you unique mechanical "Moves" that define how you interact with the world and magic.
 
-> [!WARNING] Playbooks WIP
-> Dedicated Playbooks are currently an in-development feature. For a standard game, please skip this step and build your character "from scratch" using Step 3.
+> [!TIP] Stacking Backgrounds and Playbooks
+> You will select both a Background (Step 1) and a Playbook. For example, you can choose the *Street Rat* background, but play *The Prodigy* playbook. This means you have the raw magical intuition of a Prodigy, but you apply it with the flavor and underground connections of a Street Rat!
+
+Select one of the four Core Playbooks. Each playbook file contains everything you need for Step 3 and Step 5:
+- **[[10_System/04 Playbooks/The Heir\|The Heir]]:** Vast political power, high expectations, family secrets.
+- **[[10_System/04 Playbooks/The Grinder\|The Grinder]]:** No natural talent, surviving purely on extreme study and grit.
+- **[[10_System/04 Playbooks/The Prodigy\|The Prodigy]]:** Terrifying raw intuition, but lacks control and discipline.
+- **[[10_System/04 Playbooks/The Tinkerer\|The Tinkerer]]:** Relies heavily on crafted gear, alchemy, and artifice.
 
 *(Note: As you grow, you will be able to take Moves from other sources, including learning them from teachers in the loop).*
 

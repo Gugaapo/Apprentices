@@ -51,7 +51,7 @@ Assign **2, 2, 1, 1** to your Magical Attributes.
 1. 
 2. 
 
-**Connection Move (Anchor):** Once per loop, when you **spend a Time Slot reaffirming your Connection with an NPC**, roll `+Social`.
+**Connection Move (Anchor):** Once per week, when you **spend a Time Slot reaffirming your Connection with an NPC**, roll `+Social`.
 - **10+:** You heal 1 Sanity, and your Bond grants you a unique piece of insight/leverage for the current problem.
 - **7-9:** You heal 1 Sanity, but something unexpected, creating a complication or demanding your immediate help.
 - **6-:** They reject you or distance themselves. Take -1 ongoing to Social rolls against them for a week.

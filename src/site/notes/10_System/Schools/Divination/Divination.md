@@ -8,7 +8,7 @@
 
 # Lore
 Magic is fundamentally information. Divination does not change the world; it understands it. Academics respect Diviners as perfect detectives and scholars, treating their magic as pure, passive observation. Magic is now cast by weaving geometric roots (Max 4 letters) into compound spell names.
-> **Casting Roll:** 2d6 + Willpower + [Divination]
+> **Casting Roll:** 2d6 + Willpower
 
 # Core Syllabus (Fluency)
 *The Core Lexicon:* Acquiring 1 Dot in Divination permanently grants the character complete fluency in the following base Verbs and Nouns for unstructured casting.
@@ -46,7 +46,7 @@ Magic is fundamentally information. Divination does not change the world; it und
 **The Cost of Dedication:** Because of the sheer mental discipline required to interpret results correctly, Divination requires an uncommon amount of dedication. Most diviners are narrowly specialized, neglecting other fields of magic to focus entirely on their chosen discipline. Only the most talented diviners, or very old ones who have hit the point of diminishing returns in their studies, can afford to invest their energies into other fields.
 
 ## Mechanical Focus
-Divination provides information and sets the passive TN for [[10_System/Glossary/Mind Defense\|Mind Defense]]. All casting rolls use **`2d6 + Willpower + Divination`**. It relies heavily on [[10_System/Attributes/Magical/Memory\|Memory]] for processing data and limiting Mastered Spells.
+Divination provides information. All casting rolls use **`2d6 + Willpower`**. It relies heavily on [[10_System/Attributes/Magical/Memory\|Memory]] for processing data and limiting Mastered Spells.
 
 ## Design Boundaries
 

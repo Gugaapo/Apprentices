@@ -12,3 +12,4 @@ These are the fundamental moves available to all Students at the Academy. They r
 - [[10_System/00 Moves/Basic Moves/Perceive and Investigate\|Perceive & Investigate]]
 - [[10_System/00 Moves/Basic Moves/Manipulate and Provoke\|Manipulate and Provoke]]
 - [[10_System/00 Moves/Basic Moves/Recall Knowledge\|Recall Knowledge]]
+- [[10_System/00 Moves/Basic Moves/Craft an Item\|Craft an Item]]

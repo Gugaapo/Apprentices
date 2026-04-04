@@ -10,3 +10,5 @@ Magic is rigid, mathematical, and dangerous. These moves govern casting, weaving
 - [[10_System/00 Moves/Magic Moves/Joint Casting\|Joint Casting]]
 - [[10_System/00 Moves/Magic Moves/Channel Unstructured Magic\|Channel Unstructured Magic]]
 - [[10_System/00 Moves/Magic Moves/Deflect Magic\|Deflect Magic]]
+- [[10_System/00 Moves/Magic Moves/Brew Alchemy\|Brew Alchemy]]
+- [[10_System/00 Moves/Magic Moves/Engrave Artifice\|Engrave Artifice]]
