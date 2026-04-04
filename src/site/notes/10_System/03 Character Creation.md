@@ -113,7 +113,7 @@ Your character has 7 core Attributes. If you choose a Playbook, your array is al
 * **Mundane Attributes:** Base 0 dots. You have **2 Points** to spend (1 point = +1 dot).
 * **Magical Attributes:** Base 1 dot in each. You have **2 Points** to spend (1 point = +1 dot).
 
-## Step 4: [[10_System/Glossary/School Proficiency\|School Proficiency]] (Magic Schools)
+## Step 4: [[School Proficiency\|School Proficiency]] (Magic Schools)
 As an Academy student, you have some basic training in magic.
 * You have **2 Points** to distribute across the 8 Core Schools (or support fields like [[10_System/Schools/Support/Alchemy\|Alchemy]]). Each point grants 1 dot.
 * **Fluency (The Vocabulary):** Gaining a dot in a Core School gives you complete narrative fluency in its basic Function and Object Root Words. You don't need to track individual Core Glyphs. You can freely combine them for Unstructured Intent magic.

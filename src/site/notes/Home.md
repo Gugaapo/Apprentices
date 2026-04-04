@@ -29,12 +29,12 @@ Use the sidebar to browse, or press `Ctrl+K` to search.
 > [!info] Tip
 > Use the sidebar on the left to navigate through the folder structure of the vault.
 
-| File                                                                     | Last Modified             |
-| ------------------------------------------------------------------------ | ------------------------- |
-| [[10_System/Schools/Animation/Golemancy\|Golemancy]]                  | 12:22 AM - April 04, 2026 |
-| [[10_System/05 Magic System\|05 Magic System]]                        | 12:21 AM - April 04, 2026 |
-| [[10_System/00 Moves/Magic Moves/Shape the Matrix\|Shape the Matrix]] | 12:20 AM - April 04, 2026 |
-| [[10_System/Schools/Support/Divine Magic\|Divine Magic]]              | 12:19 AM - April 04, 2026 |
-| [[10_System/Schools/Support/Artifice\|Artifice]]                      | 12:19 AM - April 04, 2026 |
+| File                                                              | Last Modified             |
+| ----------------------------------------------------------------- | ------------------------- |
+| [[90_AI_Context/INSTRUCTIONS\|INSTRUCTIONS]]                   | 12:30 AM - April 04, 2026 |
+| [[90_AI_Context/AI Rules Primer\|AI Rules Primer]]             | 12:30 AM - April 04, 2026 |
+| [[00_Meta/Character Sheet Template\|Character Sheet Template]] | 12:30 AM - April 04, 2026 |
+| [[10_System/Attributes/Magical/Willpower\|Willpower]]          | 12:30 AM - April 04, 2026 |
+| [[10_System/Attributes/Magical/Finesse\|Finesse]]              | 12:30 AM - April 04, 2026 |
 
 { .block-language-dataview}

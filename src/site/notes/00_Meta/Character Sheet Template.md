@@ -28,7 +28,7 @@
 | :-------------------------- | :------------------ | :------------------------------------------------------ |
 | **Mana Capacity:**          | `[    ]` / `[    ]` | `4 + Core Resonance`                                    |
 | **Reserved Capacity:**      | `[    ]`            | *(Mana locked by active Wards/Sustained spells)*        |
-| **Max Modifiers (Syntax):** | `[    ]`            | `Calculation - 1` *(Exceeding = +1 TN & 1 Wound)*       |
+| **Complex Matrix (Syntax):** | `[    ]`            | `Calculation` *(Exceeding = +1 Harm)*       |
 | **Mind Defense:**           | `[    ]`            | `6 + Willpower + Highest of (Divination or Abjuration)` |
 | **Physical Defense:**       | `[    ]`            | `6 + Mobility + Highest of (Awareness or Dexterity)`    |
 | **Max Mastered Spells:**    | `[    ]`            | Equal to `Memory` rating.                               |
@@ -50,7 +50,7 @@
 ---
 
 ## 3. The Grimoire (Magic)
-*(Casting Roll: `2d6 + Willpower + School Proficiency`. Base TN = 6. Combat = 8-10).*
+*(Casting Roll: `2d6 + Finesse or Willpower`. 10+ is an objective success. 7-9 triggers Matrix Collapse).*
 
 ### Core Schools & Specializations
 | School | Dots | School | Dots | Specializations / Other | Dots |
@@ -76,7 +76,7 @@
 ## 4. Grimoire (Formulas & Spells)
 
 ### Structured Formulas
-*(Prepared blueprints. Normal Mana Cost. Normal TN).*
+*(Prepared geometric blueprints. Fictional Scale allowed = Max Tier).*
 | Formula (Verb + Noun + Modifiers) | Mana Cost | Effect / Damage / Range |
 | :--- | :--- | :--- |
 | 1. | | |
@@ -119,5 +119,5 @@
   * **Complex (4 Mana):** 3 Wounds. 50m range. Scene. Room-clearing.
   * **Miracle (7 Mana):** Lethal. 100m+ range. Hours. City block.
 * **3. Format Penalties:**
-  * **Structured Formula (Grimoire):** Cost is Normal. TN is Normal.
-  * **Unstructured (On-The-Fly):** Cost is +1 Mana. TN is +2.
+  * **Structured Formula (Grimoire):** Requires Geometric Index. Roll Shape the Matrix.
+  * **Unstructured (On-The-Fly):** Dangerous casting without formulas. Take 1-Wound immediately.

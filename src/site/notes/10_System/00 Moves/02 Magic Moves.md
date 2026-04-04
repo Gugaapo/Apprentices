@@ -6,7 +6,7 @@
 
 Magic is rigid, mathematical, and dangerous. These moves govern casting, weaving, and pushing beyond your limits.
 
-- [[Cast a Spell Formula\|Cast a Spell Formula]]
+- [[10_System/00 Moves/Magic Moves/Shape the Matrix\|Shape the Matrix]]
 - [[10_System/00 Moves/Magic Moves/Joint Casting\|Joint Casting]]
 - [[10_System/00 Moves/Magic Moves/Channel Unstructured Magic\|Channel Unstructured Magic]]
 - [[10_System/00 Moves/Magic Moves/Deflect Magic\|Deflect Magic]]

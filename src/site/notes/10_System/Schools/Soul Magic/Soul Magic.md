@@ -50,7 +50,7 @@ The only "naturally" arising undead in the world are ghosts and other incorporea
 
 **What it feels like to cast:** There is no pleasant way to describe it. Soul magic users report a sensation of "reaching through" the physical world into a cold, dark layer beneath it. Observers see faint black or violet energy crackling around the caster's hands, accompanied by a deep, bone-level chill.
 
-**The mandatory cost:** Every single use of Soul Magic triggers a [[10_System/Glossary/Sanity\|Sanity Erosion]] check (2d6 roll vs TN). There are no exceptions. The human mind was not designed to interact with souls directly.
+**The mandatory cost:** Every single use of Soul Magic inherently challenges the sanity of the caster. If the GM rules the action extreme, they may require you to roll **Resist Erosion** immediately upon casting. The human mind was not designed to interact with souls directly.
 
 ## Mechanical Focus
 All casting rolls use **`2d6 + Willpower + Soul Magic`**. Soul Magic is the only school that can directly damage a character's **[[10_System/Glossary/Soul Sigil\|Soul Sigil]]** outside of mind breach. Every use automatically triggers a [[04_Sanity_and_Morality#Erosion Triggers\|Sanity Erosion]] check.
