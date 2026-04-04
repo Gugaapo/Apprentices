@@ -9,16 +9,21 @@
 
 ## Overview
 
-You didn't grow up in the glittering upper city. Your family belonged to the rough-and-tumble class of mercenaries, monster hunters, and Delvers who make their living plunging into the upper levels of the Dungeon. Whether your parents died on a bad run or scraped together enough crystalized mana to send you to the Academy, your childhood was defined by the proximity of the Abyss.
+You didn't grow up in the glittering upper city. Your family belonged to the rough-and-tumble class of mercenaries, monster hunters, and Delvers who make their living plunging into the upper levels of the [[30_Locations/Other/Dungeon\|Dungeon]]. Whether your parents died on a bad run or scraped together enough crystalized mana to send you to the Academy, your childhood was defined by the proximity of the Abyss.
 
 To you, magic isn't an academic pursuit; it's a survival tool. You are intimately familiar with the anatomy of magical beasts and the brutal reality of subterranean combat. The manicured lawns of the Academy often feel fake to you compared to the honest darkness of the Dungeon.
 
 ---
 
+## Fictional Permission
+You can naturally track monsters in the dark and identify [[30_Locations/Other/Dungeon\|Dungeon]] hazards without needing a manual roll.
+
 ## Mechanical Benefits
 
-- **Starting Bonus:** Gain +1 free dot in **[[Survival\|Survival]]** (specifically related to subterranean and monstrous ecology) and +1 free dot in **[[Awareness\|Awareness]]**.
-- **Connection — Mercenary Guild:** You maintain ties with the gritty Delvers and mercenaries who work the Dungeon entrances. Once per arc, you can call upon this network to receive highly accurate monster intelligence, secure a guide for the upper Dungeon levels, or fence illicit monster parts without asking questions.
+**Background Move — Abyss Walker:** When you navigate subterranean environments or harvest monstrous alchemical parts, treat a Miss (6-) as a Mixed Success (7-9) **once per quest**.
+
+## Connection (Anchor)
+**Connection — Mercenary Guild:** You maintain ties with the gritty Delvers and mercenaries who work the Dungeon entrances. once per quest, you can call upon this network to receive highly accurate monster intelligence, secure a guide for the upper Dungeon levels, or fence illicit monster parts without asking questions.
 
 ---
 

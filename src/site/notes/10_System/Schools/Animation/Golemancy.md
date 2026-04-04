@@ -21,11 +21,11 @@ Golemancy is the respected craft of constructing, animating, and programming com
 # Example Spells
 | Geometric Scale | Glyph Sequence | Manifestation |
 | :--- | :--- | :--- |
-| Trivial [0 Mana] | *Lebe Baut Klen* | Animates a tiny clay figurine to walk. |
-| Regular [1 Mana] | *Lebe Baut Folg* | Makes a stone statue follow the caster. |
-| Hard [2 Mana] | *Lebe Baut Wach* | Orders a golem to relentlessly guard a doorway. |
-| Complex [4 Mana] | *Lebe Baut Werk* | Animates a massive stone golem to dig a tunnel or fight. |
-| Miracle [7 Mana] | *Lebe Baut Seel* | Breathes terrifying, permanent pseudo-sentience into a colossal dread-construct. |
+| Trivial [0 Ticks] | *Lebe Baut Klen* | Animates a tiny clay figurine to walk. |
+| Regular [1 Tick] | *Lebe Baut Folg* | Makes a stone statue follow the caster. |
+| Hard [2 Ticks] | *Lebe Baut Wach* | Orders a golem to relentlessly guard a doorway. |
+| Complex [2 Ticks] | *Lebe Baut Werk* | Animates a massive stone golem to dig a tunnel or fight. |
+| Miracle [4+ Ticks] | *Lebe Baut Seel* | Breathes terrifying, permanent pseudo-sentience into a colossal dread-construct. |
 
 # Lore deep dive
 

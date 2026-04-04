@@ -15,10 +15,15 @@ You are intimately familiar with the anatomy, weaknesses, and behaviors of beast
 
 ---
 
+## Fictional Permission
+You inherently know the basic classification (beast, elemental, spirit) and typical habitat of any localized monster.
+
 ## Mechanical Benefits
 
-- **Starting Bonus:** Gain +1 free dot in **[[Survival\|Survival]]** and +1 free dot in **[[Awareness\|Awareness]]**.
-- **Connection — The Hunter's Lodge:** You belong to a loose fraternity of professional trackers and beast slayers. Once per arc, you can call upon them to get expert tracking assistance in the wilderness, identify a completely unknown biological threat, or secure rare, freshly-harvested magical beast components at cost.
+**Background Move — Prey Analysis:** When you roll `+Mental` to *Recall Knowledge* about a monster's geometric or biological weakness, take +1 Forward.
+
+## Connection (Anchor)
+**Connection — The Hunter's Lodge:** You belong to a loose fraternity of professional trackers and beast slayers. once per quest, you can call upon them to get expert tracking assistance in the wilderness, identify a completely unknown biological threat, or secure rare, freshly-harvested magical beast components at cost.
 
 ---
 

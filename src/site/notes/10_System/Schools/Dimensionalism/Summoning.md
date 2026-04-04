@@ -21,11 +21,11 @@ Summing is a sub-field of Dimensionalism dealing specifically with the retrieval
 # Example Spells
 | Geometric Scale | Glyph Sequence | Manifestation |
 | :--- | :--- | :--- |
-| Trivial [0 Mana] | *Ruff Klen Wese* | Summons a tiny, harmless insect from nearby. |
-| Regular [1 Mana] | *Ruff Wese* | Pulls a small animal like a dog or bird to the caster. |
-| Hard [2 Mana] | *Ruff Wese Fern* | Summons a specific beast from miles away. |
-| Complex [4 Mana] | *Tohr Ruff Wese* | Tears open a portal to pull a dangerous monster through. |
-| Miracle [7 Mana] | *Ruff Gros Wese* | Summons an ancient beast from the deep wilderness directly into the room. |
+| Trivial [0 Ticks] | *Ruff Klen Wese* | Summons a tiny, harmless insect from nearby. |
+| Regular [1 Tick] | *Ruff Wese* | Pulls a small animal like a dog or bird to the caster. |
+| Hard [2 Ticks] | *Ruff Wese Fern* | Summons a specific beast from miles away. |
+| Complex [2 Ticks] | *Tohr Ruff Wese* | Tears open a portal to pull a dangerous monster through. |
+| Miracle [4+ Ticks] | *Ruff Gros Wese* | Summons an ancient beast from the deep wilderness directly into the room. |
 
 # Lore deep dive
 

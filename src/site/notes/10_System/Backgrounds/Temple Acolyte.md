@@ -9,11 +9,15 @@
 ## Description
 You were raised in or near a temple — perhaps of the gods of the Ikosian Pantheon. Your faith is real, even if the Academy treats religion as superstition. The temple taught you discipline, meditation, and protective magic. You see the world through a spiritual lens that your classmates find quaint at best and delusional at worst.
 
-## Starting Bonus
-Begin with **+1 free dot in [[10_System/Schools/Abjuration/Ward\|Ward]]** (applied before spending Shaping Points, does not count against them). Temple training emphasises protective magic above all else.
+## Fictional Permission
+You implicitly understand religious iconography and can request basic sanctuary from the Church without question.
 
-## Connection
-**Temple Network.** You have contacts among clergy and temples across [[30_Locations/Cities and Towns/Cyoria\|Cyoria]]. Once per session, you may request sanctuary, healing, or introductions to local religious authorities.
+## Mechanical Benefits
+
+**Background Move — Divine Shield:** When you cast an Abjuration/Ward specifically to protect a helpless ally instead of yourself, take +1 Forward on *Shape the Matrix*.
+
+## Connection (Anchor)
+**Temple Network.** You have contacts among clergy and temples across [[30_Locations/Cities and Towns/Cyoria\|Cyoria]]. once per quest, you may request sanctuary, healing, or introductions to local religious authorities.
 
 ## Roleplay Hooks
 - Your temple has asked you to investigate something at the Academy — a student, a professor, or a magical phenomenon that concerns them.

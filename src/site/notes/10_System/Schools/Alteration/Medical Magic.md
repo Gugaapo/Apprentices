@@ -21,11 +21,11 @@ Medical Magic is a multi-disciplinary field combining [[10_System/Schools/Divina
 # Example Spells
 | Geometric Scale | Glyph Sequence | Manifestation |
 | :--- | :--- | :--- |
-| Trivial [0 Mana] | *Andr Farb Flei* | Changes skin pigmentation temporarily. |
-| Regular [1 Mana] | *Andr Heil Klen* | Closes a minor cut or bruise. |
-| Hard [2 Mana] | *Andr Blut Dich* | Stops severe bleeding by thickening the blood. |
-| Complex [4 Mana] | *Andr Flei Heil Gros* | Heals massive lacerations instantly. |
-| Miracle [7 Mana] | *Andr Flei Atom Heil* | Completely regrows a severed limb or destroyed organ. |
+| Trivial [0 Ticks] | *Andr Farb Flei* | Changes skin pigmentation temporarily. |
+| Regular [1 Tick] | *Andr Heil Klen* | Closes a minor cut or bruise. |
+| Hard [2 Ticks] | *Andr Blut Dich* | Stops severe bleeding by thickening the blood. |
+| Complex [2 Ticks] | *Andr Flei Heil Gros* | Heals massive lacerations instantly. |
+| Miracle [4+ Ticks] | *Andr Flei Atom Heil* | Completely regrows a severed limb or destroyed organ. |
 
 # Lore deep dive
 

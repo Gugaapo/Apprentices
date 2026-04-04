@@ -21,11 +21,11 @@ Mind Magic is the direct manipulation of a living mind — thoughts, emotions, m
 # Example Spells
 | Geometric Scale | Glyph Sequence | Manifestation |
 | :--- | :--- | :--- |
-| Trivial [0 Mana] | *Tusc Geis Klen* | Plants a tiny, fleeting distraction in a target's mind. |
-| Regular [1 Mana] | *Tusc Geis Klan* | Makes a target hear a whispered voice in their head. |
-| Hard [2 Mana] | *Tusc Geis Werk* | Forces a target to obey a single, simple command. |
-| Complex [4 Mana] | *Tusc Geis Ernn* | Replaces the last 10 minutes of a guard's memory. |
-| Miracle [7 Mana] | *Tusc Geis Werk Gros* | Permanently rewrites a target's entire personality and loyalty. |
+| Trivial [0 Ticks] | *Tusc Geis Klen* | Plants a tiny, fleeting distraction in a target's mind. |
+| Regular [1 Tick] | *Tusc Geis Klan* | Makes a target hear a whispered voice in their head. |
+| Hard [2 Ticks] | *Tusc Geis Werk* | Forces a target to obey a single, simple command. |
+| Complex [2 Ticks] | *Tusc Geis Ernn* | Replaces the last 10 minutes of a guard's memory. |
+| Miracle [4+ Ticks] | *Tusc Geis Werk Gros* | Permanently rewrites a target's entire personality and loyalty. |
 
 # Lore deep dive
 

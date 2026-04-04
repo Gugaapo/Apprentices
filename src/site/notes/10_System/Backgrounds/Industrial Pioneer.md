@@ -15,10 +15,15 @@ You approach magic with a practical, scientific mindset. Where others see a maje
 
 ---
 
+## Fictional Permission
+You intuitively grasp the basic functions and weak points of physical clockwork and steam machinery.
+
 ## Mechanical Benefits
 
-- **Starting Bonus:** Gain +1 free dot in **[[10_System/Attributes/Magical/Calculation\|Calculation]]** and +1 free dot in **[[Academics\|Academics]]** (your education was highly practical).
-- **Connection — Factory Foreman:** You have ties to the industrial and manufacturing sectors. Once per arc, you can leverage your familial or personal connections to acquire industrial-grade parts, specialized tools, black-powder explosives, or access to heavy machinery and workshops outside of the Academy.
+**Background Move — Mechanist:** When you roll `+Mental` to manipulate, repair, or break mundane clockwork/industrial machinery, take +1 [[10_System/Glossary/Forward\|Forward]].
+
+## Connection (Anchor)
+**Connection — Factory Foreman:** You have ties to the industrial and manufacturing sectors. once per quest, you can leverage your familial or personal connections to acquire industrial-grade parts, specialized tools, black-powder explosives, or access to heavy machinery and workshops outside of the Academy.
 
 ---
 

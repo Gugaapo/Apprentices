@@ -21,11 +21,11 @@ Evocation is the aggressive, destructive application of the Projection disciplin
 # Example Spells
 | Geometric Scale | Glyph Sequence | Manifestation |
 | :--- | :--- | :--- |
-| Trivial [0 Mana] | *Schf Lict Wolk* | Creates a harmless, tiny glowing cloud. |
-| Regular [1 Mana] | *Schf Luft Knal* | A small concussive pop that pushes targets back. |
-| Hard [2 Mana] | *Schf Feur Knal* | A fiery explosion hitting a small area. |
-| Complex [4 Mana] | *Schf Feur Gros Knal* | A massive fireball destroying a room. |
-| Miracle [7 Mana] | *Schf Plaz Wolk* | Summons a roaring storm of plasma wiping out a battlefield. |
+| Trivial [0 Ticks] | *Schf Lict Wolk* | Creates a harmless, tiny glowing cloud. |
+| Regular [1 Tick] | *Schf Luft Knal* | A small concussive pop that pushes targets back. |
+| Hard [2 Ticks] | *Schf Feur Knal* | A fiery explosion hitting a small area. |
+| Complex [2 Ticks] | *Schf Feur Gros Knal* | A massive fireball destroying a room. |
+| Miracle [4+ Ticks] | *Schf Plaz Wolk* | Summons a roaring storm of plasma wiping out a battlefield. |
 
 # Lore deep dive
 

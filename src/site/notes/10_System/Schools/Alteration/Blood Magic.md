@@ -21,11 +21,11 @@ Blood Magic deals with the manipulation of a person's life force, usually using 
 # Example Spells
 | Geometric Scale | Glyph Sequence | Manifestation |
 | :--- | :--- | :--- |
-| Trivial [0 Mana] | *Andr Blut Klen* | Causes a minor nosebleed in a target. |
-| Regular [1 Mana] | *Andr Blut Pein* | Boils the target's blood slightly, causing intense pain. |
-| Hard [2 Mana] | *Andr Blut Form* | Draws blood out of a wound and shapes it into a rigid blade. |
-| Complex [4 Mana] | *Andr Flei Blut Saug* | Violently rips the blood from a target's body to heal the caster. |
-| Miracle [7 Mana] | *Andr Blut Atom Bind* | Steals a bloodline trait from a victim and permanently alters the caster's DNA. |
+| Trivial [0 Ticks] | *Andr Blut Klen* | Causes a minor nosebleed in a target. |
+| Regular [1 Tick] | *Andr Blut Pein* | Boils the target's blood slightly, causing intense pain. |
+| Hard [2 Ticks] | *Andr Blut Form* | Draws blood out of a wound and shapes it into a rigid blade. |
+| Complex [2 Ticks] | *Andr Flei Blut Saug* | Violently rips the blood from a target's body to heal the caster. |
+| Miracle [4+ Ticks] | *Andr Blut Atom Bind* | Steals a bloodline trait from a victim and permanently alters the caster's DNA. |
 
 # Lore deep dive
 

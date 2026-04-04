@@ -6,9 +6,8 @@
 
 *A Magic Move. Requires the target Alchemical Recipe and an Alchemical Material Cache.*
 
-When you **spend 1 Time Slot and an Alchemical Material Cache to brew an elixir or concoction**, roll.
-*(Roll `2d6 + Mental`)*
+When you **spend 1 Time Slot and an Alchemical Material Cache to brew an elixir or concoction**, roll `+Mental`.
 
-- **10+ (Strong Hit):** Your brewing is flawless. Gain **2 Progress points** toward the Recipe's Complexity. 
-- **7-9 (Mixed Success):** You successfully stabilize the mix. Gain **1 Progress point**. *Special: If this completes the item right before a deadline, you suffer **1 Mana Strain (Physical Wound)** from desperate, dangerous late-night cramming.*
-- **6- (Miss):** 0 Progress points. A narrative complication ruins the batch, wasting the Cache entirely. The Time Slot is spent, and the GM makes a Hard Move.
+- **10+:** Your brewing is flawless. The elixir is potent and stable.
+- **7-9:** You successfully stabilize the mix, but choose a complication: it consumed extra rare reagents (costing extra Funds), it requires a dangerous fictional compromise to finish, or you suffer a **Wound** from desperate, toxic late-night cramming.
+- **6-:** A narrative complication ruins the batch, wasting the Cache entirely. The Time Slot is spent, and the GM makes a Hard Move.

@@ -21,11 +21,11 @@ Ward magic transforms the temporary defenses of Abjuration into persistent, area
 # Example Spells
 | Geometric Scale | Glyph Sequence | Manifestation |
 | :--- | :--- | :--- |
-| Trivial [0 Mana] | [[50_Magic/Glyphs/1_Functions/Scht\|Scht]] [[50_Magic/Glyphs/4_Modifiers/Wart\|Wart]] [[50_Magic/Glyphs/4_Modifiers/Klen\|Klen]] | Sets a tiny ward that chimes if crossed. |
-| Regular [1 Mana] | [[50_Magic/Glyphs/1_Functions/Scht\|Scht]] [[50_Magic/Glyphs/4_Modifiers/Zone\|Zone]] | Creates a basic magical boundary around a campsite. |
-| Hard [2 Mana] | [[50_Magic/Glyphs/1_Functions/Scht\|Scht]] [[50_Magic/Glyphs/4_Modifiers/Kupp\|Kupp]] [[50_Magic/Glyphs/4_Modifiers/Zone\|Zone]] [[50_Magic/Glyphs/4_Modifiers/Wart\|Wart]] | A pre-prepared dome that springs up over an area when an intruder enters. |
-| Complex [4 Mana] | [[50_Magic/Glyphs/1_Functions/Scht\|Scht]] [[50_Magic/Glyphs/4_Modifiers/Wand\|Wand]] [[50_Magic/Glyphs/4_Modifiers/Wart\|Wart]] [[50_Magic/Glyphs/4_Modifiers/Gros\|Gros]] | A massive, triggered wall of force that blocks an entire corridor. |
-| Miracle [7 Mana] | [[50_Magic/Glyphs/1_Functions/Scht\|Scht]] [[50_Magic/Glyphs/4_Modifiers/Kres\|Kres]] [[50_Magic/Glyphs/4_Modifiers/Zone\|Zone]] [[50_Magic/Glyphs/4_Modifiers/Fang\|Fang]] | A permanent city ward that absorbs and nullifies all hostile magic cast within it. |
+| Trivial [0 Ticks] | [[50_Magic/Glyphs/1_Functions/Scht\|Scht]] [[50_Magic/Glyphs/4_Modifiers/Wart\|Wart]] [[50_Magic/Glyphs/4_Modifiers/Klen\|Klen]] | Sets a tiny ward that chimes if crossed. |
+| Regular [1 Tick] | [[50_Magic/Glyphs/1_Functions/Scht\|Scht]] [[50_Magic/Glyphs/4_Modifiers/Zone\|Zone]] | Creates a basic magical boundary around a campsite. |
+| Hard [2 Ticks] | [[50_Magic/Glyphs/1_Functions/Scht\|Scht]] [[50_Magic/Glyphs/4_Modifiers/Kupp\|Kupp]] [[50_Magic/Glyphs/4_Modifiers/Zone\|Zone]] [[50_Magic/Glyphs/4_Modifiers/Wart\|Wart]] | A pre-prepared dome that springs up over an area when an intruder enters. |
+| Complex [2 Ticks] | [[50_Magic/Glyphs/1_Functions/Scht\|Scht]] [[50_Magic/Glyphs/4_Modifiers/Wand\|Wand]] [[50_Magic/Glyphs/4_Modifiers/Wart\|Wart]] [[50_Magic/Glyphs/4_Modifiers/Gros\|Gros]] | A massive, triggered wall of force that blocks an entire corridor. |
+| Miracle [4+ Ticks] | [[50_Magic/Glyphs/1_Functions/Scht\|Scht]] [[50_Magic/Glyphs/4_Modifiers/Kres\|Kres]] [[50_Magic/Glyphs/4_Modifiers/Zone\|Zone]] [[50_Magic/Glyphs/4_Modifiers/Fang\|Fang]] | A permanent city ward that absorbs and nullifies all hostile magic cast within it. |
 
 # Lore deep dive
 

@@ -4,7 +4,7 @@
 
 # Alchemical Bomber
 
-*A Playbook Move for [[10_System/04 Playbooks/The Tinkerer\|The Tinkerer]]*
+*A Playbook Move for [[00_Meta/Playbooks/The Tinkerer\|The Tinkerer]]*
 
 When you throw an alchemical concoction as a weapon, treat it as casting a Destruction Spell. Roll `+Calculation`. 
 - **10+:** It explodes flawlessly without harming any allies in the blast radius.

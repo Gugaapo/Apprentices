@@ -21,11 +21,11 @@ Spirit Calling is the incredibly dangerous and highly illegal branch of Soul Mag
 # Example Spells
 | Geometric Scale | Glyph Sequence | Manifestation |
 | :--- | :--- | :--- |
-| Trivial [0 Mana] | *Reis Spuk Klen* | Causes a brief chill as a spirit passes near. |
-| Regular [1 Mana] | *Reis Spuk Sagt* | Forces the lingering spiritual imprint of a corpse to whisper its secrets. |
-| Hard [2 Mana] | *Reis Spuk Angs* | Compels a hostile ghost to manifest and terrify enemies. |
-| Complex [4 Mana] | *Reis Spuk Saug* | Forces a summoned spirit to drain the life from a target. |
-| Miracle [7 Mana] | *Reis Spuk Fetz* | Tears a powerful spirit apart, absorbing its raw essence permanently. |
+| Trivial [0 Ticks] | *Reis Spuk Klen* | Causes a brief chill as a spirit passes near. |
+| Regular [1 Tick] | *Reis Spuk Sagt* | Forces the lingering spiritual imprint of a corpse to whisper its secrets. |
+| Hard [2 Ticks] | *Reis Spuk Angs* | Compels a hostile ghost to manifest and terrify enemies. |
+| Complex [2 Ticks] | *Reis Spuk Saug* | Forces a summoned spirit to drain the life from a target. |
+| Miracle [4+ Ticks] | *Reis Spuk Fetz* | Tears a powerful spirit apart, absorbing its raw essence permanently. |
 
 # Lore deep dive
 

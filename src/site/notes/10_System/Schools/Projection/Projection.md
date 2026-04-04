@@ -23,11 +23,11 @@ Projection is the brute force of the academic world. To project is to reach into
 # Example Spells
 | Geometric Scale | Glyph Sequence | Manifestation |
 | :--- | :--- | :--- |
-| Trivial [0 Mana] | [[50_Magic/Glyphs/1_Functions/Schf\|Schf]] [[50_Magic/Glyphs/3_Characteristics/Lict\|Lict]] | Creates a harmless spark of floating light. |
-| Regular [1 Mana] | [[50_Magic/Glyphs/1_Functions/Schf\|Schf]] [[50_Magic/Glyphs/3_Characteristics/Feur\|Feur]] | A searing blast of fire; 1 Damage. |
-| Hard [2 Mana] | [[50_Magic/Glyphs/1_Functions/Schf\|Schf]] [[50_Magic/Glyphs/4_Modifiers/Nah\|Nah]] [[50_Magic/Glyphs/4_Modifiers/Schn\|Schn]] | A lightning projectile; 2 Damage. Requires Combat Magic. |
-| Complex [4 Mana] | [[50_Magic/Glyphs/1_Functions/Schf\|Schf]] [[50_Magic/Glyphs/3_Characteristics/Feur\|Feur]] [[50_Magic/Glyphs/4_Modifiers/Gros\|Gros]] [[50_Magic/Glyphs/4_Modifiers/Knal\|Knal]] | A massive fireball destroying a room; 3 Damage. Requires Evocation. |
-| Miracle [7 Mana] | [[50_Magic/Glyphs/1_Functions/Schf\|Schf]] [[50_Magic/Glyphs/3_Characteristics/Plaz\|Plaz]] [[50_Magic/Glyphs/4_Modifiers/Wolk\|Wolk]] | Summons a roaring storm of plasma wiping out a battlefield; 5 Damage. |
+| Trivial [0 Ticks] | [[50_Magic/Glyphs/1_Functions/Schf\|Schf]] [[50_Magic/Glyphs/3_Characteristics/Lict\|Lict]] | Creates a harmless spark of floating light. |
+| Regular [1 Tick] | [[50_Magic/Glyphs/1_Functions/Schf\|Schf]] [[50_Magic/Glyphs/3_Characteristics/Feur\|Feur]] | A searing blast of fire; Inflicts a Wound. |
+| Hard [2 Ticks] | [[50_Magic/Glyphs/1_Functions/Schf\|Schf]] [[50_Magic/Glyphs/4_Modifiers/Nah\|Nah]] [[50_Magic/Glyphs/4_Modifiers/Schn\|Schn]] | A lightning projectile; Inflicts a Wound. Requires Combat Magic. |
+| Complex [2 Ticks] | [[50_Magic/Glyphs/1_Functions/Schf\|Schf]] [[50_Magic/Glyphs/3_Characteristics/Feur\|Feur]] [[50_Magic/Glyphs/4_Modifiers/Gros\|Gros]] [[50_Magic/Glyphs/4_Modifiers/Knal\|Knal]] | A massive fireball destroying a room; Imposes a severe Condition (Obliterated). Requires Evocation. |
+| Miracle [4+ Ticks] | [[50_Magic/Glyphs/1_Functions/Schf\|Schf]] [[50_Magic/Glyphs/3_Characteristics/Plaz\|Plaz]] [[50_Magic/Glyphs/4_Modifiers/Wolk\|Wolk]] | Summons a roaring storm of plasma wiping out a battlefield; Inflicts lethal Mass Destruction. |
 
 # Specializations
 | Specialization | Unlocked Glyphs |

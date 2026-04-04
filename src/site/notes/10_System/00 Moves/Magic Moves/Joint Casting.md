@@ -6,7 +6,7 @@
 
 *A Magic Move. Available to all Students.*
 
-When you **link your mental Calculation pool with an ally to cast an overwhelming spell**, you roll the **Cast a Spell** move using the highest relevant Attribute among the participants.
-- The **Calculation Limit** is combined. 
-- The **Mana Spent** can be divided between participants however you agree.
-- **On a 7-9 or 6-:** ALL participants suffer the chosen complications or GM Hard Moves.
+When you **link minds with an ally to cast an overwhelming spell**, you roll the **Shape the Matrix** move using the highest relevant Attribute among the participants.
+- The **Scale constraints** and maximum allowed complexity are expanded based on your combined knowledge.
+- The required **Mana Track cost** (ticks) can be divided between participants however you agree, letting helpers shoulder the strain.
+- **On a 7-9 or 6-:** ALL participants suffer the chosen complications, physical Wounds, or GM Hard Moves.

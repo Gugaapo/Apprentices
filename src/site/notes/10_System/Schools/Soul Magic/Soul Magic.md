@@ -23,11 +23,11 @@ A forbidden branch. While other magics play with the physical world, Soul Magic 
 # Example Spells
 | Geometric Scale | Glyph Sequence | Manifestation |
 | :--- | :--- | :--- |
-| Trivial [0 Mana] | [[50_Magic/Glyphs/1_Functions/Reis\|Reis]] [[50_Magic/Glyphs/4_Modifiers/Rinn\|Rinn]] | Causes a target's nose to bleed slightly from raw spiritual pressure. |
-| Regular [1 Mana] | [[50_Magic/Glyphs/1_Functions/Reis\|Reis]] [[50_Magic/Glyphs/3_Characteristics/Angs\|Angs]] | Forces a spike of pure, unadulterated primal terror onto a target's soul. |
-| Hard [2 Mana] | [[50_Magic/Glyphs/1_Functions/Reis\|Reis]] [[50_Magic/Glyphs/2_Objects/Spuk\|Spuk]] [[50_Magic/Glyphs/1_Functions/Sagt\|Sagt]] | Forces the lingering spiritual imprint of a corpse to whisper its secrets; requires Spirit Calling. |
-| Complex [4 Mana] | [[50_Magic/Glyphs/1_Functions/Reis\|Reis]] [[50_Magic/Glyphs/2_Objects/Seel\|Seel]] [[50_Magic/Glyphs/4_Modifiers/Mahl\|Mahl]] | Brands an agonizing slaver's mark directly onto an enemy's soul; requires Soul Carving. |
-| Miracle [7 Mana] | [[50_Magic/Glyphs/4_Modifiers/Fetz\|Fetz]] [[50_Magic/Glyphs/2_Objects/Seel\|Seel]] | Literally shreds the metaphysical soul of a target into absolute oblivion, permanently preventing any resurrection. |
+| Trivial [0 Ticks] | [[50_Magic/Glyphs/1_Functions/Reis\|Reis]] [[50_Magic/Glyphs/4_Modifiers/Rinn\|Rinn]] | Causes a target's nose to bleed slightly from raw spiritual pressure. |
+| Regular [1 Tick] | [[50_Magic/Glyphs/1_Functions/Reis\|Reis]] [[50_Magic/Glyphs/3_Characteristics/Angs\|Angs]] | Forces a spike of pure, unadulterated primal terror onto a target's soul. |
+| Hard [2 Ticks] | [[50_Magic/Glyphs/1_Functions/Reis\|Reis]] [[50_Magic/Glyphs/2_Objects/Spuk\|Spuk]] [[50_Magic/Glyphs/1_Functions/Sagt\|Sagt]] | Forces the lingering spiritual imprint of a corpse to whisper its secrets; requires Spirit Calling. |
+| Complex [2 Ticks] | [[50_Magic/Glyphs/1_Functions/Reis\|Reis]] [[50_Magic/Glyphs/2_Objects/Seel\|Seel]] [[50_Magic/Glyphs/4_Modifiers/Mahl\|Mahl]] | Brands an agonizing slaver's mark directly onto an enemy's soul; requires Soul Carving. |
+| Miracle [4+ Ticks] | [[50_Magic/Glyphs/4_Modifiers/Fetz\|Fetz]] [[50_Magic/Glyphs/2_Objects/Seel\|Seel]] | Literally shreds the metaphysical soul of a target into absolute oblivion, permanently preventing any resurrection. |
 
 # Specializations
 | Specialization | Unlocked Glyphs |

@@ -23,11 +23,11 @@ Magic is fundamentally information. Divination does not change the world; it und
 # Example Spells
 | Geometric Scale | Glyph Sequence | Manifestation |
 | :--- | :--- | :--- |
-| Trivial [0 Mana] | [[50_Magic/Glyphs/1_Functions/Sehn\|Sehn]] [[50_Magic/Glyphs/2_Objects/Aura\|Aura]] | Determines roughly if a cup is magical. |
-| Regular [1 Mana] | [[50_Magic/Glyphs/1_Functions/Sehn\|Sehn]] [[50_Magic/Glyphs/2_Objects/Geis\|Geis]] [[50_Magic/Glyphs/4_Modifiers/Klen\|Klen]] | Picks up base surface emotions from a target across the room. |
-| Hard [2 Mana] | [[50_Magic/Glyphs/1_Functions/Sehn\|Sehn]] [[50_Magic/Glyphs/3_Characteristics/Bild\|Bild]] [[50_Magic/Glyphs/3_Characteristics/Raum\|Raum]] | Projects a bird's-eye view vision of the surrounding forest; requires Scrying. |
-| Complex [4 Mana] | [[50_Magic/Glyphs/1_Functions/Sehn\|Sehn]] [[50_Magic/Glyphs/3_Characteristics/Zeit\|Zeit]] | Reads the exact geometric events that happened in a room 24 hours ago. |
-| Miracle [7 Mana] | [[50_Magic/Glyphs/1_Functions/Sehn\|Sehn]] [[50_Magic/Glyphs/3_Characteristics/Wahr\|Wahr]] | Pierces all cosmic illusions and sees the absolute truth of a situation. |
+| Trivial [0 Ticks] | [[50_Magic/Glyphs/1_Functions/Sehn\|Sehn]] [[50_Magic/Glyphs/2_Objects/Aura\|Aura]] | Determines roughly if a cup is magical. |
+| Regular [1 Tick] | [[50_Magic/Glyphs/1_Functions/Sehn\|Sehn]] [[50_Magic/Glyphs/2_Objects/Geis\|Geis]] [[50_Magic/Glyphs/4_Modifiers/Klen\|Klen]] | Picks up base surface emotions from a target across the room. |
+| Hard [2 Ticks] | [[50_Magic/Glyphs/1_Functions/Sehn\|Sehn]] [[50_Magic/Glyphs/3_Characteristics/Bild\|Bild]] [[50_Magic/Glyphs/3_Characteristics/Raum\|Raum]] | Projects a bird's-eye view vision of the surrounding forest; requires Scrying. |
+| Complex [2 Ticks] | [[50_Magic/Glyphs/1_Functions/Sehn\|Sehn]] [[50_Magic/Glyphs/3_Characteristics/Zeit\|Zeit]] | Reads the exact geometric events that happened in a room 24 hours ago. |
+| Miracle [4+ Ticks] | [[50_Magic/Glyphs/1_Functions/Sehn\|Sehn]] [[50_Magic/Glyphs/3_Characteristics/Wahr\|Wahr]] | Pierces all cosmic illusions and sees the absolute truth of a situation. |
 
 # Specializations
 | Specialization | Unlocked Glyphs |

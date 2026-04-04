@@ -21,11 +21,11 @@ Teleportation is the complex art of folding space for instantaneous travel. It r
 # Example Spells
 | Geometric Scale | Glyph Sequence | Manifestation |
 | :--- | :--- | :--- |
-| Trivial [0 Mana] | *Bewg Ich Klen* | Shifts the caster's balance or footing instantly. |
-| Regular [1 Mana] | *Bewg Ich Hoch* | Teleports the caster a few feet straight up. |
-| Hard [2 Mana] | *Bewg Ich Flhh* | Blinks the caster 30 feet away instantly. |
-| Complex [4 Mana] | *Bewg Ich Fern* | Teleports the caster across the city. |
-| Miracle [7 Mana] | *Bewg Ich Alle* | Teleports the caster anywhere on the continent instantly. |
+| Trivial [0 Ticks] | *Bewg Ich Klen* | Shifts the caster's balance or footing instantly. |
+| Regular [1 Tick] | *Bewg Ich Hoch* | Teleports the caster a few feet straight up. |
+| Hard [2 Ticks] | *Bewg Ich Flhh* | Blinks the caster 30 feet away instantly. |
+| Complex [2 Ticks] | *Bewg Ich Fern* | Teleports the caster across the city. |
+| Miracle [4+ Ticks] | *Bewg Ich Alle* | Teleports the caster anywhere on the continent instantly. |
 
 # Lore deep dive
 

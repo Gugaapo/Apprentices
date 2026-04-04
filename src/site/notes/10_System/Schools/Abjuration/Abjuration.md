@@ -23,11 +23,11 @@ Bending mana defensively to deny, protect, and isolate. Abjuration is the immova
 # Example Spells
 | Geometric Scale | Glyph Sequence | Manifestation |
 | :--- | :--- | :--- |
-| Trivial [0 Mana] | [[50_Magic/Glyphs/1_Functions/Scht\|Scht]] [[50_Magic/Glyphs/4_Modifiers/Klen\|Klen]] | Creates a brief shimmering force that deflects a thrown rock. |
-| Regular [1 Mana] | [[50_Magic/Glyphs/1_Functions/Scht\|Scht]] [[50_Magic/Glyphs/4_Modifiers/Wand\|Wand]] | Throws up a floating, flat shield of energy to block an incoming bolt. |
-| Hard [2 Mana] | [[50_Magic/Glyphs/1_Functions/Scht\|Scht]] [[50_Magic/Glyphs/4_Modifiers/Kupp\|Kupp]] [[50_Magic/Glyphs/4_Modifiers/Zone\|Zone]] [[50_Magic/Glyphs/4_Modifiers/Wart\|Wart]] | A pre-prepared dome that springs up over an area when an intruder enters the room; requires Ward. |
-| Complex [4 Mana] | [[50_Magic/Glyphs/1_Functions/Nill\|Nill]] [[50_Magic/Glyphs/4_Modifiers/Gros\|Gros]] | Shatters and entirely nullifies a complex, incoming Grade-A fireball mid-flight. |
-| Miracle [7 Mana] | [[50_Magic/Glyphs/1_Functions/Scht\|Scht]] [[Kett 1\|Kett 1]] [[50_Magic/Glyphs/4_Modifiers/Fang\|Fang]] | Completely chains a mythic entity in place, absorbing all the magic it attempts to cast outwards; requires Sealing. |
+| Trivial [0 Ticks] | [[50_Magic/Glyphs/1_Functions/Scht\|Scht]] [[50_Magic/Glyphs/4_Modifiers/Klen\|Klen]] | Creates a brief shimmering force that deflects a thrown rock. |
+| Regular [1 Tick] | [[50_Magic/Glyphs/1_Functions/Scht\|Scht]] [[50_Magic/Glyphs/4_Modifiers/Wand\|Wand]] | Throws up a floating, flat shield of energy to block an incoming bolt. |
+| Hard [2 Ticks] | [[50_Magic/Glyphs/1_Functions/Scht\|Scht]] [[50_Magic/Glyphs/4_Modifiers/Kupp\|Kupp]] [[50_Magic/Glyphs/4_Modifiers/Zone\|Zone]] [[50_Magic/Glyphs/4_Modifiers/Wart\|Wart]] | A pre-prepared dome that springs up over an area when an intruder enters the room; requires Ward. |
+| Complex [2 Ticks] | [[50_Magic/Glyphs/1_Functions/Nill\|Nill]] [[50_Magic/Glyphs/4_Modifiers/Gros\|Gros]] | Shatters and entirely nullifies a complex, incoming Grade-A fireball mid-flight. |
+| Miracle [4+ Ticks] | [[50_Magic/Glyphs/1_Functions/Scht\|Scht]] [[Kett 1\|Kett 1]] [[50_Magic/Glyphs/4_Modifiers/Fang\|Fang]] | Completely chains a mythic entity in place, absorbing all the magic it attempts to cast outwards; requires Sealing. |
 
 # Specializations
 | Specialization | Unlocked Glyphs |

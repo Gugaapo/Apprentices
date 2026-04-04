@@ -4,7 +4,7 @@
 
 # Do You Know Who I Am?
 
-*A Playbook Move for [[10_System/04 Playbooks/The Heir\|The Heir]]*
+*A Playbook Move for [[00_Meta/Playbooks/The Heir\|The Heir]]*
 
 When you **throw your family name around to bypass a social obstacle or intimidate an Academy official**, roll `+Social`. 
 - **10+:** They fold completely. 

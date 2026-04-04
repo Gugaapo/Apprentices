@@ -15,10 +15,15 @@ While the Academy focuses heavily on theoretical research and elegant aristocrat
 
 ---
 
+## Fictional Permission
+You know military ranks, standard patrol tactics, protocol, and how to properly maintain standard weaponry.
+
 ## Mechanical Benefits
 
-- **Starting Bonus:** Gain +1 free dot in **[[Combat\|Combat]]**, and start with a standard mundane weapon (e.g., a sword, a rifle, or a combat knife).
-- **Connection — The Quartermaster:** You know how to navigate military bureaucracy. Once per arc, you can pull strings with old family friends in the military to requisition restricted combat gear, obtain military-grade intelligence, or gain access to a secure military facility.
+**Background Move — Tactician:** When combat initiates and you instantly shout a tactical command or warning to an ally, they take +1 Forward on their next roll.
+
+## Connection (Anchor)
+**Connection — The Quartermaster:** You know how to navigate military bureaucracy. once per quest, you can pull strings with old family friends in the military to requisition restricted combat gear, obtain military-grade intelligence, or gain access to a secure military facility.
 
 ---
 

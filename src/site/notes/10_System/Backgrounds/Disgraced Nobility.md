@@ -15,10 +15,15 @@ You grew up surrounded by the ghosts of past glory. You were taught all the etiq
 
 ---
 
+## Fictional Permission
+You implicitly understand high-society etiquette, heraldry, and how to spot 'old money'.
+
 ## Mechanical Benefits
 
-- **Starting Bonus:** Gain +1 free dot in **[[Deception\|Deception]]** and +1 free dot in **[[Academics\|Academics]]**.
-- **Connection — The Old Guard:** Despite your family's fall, there are a few ancient retainers, loyalists, or sympathetic nobles who remember your House's former glory. Once per arc, you can call upon this network to gain entry to an exclusive high-society event, secure a loan, or dig up blackmail material on a rival House.
+**Background Move — Highborn Liar:** When you roll `+Social` to lie to keep up appearances or manipulate academy elites, take +1 [[10_System/Glossary/Forward\|Forward]].
+
+## Connection (Anchor)
+**Connection — The Old Guard:** Despite your family's fall, there are a few ancient retainers, loyalists, or sympathetic nobles who remember your House's former glory. once per quest, you can call upon this network to gain entry to an exclusive high-society event, secure a loan, or dig up blackmail material on a rival House.
 
 ---
 

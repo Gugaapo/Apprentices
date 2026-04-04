@@ -26,8 +26,8 @@
 
 | **Core Resource**           | **Value**           | **Calculation**                                         |
 | :-------------------------- | :------------------ | :------------------------------------------------------ |
-| **Mana Capacity:**          | `[    ]` / `[    ]` | `4 + Core Resonance`                                    |
-| **Reserved Capacity:**      | `[    ]`            | *(Mana locked by active Wards/Sustained spells)*        |
+| **Mana Track (Limit):**     | `[ ][ ][ ][ ][ ]`   | `4 + Highest of (Calculation, Finesse, Willpower)`      |
+| **Reserved Ticks:**         | `[    ]`            | *(Ticks locked by active Wards/Sustained spells)*       |
 | **Complex Matrix (Syntax):** | `[    ]`            | `Calculation` *(Exceeding = +1 Harm)*       |
 | **Mind Defense:**           | `[    ]`            | `6 + Willpower + Highest of (Divination or Abjuration)` |
 | **Physical Defense:**       | `[    ]`            | `6 + Mobility + Highest of (Awareness or Dexterity)`    |
@@ -112,12 +112,11 @@
 ---
 ### Quick Reference: Casting Procedure
 * **1. Syntax:** `[VERB] + [NOUN] + [MODIFIERS (Max = Calculation-1)]`
-* **2. Mana Cost (Complexity):**
-  * **Trivial (0 Mana):** 0 Wounds. Handful/Touch. Seconds.
-  * **Regular (1 Mana):** 1 Wound. 5m range. 1 Minute. 1 Target.
-  * **Hard (2 Mana):** 2 Wounds. 10-20m range. Minutes. Close Area.
-  * **Complex (4 Mana):** 3 Wounds. 50m range. Scene. Room-clearing.
-  * **Miracle (7 Mana):** Lethal. 100m+ range. Hours. City block.
+* **2. Mana Track Cost (Strain Limit):**
+  * **Trivial (0 Ticks):** Handful/Touch. Seconds. Harmless.
+  * **Standard (1 Tick):** 5m range. 1 Minute. 1 Target.
+  * **Complex/Hard (2 Ticks):** 10-20m range. Minutes. Close Area.
+  * **Miracle (4+ Ticks):** 100m+ range. Narrative stakes. Lethal.
 * **3. Format Penalties:**
   * **Structured Formula (Grimoire):** Requires Geometric Index. Roll Shape the Matrix.
   * **Unstructured (On-The-Fly):** Dangerous casting without formulas. Take 1-Wound immediately.

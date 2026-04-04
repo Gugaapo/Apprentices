@@ -21,11 +21,11 @@ Glamour is the specialized application of Illusionism focused on personal disgui
 # Example Spells
 | Geometric Scale | Glyph Sequence | Manifestation |
 | :--- | :--- | :--- |
-| Trivial [0 Mana] | *Tusc Bild Klen* | Creates a tiny, static illusory butterfly. |
-| Regular [1 Mana] | *Tusc Bild Birg* | Bends light around someone to turn them invisible. |
-| Hard [2 Mana] | *Tusc Tarn* | Perfectly disguises the caster's face as someone else. |
-| Complex [4 Mana] | *Tusc Bild Klan Birg* | Completely cloaks a group in perfect audiovisual invisibility. |
-| Miracle [7 Mana] | *Tusc Bild Gros* | Creates a flawless, moving illusion of an entire fake army. |
+| Trivial [0 Ticks] | *Tusc Bild Klen* | Creates a tiny, static illusory butterfly. |
+| Regular [1 Tick] | *Tusc Bild Birg* | Bends light around someone to turn them invisible. |
+| Hard [2 Ticks] | *Tusc Tarn* | Perfectly disguises the caster's face as someone else. |
+| Complex [2 Ticks] | *Tusc Bild Klan Birg* | Completely cloaks a group in perfect audiovisual invisibility. |
+| Miracle [4+ Ticks] | *Tusc Bild Gros* | Creates a flawless, moving illusion of an entire fake army. |
 
 # Lore deep dive
 

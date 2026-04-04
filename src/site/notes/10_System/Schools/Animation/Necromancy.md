@@ -21,11 +21,11 @@ Necromancy is the universally reviled black art of animating corpses using artif
 # Example Spells
 | Geometric Scale | Glyph Sequence | Manifestation |
 | :--- | :--- | :--- |
-| Trivial [0 Mana] | *Lebe Knoc Klen* | Makes a skeletal hand twitch and grasp. |
-| Regular [1 Mana] | *Lebe Leic Gehh* | Animates a zombie and makes it walk forward. |
-| Hard [2 Mana] | *Lebe Leic Wach* | Raises a skeleton and orders it to guard a doorway. |
-| Complex [4 Mana] | *Lebe Knoc Gros Werk* | Animates a massive skeletal beast to attack. |
-| Miracle [7 Mana] | *Lebe Leic Seel* | Binds a powerful, intelligent soul into a perfect undead vessel. |
+| Trivial [0 Ticks] | *Lebe Knoc Klen* | Makes a skeletal hand twitch and grasp. |
+| Regular [1 Tick] | *Lebe Leic Gehh* | Animates a zombie and makes it walk forward. |
+| Hard [2 Ticks] | *Lebe Leic Wach* | Raises a skeleton and orders it to guard a doorway. |
+| Complex [2 Ticks] | *Lebe Knoc Gros Werk* | Animates a massive skeletal beast to attack. |
+| Miracle [4+ Ticks] | *Lebe Leic Seel* | Binds a powerful, intelligent soul into a perfect undead vessel. |
 
 # Lore deep dive
 

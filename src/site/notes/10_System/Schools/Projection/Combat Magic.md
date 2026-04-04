@@ -21,11 +21,11 @@ Combat Magic is not a standalone discipline — it is a category of practice and
 # Example Spells
 | Geometric Scale | Glyph Sequence | Manifestation |
 | :--- | :--- | :--- |
-| Trivial [0 Mana] | [[50_Magic/Glyphs/1_Functions/Schf\|Schf]] [[50_Magic/Glyphs/3_Characteristics/Lict\|Lict]] [[50_Magic/Glyphs/4_Modifiers/Schn\|Schn]] | A fast-moving spark to distract. |
-| Regular [1 Mana] | [[50_Magic/Glyphs/1_Functions/Schf\|Schf]] [[50_Magic/Glyphs/3_Characteristics/Feur\|Feur]] [[50_Magic/Glyphs/4_Modifiers/Schn\|Schn]] | A quick, targeted bolt of fire. |
-| Hard [2 Mana] | [[50_Magic/Glyphs/1_Functions/Schf\|Schf]] [[50_Magic/Glyphs/4_Modifiers/Nah\|Nah]] [[50_Magic/Glyphs/4_Modifiers/Schn\|Schn]] | A lightning projectile; 2 Damage. |
-| Complex [4 Mana] | [[50_Magic/Glyphs/1_Functions/Schf\|Schf]] [[50_Magic/Glyphs/3_Characteristics/Plaz\|Plaz]] [[50_Magic/Glyphs/4_Modifiers/Kuge\|Kuge]] | A superheated plasma bullet that pierces armor. |
-| Miracle [7 Mana] | [[50_Magic/Glyphs/1_Functions/Schf\|Schf]] [[50_Magic/Glyphs/3_Characteristics/Rein\|Rein]] [[50_Magic/Glyphs/4_Modifiers/Kuge\|Kuge]] [[50_Magic/Glyphs/4_Modifiers/Gros\|Gros]] | A massive, unstoppable railgun blast of pure mana. |
+| Trivial [0 Ticks] | [[50_Magic/Glyphs/1_Functions/Schf\|Schf]] [[50_Magic/Glyphs/3_Characteristics/Lict\|Lict]] [[50_Magic/Glyphs/4_Modifiers/Schn\|Schn]] | A fast-moving spark to distract. |
+| Regular [1 Tick] | [[50_Magic/Glyphs/1_Functions/Schf\|Schf]] [[50_Magic/Glyphs/3_Characteristics/Feur\|Feur]] [[50_Magic/Glyphs/4_Modifiers/Schn\|Schn]] | A quick, targeted bolt of fire. |
+| Hard [2 Ticks] | [[50_Magic/Glyphs/1_Functions/Schf\|Schf]] [[50_Magic/Glyphs/4_Modifiers/Nah\|Nah]] [[50_Magic/Glyphs/4_Modifiers/Schn\|Schn]] | A lightning projectile; Inflicts a Wound. |
+| Complex [2 Ticks] | [[50_Magic/Glyphs/1_Functions/Schf\|Schf]] [[50_Magic/Glyphs/3_Characteristics/Plaz\|Plaz]] [[50_Magic/Glyphs/4_Modifiers/Kuge\|Kuge]] | A superheated plasma bullet that pierces armor. |
+| Miracle [4+ Ticks] | [[50_Magic/Glyphs/1_Functions/Schf\|Schf]] [[50_Magic/Glyphs/3_Characteristics/Rein\|Rein]] [[50_Magic/Glyphs/4_Modifiers/Kuge\|Kuge]] [[50_Magic/Glyphs/4_Modifiers/Gros\|Gros]] | A massive, unstoppable railgun blast of pure mana. |
 
 # Lore deep dive
 

@@ -15,10 +15,15 @@ You understand the economy of favors, the reality of violence, and the fact that
 
 ---
 
+## Fictional Permission
+You instantly recognize the visual markers, tattoos, and territories of Cyoria's local criminal organizations.
+
 ## Mechanical Benefits
 
-- **Starting Bonus:** Gain +1 free dot in **[[Connections\|Connections]]** and +1 free dot in **[[Dexterity\|Dexterity]]**.
-- **Connection — The Black Market:** You know exactly who to talk to when you need something illegal. Once per arc, you can use your underworld ties to procure highly restricted magical materials, hire a professional thief, or completely launder your identity to hide from the authorities.
+**Background Move — Shadow Broker:** When you engage in illicit black-market deals or intimidate someone using implied violence, take +1 to `+Social`.
+
+## Connection (Anchor)
+**Connection — The Black Market:** You know exactly who to talk to when you need something illegal. once per quest, you can use your underworld ties to procure highly restricted magical materials, hire a professional thief, or completely launder your identity to hide from the authorities.
 
 ---
 

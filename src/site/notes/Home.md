@@ -29,12 +29,12 @@ Use the sidebar to browse, or press `Ctrl+K` to search.
 > [!info] Tip
 > Use the sidebar on the left to navigate through the folder structure of the vault.
 
-| File                                                              | Last Modified             |
-| ----------------------------------------------------------------- | ------------------------- |
-| [[90_AI_Context/INSTRUCTIONS\|INSTRUCTIONS]]                   | 12:30 AM - April 04, 2026 |
-| [[90_AI_Context/AI Rules Primer\|AI Rules Primer]]             | 12:30 AM - April 04, 2026 |
-| [[00_Meta/Character Sheet Template\|Character Sheet Template]] | 12:30 AM - April 04, 2026 |
-| [[10_System/Attributes/Magical/Willpower\|Willpower]]          | 12:30 AM - April 04, 2026 |
-| [[10_System/Attributes/Magical/Finesse\|Finesse]]              | 12:30 AM - April 04, 2026 |
+| File                                                                            | Last Modified            |
+| ------------------------------------------------------------------------------- | ------------------------ |
+| [[10_System/Backgrounds/Industrial Pioneer\|Industrial Pioneer]]             | 3:17 PM - April 04, 2026 |
+| [[10_System/Backgrounds/Foreign Exchange Student\|Foreign Exchange Student]] | 3:17 PM - April 04, 2026 |
+| [[10_System/Backgrounds/Alchemist's Apprentice\|Alchemist's Apprentice]]     | 3:15 PM - April 04, 2026 |
+| [[10_System/Backgrounds/Disgraced Nobility\|Disgraced Nobility]]             | 3:15 PM - April 04, 2026 |
+| [[10_System/Backgrounds/Dungeon Scavenger\|Dungeon Scavenger]]               | 3:15 PM - April 04, 2026 |
 
 { .block-language-dataview}

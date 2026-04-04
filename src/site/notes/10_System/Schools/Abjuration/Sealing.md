@@ -21,11 +21,11 @@ Sealing is the highly specialized application of Abjuration and Ward magic focus
 # Example Spells
 | Geometric Scale | Glyph Sequence | Manifestation |
 | :--- | :--- | :--- |
-| Trivial [0 Mana] | *Scht Slos Klen* | Magically locks a simple wooden door. |
-| Regular [1 Mana] | *Scht Kett* | Creates ethereal chains to bind a target's wrists. |
-| Hard [2 Mana] | *Scht Nill Slos* | Seals a magical item, preventing its use. |
-| Complex [4 Mana] | *Scht Kett Gros* | Summons massive chains of light to pin down a giant beast. |
-| Miracle [7 Mana] | *Scht Kett Fang* | Completely chains a mythic entity in place, absorbing all the magic it attempts to cast. |
+| Trivial [0 Ticks] | *Scht Slos Klen* | Magically locks a simple wooden door. |
+| Regular [1 Tick] | *Scht Kett* | Creates ethereal chains to bind a target's wrists. |
+| Hard [2 Ticks] | *Scht Nill Slos* | Seals a magical item, preventing its use. |
+| Complex [2 Ticks] | *Scht Kett Gros* | Summons massive chains of light to pin down a giant beast. |
+| Miracle [4+ Ticks] | *Scht Kett Fang* | Completely chains a mythic entity in place, absorbing all the magic it attempts to cast. |
 
 # Lore deep dive
 

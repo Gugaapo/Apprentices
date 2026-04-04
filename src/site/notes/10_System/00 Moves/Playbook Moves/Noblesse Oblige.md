@@ -4,6 +4,6 @@
 
 # Noblesse Oblige
 
-*A Playbook Move for [[10_System/04 Playbooks/The Heir\|The Heir]]*
+*A Playbook Move for [[00_Meta/Playbooks/The Heir\|The Heir]]*
 
 When you command an ally to do something reckless while providing covering fire or a ward, you may add your `Social` to their resulting roll instead of their own attribute.

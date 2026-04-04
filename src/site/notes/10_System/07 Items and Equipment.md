@@ -58,7 +58,7 @@ These are single-use items that are destroyed (or consumed) upon activation. If 
 ---
 
 ### Spell Formula Items
-These are pre-inscribed magical items powered by a **[[50_Magic/Glossary/Spell Formula\|Spell Formula]]**. They are physically carved with glyph roots. They can be activated almost instantly (a free action) without a Casting Roll, but cost **double the usual [[10_System/Glossary/mana\|mana]]** to fuel. Unlike alchemy, these items are rarely consumed, serving as reliable but inefficient backup magic.
+These are pre-inscribed magical items powered by a **[[50_Magic/Glossary/Spell Formula\|Spell Formula]]**. They are physically carved with glyph roots. They can be activated almost instantly (a free action) without a Casting Roll, but cost **2 Ticks on your Mana Track** to fuel. Unlike alchemy, these items are rarely consumed, serving as reliable but inefficient backup magic.
 
 ---
 
@@ -74,4 +74,4 @@ A magical focus is a tool (wand, staff, ring, specific gem) designed to stabiliz
 ---
 
 
-[[10_System/06 Crafting\|Crafting]] ================================================== [[08 Crafting\|Crafting]]
+[[10_System/06 Crafting\|Crafting]] ================================================== [[10_System/10 Apprentices SRD\|Apprentices SRD]]

@@ -4,13 +4,12 @@
 
 # Engrave Artifice
 
-*A Magic Move. Requires the target Root Words in your Grimoire (or an ally's) and an Anchor Material Cache.*
+*A Magic Move. Requires known Glyphs and exotic materials.*
 
-When you **spend 1 Full Day (3 Time Slots) and an Anchor Material Cache to carve Root Words into a physical medium**, roll.
-*(Roll `2d6 + Finesse` or `2d6 + Calculation`)*
+When you **dedicate safe downtime and materials to carve a spell matrix into a physical object**, tell the GM the intended effect and roll `+Finesse` or `+Calculation`.
 
-- **10+ (Strong Hit):** Your engraving is geometrically perfect. Gain **2 Progress points** toward the Item's Complexity.
-- **7-9 (Mixed Success):** The matrix is temperamental. Gain **1 Progress point**, but the engraving was intensely taxing; suffer **1 Mana Strain**.
-- **6- (Miss):** 0 Progress points. The matrix destabilizes. You take **1 Physical Wound** from mana feedback, the physical item shatters, and the Cache is lost. The GM makes a Hard Move.
+- **10+:** Flawless geometry. The item holds the matrix securely; anyone who holds it can trigger the spell once with no casting roll required.
+- **7-9:** The matrix is volatile. It works, but choose a flaw: its activation requires a painful blood toll (user takes 1-Wound), it shatters violently upon use causing collateral, or the effect is dangerously exaggerated.
+- **6-:** The geometry violently rejects the medium. The materials ignite or shatter, you suffer spiritual feedback (take 1-Wound), and the GM makes a Hard Move.
 
-> **Usage:** Once crafted, firing an Artifice item ignores the caster's Calculation limit, activates instantly, and requires **no 2d6 casting roll**. However, it causes **Double the normal Mana cost** for those spell roots due to the inefficiency of pushing raw mana passively through a physical object.
+> **Usage:** Once crafted, firing an Artifice item ignores your Calculation limit, activates instantly, and requires **no 2d6 casting roll**. However, because pushing raw ambient mana through a physical object is fiercely inefficient, activating an Artifice item forcefully ticks **2 boxes** on the user's **Mana Track**, regardless of the spell's actual scale.

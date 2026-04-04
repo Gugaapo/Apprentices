@@ -11,11 +11,15 @@
 ## Description
 You are exceptionally gifted. The Academy accepted you early — you're younger than your classmates, and you know more than most of them. You solved problems in your entrance exam that stumped applicants twice your age. But brilliance comes at a cost: you're socially isolated, physically underdeveloped compared to your peers, and under enormous pressure to perform from everyone who invested in your admission.
 
-## Starting Bonus
-Gain the **[[Academic Prodigy\|Academic Prodigy]]** merit for free (does not cost Merit points). You learn faster and understand magical theory at a level beyond your years.
+## Fictional Permission
+You inherently understand complex magical theory that typically confuses older students.
 
-## Connection
-**Academic Patron.** A senior professor or Academy benefactor has taken a personal interest in your development. Once per arc, they may intervene on your behalf — offering private tutoring, shielding you from political trouble, or providing access to advanced resources. However, they expect results.
+## Mechanical Benefits
+
+**Background Move — Photographic Matrix:** When you witness an enemy cast a spell, you may roll `+Memory`. On a 10+, you instantly add their spell root to your Grimoire for the remainder of the quest.
+
+## Connection (Anchor)
+**Academic Patron.** A senior professor or Academy benefactor has taken a personal interest in your development. once per quest, they may intervene on your behalf — offering private tutoring, shielding you from political trouble, or providing access to advanced resources. However, they expect results.
 
 ## Roleplay Hooks
 - Your patron has enemies who see you as a way to embarrass them. You're a pawn in a game you don't fully understand.

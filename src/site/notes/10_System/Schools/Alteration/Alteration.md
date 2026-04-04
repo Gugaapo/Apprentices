@@ -23,11 +23,11 @@ The science of changing physical properties without adding or removing mass. Alt
 # Example Spells
 | Geometric Scale | Glyph Sequence | Manifestation |
 | :--- | :--- | :--- |
-| Trivial [0 Mana] | [[50_Magic/Glyphs/1_Functions/Andr\|Andr]] [[50_Magic/Glyphs/3_Characteristics/Farb\|Farb]] | Changes a cup from red to blue. |
-| Regular [1 Mana] | [[50_Magic/Glyphs/1_Functions/Andr\|Andr]] [[50_Magic/Glyphs/3_Characteristics/Temp\|Temp]] [[50_Magic/Glyphs/3_Characteristics/Dich\|Dich]] | Warms a weapon slightly and makes it heavier. |
-| Hard [2 Mana] | [[50_Magic/Glyphs/1_Functions/Andr\|Andr]] [[50_Magic/Glyphs/3_Characteristics/Form\|Form]] [[50_Magic/Glyphs/2_Objects/Meta\|Meta]] | Molds an iron bar into handcuffs; requires Transformation. |
-| Complex [4 Mana] | [[50_Magic/Glyphs/1_Functions/Andr\|Andr]] [[50_Magic/Glyphs/2_Objects/Flei\|Flei]] [[50_Magic/Glyphs/1_Functions/Heil\|Heil]] [[50_Magic/Glyphs/4_Modifiers/Gros\|Gros]] | Heals massive lacerations instantly; requires Medical Magic. |
-| Miracle [7 Mana] | [[50_Magic/Glyphs/1_Functions/Andr\|Andr]] [[50_Magic/Glyphs/3_Characteristics/Atom\|Atom]] | Transmutes lead into gold or running water into solid stone permanently. |
+| Trivial [0 Ticks] | [[50_Magic/Glyphs/1_Functions/Andr\|Andr]] [[50_Magic/Glyphs/3_Characteristics/Farb\|Farb]] | Changes a cup from red to blue. |
+| Regular [1 Tick] | [[50_Magic/Glyphs/1_Functions/Andr\|Andr]] [[50_Magic/Glyphs/3_Characteristics/Temp\|Temp]] [[50_Magic/Glyphs/3_Characteristics/Dich\|Dich]] | Warms a weapon slightly and makes it heavier. |
+| Hard [2 Ticks] | [[50_Magic/Glyphs/1_Functions/Andr\|Andr]] [[50_Magic/Glyphs/3_Characteristics/Form\|Form]] [[50_Magic/Glyphs/2_Objects/Meta\|Meta]] | Molds an iron bar into handcuffs; requires Transformation. |
+| Complex [2 Ticks] | [[50_Magic/Glyphs/1_Functions/Andr\|Andr]] [[50_Magic/Glyphs/2_Objects/Flei\|Flei]] [[50_Magic/Glyphs/1_Functions/Heil\|Heil]] [[50_Magic/Glyphs/4_Modifiers/Gros\|Gros]] | Heals massive lacerations instantly; requires Medical Magic. |
+| Miracle [4+ Ticks] | [[50_Magic/Glyphs/1_Functions/Andr\|Andr]] [[50_Magic/Glyphs/3_Characteristics/Atom\|Atom]] | Transmutes lead into gold or running water into solid stone permanently. |
 
 # Specializations
 | Specialization | Unlocked Glyphs |
@@ -61,7 +61,7 @@ When creating Alteration spells, respect these rules:
 - Create structural changes that persist after the mana fades (Miracle only)
 
 **Alteration CANNOT:**
-- **Target Hostile Biology Directly (Soul Cohesion Law):** The internal biology and chemical state of an unwilling, living creature is protected by their Soul Cohesion. Using direct Alteration (like boiling someone's blood or stopping their heart) inside that boundary is automatically a **Miracle (7 Mana)** effect.
+- **Target Hostile Biology Directly (Soul Cohesion Law):** The internal biology and chemical state of an unwilling, living creature is protected by their Soul Cohesion. Using direct Alteration (like boiling someone's blood or stopping their heart) inside that boundary is automatically a **Miracle (4+ Ticks)** effect.
 - **Mimic Projection efficiently (The Principle of Supremacy):** While you *could* vibrate air molecules super fast to create fire, Alteration was built to twist matter, not manifest raw energy. Trying to mimic pure energy effects using Alteration incurs a **+1 Complexity Tax**.
 - Create matter or energy from nothing (that's [[10_System/Schools/Projection/Projection\|Projection]] or [[10_System/Schools/Dimensionalism/Conjuration\|Conjuration]])
 - Move objects through space without physically acting on them (that's [[10_System/Schools/Dimensionalism/Dimensionalism\|Dimensionalism]])

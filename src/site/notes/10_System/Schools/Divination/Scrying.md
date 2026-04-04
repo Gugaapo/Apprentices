@@ -21,11 +21,11 @@ Scrying is the specialized art of gathering visual and auditory information from
 # Example Spells
 | Geometric Scale | Glyph Sequence | Manifestation |
 | :--- | :--- | :--- |
-| Trivial [0 Mana] | *Sehn Bild Klen* | Projects a tiny, blurry image of the next room. |
-| Regular [1 Mana] | *Sehn Auge* | Creates an invisible magical sensor to look through. |
-| Hard [2 Mana] | *Sehn Bild Raum* | Projects a bird's-eye view vision of the surrounding forest. |
-| Complex [4 Mana] | *Sehn Auge Fern* | Places a perfect scrying sensor hundreds of miles away. |
-| Miracle [7 Mana] | *Sehn Auge Alle* | Allows the caster to see everything happening in a massive city simultaneously. |
+| Trivial [0 Ticks] | *Sehn Bild Klen* | Projects a tiny, blurry image of the next room. |
+| Regular [1 Tick] | *Sehn Auge* | Creates an invisible magical sensor to look through. |
+| Hard [2 Ticks] | *Sehn Bild Raum* | Projects a bird's-eye view vision of the surrounding forest. |
+| Complex [2 Ticks] | *Sehn Auge Fern* | Places a perfect scrying sensor hundreds of miles away. |
+| Miracle [4+ Ticks] | *Sehn Auge Alle* | Allows the caster to see everything happening in a massive city simultaneously. |
 
 # Lore deep dive
 

@@ -4,7 +4,7 @@
 
 # Copycat
 
-*A Playbook Move for [[10_System/04 Playbooks/The Prodigy\|The Prodigy]]*
+*A Playbook Move for [[00_Meta/Playbooks/The Prodigy\|The Prodigy]]*
 
 When you observe an enemy cast a spell, roll `+Memory`. 
 - **10+:** You instantly memorize its Formula and can cast it for the rest of the scene as if it were a Mastered Spell.

@@ -9,11 +9,15 @@
 ## Description
 Your family runs a trading business — perhaps magical goods, alchemical supplies, or mundane imports. You understand commerce, negotiation, and the flow of money better than anyone in your year. While other students worry about textbooks, you've already arranged bulk discounts on reagents for the entire dormitory floor.
 
-## Starting Bonus
-Begin with **double starting funds** and a personal stipend. You never lack for basic supplies, quality equipment, or small luxuries.
+## Fictional Permission
+You can roughly appraise the market value of any non-magical item or real estate instantly.
 
-## Connection
-**Trade Contacts.** Your family's business network stretches across the region. Once per session, you can source a specific item, ingredient, or piece of information through trade connections. Rare and restricted items require a [[Charm\|Charm]] roll.
+## Mechanical Benefits
+
+**Background Move — The Bottom Line:** When you roll `+Social` to negotiate a steep discount, secure illegal funds, or bribe an official, take +1 Forward.
+
+## Connection (Anchor)
+**Trade Contacts.** Your family's business network stretches across the region. once per quest, you can source a specific item, ingredient, or piece of information through trade connections. Rare and restricted items require a [[Charm\|Charm]] roll.
 
 ## Roleplay Hooks
 - A family rival is trying to poach your father's best suppliers. You've been asked to help — discreetly.

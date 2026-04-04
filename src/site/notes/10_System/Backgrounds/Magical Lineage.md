@@ -9,11 +9,15 @@
 ## Description
 You come from a family of practising mages. Magic was your bedtime story, your chore list, and your dinner conversation. Where other students struggle with basic mana shaping exercises, you find them almost tediously familiar. You arrived at the Academy already knowing more than most first-years — but the Academy's structured approach to magic is very different from your family's traditions.
 
-## Starting Bonus
-Begin with **1 free dot** in any one Core [[10_System/Glossary/Shaping\|Shaping]] Skill of your choice (this is applied *before* spending your 7 Shaping Points, and does not count against them).
+## Fictional Permission
+You inherently sense when ancient or powerful magic was recently used in your immediate vicinity.
 
-## Connection
-**Family Mentor.** You have a relative who is an established mage. Once per arc, you may write to them for advice on a specific magical problem. The GM provides a useful (but not complete) answer.
+## Mechanical Benefits
+
+**Background Move — Old Blood:** When you roll to *Shape the Matrix* using unstructured, raw magical force instead of a Grimoire formula, treat a 6- as a 7-9 **once per quest**.
+
+## Connection (Anchor)
+**Family Mentor.** You have a relative who is an established mage. once per quest, you may write to them for advice on a specific magical problem. The GM provides a useful (but not complete) answer.
 
 ## Roleplay Hooks
 - Your family practises magic differently from the Academy's methods. Some of your instincts conflict with what the professors teach.

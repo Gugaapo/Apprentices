@@ -23,11 +23,11 @@ Bending the space-time fabric to ignore the inconvenience of physical distance. 
 # Example Spells
 | Geometric Scale | Glyph Sequence | Manifestation |
 | :--- | :--- | :--- |
-| Trivial [0 Mana] | [[50_Magic/Glyphs/1_Functions/Bewg\|Bewg]] [[50_Magic/Glyphs/4_Modifiers/Klen\|Klen]] | Slides a pen across a desk without touching it. |
-| Regular [1 Mana] | [[50_Magic/Glyphs/1_Functions/Bewg\|Bewg]] [[50_Magic/Glyphs/4_Modifiers/Hoch\|Hoch]] | Levitates a heavy rock a few feet off the ground. |
-| Hard [2 Mana] | [[50_Magic/Glyphs/1_Functions/Bewg\|Bewg]] [[50_Magic/Glyphs/4_Modifiers/Ich\|Ich]] [[50_Magic/Glyphs/4_Modifiers/Flhh\|Flhh]] | Blinks the caster 30 feet away instantly; requires Teleportation. |
-| Complex [4 Mana] | [[50_Magic/Glyphs/1_Functions/Schf\|Schf]] [[50_Magic/Glyphs/3_Characteristics/Tohr\|Tohr]] [[50_Magic/Glyphs/4_Modifiers/Fern\|Fern]] | Tears open a stable portal to the other side of a city. |
-| Miracle [7 Mana] | [[50_Magic/Glyphs/1_Functions/Ruff\|Ruff]] [[50_Magic/Glyphs/4_Modifiers/Gros\|Gros]] [[50_Magic/Glyphs/2_Objects/Wese\|Wese]] | Summons an ancient beast from the deep wilderness directly into the room; requires Summoning. |
+| Trivial [0 Ticks] | [[50_Magic/Glyphs/1_Functions/Bewg\|Bewg]] [[50_Magic/Glyphs/4_Modifiers/Klen\|Klen]] | Slides a pen across a desk without touching it. |
+| Regular [1 Tick] | [[50_Magic/Glyphs/1_Functions/Bewg\|Bewg]] [[50_Magic/Glyphs/4_Modifiers/Hoch\|Hoch]] | Levitates a heavy rock a few feet off the ground. |
+| Hard [2 Ticks] | [[50_Magic/Glyphs/1_Functions/Bewg\|Bewg]] [[50_Magic/Glyphs/4_Modifiers/Ich\|Ich]] [[50_Magic/Glyphs/4_Modifiers/Flhh\|Flhh]] | Blinks the caster 30 feet away instantly; requires Teleportation. |
+| Complex [2 Ticks] | [[50_Magic/Glyphs/1_Functions/Schf\|Schf]] [[50_Magic/Glyphs/3_Characteristics/Tohr\|Tohr]] [[50_Magic/Glyphs/4_Modifiers/Fern\|Fern]] | Tears open a stable portal to the other side of a city. |
+| Miracle [4+ Ticks] | [[50_Magic/Glyphs/1_Functions/Ruff\|Ruff]] [[50_Magic/Glyphs/4_Modifiers/Gros\|Gros]] [[50_Magic/Glyphs/2_Objects/Wese\|Wese]] | Summons an ancient beast from the deep wilderness directly into the room; requires Summoning. |
 
 # Specializations
 | Specialization | Unlocked Glyphs |
@@ -61,7 +61,7 @@ Dimensionalism requires precise spatial [[10_System/Attributes/Magical/Calculati
 - Conjure physical matter by pulling it from another location or dimension (via [[10_System/Schools/Dimensionalism/Conjuration\|Conjuration]])
 
 **Dimensionalism CANNOT:**
-- **Target Hostile Coordinates Directly (Soul Cohesion Law):** Living beings project an aura of spiritual interference. You cannot directly teleport an object *inside* an unwilling creature, nor teleport their internal organs out. Any attempt to cast a direct Dimensional spell targeting the internal coordinates of a hostile creature's Soul Cohesion boundary is automatically a **Miracle (7 Mana)** effect.
+- **Target Hostile Coordinates Directly (Soul Cohesion Law):** Living beings project an aura of spiritual interference. You cannot directly teleport an object *inside* an unwilling creature, nor teleport their internal organs out. Any attempt to cast a direct Dimensional spell targeting the internal coordinates of a hostile creature's Soul Cohesion boundary is automatically a **Miracle (4+ Ticks)** effect.
 - Generate energy (that's [[10_System/Schools/Projection/Projection\|Projection]])
 - Alter the properties of matter at the destination (that's [[10_System/Schools/Alteration/Alteration\|Alteration]])
 - Perceive what's at the destination without a secondary [[10_System/Schools/Divination/Divination\|Divination]] effect

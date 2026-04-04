@@ -22,7 +22,13 @@ If you have the appropriate glyphs, you trigger **Shape the Matrix**.
 
 *Note: You do not use Target Numbers (TNs), nor are there abstract "Mana Pools". A 10+ is an objective success. A 7-9 means you succeed but suffer narrative complications or explicit Harm due to the soul strain.*
 
----
+### The Mana Track (Fueling the Matrix)
+You cannot spam reality-altering geometry endlessly. Your character has a **Mana Track** derived from `4 + Willpower`. Rather than abstract points, this is a **Strain/Stress track**:
+*   **Trivial Spells:** 0 Ticks. (Minor tricks; risk without fuel cost).
+*   **Standard Spells:** 1 Tick. (Combat spells, physical manipulation over rooms).
+*   **Complex/Hard Spells:** 2 Ticks. (Area clearing, mass manipulation).
+*   **Miracle Spells:** 4+ Ticks. (The GM dictates the exact cost up to the entirety of your track depending on the narrative stakes).
+*Once your track is completely full, you take 1-Wound of Physical Harm for every further mark you are forced to make.*---
 
 ## 2. The Language of Magic (The Geometric Index)
 
@@ -89,6 +95,13 @@ There is no "Mana Burn" math. Failing to structure geometry perfectly causes imm
 5. **Geometric Blindness:** The specific `Function` or `Medium` spatial structure you just used is "burned out" of your mind. You cannot use it again until you take a beat to let your neuro-pathways reset.
 6. **The Monkey's Paw:** The spell achieves *exactly* what you asked for, but in the most unhelpful literal biological or physical interpretation possible.
 
+### 6- Hard Moves by Medium
+When a spell catastrophically fails on a **Miss (6-)**, the GM makes a Hard Move. Because magic is geometric and physical, that Hard Move should be directly tied to the *Medium* you failed to control:
+*   **Fire/Plasma (`Feur`/`Plaz`):** It rapidly expands, consuming oxygen or setting an ally/crucial item ablaze. (Take a Wound from burning or suffocation).
+*   **Force/Gravity (`Kraf`/`Dich`):** The vector reverses or magnifies violently, pinning the caster to the ceiling or crushing their limbs.
+*   **Illusion/Mind (`Bild`/`Um`):** The matrix collapses inward. Your own senses are completely isolated or scrambled (Blind/Deaf), or you manifest a terrible nightmare into reality.
+*   **Dimensional/Space (`Raum`/`Tohr`):** You teleport into solid matter, severing a limb (Wound), or open a gateway that immediately violently sucks something important into the void.
+
 ### Wards and Reactions
 Targets are not passive. If an enemy shoots magic at you, you may use a Mastered defensive spell as an instant Reaction using the **Deflect Magic** Move, but relying too heavily on desperate reactions will quickly accumulate strain.
 
@@ -100,9 +113,10 @@ Targets are not passive. If an enemy shoots magic at you, you may use a Mastered
 Syntax: `[FUNCTION] + [MEDIUM] + [TAGS (Modifiers)]`
 *Example: Lebe (Animate) + Waff (Weapon) + [Restraining]*
 
-### 2. CHECK FICTIONAL POSITIONING
+### 2. CHECK FICTIONAL POSITIONING & COST
 - Does your character know these glyphs?
 - Does your geometric index logically match the scale of the intent? 
+- Dictate the Mana Track Cost (0 to 4+ ticks).
 - *If pushing the limit: Accept pre-emptive Harm or a GM complication.*
 
 ### 3. ROLL THE DICE

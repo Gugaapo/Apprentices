@@ -52,8 +52,8 @@ Any sustained spell or triggered ward directly anchors itself to your focus, mak
 ---
 
 ## 4. The Laws of Magic
-1. **Frail Scaffolding (Calculation Limit):** You may attach unlimited Modifiers to a spell matrix. However, for every Modifier *exceeding* your safe limit (`Calculation`), the spell suffers a **+1 Mana Tax** and you instantly suffer **1 Physical Wound** from neural strain, regardless of success.
-2. **Soul Cohesion:** You cannot directly target the internal biology, space, or chemistry of an unwilling living being. Breaking Soul Cohesion forces the spell's Complexity to **Miracle (7 Mana)**.
+1. **Frail Scaffolding (Calculation Limit):** You may attach unlimited Modifiers to a spell matrix. However, for every Modifier *exceeding* your safe limit (`Calculation`), the spell suffers a **+1 Tick Tax** and you instantly suffer **1 Physical Wound** from neural strain, regardless of success.
+2. **Soul Cohesion:** You cannot directly target the internal biology, space, or chemistry of an unwilling living being. Breaking Soul Cohesion forces the spell's Complexity to **Miracle (4+ Ticks)**.
 4. **Principle of Supremacy:** Attempting to mimic raw energy (`Tvor`) using physical matter manipulation (`Prom`) causes inefficiency, adding a **+1 Complexity Tax** to the spell.
 
 ---
@@ -104,4 +104,4 @@ Any sustained spell or triggered ward directly anchors itself to your focus, mak
 * `Schn` (Fast / Projectile)
 
 
-[[10_System/09 Items and Equipment\|Items and Equipment]] =================================================
+[[09 Items and Equipment\|Items and Equipment]] =================================================

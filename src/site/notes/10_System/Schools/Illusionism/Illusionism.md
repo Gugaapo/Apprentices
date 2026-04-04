@@ -23,11 +23,11 @@ Hijacking the sensory input of reality. Illusionism doesn't change physical matt
 # Example Spells
 | Geometric Scale | Glyph Sequence | Manifestation |
 | :--- | :--- | :--- |
-| Trivial [0 Mana] | [[50_Magic/Glyphs/1_Functions/Tusc\|Tusc]] [[50_Magic/Glyphs/3_Characteristics/Klan\|Klan]] | Creates the faint sound of footsteps in an empty hall. |
-| Regular [1 Mana] | [[50_Magic/Glyphs/1_Functions/Tusc\|Tusc]] [[50_Magic/Glyphs/3_Characteristics/Bild\|Bild]] [[50_Magic/Glyphs/4_Modifiers/Birg\|Birg]] | Bends light around someone to turn them invisible; requires Glamour. |
-| Hard [2 Mana] | [[50_Magic/Glyphs/1_Functions/Tusc\|Tusc]] [[50_Magic/Glyphs/3_Characteristics/Tast\|Tast]] [[50_Magic/Glyphs/3_Characteristics/Pein\|Pein]] | Creates phantom sensations of severe burning on a target's skin; 2 Mental Damage. |
-| Complex [4 Mana] | [[50_Magic/Glyphs/1_Functions/Tusc\|Tusc]] [[50_Magic/Glyphs/2_Objects/Geis\|Geis]] [[50_Magic/Glyphs/3_Characteristics/Ernn\|Ernn]] | Replaces the last 10 minutes of a guard's memory; requires Mind Magic. |
-| Miracle [7 Mana] | [[50_Magic/Glyphs/1_Functions/Tusc\|Tusc]] [[50_Magic/Glyphs/3_Characteristics/Trau\|Trau]] [[50_Magic/Glyphs/4_Modifiers/Gros\|Gros]] | Traps a target's consciousness entirely inside a fabricated, inescapable lucid nightmare. |
+| Trivial [0 Ticks] | [[50_Magic/Glyphs/1_Functions/Tusc\|Tusc]] [[50_Magic/Glyphs/3_Characteristics/Klan\|Klan]] | Creates the faint sound of footsteps in an empty hall. |
+| Regular [1 Tick] | [[50_Magic/Glyphs/1_Functions/Tusc\|Tusc]] [[50_Magic/Glyphs/3_Characteristics/Bild\|Bild]] [[50_Magic/Glyphs/4_Modifiers/Birg\|Birg]] | Bends light around someone to turn them invisible; requires Glamour. |
+| Hard [2 Ticks] | [[50_Magic/Glyphs/1_Functions/Tusc\|Tusc]] [[50_Magic/Glyphs/3_Characteristics/Tast\|Tast]] [[50_Magic/Glyphs/3_Characteristics/Pein\|Pein]] | Creates phantom sensations of severe burning on a target's skin; Inflicts a Sanity Wound. |
+| Complex [2 Ticks] | [[50_Magic/Glyphs/1_Functions/Tusc\|Tusc]] [[50_Magic/Glyphs/2_Objects/Geis\|Geis]] [[50_Magic/Glyphs/3_Characteristics/Ernn\|Ernn]] | Replaces the last 10 minutes of a guard's memory; requires Mind Magic. |
+| Miracle [4+ Ticks] | [[50_Magic/Glyphs/1_Functions/Tusc\|Tusc]] [[50_Magic/Glyphs/3_Characteristics/Trau\|Trau]] [[50_Magic/Glyphs/4_Modifiers/Gros\|Gros]] | Traps a target's consciousness entirely inside a fabricated, inescapable lucid nightmare. |
 
 # Specializations
 | Specialization | Unlocked Glyphs |

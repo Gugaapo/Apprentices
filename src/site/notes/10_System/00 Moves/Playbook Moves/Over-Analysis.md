@@ -4,7 +4,7 @@
 
 # Over-Analysis
 
-*A Playbook Move for [[10_System/04 Playbooks/The Grinder\|The Grinder]]*
+*A Playbook Move for [[00_Meta/Playbooks/The Grinder\|The Grinder]]*
 
 When you recall knowledge to deduce a monster's exact geometric weakness, roll `+Calculation` instead of `+Mental`. 
 - **10+:** You learn its vulnerability and take +1 ongoing against it for the scene.

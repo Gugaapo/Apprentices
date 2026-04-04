@@ -101,10 +101,10 @@ A **Playbook** represents your starting archetype. It provides your base attribu
 > You will select both a Background (Step 1) and a Playbook. For example, you can choose the *Street Rat* background, but play *The Prodigy* playbook. This means you have the raw magical intuition of a Prodigy, but you apply it with the flavor and underground connections of a Street Rat!
 
 Select one of the four Core Playbooks. Each playbook file contains everything you need for Step 3 and Step 5:
-- **[[10_System/04 Playbooks/The Heir\|The Heir]]:** Vast political power, high expectations, family secrets.
-- **[[10_System/04 Playbooks/The Grinder\|The Grinder]]:** No natural talent, surviving purely on extreme study and grit.
-- **[[10_System/04 Playbooks/The Prodigy\|The Prodigy]]:** Terrifying raw intuition, but lacks control and discipline.
-- **[[10_System/04 Playbooks/The Tinkerer\|The Tinkerer]]:** Relies heavily on crafted gear, alchemy, and artifice.
+- **[[00_Meta/Playbooks/The Heir\|The Heir]]:** Vast political power, high expectations, family secrets.
+- **[[00_Meta/Playbooks/The Grinder\|The Grinder]]:** No natural talent, surviving purely on extreme study and grit.
+- **[[00_Meta/Playbooks/The Prodigy\|The Prodigy]]:** Terrifying raw intuition, but lacks control and discipline.
+- **[[00_Meta/Playbooks/The Tinkerer\|The Tinkerer]]:** Relies heavily on crafted gear, alchemy, and artifice.
 
 *(Note: As you grow, you will be able to take Moves from other sources, including learning them from teachers in the loop).*
 
@@ -130,4 +130,4 @@ Look at your Playbook and choose **2 Playbook Moves**. These define your unique 
 4. **Max Modifiers:** `Calculation`. This is the maximum number of modifiers you can attach to a single Formula.
 5. **Mastered Spells:** While you may keep an unlimited number of formulas annotated in your Grimoire or notes, you can only hold a number of **Mastered Spells** perfectly in your mind equal to your `Memory` rating. You can freely swap which of your known formulas are currently Mastered whenever you are outside of combat or a tense roleplay scene. Mastered spells lower their Complexity Category by 1 step for you (reducing Mana cost by 1, minimum 1), and trigger the "Cast a Spell" move faster in the fiction.
 
-[[10_System/02 Economy\|Economy]] ========================================= [[10_System/04 Playbooks/00 Playbook Template\|Playbook Templates]]
+[[10_System/02 Economy\|Economy]] ========================================= [[00_Meta/Playbooks/00 Playbook Template\|Playbook Templates]]

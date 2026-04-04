@@ -21,11 +21,11 @@ Conjuration creates ectoplasmic constructs for various purposes. Force projectil
 # Example Spells
 | Geometric Scale | Glyph Sequence      | Manifestation                                                                                     |
 | :--------------- | :-------------------- | :---------------------------------------------------------------------------------------------------- |
-| Trivial [0 Mana] | *Schf Zeug Klen*      | A simple ectoplasmic hand that can grip, push, or drag small objects.                                 |
-| Regular [1 Mana] | *Scht Zeug Wand*      | A conjured full-body ectoplasmic barrier that absorbs incoming force and most spells.                 |
-| Hard [2 Mana]    | *Schf Zeug Werk*      | A weightless, hovering platform capable of supporting the caster and equipment.                       |
-| Complex [4 Mana] | *Scht Zeug Wand Gros* | A thick, instant fortification wall that blocks passage, projectiles, and most spells.                |
-| Milacre [7 Mana] | *Schf Zeug Werk Lebe* | A fully formed, humanoid ectoplasmic construct capable of independent movement. (Requires Animation). |
+| Trivial [0 Ticks] | *Schf Zeug Klen*      | A simple ectoplasmic hand that can grip, push, or drag small objects.                                 |
+| Regular [1 Tick] | *Scht Zeug Wand*      | A conjured full-body ectoplasmic barrier that absorbs incoming force and most spells.                 |
+| Hard [2 Ticks]    | *Schf Zeug Werk*      | A weightless, hovering platform capable of supporting the caster and equipment.                       |
+| Complex [2 Ticks] | *Scht Zeug Wand Gros* | A thick, instant fortification wall that blocks passage, projectiles, and most spells.                |
+| Milacre [4+ Ticks] | *Schf Zeug Werk Lebe* | A fully formed, humanoid ectoplasmic construct capable of independent movement. (Requires Animation). |
 
 # Lore deep dive
 

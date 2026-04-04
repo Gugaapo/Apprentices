@@ -15,10 +15,15 @@ You view the entitled noble scions around you with a mix of envy and disdain. Th
 
 ---
 
+## Fictional Permission
+You know how to identify city guard patrol routes and find safe places to sleep in the slums.
+
 ## Mechanical Benefits
 
-- **Starting Bonus:** Gain +1 free dot in **[[10_System/Attributes/Magical/Willpower\|Willpower]]** and +1 free dot in **[[Dexterity\|Dexterity]]**.
-- **Connection — State Network:** You know how to navigate the bureaucratic blindspots of Eldemar's social services and infrastructure. Once per session, you can call in a favor from a former ward-mate or sympathetic clerk to access low-profile state resources, forge minor identification, or find a safe place to hide within the city's lower-class districts.
+**Background Move — Self Preservation:** When you flee from a vastly superior threat or attempt to squeeze through a desperate escape route, roll `+Physical` with **Advantage**.
+
+## Connection (Anchor)
+**Connection — State Network:** You know how to navigate the bureaucratic blindspots of Eldemar's social services and infrastructure. once per quest, you can call in a favor from a former ward-mate or sympathetic clerk to access low-profile state resources, forge minor identification, or find a safe place to hide within the city's lower-class districts.
 
 ---
 

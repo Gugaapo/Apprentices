@@ -21,11 +21,11 @@ Soul Carving is the most invasive, agonizing, and universally reviled branch of 
 # Example Spells
 | Geometric Scale | Glyph Sequence | Manifestation |
 | :--- | :--- | :--- |
-| Trivial [0 Mana] | *Reis Mahl Klen* | Leaves a temporary, harmless magical mark on a soul. |
-| Regular [1 Mana] | *Reis Mahl Rinn* | Brands a target so their mana slowly leaks away. |
-| Hard [2 Mana] | *Reis Seel Bind* | Grafts a minor magical affinity onto the caster's soul. |
-| Complex [4 Mana] | *Reis Seel Mahl* | Brands an agonizing slaver's mark directly onto an enemy's soul. |
-| Miracle [7 Mana] | *Reis Seel Bind Fetz* | Tears another mage's soul apart and permanently grafts their magical power onto the caster. |
+| Trivial [0 Ticks] | *Reis Mahl Klen* | Leaves a temporary, harmless magical mark on a soul. |
+| Regular [1 Tick] | *Reis Mahl Rinn* | Brands a target so their mana slowly leaks away. |
+| Hard [2 Ticks] | *Reis Seel Bind* | Grafts a minor magical affinity onto the caster's soul. |
+| Complex [2 Ticks] | *Reis Seel Mahl* | Brands an agonizing slaver's mark directly onto an enemy's soul. |
+| Miracle [4+ Ticks] | *Reis Seel Bind Fetz* | Tears another mage's soul apart and permanently grafts their magical power onto the caster. |
 
 # Lore deep dive
 

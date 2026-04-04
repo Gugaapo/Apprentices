@@ -4,6 +4,6 @@
 
 # Combat Artifice
 
-*A Playbook Move for [[10_System/04 Playbooks/The Tinkerer\|The Tinkerer]]*
+*A Playbook Move for [[00_Meta/Playbooks/The Tinkerer\|The Tinkerer]]*
 
 You do not suffer the standard "Double Mana Cost" penalty when firing an Artifice item that you personally crafted.

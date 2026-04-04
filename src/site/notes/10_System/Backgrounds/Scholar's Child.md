@@ -9,11 +9,15 @@
 ## Description
 Your parents are academics — researchers, historians, or Academy staff. You grew up in libraries and lecture halls, surrounded by the smell of old paper and the sound of scholarly arguments. You've read more books than most third-years, and your theoretical knowledge is exceptional. But you've never been in a real fight, and the social dynamics of student life are a mystery.
 
-## Starting Bonus
-Gain the **[[Eidetic Memory\|Eidetic Memory]]** merit for free (does not cost Merit points). You have near-perfect recall of anything you've read.
+## Fictional Permission
+You know exactly what section of a library or academy archive to check first for any given topic.
 
-## Connection
-**Library Access.** You know the Academy's restricted archives better than most professors. Once per arc, you may access a restricted text or obscure reference that provides critical information on a research topic.
+## Mechanical Benefits
+
+**Background Move — Archive Rat:** When you spend a Time Slot doing deep, obscure research in a library, treat a 6- as a 7-9 **once per quest**.
+
+## Connection (Anchor)
+**Library Access.** You know the Academy's restricted archives better than most professors. once per quest, you may access a restricted text or obscure reference that provides critical information on a research topic.
 
 ## Roleplay Hooks
 - One of your parents is a professor at the Academy. This creates awkward situations in class.

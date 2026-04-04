@@ -4,7 +4,7 @@
 
 # MacGyver
 
-*A Playbook Move for [[10_System/04 Playbooks/The Tinkerer\|The Tinkerer]]*
+*A Playbook Move for [[00_Meta/Playbooks/The Tinkerer\|The Tinkerer]]*
 
 When you desperately repair a broken mechanism or rig a temporary trap in combat, roll `+Mental`. 
 - **10+:** It holds perfectly. 

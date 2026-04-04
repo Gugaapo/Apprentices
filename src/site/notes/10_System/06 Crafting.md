@@ -20,7 +20,7 @@ Artifice anchors Root Words into physical mediums for instant casting. The craft
 
 * **Time Cost:** 1 Full Day (3 Time Slots) per crafting attempt. Consumes 1 Anchor Material Cache. 
 * **Resolution:** Refer to the [[10_System/00 Moves/Magic Moves/Engrave Artifice\|Engrave Artifice]] Move. The crafter (or a willing ally) must also possess the necessary Root Words in their Grimoire to engrave them. You roll `2d6 + Finesse` to generate Progress points.
-* **Usage:** Once crafted, firing an Artifice item ignores the caster's Calculation limit, activates instantly, and requires **no 2d6 casting roll**. However, it causes **Double the normal Mana cost** for those spell roots due to the inefficiency of pushing raw mana passively through a physical object.
+* **Usage:** Once crafted, firing an Artifice item ignores the caster's Calculation limit, activates instantly, and requires **no 2d6 casting roll**. However, it instantly costs **2 Ticks on the Mana Track** due to the inefficiency of pushing raw mana passively through a physical object.
 
 > [!TIP] Collaborative Crafting
 > Allies can help! An ally can spend a matching Time Slot to Assist the crafting roll (+1 to the roll), or supply the necessary magic (e.g., providing the Formula if the crafter hasn't learned it). 

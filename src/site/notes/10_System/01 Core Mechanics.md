@@ -17,6 +17,12 @@ You roll two six-sided dice (2d6) and add the relevant **Attribute**.
 - **7-9 (Mixed Success):** You succeed, but there's a cost, complication, or compromise. The GM will offer you a hard choice or an enemy will retaliate.
 - **6- (Miss):** Things go wrong. The GM will make a "Hard Move," altering the fiction to introduce danger, damage, or an unexpected setback.
 
+### Roll Modifiers
+Sometimes a Move or situation will grant you a mechanical modifier to your 2d6 roll:
+*   **+1 [[10_System/Glossary/Forward\|Forward]]:** You get a flat +1 bonus to your *very next* relevant roll.
+*   **[[10_System/Glossary/Advantage\|Advantage]]:** You roll 3d6 and keep the highest two dice.
+*   **Disadvantage:** You roll 3d6 and keep the lowest two dice.
+
 ### Mastered Spells & Joint Casting
 - **Mastered Spells:** You can hold a vast collection of formulas written in a Grimoire, but you can only memorize a number of **Mastered Spells** equal to your [[10_System/Attributes/Magical/Memory\|Memory]] attribute. Mastered spells have lower Mana costs and can be cast faster in the fiction. You can freely swap which formulas are currently Mastered whenever you are not in combat or a tense roleplaying scene.
 - **Joint Casting:** Two players can work together using the **Joint Casting** move, allowing them to combine their Calculation pools and share the Mana cost of massive spells.

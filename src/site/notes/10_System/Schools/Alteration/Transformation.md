@@ -21,11 +21,11 @@ Transformation magic changes a target's form, in whole or in part, through shape
 # Example Spells
 | Geometric Scale | Glyph Sequence | Manifestation |
 | :--- | :--- | :--- |
-| Trivial [0 Mana] | *Andr Farb Holz* | Changes the color of a wooden staff. |
-| Regular [1 Mana] | *Andr Form Holz* | Bends a branch into a perfect bow shape. |
-| Hard [2 Mana] | *Andr Form Meta* | Molds an iron bar into handcuffs. |
-| Complex [4 Mana] | *Andr Zust Meta* | Liquefies a metal door instantly. |
-| Miracle [7 Mana] | *Andr Atom Meta Luft* | Transmutes solid iron into breathable air. |
+| Trivial [0 Ticks] | *Andr Farb Holz* | Changes the color of a wooden staff. |
+| Regular [1 Tick] | *Andr Form Holz* | Bends a branch into a perfect bow shape. |
+| Hard [2 Ticks] | *Andr Form Meta* | Molds an iron bar into handcuffs. |
+| Complex [2 Ticks] | *Andr Zust Meta* | Liquefies a metal door instantly. |
+| Miracle [4+ Ticks] | *Andr Atom Meta Luft* | Transmutes solid iron into breathable air. |
 
 # Lore deep dive
 

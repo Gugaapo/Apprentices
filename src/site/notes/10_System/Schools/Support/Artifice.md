@@ -11,7 +11,7 @@ Artifice is the practice of physically carving geometric shapes and Glyphs (Func
 > 
 > **1. Instant Activation:** Firing an Artifice ignores the caster's Calculation limit. It activates instantly—often as a reaction or free action.
 > **2. No Rolling Required:** Using an Artifice requires **no 2d6 casting roll** (it represents automatic baseline success).
-> **3. Double Mana Cost (The Built-In Limit):** Pushing raw mana passively through a physical object is wildly inefficient. Firing an Artifice instantly causes **Double the normal Mana cost** for those spell roots. This heavy inefficiency tax is the hard limit on the system: while a player can prepare 10 loaded wands during downtime, they mathematically cannot spam them endlessly without burning out their own aura.
+> **3. Extreme Mana Track Drain (The Built-In Limit):** Pushing raw mana passively through a physical object is wildly inefficient compared to bleeding it organically through live spiritual canals in a human soul. Firing an Artifice instantly costs **2 Ticks on the Mana Track**, regardless of the spell's actual scale. This ensures items cannot be spammed indefinitely without severe aura exhaustion.
 
 ## Mechanical Focus
 

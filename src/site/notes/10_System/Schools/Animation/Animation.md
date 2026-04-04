@@ -23,11 +23,11 @@ Infusing fragments of the soul and logic into inanimate objects or corpses. It i
 # Example Spells
 | Geometric Scale | Glyph Sequence | Manifestation |
 | :--- | :--- | :--- |
-| Trivial [0 Mana] | [[50_Magic/Glyphs/1_Functions/Lebe\|Lebe]] [[50_Magic/Glyphs/4_Modifiers/Gehh\|Gehh]] | Makes a broom sweep the floor by itself. |
-| Regular [1 Mana] | [[50_Magic/Glyphs/1_Functions/Lebe\|Lebe]] [[50_Magic/Glyphs/4_Modifiers/Folg\|Folg]] [[50_Magic/Glyphs/2_Objects/Ding\|Ding]] | Makes a lantern float and follow you down a dark tunnel. |
-| Hard [2 Mana] | [[50_Magic/Glyphs/1_Functions/Lebe\|Lebe]] [[50_Magic/Glyphs/3_Characteristics/Leic\|Leic]] [[50_Magic/Glyphs/4_Modifiers/Wach\|Wach]] | Raises a skeleton and orders it to guard a doorway; requires Necromancy. |
-| Complex [4 Mana] | [[50_Magic/Glyphs/1_Functions/Lebe\|Lebe]] [[50_Magic/Glyphs/3_Characteristics/Baut\|Baut]] [[50_Magic/Glyphs/2_Objects/Werk\|Werk]] | Animates a massive stone golem to dig a tunnel or fight; requires Golemancy. |
-| Miracle [7 Mana] | [[50_Magic/Glyphs/1_Functions/Lebe\|Lebe]] [[50_Magic/Glyphs/2_Objects/Seel\|Seel]] | Breathes terrifying, permanent pseudo-sentience into a colossal dread-construct. |
+| Trivial [0 Ticks] | [[50_Magic/Glyphs/1_Functions/Lebe\|Lebe]] [[50_Magic/Glyphs/4_Modifiers/Gehh\|Gehh]] | Makes a broom sweep the floor by itself. |
+| Regular [1 Tick] | [[50_Magic/Glyphs/1_Functions/Lebe\|Lebe]] [[50_Magic/Glyphs/4_Modifiers/Folg\|Folg]] [[50_Magic/Glyphs/2_Objects/Ding\|Ding]] | Makes a lantern float and follow you down a dark tunnel. |
+| Hard [2 Ticks] | [[50_Magic/Glyphs/1_Functions/Lebe\|Lebe]] [[50_Magic/Glyphs/3_Characteristics/Leic\|Leic]] [[50_Magic/Glyphs/4_Modifiers/Wach\|Wach]] | Raises a skeleton and orders it to guard a doorway; requires Necromancy. |
+| Complex [2 Ticks] | [[50_Magic/Glyphs/1_Functions/Lebe\|Lebe]] [[50_Magic/Glyphs/3_Characteristics/Baut\|Baut]] [[50_Magic/Glyphs/2_Objects/Werk\|Werk]] | Animates a massive stone golem to dig a tunnel or fight; requires Golemancy. |
+| Miracle [4+ Ticks] | [[50_Magic/Glyphs/1_Functions/Lebe\|Lebe]] [[50_Magic/Glyphs/2_Objects/Seel\|Seel]] | Breathes terrifying, permanent pseudo-sentience into a colossal dread-construct. |
 
 # Specializations
 | Specialization | Unlocked Glyphs |
@@ -60,7 +60,7 @@ All casting rolls use **`2d6 + Willpower + Animation`**. Animation scales with t
 - Affect living beings (if the caster is overwhelmingly powerful or the target is willing)
 
 **Animation CANNOT:**
-- **Infiltrate Hostile Biology (Soul Cohesion Law):** Living beings passively project an aura of spiritual interference. You cannot directly seize control of an unwilling creature's nervous system or animate their internal biology without overwhelming their Soul Cohesion. Any attempt to directly animate the body of a hostile, living creature is automatically a **Miracle (7 Mana)** effect.
+- **Infiltrate Hostile Biology (Soul Cohesion Law):** Living beings passively project an aura of spiritual interference. You cannot directly seize control of an unwilling creature's nervous system or animate their internal biology without overwhelming their Soul Cohesion. Any attempt to directly animate the body of a hostile, living creature is automatically a **Miracle (4+ Ticks)** effect.
 - Create intelligence that exceeds the caster's own
 - Generate energy or alter matter (the construct still needs Projection or Alteration for those)
 - Produce sensory deceptions (that's [[10_System/Schools/Illusionism/Illusionism\|Illusionism]])

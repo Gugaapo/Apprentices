@@ -12,7 +12,7 @@ Mechanically, **Shaping Skills** represent a mage's fluency with these canal str
 The difference between types of magic lies in the precision of the canals:
 
 *   **Unstructured Magic (Tier 0):** The mage is essentially "shaping in the air," clumsily forcing ambient mana to flow into a vague shape through pure visualization without a rigid map. 
-    *   *Mechanics:* Unstructured casting typically costs **1 Mana** and requires **no dice roll**—it simply succeeds. 
+    *   *Mechanics:* Unstructured casting typically costs **1 Tick** and requires **no dice roll**—it simply succeeds. 
     *   *Limitations:* Because the canals are unrefined and highly unstable, Unstructured Magic can *never* be used to deal damage, inflict penalties, or solve complex challenges instantly. It is strictly for minor, harmless parlor tricks (like warming tea, creating a faint spark, or lifting a pebble).
 
 *   **Structured Magic (Spell Canals):** To bypass the limitations of unstructured shaping, mages use Structured Magic—rigid, highly complex architectures of mana canals invoked via studied mental structures, chants, and gestures. 

@@ -21,11 +21,11 @@ Chronomancy is an intensely theoretical and resource-heavy discipline. While tru
 # Example Spells
 | Geometric Scale | Glyph Sequence | Manifestation |
 | :--- | :--- | :--- |
-| Trivial [0 Mana] | *Sehn Zeit Klen* | Senses exactly what time of day it is. |
-| Regular [1 Mana] | *Sehn Schn* | Slightly accelerates the caster's perception of time. |
-| Hard [2 Mana] | *Sehn Lang* | Slows down perception to see a flying arrow clearly. |
-| Complex [4 Mana] | *Sehn Wart* | Briefly pauses the caster's flow of time to avoid an attack. |
-| Miracle [7 Mana] | *Sehn Zeit Suta Alle* | Perfectly calculates and reacts to all timelines in a fight. |
+| Trivial [0 Ticks] | *Sehn Zeit Klen* | Senses exactly what time of day it is. |
+| Regular [1 Tick] | *Sehn Schn* | Slightly accelerates the caster's perception of time. |
+| Hard [2 Ticks] | *Sehn Lang* | Slows down perception to see a flying arrow clearly. |
+| Complex [2 Ticks] | *Sehn Wart* | Briefly pauses the caster's flow of time to avoid an attack. |
+| Miracle [4+ Ticks] | *Sehn Zeit Suta Alle* | Perfectly calculates and reacts to all timelines in a fight. |
 
 # Lore deep dive
 

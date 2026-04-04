@@ -21,11 +21,11 @@ Negation is the art of dispelling, disrupting, or negating other magical effects
 # Example Spells
 | Geometric Scale | Glyph Sequence | Manifestation |
 | :--- | :--- | :--- |
-| Trivial [0 Mana] | [[50_Magic/Glyphs/1_Functions/Leer\|Leer]] [[50_Magic/Glyphs/4_Modifiers/Klen\|Klen]] | A brief shimmer that deletes minor magical sparks. |
-| Regular [1 Mana] | [[50_Magic/Glyphs/1_Functions/Leer\|Leer]] [[50_Magic/Glyphs/3_Characteristics/Luft\|Luft]] | Unravels a simple maintained spell matrix like a floating light. |
-| Hard [2 Mana] | [[50_Magic/Glyphs/4_Modifiers/Ende\|Ende]] [[50_Magic/Glyphs/4_Modifiers/Wand\|Wand]] | Aggressively ends any sustained spell matrix, including Wards. |
-| Complex [4 Mana] | [[50_Magic/Glyphs/1_Functions/Leer\|Leer]] [[50_Magic/Glyphs/4_Modifiers/Gros\|Gros]] | Shatters and entirely nullifies a complex, incoming fireball mid-flight. |
-| Miracle [7 Mana] | [[50_Magic/Glyphs/1_Functions/Leer\|Leer]] [[50_Magic/Glyphs/4_Modifiers/Kres\|Kres]] [[50_Magic/Glyphs/4_Modifiers/Fang\|Fang]] | A massive screen that blocks and negates all hostile magic in an area. |
+| Trivial [0 Ticks] | [[50_Magic/Glyphs/1_Functions/Leer\|Leer]] [[50_Magic/Glyphs/4_Modifiers/Klen\|Klen]] | A brief shimmer that deletes minor magical sparks. |
+| Regular [1 Tick] | [[50_Magic/Glyphs/1_Functions/Leer\|Leer]] [[50_Magic/Glyphs/3_Characteristics/Luft\|Luft]] | Unravels a simple maintained spell matrix like a floating light. |
+| Hard [2 Ticks] | [[50_Magic/Glyphs/4_Modifiers/Ende\|Ende]] [[50_Magic/Glyphs/4_Modifiers/Wand\|Wand]] | Aggressively ends any sustained spell matrix, including Wards. |
+| Complex [2 Ticks] | [[50_Magic/Glyphs/1_Functions/Leer\|Leer]] [[50_Magic/Glyphs/4_Modifiers/Gros\|Gros]] | Shatters and entirely nullifies a complex, incoming fireball mid-flight. |
+| Miracle [4+ Ticks] | [[50_Magic/Glyphs/1_Functions/Leer\|Leer]] [[50_Magic/Glyphs/4_Modifiers/Kres\|Kres]] [[50_Magic/Glyphs/4_Modifiers/Fang\|Fang]] | A massive screen that blocks and negates all hostile magic in an area. |
 
 # Lore deep dive
 
