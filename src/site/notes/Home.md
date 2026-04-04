@@ -31,10 +31,10 @@ Use the sidebar to browse, or press `Ctrl+K` to search.
 
 | File                                                                     | Last Modified             |
 | ------------------------------------------------------------------------ | ------------------------- |
-| [[10_System/04 Playbooks/00 Playbook Template\|00 Playbook Template]] | 11:48 PM - April 03, 2026 |
-| [[10_System/04 Playbooks/The Tinkerer\|The Tinkerer]]                 | 11:48 PM - April 03, 2026 |
-| [[10_System/04 Playbooks/The Prodigy\|The Prodigy]]                   | 11:48 PM - April 03, 2026 |
-| [[10_System/04 Playbooks/The Heir\|The Heir]]                         | 11:47 PM - April 03, 2026 |
-| [[10_System/03 Character Creation\|03 Character Creation]]            | 11:46 PM - April 03, 2026 |
+| [[10_System/Schools/Animation/Golemancy\|Golemancy]]                  | 12:22 AM - April 04, 2026 |
+| [[10_System/05 Magic System\|05 Magic System]]                        | 12:21 AM - April 04, 2026 |
+| [[10_System/00 Moves/Magic Moves/Shape the Matrix\|Shape the Matrix]] | 12:20 AM - April 04, 2026 |
+| [[10_System/Schools/Support/Divine Magic\|Divine Magic]]              | 12:19 AM - April 04, 2026 |
+| [[10_System/Schools/Support/Artifice\|Artifice]]                      | 12:19 AM - April 04, 2026 |
 
 { .block-language-dataview}

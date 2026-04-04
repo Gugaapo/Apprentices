@@ -47,7 +47,7 @@ The Academy doesn't just teach you magic, it certifies you for a *profession*. U
 ### The Dangers
 Being a mage is not glamorous. It is *dangerous*:
 
-- **[[10_System/Glossary/Mana Burn\|Mana Burn]]:** Push your body beyond its limits and your own mana will tear you apart from the inside, triggering the Exhaustion Cascade.
+- **[[Mana Burn\|Mana Burn]]:** Push your body beyond its limits and your own mana will tear you apart from the inside, triggering the Exhaustion Cascade.
 - **[[10_System/Glossary/Soul Integrity\|Soul Integrity]]:** The soul is not invincible. Overuse of certain magics, exposure to powerful curses, or tampering with forces beyond your understanding can permanently scar it.
 - **Sanity:** The things you will see in the [[30_Locations/Other/Dungeon\|Dungeon]], the horrors you will face, and the moral compromises you may be forced to make all take a psychological toll. Mages who lose too much of themselves become "Hollows", empty shells.
 - **Politics:** The Noble Houses, the Church, the military, and the criminal underworld all want a piece of you. Staying neutral is nearly impossible.
@@ -125,10 +125,9 @@ Look at your Playbook and choose **2 Playbook Moves**. These define your unique 
 
 ## Step 6: Academy & Derived Stats
 1. **Choose 1 Mentor Professor:** Pick exactly 1 Professor to be your mentor.
-2. **[[10_System/Glossary/Mana Capacity\|Mana Capacity]]:** `4 + Core Resonance` (Highest of Calculation, Finesse, or Willpower).
-3. **Physical Health:** You have a track of **7 Boxes**. Earning wounds inflicts narrative complications and ongoing penalties on physical rolls.
-4. **[[10_System/Glossary/Soul Integrity\|Soul Integrity]] & Sanity:** Each has **10 Boxes**.
-5. **Max Modifiers:** `Calculation`. This is the maximum number of modifiers you can attach to a single Formula.
-6. **Mastered Spells:** While you may keep an unlimited number of formulas annotated in your Grimoire or notes, you can only hold a number of **Mastered Spells** perfectly in your mind equal to your `Memory` rating. You can freely swap which of your known formulas are currently Mastered whenever you are outside of combat or a tense roleplay scene. Mastered spells lower their Complexity Category by 1 step for you (reducing Mana cost by 1, minimum 1), and trigger the "Cast a Spell" move faster in the fiction.
+2. **Physical Health:** You have a track of **7 Boxes**. Earning wounds inflicts narrative complications and ongoing penalties on physical rolls.
+3. **[[10_System/Glossary/Soul Integrity\|Soul Integrity]] & Sanity:** Each has **10 Boxes**.
+4. **Max Modifiers:** `Calculation`. This is the maximum number of modifiers you can attach to a single Formula.
+5. **Mastered Spells:** While you may keep an unlimited number of formulas annotated in your Grimoire or notes, you can only hold a number of **Mastered Spells** perfectly in your mind equal to your `Memory` rating. You can freely swap which of your known formulas are currently Mastered whenever you are outside of combat or a tense roleplay scene. Mastered spells lower their Complexity Category by 1 step for you (reducing Mana cost by 1, minimum 1), and trigger the "Cast a Spell" move faster in the fiction.
 
 [[10_System/02 Economy\|Economy]] ========================================= [[10_System/04 Playbooks/00 Playbook Template\|Playbook Templates]]

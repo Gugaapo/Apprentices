@@ -19,7 +19,7 @@ Transformation magic changes a target's form, in whole or in part, through shape
 | **Transformation** | [[50_Magic/Glyphs/2_Objects/Meta\|Meta]] (Metal), [[50_Magic/Glyphs/2_Objects/Holz\|Holz]] (Wood/Plant), [[50_Magic/Glyphs/3_Characteristics/Luft\|Luft]] (Air) |
 
 # Example Spells
-| Complexity Level | Spell Invocation | Spell Description |
+| Geometric Scale | Glyph Sequence | Manifestation |
 | :--- | :--- | :--- |
 | Trivial [0 Mana] | *Andr Farb Holz* | Changes the color of a wooden staff. |
 | Regular [1 Mana] | *Andr Form Holz* | Bends a branch into a perfect bow shape. |

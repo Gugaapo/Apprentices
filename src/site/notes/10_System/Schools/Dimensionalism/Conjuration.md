@@ -19,7 +19,7 @@ Conjuration creates ectoplasmic constructs for various purposes. Force projectil
 | **Conjuration** | [[50_Magic/Glyphs/2_Objects/Zeug\|Zeug]] (Matter/Ectoplasm), [[50_Magic/Glyphs/2_Objects/Werk\|Werk]] (Tool/Construct) |
 
 # Example Spells
-| Complexity Level | Spell Invocation      | Spell Description                                                                                     |
+| Geometric Scale | Glyph Sequence      | Manifestation                                                                                     |
 | :--------------- | :-------------------- | :---------------------------------------------------------------------------------------------------- |
 | Trivial [0 Mana] | *Schf Zeug Klen*      | A simple ectoplasmic hand that can grip, push, or drag small objects.                                 |
 | Regular [1 Mana] | *Scht Zeug Wand*      | A conjured full-body ectoplasmic barrier that absorbs incoming force and most spells.                 |

@@ -21,7 +21,7 @@ A forbidden branch. While other magics play with the physical world, Soul Magic 
 > Extreme manifestations of Soul Magic—such as [[50_Magic/Glyphs/1_Functions/Saug\|Saug]] (Drain/Leech), [[50_Magic/Glyphs/4_Modifiers/Fetz\|Fetz]] (Shred/Destroy), [[50_Magic/Glyphs/3_Characteristics/Qual\|Qual]] (Agony/Suffering), and [[50_Magic/Glyphs/3_Characteristics/Angs\|Angs]] (Fear/Madness)—cannot be learned academically. They are Wild Glyphs that must be discovered in the world.
 
 # Example Spells
-| Complexity Level | Spell Invocation | Spell Description |
+| Geometric Scale | Glyph Sequence | Manifestation |
 | :--- | :--- | :--- |
 | Trivial [0 Mana] | [[50_Magic/Glyphs/1_Functions/Reis\|Reis]] [[50_Magic/Glyphs/4_Modifiers/Rinn\|Rinn]] | Causes a target's nose to bleed slightly from raw spiritual pressure. |
 | Regular [1 Mana] | [[50_Magic/Glyphs/1_Functions/Reis\|Reis]] [[50_Magic/Glyphs/3_Characteristics/Angs\|Angs]] | Forces a spike of pure, unadulterated primal terror onto a target's soul. |
@@ -78,3 +78,7 @@ All casting rolls use **`2d6 + Willpower + Soul Magic`**. Soul Magic is the only
 **The Requirement of Soul Sight:**
 Soul magic is impossible to practice without first obtaining "soul sight"—the ability to perceive souls directly. Acquiring soul sight is an extremely difficult and dangerous process for most people, often risking permanent psychological or spiritual damage. Because it is highly illegal, only rogue criminals and specialized priests (who are granted exemptions or divine workarounds) specialize in it. It is exceedingly rare to see a standard mage capable of performing even basic Soul Magic.
 
+:::hidden
+### The Truth of "Soulkill" in the Time Loop
+When a looper or a target is subjected to a "Soulkill" attack (such as the one [[40_People/NPCs/Enemies/Red Robe\|Red Robe]] uses against the [[70_Bestiary/Sapient_Species/Aranea\|Aranea]]), their soul is not actually permanently destroyed in the real world. Instead, the attack applies a highly specific, permanent marker to their simulated soul. The Sovereign Gate's mechanism reads this marker at the end of the month and simply *chooses not to recreate them* in the next restart. To everyone inside the simulation, they appear to have been completely erased from existence, but their original, real-world soul remains untouched outside the loop.
+:::

@@ -4,9 +4,10 @@
 
 # Channel Unstructured Magic
 
-*A Magic Move. Available to all Students.*
+*A Magic Move. Available to all Casters.*
 
-When you **abandon formulas and blast raw, unshaped mana through verbal intent alone**, roll `+Willpower`.
-- **Requirement:** This instantly costs **Mana Spent + 1**, and physically hurts you.
-- **10+:** You force the mana into reality. The effect happens precisely.
-- **7-9:** It happens, but the raw mana burns. You take 1 Physical Wound immediately *(ignoring shields)*.
+When you **abandon formulas and blast raw, unshaped mana through sheer force of will**, roll `+Willpower`.
+- **Requirements:** Because you lack a stabilizing structure, this act violently tears your organic channels. You **MUST** take 1-Wound immediately, regardless of success.
+- **10+:** You force the mana into reality. The raw, blunt effect happens precisely as you need it to.
+- **7-9:** The magic manifests, but the lack of structure causes severe backlash. You achieve the core of your intent, but the GM chooses a complication from the Mistranslation Menu (e.g., intense collateral damage, taking an additional wound, or alerting enemies).
+- **6-:** Total catastrophic backlash. The GM makes a Hard Move.

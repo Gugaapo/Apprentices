@@ -17,9 +17,9 @@ Mana comes in two main types: personal (or attuned) mana and ambient (or raw) ma
 
 All beings with a soul have access to personal mana. However, modern magical theory understands that mages do not simply have an abstract "pool" of mana that empties and refills. Instead, the limiting factor is **Mana Capacity**. 
 
-Mages refer to their safe limit as their **[[10_System/Glossary/Mana Capacity\|Mana Capacity]]**. This represents how much magical physics their spiritual canals and physical body can process before the friction starts tearing their flesh apart. When a mage weaves geometric Glyphs to cast a spell, they are physically pushing this energy through their body.
+Mages refer to their safe limit as their **[[Mana Capacity\|Mana Capacity]]**. This represents how much magical physics their spiritual canals and physical body can process before the friction starts tearing their flesh apart. When a mage weaves geometric Glyphs to cast a spell, they are physically pushing this energy through their body.
 
-If a mage exceeds their Capacity, they suffer from **[[10_System/Glossary/Mana Burn\|Mana Burn]]** (the Exhaustion Cascade). To recover their Capacity, a mage must rest their body and soul to let the spiritual canals cool down and repair the micro-tears caused by channeling. A short rest can restore a small amount of Mana Capacity, while a full night's sleep fully restores their Capacity.
+If a mage exceeds their Capacity, they suffer from **[[Mana Burn\|Mana Burn]]** (the Exhaustion Cascade). To recover their Capacity, a mage must rest their body and soul to let the spiritual canals cool down and repair the micro-tears caused by channeling. A short rest can restore a small amount of Mana Capacity, while a full night's sleep fully restores their Capacity.
 
 If separated from the soul it has been attuned to, personal mana will rapidly degrade into ambient mana – which seems to be the default form of mana when not attuned to anything. This makes attempts to create an external storage of personal mana doomed to failure. Regardless of the method used, the mana will un-attune itself in a matter of minutes.
 

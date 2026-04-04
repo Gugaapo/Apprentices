@@ -19,7 +19,7 @@
 4. **Merits & Flaws:** Take up to 4 Points of Flaws to buy Merits.
 5. **Academy Logistics:** Pick 1 Mentor Professor and 2 Majors.
 6. **Derived Stats:**
-   - **Mana Capacity:** `4 + [[Core Resonance]]` (Highest of Calculation, Finesse, or Willpower)
+   - **Soul Strain:** Pushing magic causes Wounds instead of draining points.
    - **Max Modifiers:** `Calculation`
    - **Health Track:** 7 Boxes (Bruised 0 to Incapacitated)
    - **Soul Integrity & Sanity:** 10 Boxes each
@@ -43,17 +43,11 @@
 **Mana Capacity & Burn:**
 Casting drains your body's Mana Capacity. Every spell costs its Mana Cost. Exceeding your safe Capacity (`4 + [[Core Resonance]]`) causes the Exhaustion Cascade:
 * *Fatigued (1-5 over):* Take 1 Physical Wound per cast.
-* *Exhausted (6-8 over):* Automatic spell failure on bad 2d6 rolls + Wounds.
-* *Depleted (9+ over):* Organ failure / Death.
+## 3. The Rules of Magic
+**Soul Strain & Wounds:**
+Casting does not drain points. It demands Fictional Permission. Exceeding your safe narrative limits or rolling a 7-9 causes immediate physical tearing. A player takes 1-Wound for failing to control their magic, or more if they attempted something massive.
 
-**Unstructured vs. Structured Magic:**
-* **Structured (Formulas):** Prepared, mathematically sound geometry inscribed in your Grimoire. A standard roll using the base Mana Cost.
-* **Unstructured (On-the-Fly):** Dangerous and volatile Intent casting. 
-  * *Intent-First Scaling:* In combat, declare your Intent. The GM assigns the required Complexity (Mana Cost), and you justify it by speaking exactly 1 Function and 1 Object.
-  * *The Penalty:* Unstructured casting naturally tears your canals. It unconditionally drains **Mana Cost + 1** from your Capacity and immediately inflicts **1 Physical Wound** if cast under stress (see Channel Unstructured Magic move).
-
-**Reserved Capacity (The RAM Rule):** 
-Any sustained spell, triggered ward (`Ceka`), or un-discharged magic permanently reduces your maximum Mana Capacity by its cost until it is discharged or dismissed. You cannot rest this capacity back.
+Any sustained spell or triggered ward directly anchors itself to your focus, making further spellcasting riskier until dismissed.
 
 ---
 

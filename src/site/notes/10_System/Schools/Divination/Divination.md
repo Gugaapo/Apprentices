@@ -21,7 +21,7 @@ Magic is fundamentally information. Divination does not change the world; it und
 > Extreme manifestations of Divination—such as [[50_Magic/Glyphs/3_Characteristics/Stim\|Stim]] (Inner Voice), [[50_Magic/Glyphs/2_Objects/Geis\|Geis]] (Surface Thoughts), [[Zuku\|Zuku]] (Future)—cannot be learned academically. They are Wild Glyphs that must be discovered in the world.
 
 # Example Spells
-| Complexity Level | Spell Invocation | Spell Description |
+| Geometric Scale | Glyph Sequence | Manifestation |
 | :--- | :--- | :--- |
 | Trivial [0 Mana] | [[50_Magic/Glyphs/1_Functions/Sehn\|Sehn]] [[50_Magic/Glyphs/2_Objects/Aura\|Aura]] | Determines roughly if a cup is magical. |
 | Regular [1 Mana] | [[50_Magic/Glyphs/1_Functions/Sehn\|Sehn]] [[50_Magic/Glyphs/2_Objects/Geis\|Geis]] [[50_Magic/Glyphs/4_Modifiers/Klen\|Klen]] | Picks up base surface emotions from a target across the room. |

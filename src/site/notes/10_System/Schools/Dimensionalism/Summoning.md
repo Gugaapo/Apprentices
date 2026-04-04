@@ -19,7 +19,7 @@ Summing is a sub-field of Dimensionalism dealing specifically with the retrieval
 | **Summoning**  | [[50_Magic/Glyphs/1_Functions/Ruff\|Ruff]] (Call/Summon), [[50_Magic/Glyphs/2_Objects/Wese\|Wese]] (Creature) |
 
 # Example Spells
-| Complexity Level | Spell Invocation | Spell Description |
+| Geometric Scale | Glyph Sequence | Manifestation |
 | :--- | :--- | :--- |
 | Trivial [0 Mana] | *Ruff Klen Wese* | Summons a tiny, harmless insect from nearby. |
 | Regular [1 Mana] | *Ruff Wese* | Pulls a small animal like a dog or bird to the caster. |

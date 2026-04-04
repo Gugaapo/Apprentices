@@ -39,10 +39,10 @@ These represent the inherent power, processing speed, and physical mana capacity
 
 | Attribute                        | Description                                                                                    |
 | :------------------------------- | :--------------------------------------------------------------------------------------------- |
-| **[[10_System/Attributes/Magical/Memory\|Memory]]**           | Capacity for holding pre-calculated spell architectures in pure muscle memory. Dictates your max limit for Mastered Spells. |
-| **[[10_System/Attributes/Magical/Calculation\|Calculation]]** | Mental RAM. Dictates the max structural complexity of a matrix you can actively shape, and caps your Modifiers (strictly your `Calculation` rating). |
-| **[[10_System/Attributes/Magical/Finesse\|Finesse]]**         | Delicate exactness of weaving multiple glyphs. Used for resisting physical backlash and intricate magic. |
-| **[[10_System/Attributes/Magical/Willpower\|Willpower]]**     | Raw force of intent. Used for Channeling raw magical power. Determines your **Mana Capacity** (`4 + Core Resonance`). |
+| **[[10_System/Attributes/Magical/Memory\|Memory]]**           | Capacity for holding pre-calculated spell architectures in pure muscle memory. Dictates your max limit for instantly recalling complex, multi-tag formulas without strain. |
+| **[[10_System/Attributes/Magical/Calculation\|Calculation]]** | Mental RAM. Dictates the max structural complexity and number of concurrent tags you can safely weave into a single matrix. |
+| **[[10_System/Attributes/Magical/Finesse\|Finesse]]**         | Delicate exactness of weaving multiple glyphs. Used for subtle, precise, or defensive shaping. |
+| **[[10_System/Attributes/Magical/Willpower\|Willpower]]**     | Raw force of intent. Used for pure destruction, channeling unstructured energy, and brute-forcing reality. |
 
 ### 2. Mundane Attributes
 These represent your physical and intellectual capabilities. Base: 0. Max: 3.
@@ -68,10 +68,10 @@ Every character typically has **7 Physical Health Boxes** (unless altered by a P
 - [ ] **Crippled (-4)**: Barely conscious. Can only crawl or speak weakly. -4 penalty.
 - [ ] **Incapacitated**: Unconscious and bleeding out. Death at the end of the scene if untreated.
 
-### [[10_System/Glossary/Mana Capacity\|Mana Capacity]] & [[10_System/Glossary/Mana Burn\|Mana Burn]]
-There is no abstract "mana bar." Instead, you have a **Mana Capacity**, equal to **4 + Core Resonance** *([[10_System/Glossary/Core Resonance\|Core Resonance]] = Highest of Calculation, Finesse, or Willpower)*. Pushing mana through your spiritual canals causes friction. Every spell costs Mana. If the total spent Mana exceeds your Capacity, your body begins to tear itself apart.
-- Exceeding Capacity instantly inflicts the **Mana Fricton** condition, dealing Wounds and causing narrative complications on Magic Moves.
-- A partial rest (sitting in the quad) restores 3 Mana (clears 3 spent Mana). A full night's sleep restores all Mana.
+### [[Soul Strain\|Soul Strain]] & [[Harm\|Harm]]
+There is no abstract "mana bar" to track. Instead, whenever you push magic beyond your safe limits or roll a 7-9 on **Weave the Lexicon**, your organic channels tear. This is called **Soul Strain**, and it inflicts actual **Wounds** on your Physical Health track.
+- A partial rest (sitting quietly) gives you time to focus and can heal 1-Wound caused purely by magic. 
+- Using unstructured magic or casting city-destroying level formulas will demand taking explicit Wounds *before* you even roll.
 
 ---
 

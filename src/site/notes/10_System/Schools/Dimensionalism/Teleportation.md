@@ -19,7 +19,7 @@ Teleportation is the complex art of folding space for instantaneous travel. It r
 | **Teleportation** | [[50_Magic/Glyphs/4_Modifiers/Flhh\|Flhh]] (Flee/Blink), [[50_Magic/Glyphs/4_Modifiers/Ich\|Ich]] (Self) |
 
 # Example Spells
-| Complexity Level | Spell Invocation | Spell Description |
+| Geometric Scale | Glyph Sequence | Manifestation |
 | :--- | :--- | :--- |
 | Trivial [0 Mana] | *Bewg Ich Klen* | Shifts the caster's balance or footing instantly. |
 | Regular [1 Mana] | *Bewg Ich Hoch* | Teleports the caster a few feet straight up. |

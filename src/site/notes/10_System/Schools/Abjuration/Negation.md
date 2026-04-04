@@ -19,7 +19,7 @@ Negation is the art of dispelling, disrupting, or negating other magical effects
 | **Negation** | [[50_Magic/Glyphs/1_Functions/Leer\|Leer]] (Void/Cancel), [[50_Magic/Glyphs/4_Modifiers/Ende\|Ende]] (End/Cease) |
 
 # Example Spells
-| Complexity Level | Spell Invocation | Spell Description |
+| Geometric Scale | Glyph Sequence | Manifestation |
 | :--- | :--- | :--- |
 | Trivial [0 Mana] | [[50_Magic/Glyphs/1_Functions/Leer\|Leer]] [[50_Magic/Glyphs/4_Modifiers/Klen\|Klen]] | A brief shimmer that deletes minor magical sparks. |
 | Regular [1 Mana] | [[50_Magic/Glyphs/1_Functions/Leer\|Leer]] [[50_Magic/Glyphs/3_Characteristics/Luft\|Luft]] | Unravels a simple maintained spell matrix like a floating light. |

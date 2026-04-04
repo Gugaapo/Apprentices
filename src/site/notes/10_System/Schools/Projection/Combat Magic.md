@@ -19,7 +19,7 @@ Combat Magic is not a standalone discipline — it is a category of practice and
 | [[50_Magic/Glyphs/4_Modifiers/Schn\|Schn]] (Fast/Projectile), [[50_Magic/Glyphs/4_Modifiers/Kuge\|Kuge]] (Bullet), [[50_Magic/Glyphs/4_Modifiers/Slag\|Slag]] (Strike) |
 
 # Example Spells
-| Complexity Level | Spell Invocation | Spell Description |
+| Geometric Scale | Glyph Sequence | Manifestation |
 | :--- | :--- | :--- |
 | Trivial [0 Mana] | [[50_Magic/Glyphs/1_Functions/Schf\|Schf]] [[50_Magic/Glyphs/3_Characteristics/Lict\|Lict]] [[50_Magic/Glyphs/4_Modifiers/Schn\|Schn]] | A fast-moving spark to distract. |
 | Regular [1 Mana] | [[50_Magic/Glyphs/1_Functions/Schf\|Schf]] [[50_Magic/Glyphs/3_Characteristics/Feur\|Feur]] [[50_Magic/Glyphs/4_Modifiers/Schn\|Schn]] | A quick, targeted bolt of fire. |

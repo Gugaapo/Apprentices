@@ -19,7 +19,7 @@ Evocation is the aggressive, destructive application of the Projection disciplin
 | **Evocation**  | [[50_Magic/Glyphs/4_Modifiers/Wolk\|Wolk]] (Cloud/Storm), [[50_Magic/Glyphs/4_Modifiers/Knal\|Knal]] (Explosion) |
 
 # Example Spells
-| Complexity Level | Spell Invocation | Spell Description |
+| Geometric Scale | Glyph Sequence | Manifestation |
 | :--- | :--- | :--- |
 | Trivial [0 Mana] | *Schf Lict Wolk* | Creates a harmless, tiny glowing cloud. |
 | Regular [1 Mana] | *Schf Luft Knal* | A small concussive pop that pushes targets back. |

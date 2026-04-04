@@ -21,7 +21,7 @@ Infusing fragments of the soul and logic into inanimate objects or corpses. It i
 > Extreme manifestations of Animation—such as [[50_Magic/Glyphs/2_Objects/Seel\|Seel]] (False Soul), [[Geda\|Geda]] (Independence)—cannot be learned academically. They are Wild Glyphs that must be discovered in the world.
 
 # Example Spells
-| Complexity Level | Spell Invocation | Spell Description |
+| Geometric Scale | Glyph Sequence | Manifestation |
 | :--- | :--- | :--- |
 | Trivial [0 Mana] | [[50_Magic/Glyphs/1_Functions/Lebe\|Lebe]] [[50_Magic/Glyphs/4_Modifiers/Gehh\|Gehh]] | Makes a broom sweep the floor by itself. |
 | Regular [1 Mana] | [[50_Magic/Glyphs/1_Functions/Lebe\|Lebe]] [[50_Magic/Glyphs/4_Modifiers/Folg\|Folg]] [[50_Magic/Glyphs/2_Objects/Ding\|Ding]] | Makes a lantern float and follow you down a dark tunnel. |

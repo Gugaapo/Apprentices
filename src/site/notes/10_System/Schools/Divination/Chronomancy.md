@@ -19,7 +19,7 @@ Chronomancy is an intensely theoretical and resource-heavy discipline. While tru
 | **Chronomancy** | [[50_Magic/Glyphs/4_Modifiers/Schn\|Schn]] (Fast), [[50_Magic/Glyphs/4_Modifiers/Lang\|Lang]] (Slow), [[50_Magic/Glyphs/4_Modifiers/Wart\|Wart]] (Pause) |
 
 # Example Spells
-| Complexity Level | Spell Invocation | Spell Description |
+| Geometric Scale | Glyph Sequence | Manifestation |
 | :--- | :--- | :--- |
 | Trivial [0 Mana] | *Sehn Zeit Klen* | Senses exactly what time of day it is. |
 | Regular [1 Mana] | *Sehn Schn* | Slightly accelerates the caster's perception of time. |

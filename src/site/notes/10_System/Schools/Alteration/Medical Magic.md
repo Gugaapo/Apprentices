@@ -19,7 +19,7 @@ Medical Magic is a multi-disciplinary field combining [[10_System/Schools/Divina
 | **Medical Magic** | [[50_Magic/Glyphs/2_Objects/Flei\|Flei]] (Flesh), [[50_Magic/Glyphs/2_Objects/Blut\|Blut]] (Blood), [[50_Magic/Glyphs/1_Functions/Heil\|Heil]] (Mend/Heal) |
 
 # Example Spells
-| Complexity Level | Spell Invocation | Spell Description |
+| Geometric Scale | Glyph Sequence | Manifestation |
 | :--- | :--- | :--- |
 | Trivial [0 Mana] | *Andr Farb Flei* | Changes skin pigmentation temporarily. |
 | Regular [1 Mana] | *Andr Heil Klen* | Closes a minor cut or bruise. |

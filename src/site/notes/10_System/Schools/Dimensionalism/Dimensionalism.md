@@ -21,7 +21,7 @@ Bending the space-time fabric to ignore the inconvenience of physical distance. 
 > Extreme manifestations of Dimensionalism—such as [[Dime\|Dime]] (Pocket Dimension), [[Riss\|Riss]] (Dimensional Tear)—cannot be learned academically. They are Wild Glyphs that must be discovered in the world.
 
 # Example Spells
-| Complexity Level | Spell Invocation | Spell Description |
+| Geometric Scale | Glyph Sequence | Manifestation |
 | :--- | :--- | :--- |
 | Trivial [0 Mana] | [[50_Magic/Glyphs/1_Functions/Bewg\|Bewg]] [[50_Magic/Glyphs/4_Modifiers/Klen\|Klen]] | Slides a pen across a desk without touching it. |
 | Regular [1 Mana] | [[50_Magic/Glyphs/1_Functions/Bewg\|Bewg]] [[50_Magic/Glyphs/4_Modifiers/Hoch\|Hoch]] | Levitates a heavy rock a few feet off the ground. |

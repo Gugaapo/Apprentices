@@ -19,7 +19,7 @@ Ward magic transforms the temporary defenses of Abjuration into persistent, area
 | **Ward** | [[50_Magic/Glyphs/4_Modifiers/Wart\|Wart]] (Wait/Trigger), [[50_Magic/Glyphs/4_Modifiers/Zone\|Zone]] (Zone/Room) |
 
 # Example Spells
-| Complexity Level | Spell Invocation | Spell Description |
+| Geometric Scale | Glyph Sequence | Manifestation |
 | :--- | :--- | :--- |
 | Trivial [0 Mana] | [[50_Magic/Glyphs/1_Functions/Scht\|Scht]] [[50_Magic/Glyphs/4_Modifiers/Wart\|Wart]] [[50_Magic/Glyphs/4_Modifiers/Klen\|Klen]] | Sets a tiny ward that chimes if crossed. |
 | Regular [1 Mana] | [[50_Magic/Glyphs/1_Functions/Scht\|Scht]] [[50_Magic/Glyphs/4_Modifiers/Zone\|Zone]] | Creates a basic magical boundary around a campsite. |

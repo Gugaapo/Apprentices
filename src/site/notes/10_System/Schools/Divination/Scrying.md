@@ -19,7 +19,7 @@ Scrying is the specialized art of gathering visual and auditory information from
 | **Scrying**    | [[50_Magic/Glyphs/3_Characteristics/Bild\|Bild]] (Image/Vision), [[50_Magic/Glyphs/1_Functions/Auge\|Auge]] (Eye/Sensor) |
 
 # Example Spells
-| Complexity Level | Spell Invocation | Spell Description |
+| Geometric Scale | Glyph Sequence | Manifestation |
 | :--- | :--- | :--- |
 | Trivial [0 Mana] | *Sehn Bild Klen* | Projects a tiny, blurry image of the next room. |
 | Regular [1 Mana] | *Sehn Auge* | Creates an invisible magical sensor to look through. |

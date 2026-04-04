@@ -64,8 +64,7 @@ You have 4 categories of Attributes: Magical, Mental, Physical, and Social. Thes
 ---
 
 ## Step 6: Calculate Derived Stats
-* **Mana Capacity:** `4 + [[Core Resonance]]`. (Going over this limit causes Mana Burn/Exhaustion Cascade).
-* **Physical Health:** 7 Boxes (Bruised 0 to Incapacitated).
+* **Max Health:** 7 Boxes (Bruised through Incapacitated).
 * **Mind Defense (Passive TN):** `6 + Willpower + Highest of (Divination or Abjuration)`.
 * **Soul Integrity:** 10 Boxes.
 * **Sanity:** 10 Boxes.

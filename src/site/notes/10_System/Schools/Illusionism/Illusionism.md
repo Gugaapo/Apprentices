@@ -21,7 +21,7 @@ Hijacking the sensory input of reality. Illusionism doesn't change physical matt
 > Extreme manifestations of Illusionism—such as [[50_Magic/Glyphs/3_Characteristics/Trau\|Trau]] (Dream/Subconscious), [[50_Magic/Glyphs/3_Characteristics/Pein\|Pein]] (Mental Pain), [[50_Magic/Glyphs/3_Characteristics/Dunk\|Dunk]] (Darkness), and [[50_Magic/Glyphs/2_Objects/Geis\|Geis]] (True Belief)—cannot be learned academically. They are Wild Glyphs that must be discovered in the world.
 
 # Example Spells
-| Complexity Level | Spell Invocation | Spell Description |
+| Geometric Scale | Glyph Sequence | Manifestation |
 | :--- | :--- | :--- |
 | Trivial [0 Mana] | [[50_Magic/Glyphs/1_Functions/Tusc\|Tusc]] [[50_Magic/Glyphs/3_Characteristics/Klan\|Klan]] | Creates the faint sound of footsteps in an empty hall. |
 | Regular [1 Mana] | [[50_Magic/Glyphs/1_Functions/Tusc\|Tusc]] [[50_Magic/Glyphs/3_Characteristics/Bild\|Bild]] [[50_Magic/Glyphs/4_Modifiers/Birg\|Birg]] | Bends light around someone to turn them invisible; requires Glamour. |

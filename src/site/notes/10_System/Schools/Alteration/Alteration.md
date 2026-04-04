@@ -21,7 +21,7 @@ The science of changing physical properties without adding or removing mass. Alt
 > Extreme manifestations of Alteration—such as [[50_Magic/Glyphs/3_Characteristics/Schw\|Schw]] (Gravity), [[50_Magic/Glyphs/4_Modifiers/Weic\|Weic]] (Transmute Material)—cannot be learned academically. They are Wild Glyphs that must be discovered in the world.
 
 # Example Spells
-| Complexity Level | Spell Invocation | Spell Description |
+| Geometric Scale | Glyph Sequence | Manifestation |
 | :--- | :--- | :--- |
 | Trivial [0 Mana] | [[50_Magic/Glyphs/1_Functions/Andr\|Andr]] [[50_Magic/Glyphs/3_Characteristics/Farb\|Farb]] | Changes a cup from red to blue. |
 | Regular [1 Mana] | [[50_Magic/Glyphs/1_Functions/Andr\|Andr]] [[50_Magic/Glyphs/3_Characteristics/Temp\|Temp]] [[50_Magic/Glyphs/3_Characteristics/Dich\|Dich]] | Warms a weapon slightly and makes it heavier. |

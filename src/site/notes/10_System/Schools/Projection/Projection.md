@@ -21,7 +21,7 @@ Projection is the brute force of the academic world. To project is to reach into
 > Extreme manifestations of Projection—such as [[50_Magic/Glyphs/4_Modifiers/Nah\|Nah]] (Lightning), [[50_Magic/Glyphs/3_Characteristics/Donn\|Donn]] (Thunder), [[50_Magic/Glyphs/3_Characteristics/Plaz\|Plaz]] (Plasma), [[50_Magic/Glyphs/3_Characteristics/Rein\|Rein]] (Pure Mana) or [[50_Magic/Glyphs/3_Characteristics/Angs\|Angs]] (Beam)—cannot be learned academically. They are Wild Glyphs that must be discovered in the world.
 
 # Example Spells
-| Complexity Level | Spell Invocation | Spell Description |
+| Geometric Scale | Glyph Sequence | Manifestation |
 | :--- | :--- | :--- |
 | Trivial [0 Mana] | [[50_Magic/Glyphs/1_Functions/Schf\|Schf]] [[50_Magic/Glyphs/3_Characteristics/Lict\|Lict]] | Creates a harmless spark of floating light. |
 | Regular [1 Mana] | [[50_Magic/Glyphs/1_Functions/Schf\|Schf]] [[50_Magic/Glyphs/3_Characteristics/Feur\|Feur]] | A searing blast of fire; 1 Damage. |

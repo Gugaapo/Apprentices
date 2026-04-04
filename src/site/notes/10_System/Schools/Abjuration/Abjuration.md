@@ -21,7 +21,7 @@ Bending mana defensively to deny, protect, and isolate. Abjuration is the immova
 > Extreme manifestations of Abjuration—such as [[Absb\|Absb]] (Absorb Energy), [[Refl\|Refl]] (Reflect)—cannot be learned academically. They are Wild Glyphs that must be discovered in the world.
 
 # Example Spells
-| Complexity Level | Spell Invocation | Spell Description |
+| Geometric Scale | Glyph Sequence | Manifestation |
 | :--- | :--- | :--- |
 | Trivial [0 Mana] | [[50_Magic/Glyphs/1_Functions/Scht\|Scht]] [[50_Magic/Glyphs/4_Modifiers/Klen\|Klen]] | Creates a brief shimmering force that deflects a thrown rock. |
 | Regular [1 Mana] | [[50_Magic/Glyphs/1_Functions/Scht\|Scht]] [[50_Magic/Glyphs/4_Modifiers/Wand\|Wand]] | Throws up a floating, flat shield of energy to block an incoming bolt. |

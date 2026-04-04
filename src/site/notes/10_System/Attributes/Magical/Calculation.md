@@ -9,9 +9,9 @@ Your **Calculation** attribute measures your mental processing speed, spatial re
 
 ## Mechanical Uses
 
-Mechanically, Calculation acts as your mental RAM. It combines with your Willpower to determine your total **Mana Capacity**. 
+Mechanically, Calculation acts as your mental RAM in the fiction. It provides **fictional permission** to weave massive, highly complex formulas using dozens of Tags or modifiers. 
 
-Crucially, it dictates your **Modifier Threshold** (how many modifiers you can safely weave into a single Formula without causing **Frail Scaffolding**). Your safe threshold is strictly equal to your `Calculation` rating. If you exceed this, you take automatic Mana Strain (wounds). It also sets your **Ongoing Spell Limit** (the maximum number of active, sustained spells you can maintain at once).
+Crucially, it dictates your **Complexity Limit**. While there isn't a hard mathematical cap, if you attempt to weave a formula that is vastly more complex than your Calculation rating logically allows, the GM will mandate that you take immediate **Harm (Neural Strain)** before you even roll. It also determines how many active, sustained spells you can safely juggle narratively before losing focus.
 
 ### Associated Magic Moves
 - **[[10_System/00 Moves/02 Magic Moves#Joint Casting\|Joint Casting]]:** Used when you link your mental Calculation pool with an ally to mathematically combine your limits for an overwhelming spell.
@@ -24,8 +24,8 @@ Crucially, it dictates your **Modifier Threshold** (how many modifiers you can s
 ## Attribute Tiers
 | Tier | Title | Example Capability |
 | :--- | :--- | :--- |
-| **1** | Novice | Average mental math. **Limit:** 1 Ongoing Spell. 1 Safe Modifier. |
-| **2** | Competent | Quick thinker. Can handle multi-step calculations. **Limit:** 2 Ongoing Spells. 2 Safe Modifiers. |
-| **3** | Skilled | Parallel processing. **Limit:** 3 Ongoing Spells. 3 Safe Modifiers. |
-| **4** | Expert | Advanced parallel processing. **Limit:** 4 Ongoing Spells. 4 Safe Modifiers. |
-| **5** | Master | Supercomputer mind. Can calculate dozens of kinetic vectors perfectly. **Limit:** 5 Ongoing Spells. 5 Safe Modifiers. |
+| **1** | Novice | Average mental math. Can maintain a simple, single ward. Cannot handle complex multiple-tag strings without straining. |
+| **2** | Competent | Quick thinker. Can handle multi-step calculations and dual ongoing spells. |
+| **3** | Skilled | Parallel processing. You have the fictional permission to weave multi-layered formulas on the fly safely. |
+| **4** | Expert | Advanced parallel processing. Capable of maintaining entire defensive perimeters while independently attacking. |
+| **5** | Master | Supercomputer mind. Can calculate dozens of kinetic vectors perfectly and freely weave maximum-complexity spells without strain. |

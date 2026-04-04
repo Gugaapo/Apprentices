@@ -19,7 +19,7 @@ Glamour is the specialized application of Illusionism focused on personal disgui
 | **Glamour**    | [[50_Magic/Glyphs/4_Modifiers/Birg\|Birg]] (Hide/Invisibility), [[50_Magic/Glyphs/4_Modifiers/Tarn\|Tarn]] (Face) |
 
 # Example Spells
-| Complexity Level | Spell Invocation | Spell Description |
+| Geometric Scale | Glyph Sequence | Manifestation |
 | :--- | :--- | :--- |
 | Trivial [0 Mana] | *Tusc Bild Klen* | Creates a tiny, static illusory butterfly. |
 | Regular [1 Mana] | *Tusc Bild Birg* | Bends light around someone to turn them invisible. |

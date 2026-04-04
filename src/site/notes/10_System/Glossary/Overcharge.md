@@ -9,7 +9,7 @@
 When you cast a Structured Spell and score a **10+ (Strong Hit)**, you generate Overcharge. You may immediately select two augmentations or Status effects to apply to the spell, provided the spell’s narrative description supports it. 
 
 ### Common Overcharge Uses
-As defined by the **[[10_System/00 Moves/Magic Moves/Cast a Spell Formula\|Cast a Spell Formula]]** move:
+As defined by the **[[Cast a Spell Formula\|Cast a Spell Formula]]** move:
 *   **Maximize or +Damage:** Maximize the spell's effect or deal +1 damage.
 *   **Containment:** Perfectly contain the spell; reduce the Mana Spent by 1 (minimum 1).
 *   **Duplicate:** Duplicate the effect to a secondary target.

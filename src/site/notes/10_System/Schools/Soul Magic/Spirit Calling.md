@@ -19,7 +19,7 @@ Spirit Calling is the incredibly dangerous and highly illegal branch of Soul Mag
 | **Spirit Calling** | [[50_Magic/Glyphs/2_Objects/Spuk\|Spuk]] (Ghost), [[50_Magic/Glyphs/1_Functions/Sagt\|Sagt]] (Speak) |
 
 # Example Spells
-| Complexity Level | Spell Invocation | Spell Description |
+| Geometric Scale | Glyph Sequence | Manifestation |
 | :--- | :--- | :--- |
 | Trivial [0 Mana] | *Reis Spuk Klen* | Causes a brief chill as a spirit passes near. |
 | Regular [1 Mana] | *Reis Spuk Sagt* | Forces the lingering spiritual imprint of a corpse to whisper its secrets. |

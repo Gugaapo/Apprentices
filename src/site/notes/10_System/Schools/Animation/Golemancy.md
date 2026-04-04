@@ -19,7 +19,7 @@ Golemancy is the respected craft of constructing, animating, and programming com
 | **Golemancy**  | [[50_Magic/Glyphs/3_Characteristics/Baut\|Baut]] (Construct/Statue), [[50_Magic/Glyphs/4_Modifiers/Wach\|Wach]] (Guard) |
 
 # Example Spells
-| Complexity Level | Spell Invocation | Spell Description |
+| Geometric Scale | Glyph Sequence | Manifestation |
 | :--- | :--- | :--- |
 | Trivial [0 Mana] | *Lebe Baut Klen* | Animates a tiny clay figurine to walk. |
 | Regular [1 Mana] | *Lebe Baut Folg* | Makes a stone statue follow the caster. |

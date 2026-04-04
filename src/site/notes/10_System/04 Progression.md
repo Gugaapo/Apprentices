@@ -22,11 +22,10 @@ Study Points represent time spent practicing, reading, attending Academy lecture
 - **Base Study Yield:** Spending a Time Slot studying alone or attending a standard class grants **1 SP** towards a specific goal.
 
 #### What SP Buys (The Costs):
-- **Learn a New Spell Formula:** SP equal to the Spell's Complexity value (e.g., *Complex* formula = 4 SP). In a free-form system, players can combine their known glyphs anytime on the fly (Unstructured). "Learning a New Spell Formula" represents spending downtime to mathematically structure an Unstructured phrase they already know the glyphs for, officially adding it to their spellbook so it no longer suffers the +1 Mana unstructured penalty.
-- **Master a Spell:** SP equal to the Spell's Complexity value. *Max Mastered Spells = [[10_System/Attributes/Magical/Memory\|Memory]].*
-- **Increase an Attribute (Mental, Physical, Social, or Magical):** New Rating × 3 SP. *(e.g., Going from 2 to 3 dots costs 9 SP).*
+- **Increase an Attribute (Mental, Physical, Social, or Magical):** New Rating × 3 SP. *(e.g., Going from 2 to 3 dots costs 9 SP).* **This is your primary form of raw mechanical progression.** As your Attributes improve, your `Weave the Lexicon` rolls become highly reliable, allowing you to manipulate reality with zero collateral damage.
 - **Increase a Core Magic School (1 to 5 dots):** New Rating × 4 SP. *(e.g., Going from 3 to 4 dots in Alteration costs 16 SP).* Obtaining 1 Dot in a Core School permanently unlocks that school's Core Fluency (base Verbs and Nouns) for unstructured casting.
 - **Increase a Specialization (1 to 5 dots):** New Rating x 4 SP. Gaining a dot in an active Specialization grants the student exactly **3 Advanced Modifiers** from that Specialization's distinct vocabulary to add to their Grimoire.
+- **Expand the Lexicon (Discovery Only, NO SP COST):** You cannot simply buy specific custom glyphs in a void. You must discover them in the world—by defeating enemies, stealing from other mages, dissecting magical beast cores, or paying an Archmage for tutoring. Integrating a core Noun or Verb you've gained fictional access to requires downtime, but no SP.
 
 ### 3. Insight Points (IP) - "The Epiphany"
 If SP is time, IP is *breakthroughs*. You cannot become an Archmage just by sitting in a library for 100 years; you have to push your limits, fight for your life, and uncover the secrets of the world. IP is a rare, narrative currency.

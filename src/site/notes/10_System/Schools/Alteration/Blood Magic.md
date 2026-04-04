@@ -19,7 +19,7 @@ Blood Magic deals with the manipulation of a person's life force, usually using 
 | **Blood Magic** | (Forbidden application of Medical Magic - Uses [[50_Magic/Glyphs/2_Objects/Blut\|Blut]] and [[50_Magic/Glyphs/2_Objects/Flei\|Flei]]) |
 
 # Example Spells
-| Complexity Level | Spell Invocation | Spell Description |
+| Geometric Scale | Glyph Sequence | Manifestation |
 | :--- | :--- | :--- |
 | Trivial [0 Mana] | *Andr Blut Klen* | Causes a minor nosebleed in a target. |
 | Regular [1 Mana] | *Andr Blut Pein* | Boils the target's blood slightly, causing intense pain. |

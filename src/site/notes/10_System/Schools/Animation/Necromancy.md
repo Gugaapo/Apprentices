@@ -19,7 +19,7 @@ Necromancy is the universally reviled black art of animating corpses using artif
 | **Necromancy** | [[50_Magic/Glyphs/2_Objects/Knoc\|Knoc]] (Bone), [[50_Magic/Glyphs/3_Characteristics/Leic\|Leic]] (Dead Flesh/Corpse) |
 
 # Example Spells
-| Complexity Level | Spell Invocation | Spell Description |
+| Geometric Scale | Glyph Sequence | Manifestation |
 | :--- | :--- | :--- |
 | Trivial [0 Mana] | *Lebe Knoc Klen* | Makes a skeletal hand twitch and grasp. |
 | Regular [1 Mana] | *Lebe Leic Gehh* | Animates a zombie and makes it walk forward. |

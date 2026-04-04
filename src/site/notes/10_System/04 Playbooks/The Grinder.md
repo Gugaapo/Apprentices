@@ -51,7 +51,7 @@ Assign **3** to Calculation, and **1** to Willpower, Finesse, and Memory.
 *   Someone here thinks I work too hard and tries to force me to relax because...
 *   Someone here is infinitely more talented than me, but I saved their life because...
 
-**Connection Move (Anchor):** Once per loop, when you **spend a Time Slot reaffirming your Connection with an NPC**, roll `+Social`.
+**Connection Move (Anchor):** Once per week, when you **spend a Time Slot reaffirming your Connection with an NPC**, roll `+Social`.
 - **10+:** You heal 1 Sanity, and your Bond grants you a unique piece of insight/leverage for the current problem.
 - **7-9:** You heal 1 Sanity, but something unexpected creates a complication or demands your immediate help.
 - **6-:** They reject you or distance themselves. Take -1 ongoing to Social rolls against them for a week.

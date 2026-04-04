@@ -19,7 +19,7 @@ Sealing is the highly specialized application of Abjuration and Ward magic focus
 | **Sealing**    | `Kett` (Chains/Bind), `Slos` (Lock) |
 
 # Example Spells
-| Complexity Level | Spell Invocation | Spell Description |
+| Geometric Scale | Glyph Sequence | Manifestation |
 | :--- | :--- | :--- |
 | Trivial [0 Mana] | *Scht Slos Klen* | Magically locks a simple wooden door. |
 | Regular [1 Mana] | *Scht Kett* | Creates ethereal chains to bind a target's wrists. |

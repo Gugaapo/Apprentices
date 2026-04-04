@@ -19,7 +19,7 @@ Soul Carving is the most invasive, agonizing, and universally reviled branch of 
 | **Soul Carving** | [[50_Magic/Glyphs/1_Functions/Bind\|Bind]] (Graft/Fuse), [[50_Magic/Glyphs/4_Modifiers/Mahl\|Mahl]] (Sigil/Brand) |
 
 # Example Spells
-| Complexity Level | Spell Invocation | Spell Description |
+| Geometric Scale | Glyph Sequence | Manifestation |
 | :--- | :--- | :--- |
 | Trivial [0 Mana] | *Reis Mahl Klen* | Leaves a temporary, harmless magical mark on a soul. |
 | Regular [1 Mana] | *Reis Mahl Rinn* | Brands a target so their mana slowly leaks away. |

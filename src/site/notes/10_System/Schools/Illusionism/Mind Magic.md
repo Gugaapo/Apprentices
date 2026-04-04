@@ -19,7 +19,7 @@ Mind Magic is the direct manipulation of a living mind — thoughts, emotions, m
 | **Mind Magic** | [[50_Magic/Glyphs/3_Characteristics/Ernn\|Ernn]] (Memory), [[50_Magic/Glyphs/2_Objects/Werk\|Werk]] (Command/Obey) |
 
 # Example Spells
-| Complexity Level | Spell Invocation | Spell Description |
+| Geometric Scale | Glyph Sequence | Manifestation |
 | :--- | :--- | :--- |
 | Trivial [0 Mana] | *Tusc Geis Klen* | Plants a tiny, fleeting distraction in a target's mind. |
 | Regular [1 Mana] | *Tusc Geis Klan* | Makes a target hear a whispered voice in their head. |
