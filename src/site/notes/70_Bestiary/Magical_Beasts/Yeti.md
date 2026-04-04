@@ -5,6 +5,7 @@
 # Yeti
 
 **Category:** Magical Beast / Humanoid
+**Tags:** [Solitary], [Terrifying], [Magical Beast]
 
 ## Description
 A towering, cold-resistant humanoid.
@@ -16,19 +17,14 @@ Immense physical strength and an innate resistance to extreme cold and ice magic
 Adapted to snowy mountainous regions above the [[30_Locations/Other/Dungeon\|Dungeon]], they are highly territorial and dangerous to travelers.
 
 :::hidden
-## Mechanical Stat Block
+## Fictional Mechanics
+**Resilience:** High (Takes severe or coordinated Wounds to kill)
 
-**Health:** 12 Boxes (Massive build)
-**Mind Defense:** 3
-**Armor:** 3 Temporary Health Boxes (Thick fur and blubber)
 
-### Key Attributes (Dice Pools)
-- **Physical:** Strength 6, Athletics 5, Acrobatics 2, Hand-to-Hand 5, Stealth 3 (in snow)
-- **Mental/Magical:** Readiness 3, Willpower 4, Finesse 2, Alteration/Projection (Innate Cold) 3
-- **Social:** Intimidation 5
 
-### Attacks & Abilities
-- **Slam / Rend:** Roll: Strength + Hand-to-Hand (11 dice). Damage: 3 + Successes.
-- **Freezing Roar:** As an action, the Yeti unleashes a blast of cold air. All characters within 10 meters must roll Strength + Athletics (Difficulty 6) or take 2 damage and suffer -1 die to Physical pools for the next round due to numbing cold.
+## GM Moves
+*(When the players roll a Miss (6-), or look to you to see what happens, use these moves):*
+- **Slam / Rend:** Inflicts a Combat Wound.
+- **Freezing Roar:** As an action, the Yeti unleashes a blast of cold air. All characters within 10 meters must roll Strength + Athletics (a difficult position) or take 2 damage and suffer -1 die to Physical pools for the next round due to numbing cold.
 - **Snow Camouflage:** In snowy environments, the Yeti gains +2 dice to Stealth and cannot be tracked by non-magical means.
 :::

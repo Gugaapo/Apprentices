@@ -4,4 +4,6 @@
 
 # Standard Focus
 
+**Effect:** +1 die to spells of any Tier within a specific Core School.
+
 A specialized instrument, such as an Evocation staff or a Seer's orb, tailored for a specific discipline.

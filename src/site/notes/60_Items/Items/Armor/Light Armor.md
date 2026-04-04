@@ -4,5 +4,7 @@
 
 # Light Armor
 
+**Tags:** [Heavy], [Clumsy], [Defensive]
+
 Examples: Chain shirt, reinforced vest.
-Provides 3 Temporary Physical Health Boxes.
+Grants fictional positioning to absorb a brutal physical blow before breaking.

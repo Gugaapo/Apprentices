@@ -15,17 +15,13 @@ They primarily feed on fish and other sea creatures, but they have powerful bite
 ## Broods
 Sea drakes are very social, with their rocky, sea-beaten nesting sites sporting hundreds, possibly thousands of individuals. However, it often appears the drakes are simply tolerating each other’s presence rather than working together. They hunt alone, though they will work together to defend a nesting site. Because of their lack of impressive magical abilities on land, their usual reaction to an attack is to simply flee into the water (where they are much more dangerous) and wait until the attackers leave.
 :::hidden
-## Mechanical Stat Block
+## Fictional Mechanics
+**Resilience:** High (Takes severe or coordinated Wounds to kill)
 
-**Health:** 6 Boxes
-**Mind Defense:** 2
-**Armor:** 2 Temporary Health Boxes (Thick hide)
 
-### Key Attributes (Dice Pools)
-- **Physical:** Strength 4, Athletics 5 (Water) / 1 (Land), Acrobatics 4 (Water) / 0 (Land), Hand-to-Hand 4
-- **Mental/Magical:** Readiness 3, Willpower 3, Finesse 3, Projection (Innate Electricity) 4
 
-### Attacks & Abilities
-- **Electric Bite:** Roll: Strength + Hand-to-Hand (8 dice). Damage: 2 + Successes. If the bite deals damage, it triggers a channeled shock: Roll Finesse + Projection (7 dice) for an additional 2 + Successes (Lightning) damage. Target must roll Strength + Athletics or be Stunned for 1 round.
+## GM Moves
+*(When the players roll a Miss (6-), or look to you to see what happens, use these moves):*
+- **Electric Bite:** Inflicts a Combat Wound. If the bite deals damage, it triggers a channeled shock: Roll Finesse + Projection (7 dice) for an additional 2 + Successes (Lightning) damage. Target must roll Strength + Athletics or be Stunned for 1 round.
 - **Aquatic Apex:** Gains +2 dice to all Physical pools while submerged in water. Suffers a -2 penalty to physical actions on land.
   :::

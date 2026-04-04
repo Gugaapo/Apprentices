@@ -5,6 +5,7 @@
 # Devourer Mantis
 
 **Category:** Magical Beast / Insectoid
+**Tags:** [Solitary], [Terrifying], [Magical Beast]
 
 ## Description
 A massive, aggressive insectoid predator.
@@ -16,19 +17,14 @@ Equipped with razor-sharp scythes capable of slicing through armor and flesh wit
 A dangerous ambush predator found in the [[30_Locations/Other/Dungeon\|Dungeon]].
 
 :::hidden
-## Mechanical Stat Block
+## Fictional Mechanics
+**Resilience:** High (Takes severe or coordinated Wounds to kill)
 
-**Health:** 7 Boxes
-**Mind Defense:** 1
-**Armor:** 4 Temporary Health Boxes (Chitinous exoskeleton)
 
-### Key Attributes (Dice Pools)
-- **Physical:** Strength 4, Athletics 4, Acrobatics 3, Hand-to-Hand 5, Stealth 4
-- **Mental/Magical:** Readiness 4, Willpower 3, Finesse 2
-- **Social:** Intimidation 3
 
-### Attacks & Abilities
-- **Scythe Slash:** Roll: Strength + Hand-to-Hand (9 dice). Damage: 2 + Successes (Slashing).
+## GM Moves
+*(When the players roll a Miss (6-), or look to you to see what happens, use these moves):*
+- **Scythe Slash:** Inflicts a Combat Wound. (Slashing).
 - **Devour:** If the Mantis scores 3 or more successes on an attack against a prone or grappled target, it bites for an additional 2 Base Damage and heals 1 Health Box.
 - **Ambush Predator:** Gains +2 dice to its attack pool when attacking from Stealth.
 :::

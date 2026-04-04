@@ -4,4 +4,6 @@
 
 # Raw Shard - Unrefined
 
+**Effect:** Unstable; rolling a 1 while casting destroys the shard.
+
 A rough, unpolished piece of crystalized mana. Dangerous to tap into heavily.

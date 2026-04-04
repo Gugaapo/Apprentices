@@ -4,5 +4,7 @@
 
 # Military Firearms
 
+**Tags:** [Deadly], [Ranged], [Loud]
+**Effect:** Using this weapon triggers the fictional positioning to inflict an immediate Combat Wound.
+
 Examples: Sniper rifle, explosive rounds.
-This weapon deals an additional 5 Physical Health damage on a successful hit.

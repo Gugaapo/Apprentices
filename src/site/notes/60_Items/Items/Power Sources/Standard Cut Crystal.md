@@ -4,4 +4,6 @@
 
 # Standard Cut Crystal
 
+**Effect:** Resilient and stable.
+
 A legally acquired and safely-cut crystal used by academics and ward-crafters.

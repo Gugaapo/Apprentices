@@ -5,6 +5,7 @@
 # Phase Spider
 
 **Category:** Magical Beast / Arachnid
+**Tags:** [Solitary], [Terrifying], [Magical Beast]
 
 ## Description
 Large, stealthy spiders with an otherworldly, slightly translucent appearance.
@@ -16,19 +17,14 @@ Large, stealthy spiders with an otherworldly, slightly translucent appearance.
 A highly dangerous ambush predator. Their silk is heavily sought after by mages for crafting dimensional and spatial artifacts.
 
 :::hidden
-## Mechanical Stat Block
+## Fictional Mechanics
+**Resilience:** High (Takes severe or coordinated Wounds to kill)
 
-**Health:** 6 Boxes
-**Mind Defense:** 4
-**Armor:** 1 Temporary Health Box
 
-### Key Attributes (Dice Pools)
-- **Physical:** Strength 3, Athletics 4, Acrobatics 5, Hand-to-Hand 4, Stealth 6
-- **Mental/Magical:** Readiness 5, Willpower 4, Finesse 4, Dimensionalism (Innate) 5
-- **Social:** Intimidation 4
 
-### Attacks & Abilities
-- **Phase Bite:** Roll: Strength + Hand-to-Hand (7 dice). Damage: 2 + Successes.
+## GM Moves
+*(When the players roll a Miss (6-), or look to you to see what happens, use these moves):*
+- **Phase Bite:** Inflicts a Combat Wound.
 - **Ethereal Shift:** The Phase Spider exists partially in the ethereal plane. It can shift entirely into the ethereal plane as a free action, becoming immune to physical and most magical attacks. It must materialize to attack.
 - **Ward Bypass:** Because it travels ethereally, it ignores standard physical barriers and most conventional wards unless they specifically block dimensional travel or ethereal entities.
 :::

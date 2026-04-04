@@ -49,3 +49,6 @@ There are 12 existing shifter tribes in modern [[30_Locations/Continents/Altazia
 *   **Undead Shifters:** Becoming [[70_Bestiary/Undead/Undead\|undead]] does not heavily affect being a shifter, as transformation cloaks the soul in a transformation shell. However, partial transformations are likely severely restricted due to incompatibility.
 *   **Spirits:** You cannot become a shifter of a spirit because [[70_Bestiary/Spirits_Overview\|spirits]] don't have a body. Fusing with a spirit is possible but insanely dangerous due to the spirit's intense personality.
 
+:::hidden
+**The True Origin of Primordial Essence:** The deeply guarded secret of shifter tribes—and the reason they are targeted by the Cult of the Dragon Below—is that their bloodlines contain primordial essence spliced directly from the entity imprisoned beneath [[30_Locations/Cities and Towns/Cyoria\|Cyoria]]. This makes shifter children living, biological keys capable of bridging the pocket dimension to release the primordial [[40_People/NPCs/Enemies/Panaxeth\|Panaxeth]].
+:::

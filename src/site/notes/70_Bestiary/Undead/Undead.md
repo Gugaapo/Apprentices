@@ -5,6 +5,7 @@
 # Undead
 
 **Category:** Undead
+**Tags:** [Solitary], [Terrifying], [Undead]
 
 ## Description
 Reanimated corpses of humans or beasts (such as skeletons and zombies), stripped of their original souls and driven by necromantic magic.

@@ -4,5 +4,7 @@
 
 # Unarmed / Light Improvised
 
+**Tags:** [Close], [Weak]
+**Effect:** Using this weapon triggers the fictional positioning to inflict an immediate Combat Wound.
+
 Examples: Fists, shattered bottle.
-This weapon deals an additional 1 Physical Health damage on a successful hit.

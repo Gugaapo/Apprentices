@@ -4,5 +4,7 @@
 
 # Heavy Melee / Two-Handed
 
+**Tags:** [Deadly], [Messy], [Heavy], [Reach]
+**Effect:** Using this weapon triggers the fictional positioning to inflict an immediate Combat Wound.
+
 Examples: Longsword, spear, mace.
-This weapon deals an additional 3 Physical Health damage on a successful hit.

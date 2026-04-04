@@ -4,4 +4,6 @@
 
 # Defensive Trinket
 
+**Effect:** A Tier 2 ward or shield that instantly activates upon a specific trigger.
+
 Usually a ring or amulet holding a defensive spell set to trigger when the wearer is struck.

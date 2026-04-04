@@ -4,5 +4,7 @@
 
 # Light Melee / Concealable
 
+**Tags:** [Concealable], [Intimate], [Close]
+**Effect:** Using this weapon triggers the fictional positioning to inflict an immediate Combat Wound.
+
 Examples: Knife, blackjack, short sword.
-This weapon deals an additional 2 Physical Health damage on a successful hit.

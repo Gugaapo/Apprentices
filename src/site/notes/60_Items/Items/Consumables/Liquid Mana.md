@@ -4,4 +4,6 @@
 
 # Liquid Mana
 
+**Effect:** Instantly restores 2 points of Mana. Extremely volatile if mixed with Crystalized Mana.
+
 Distilled magical energy. Dangerous, but a lifesaver in emergency casting situations.

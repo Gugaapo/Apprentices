@@ -4,5 +4,7 @@
 
 # Standard Firearms
 
+**Tags:** [Deadly], [Ranged], [Loud]
+**Effect:** Using this weapon triggers the fictional positioning to inflict an immediate Combat Wound.
+
 Examples: Revolver, simple hunting rifle.
-This weapon deals an additional 4 Physical Health damage on a successful hit.

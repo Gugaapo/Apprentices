@@ -4,4 +4,6 @@
 
 # Truth Serum
 
+**Effect:** -3 penalty to Mind Defense specifically to resist interrogations or mind-reading.
+
 Highly illegal alchemical compound used to break prisoners.

@@ -4,4 +4,6 @@
 
 # Training Focus
 
+**Effect:** +1 die to Tier 1 and Tier 2 spells only.
+
 A basic wand or rod readily provided by the Academy for early-year students to practice safety.

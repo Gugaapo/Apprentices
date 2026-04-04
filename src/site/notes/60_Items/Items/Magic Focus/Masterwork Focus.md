@@ -4,4 +4,6 @@
 
 # Masterwork Focus
 
+**Effect:** +1 die to spells of any Tier, and ignores the +2 Difficulty penalty for Snap-Casting.
+
 Incredibly rare items crafted by master enchanters, allowing for flawless and rapid spell shaping.

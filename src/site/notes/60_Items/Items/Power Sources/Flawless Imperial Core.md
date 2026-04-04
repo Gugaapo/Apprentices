@@ -4,4 +4,6 @@
 
 # Flawless Imperial Core
 
+**Effect:** The size of an apple and heavily restricted.
+
 A massive power battery used for sustained rituals or colossal constructs. Coveted by dangerous individuals.

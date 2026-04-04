@@ -5,6 +5,7 @@
 # Skeleton
 
 **Category:** Undead
+**Tags:** [Solitary], [Terrifying], [Undead]
 
 ## Description
 Reanimated skeletal remains of humans, humanoids, or beasts. Stripped entirely of flesh and organs, they are held together and animated purely by necromantic magic. Without the weight of flesh, they are surprisingly quick and agile, though physically brittle.
@@ -17,18 +18,14 @@ Reanimated skeletal remains of humans, humanoids, or beasts. Stripped entirely o
 Created through illegal necromancy—a dark combination of [[10_System/Schools/Soul Magic/Soul Magic\|Soul Magic]] and [[10_System/Schools/Animation/Necromancy\|Necromancy]]. The original soul of the creature is entirely gone; the skeleton is merely a puppet powered by the necromancer's animating magic. They are used as cheap, expendable foot soldiers and guards by dark mages and the Ibasan invaders. Because they do not rot, they can be stored indefinitely until activated.
 
 :::hidden
-## Mechanical Stat Block
+## Fictional Mechanics
+**Resilience:** High (Takes severe or coordinated Wounds to kill)
 
-**Health:** 5 Boxes (Fragile bones)
-**Mind Defense:** Immune (No mind to breach)
+
 **Armor:** 0 (Passive: Piercing weapons lose 2 successes on damage calculation)
 
-### Key Attributes (Dice Pools)
-- **Physical:** Strength 2, Athletics 2, Acrobatics 2, Weapon Combat 2
-- **Mental/Magical:** Readiness 1, Willpower 0 (Automaton)
-- **Social:** Intimidation 1
-
-### Attacks & Abilities
-- **Rusty Weapon / Claws:** Roll: Strength + Weapon Combat (4 dice). Damage: 1 + Successes.
+## GM Moves
+*(When the players roll a Miss (6-), or look to you to see what happens, use these moves):*
+- **Rusty Weapon / Claws:** Inflicts a Combat Wound.
 - **Tireless:** Immune to exhaustion, poison, and disease. Never suffers wound penalties until destroyed.
 :::

@@ -31,10 +31,10 @@ Use the sidebar to browse, or press `Ctrl+K` to search.
 
 | File                                                        | Last Modified            |
 | ----------------------------------------------------------- | ------------------------ |
-| [[10_System/Schools/Alteration/Alteration\|Alteration]]  | 3:42 PM - April 04, 2026 |
-| [[10_System/Schools/Schools Lore\|Schools Lore]]         | 3:41 PM - April 04, 2026 |
-| [[10_System/Schools/Projection/Projection\|Projection]]  | 3:41 PM - April 04, 2026 |
-| [[10_System/Schools/Support/Divine Magic\|Divine Magic]] | 3:40 PM - April 04, 2026 |
-| [[10_System/Schools/Support/Artifice\|Artifice]]         | 3:40 PM - April 04, 2026 |
+| [[40_People/NPCs/Enemies/Panaxeth\|Panaxeth]]            | 3:53 PM - April 04, 2026 |
+| [[40_People/NPCs/Enemies/Red Robe\|Red Robe]]            | 3:53 PM - April 04, 2026 |
+| [[40_People/NPCs/Enemies/Quatach-Ichl\|Quatach-Ichl]]    | 3:53 PM - April 04, 2026 |
+| [[40_People/NPCs/Allies/Zach Noveda\|Zach Noveda]]       | 3:53 PM - April 04, 2026 |
+| [[40_People/NPCs/Teachers/Zenomir Olgai\|Zenomir Olgai]] | 3:52 PM - April 04, 2026 |
 
 { .block-language-dataview}

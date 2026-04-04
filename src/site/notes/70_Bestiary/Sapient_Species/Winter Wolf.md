@@ -5,6 +5,7 @@
 # Winter Wolf
 
 **Category:** Sentient Magical Beast / Canine
+**Tags:** [Solitary], [Terrifying], [Sentient Magical Beast]
 
 ## Description
 Giant, highly intelligent wolves with thick, frost-covered white or silver fur.
@@ -14,19 +15,14 @@ Giant, highly intelligent wolves with thick, frost-covered white or silver fur.
 :::hidden
 ## Lore
 They have their own culture and language, living in the coldest regions of the world and deep [[30_Locations/Other/Dungeon\|Dungeon]] layers. The Silver One is a notable shifter whose base species is a winter wolf.
-## Mechanical Stat Block
+## Fictional Mechanics
+**Resilience:** High (Takes severe or coordinated Wounds to kill)
 
-**Health:** 8 Boxes
-**Mind Defense:** 4
-**Armor:** 1 Temporary Health Box (Thick fur)
 
-### Key Attributes (Dice Pools)
-- **Physical:** Strength 4, Athletics 5, Acrobatics 4, Hand-to-Hand 5, Stealth 4
-- **Mental/Magical:** Readiness 5, Willpower 4, Finesse 3, Alteration (Innate Cold) 4
-- **Social:** Intimidation 5, Leadership 3, Empathy 4 (Pack tactics)
 
-### Attacks & Abilities
-- **Frostbite:** Roll: Strength + Hand-to-Hand (9 dice). Damage: 2 + Successes (Cold).
+## GM Moves
+*(When the players roll a Miss (6-), or look to you to see what happens, use these moves):*
+- **Frostbite:** Inflicts a Combat Wound. (Cold).
 - **Pack Hunter:** Gains +1 die to attack and defense pools for every allied Winter Wolf within 10 meters (up to +3).
 - **Ice Breath:** As an action, the Winter Wolf rolls Finesse + Alteration (7 dice). This acts as a Tier 2 spell. All targets in a 5-meter cone must roll Athletics to dodge or take 2 damage and suffer a -1 penalty to Physical pools for the next round.
 - **Sapient Intellect:** The Winter Wolf is fully capable of complex tactics, ambushes, and basic communication (if they share a language or through telepathy). They target spellcasters and healers first.

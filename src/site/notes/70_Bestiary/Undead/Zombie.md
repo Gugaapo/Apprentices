@@ -5,6 +5,7 @@
 # Zombie
 
 **Category:** Undead
+**Tags:** [Solitary], [Terrifying], [Undead]
 
 ## Description
 Reanimated corpses that still retain their flesh. Unlike skeletons, zombies are slower, clumsier, and physically heavier, driven forward by dark magic and a crude approximation of life. 
@@ -18,19 +19,15 @@ Reanimated corpses that still retain their flesh. Unlike skeletons, zombies are 
 Created through illegal necromancy using relatively fresh or preserved corpses. Zombies are favored as shock troops or laborers by dark mages and the Ibasan army. Because they still have flesh, they are subject to decomposition and rot, making them less durable over long periods compared to skeletons. They rely entirely on the necromancer's animating magic, and the original soul is completely gone.
 
 :::hidden
-## Mechanical Stat Block
+## Fictional Mechanics
+**Resilience:** High (Takes severe or coordinated Wounds to kill)
 
-**Health:** 9 Boxes (Dead, unfeeling flesh)
-**Mind Defense:** Immune (No mind to breach)
+
 **Armor:** 0 (Passive: Bludgeoning weapons lose 2 successes on damage calculation)
 
-### Key Attributes (Dice Pools)
-- **Physical:** Strength 3, Athletics 1, Acrobatics 0, Hand-to-Hand 2
-- **Mental/Magical:** Readiness 1, Willpower 0 (Automaton)
-- **Social:** Intimidation 2
-
-### Attacks & Abilities
-- **Slam / Bite:** Roll: Strength + Hand-to-Hand (5 dice). Damage: 2 + Successes.
-- **Necrotic Rot:** Anyone taking damage from a Zombie bite must roll Readiness + Medicine (Difficulty 6) or suffer a lingering infection (-1 to all Physical rolls until magically healed).
+## GM Moves
+*(When the players roll a Miss (6-), or look to you to see what happens, use these moves):*
+- **Slam / Bite:** Inflicts a Combat Wound.
+- **Necrotic Rot:** Anyone taking damage from a Zombie bite must roll Readiness + Medicine (a difficult position) or suffer a lingering infection (-1 to all Physical rolls until magically healed).
 - **Tireless:** Immune to exhaustion, poison, and disease. Never suffers wound penalties until destroyed.
 :::

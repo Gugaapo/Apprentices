@@ -4,4 +4,6 @@
 
 # Complex Tool
 
+**Effect:** Contains 2-3 different spells for utility scaling.
+
 A high-end item like a lock-breaker, magical multi-tool, or custom trap.

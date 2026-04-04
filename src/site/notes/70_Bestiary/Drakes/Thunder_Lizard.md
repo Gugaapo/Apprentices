@@ -16,19 +16,15 @@ Unlike most drakes which breathe fire, they have the ability to emit a bolt of e
 
 Due to living so far in the north, they rarely have much contact with humans, though [[30_Locations/Other/Ulquaan Ibasa\|Ulquaan Ibasa]] has been known to capture them for use as war beasts.
 :::hidden
-## Mechanical Stat Block
+## Fictional Mechanics
+**Resilience:** High (Takes severe or coordinated Wounds to kill)
 
-**Health:** 16 Boxes (Elephantine)
-**Mind Defense:** 3
-**Armor:** 4 Temporary Health Boxes (Thick scales and blubber)
 
-### Key Attributes (Dice Pools)
-- **Physical:** Strength 8, Athletics 3 (6 if charging), Acrobatics 1, Hand-to-Hand 5
-- **Mental/Magical:** Readiness 2, Willpower 4, Finesse 2, Projection (Innate Lightning) 5
 
-### Attacks & Abilities
-- **Thunder Breath:** Roll: Willpower + Projection (9 dice). Damage: 4 + Successes (Lightning). Targets taking damage must roll Strength + Athletics (Difficulty 7) or be Paralyzed for 1 round.
-- **Crushing Jaws:** Roll: Strength + Hand-to-Hand (13 dice). Damage: 4 + Successes.
-- **Trample Charge:** If it moves in a straight line for at least 10 meters before attacking, roll Strength + Athletics (14 dice) vs the target's Acrobatics. Damage: 3 + Successes (Bludgeoning).
+## GM Moves
+*(When the players roll a Miss (6-), or look to you to see what happens, use these moves):*
+- **Thunder Breath:** Inflicts a Combat Wound. (Lightning). Targets taking damage must roll Strength + Athletics (a difficult position) or be Paralyzed for 1 round.
+- **Crushing Jaws:** Inflicts a Combat Wound.
+- **Trample Charge:** If it moves in a straight line for at least 10 meters before attacking, roll Strength + Athletics (14 dice) vs the target's Acrobatics. Inflicts a Combat Wound. (Bludgeoning).
   
   :::hidden

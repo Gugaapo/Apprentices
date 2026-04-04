@@ -4,5 +4,7 @@
 
 # Heavy Armor
 
+**Tags:** [Heavy], [Clumsy], [Defensive]
+
 Examples: Full plate, riot gear.
-Provides 5 Temporary Physical Health Boxes. Check the Stealth Penalty rules while wearing this.
+Grants fictional positioning to absorb a brutal physical blow before breaking. Imposes Disadvantage on Agility/Stealth rolls.

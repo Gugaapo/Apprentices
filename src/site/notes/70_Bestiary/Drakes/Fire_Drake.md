@@ -16,18 +16,14 @@ Fire drakes are famous for being one of the few drake species successfully domes
 
 Mages that bond with fire drakes are typically part of a family business that revolves around breeding and training them. They are mostly used in warfare as war beasts, though they have suffered quite a bit since the advent of the Splinter Wars and firearms. They are considered obsolete by some, but fortunately for the species, they are still quite numerous in the wild.
 :::hidden
-## Mechanical Stat Block
+## Fictional Mechanics
+**Resilience:** High (Takes severe or coordinated Wounds to kill)
 
-**Health:** 7 Boxes
-**Mind Defense:** 2
-**Armor:** 3 Temporary Health Boxes (Scales)
 
-### Key Attributes (Dice Pools)
-- **Physical:** Strength 4, Athletics 4, Acrobatics 3, Hand-to-Hand 4
-- **Mental/Magical:** Readiness 3, Willpower 3, Finesse 3, Projection (Innate Fire) 4
 
-### Attacks & Abilities
-- **Fire Breath:** Roll: Finesse + Projection (7 dice). Damage: 3 + Successes (Fire) in a 5-meter cone.
-- **Bite/Claws:** Roll: Strength + Hand-to-Hand (8 dice). Damage: 2 + Successes.
+## GM Moves
+*(When the players roll a Miss (6-), or look to you to see what happens, use these moves):*
+- **Fire Breath:** Inflicts a Combat Wound. (Fire) in a 5-meter cone.
+- **Bite/Claws:** Inflicts a Combat Wound.
 - **Pack Tactics:** Gains +1 die to attack pools if an allied drake is engaged in melee with the same target.
 :::
