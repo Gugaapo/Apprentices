@@ -4,52 +4,11 @@
 
 # Alteration (Syllabus of Restructuring)
 
+*The science of changing physical properties without adding or removing mass. Alteration is considered the most surgically precise magic, requiring a deep understanding of physics, chemistry, and biology. Magic is now cast by weaving geometric  roots (Max 4 letters) into compound spell names.*
 **Classification:** Core School
 
-# Lore
-The science of changing physical properties without adding or removing mass. Alteration is considered the most surgically precise magic, requiring a deep understanding of physics, chemistry, and biology. Magic is now cast by weaving geometric  roots (Max 4 letters) into compound spell names.
-> **Casting Roll:** 2d6 + Willpower + [Alteration]
-
-# Core Syllabus (Fluency)
-*The Core Lexicon:* Acquiring 1 Dot in Alteration permanently grants the character complete fluency in the following base Verbs and Nouns for unstructured casting.
-
-| Core Verbs & Nouns |
-| :--- |
-| [[50_Magic/Glyphs/1_Functions/Andr\|Andr]] (Alter/Restructure), [[50_Magic/Glyphs/3_Characteristics/Dich\|Dich]] (Density), [[50_Magic/Glyphs/3_Characteristics/Form\|Form]] (Shape), [[50_Magic/Glyphs/3_Characteristics/Temp\|Temp]] (Temperature), [[50_Magic/Glyphs/3_Characteristics/Zust\|Zust]] (State) |
-
-> [!NOTE] Rumored Wild Glyphs
-> Extreme manifestations of Alteration—such as [[50_Magic/Glyphs/3_Characteristics/Schw\|Schw]] (Gravity), [[50_Magic/Glyphs/4_Modifiers/Weic\|Weic]] (Transmute Material)—cannot be learned academically. They are Wild Glyphs that must be discovered in the world.
-
-# Example Spells
-| Geometric Scale | Glyph Sequence | Manifestation |
-| :--- | :--- | :--- |
-| Trivial [0 Ticks] | [[50_Magic/Glyphs/1_Functions/Andr\|Andr]] [[50_Magic/Glyphs/3_Characteristics/Farb\|Farb]] | Changes a cup from red to blue. |
-| Regular [1 Tick] | [[50_Magic/Glyphs/1_Functions/Andr\|Andr]] [[50_Magic/Glyphs/3_Characteristics/Temp\|Temp]] [[50_Magic/Glyphs/3_Characteristics/Dich\|Dich]] | Warms a weapon slightly and makes it heavier. |
-| Hard [2 Ticks] | [[50_Magic/Glyphs/1_Functions/Andr\|Andr]] [[50_Magic/Glyphs/3_Characteristics/Form\|Form]] [[50_Magic/Glyphs/2_Objects/Meta\|Meta]] | Molds an iron bar into handcuffs; requires Transformation. |
-| Complex [2 Ticks] | [[50_Magic/Glyphs/1_Functions/Andr\|Andr]] [[50_Magic/Glyphs/2_Objects/Flei\|Flei]] [[50_Magic/Glyphs/1_Functions/Heil\|Heil]] [[50_Magic/Glyphs/4_Modifiers/Gros\|Gros]] | Heals massive lacerations instantly; requires Medical Magic. |
-| Miracle [4+ Ticks] | [[50_Magic/Glyphs/1_Functions/Andr\|Andr]] [[50_Magic/Glyphs/3_Characteristics/Atom\|Atom]] | Transmutes lead into gold or running water into solid stone permanently. |
-
-# Specializations
-| Specialization | Unlocked Glyphs |
-| :--- | :--- |
-| [[10_System/Schools/Alteration/Medical Magic\|Medical Magic]] | [[50_Magic/Glyphs/2_Objects/Flei\|Flei]] (Flesh), [[50_Magic/Glyphs/2_Objects/Blut\|Blut]] (Blood), [[50_Magic/Glyphs/1_Functions/Heil\|Heil]] (Heal), [[50_Magic/Glyphs/2_Objects/Knoc\|Knoc]] (Bone) |
-| [[10_System/Schools/Alteration/Transformation\|Transformation]] | [[50_Magic/Glyphs/2_Objects/Meta\|Meta]] (Metal), [[50_Magic/Glyphs/2_Objects/Holz\|Holz]] (Wood/Plant), [[50_Magic/Glyphs/4_Modifiers/Tier\|Tier]] (Beast shape), [[50_Magic/Glyphs/2_Objects/Ader\|Ader]] (Vein) |
-| [[10_System/Schools/Alteration/Blood Magic\|Blood Magic]] | [[50_Magic/Glyphs/2_Objects/Herz\|Herz]] (Heart), [[50_Magic/Glyphs/1_Functions/Saug\|Saug]] (Drain/Siphon), [[50_Magic/Glyphs/3_Characteristics/Gift\|Gift]] (Poison/Blight) |
-
-# Lore deep dive
-
-Alteration is the art of **restructuring what already exists**. Where [[10_System/Schools/Projection/Projection\|Projection]] creates energy from mana, Alteration uses mana as a catalyst to rearrange the molecular or atomic bonds of existing matter. The mage does not add or remove material — they change its *properties*: making stone as flexible as rubber, iron as brittle as glass, causing the earth to rapidly shift into spikes, or forcing flesh to fuse and bind.
-
-At the Academy, Alteration is considered the most intellectually demanding of the "safe" schools. A Projection mage can brute-force their way through problems, but an Alteration mage must understand *what they are changing and how*. You cannot restructure a material you don't understand. This is why Alteration students are required to take parallel courses in [[Survival\|Survival]] and [[Academics\|Academics]] — the mundane sciences provide the theoretical framework that mana then executes.
-
-**What it feels like to cast:** The caster typically needs physical contact with the target, though environmental alteration (like earth shaping) can be done at a short distance. They feel their mana Capacity seeping into the target material like water into a sponge, then they mentally "grip" the molecular structure and twist. Observers see the material's surface ripple, shimmer, or warp as its properties change. Higher-complexity effects produce audible groaning or crackling sounds as major structural changes take hold.
-
-**The fundamental limitation:** Alteration cannot create matter from nothing, nor can it destroy matter entirely. It can only *change* what is already there. Turning lead into gold is technically possible at high complexities — but the lead must exist first.
-
-## Mechanical Focus
-Alteration provides durability bonuses, utility for environmental obstacles, and material crafting. All casting rolls use **`2d6 + Willpower + Alteration`**. A mage's [[10_System/Attributes/Magical/Calculation\|Calculation]] dictates how complex a structure they can safely alter.
-
-## Design Boundaries
+## Fictional Permission
+When you hold `Alteration` in your Grimoire, you have specific fictional positioning.
 
 When creating Alteration spells, respect these rules:
 
@@ -69,3 +28,26 @@ When creating Alteration spells, respect these rules:
 - Animate objects with autonomous behaviour (that's [[10_System/Schools/Animation/Animation\|Animation]])
 
 **The key verb is RESTRUCTURE (`Andr`).** If the spell's primary action is changing the properties of something that already exists, it belongs in Alteration.
+
+## The Core Matrix
+Unlocking this knowledge grants you structural mastery of the following base Glyphs to use during *Shape the Matrix*:
+**Vocabulary:** [[50_Magic/Glyphs/1_Functions/Andr\|Andr]] (Alter/Restructure), [[50_Magic/Glyphs/3_Characteristics/Dich\|Dich]] (Density), [[50_Magic/Glyphs/3_Characteristics/Form\|Form]] (Shape), [[50_Magic/Glyphs/3_Characteristics/Temp\|Temp]] (Temperature), [[50_Magic/Glyphs/3_Characteristics/Zust\|Zust]] (State)
+
+> [!NOTE] Rumored Wild Glyphs
+> Extreme manifestations of Alteration—such as [[50_Magic/Glyphs/3_Characteristics/Schw\|Schw]] (Gravity), [[50_Magic/Glyphs/4_Modifiers/Weic\|Weic]] (Transmute Material)—cannot be learned academically. They are Wild Glyphs that must be discovered in the world.
+
+## Geometric Scaling (Mana Track Box Costs)
+When determining the cost of a spell, the GM uses this scale:
+- **Trivial (0 Ticks):** Changes a cup from red to blue. (`Andr Farb`)
+- **Regular (1 Tick):** Warms a weapon slightly and makes it heavier. (`Andr Temp Dich`)
+- **Hard (2 Ticks):** Molds an iron bar into handcuffs; requires Transformation. (`Andr Form Meta`)
+- **Complex (2 Ticks):** Heals massive lacerations instantly; requires Medical Magic. (`Andr Flei Heil Gros`)
+- **Miracle (4+ Ticks):** Transmutes lead into gold or running water into solid stone permanently. (`Andr Atom`)
+
+## Specializations
+Unlocking these sub-matrices gives you immediate access to their advanced vocabulary:
+- **[[10_System/Schools/Alteration/Medical Magic\|Medical Magic]]:** [[50_Magic/Glyphs/2_Objects/Flei\|Flei]] (Flesh), [[50_Magic/Glyphs/2_Objects/Blut\|Blut]] (Blood), [[50_Magic/Glyphs/1_Functions/Heil\|Heil]] (Heal), [[50_Magic/Glyphs/2_Objects/Knoc\|Knoc]] (Bone)
+- **[[10_System/Schools/Alteration/Transformation\|Transformation]]:** [[50_Magic/Glyphs/2_Objects/Meta\|Meta]] (Metal), [[50_Magic/Glyphs/2_Objects/Holz\|Holz]] (Wood/Plant), [[50_Magic/Glyphs/4_Modifiers/Tier\|Tier]] (Beast shape), [[50_Magic/Glyphs/2_Objects/Ader\|Ader]] (Vein)
+- **[[10_System/Schools/Alteration/Blood Magic\|Blood Magic]]:** [[50_Magic/Glyphs/2_Objects/Herz\|Herz]] (Heart), [[50_Magic/Glyphs/1_Functions/Saug\|Saug]] (Drain/Siphon), [[50_Magic/Glyphs/3_Characteristics/Gift\|Gift]] (Poison/Blight)
+
+*(For detailed sensory information and theoretical deep-dives, refer to [[10_System/Schools/Schools Lore\|Schools Lore]])*

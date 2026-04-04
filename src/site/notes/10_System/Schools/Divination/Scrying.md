@@ -4,41 +4,11 @@
 
 # Scrying
 
-**Classification:** Specialization
-**Parent School:** [[10_System/Schools/Divination/Divination\|Divination]]
+*Scrying is the specialized art of gathering visual and auditory information from afar. It is the most common and practical application of the Divination discipline.*
+**Classification:** Specialization **Parent School:** [[10_System/Schools/Divination/Divination\|Divination]]
 
-# Lore
-Scrying is the specialized art of gathering visual and auditory information from afar. It is the most common and practical application of the Divination discipline.
-> **Casting Roll:** 2d6 + Willpower + [Divination]
-
-# Advanced Syllabus (Dialect)
-*The 3-Glyph Menu Selection:* This is a specialized dialect. Every time you gain a Dot in this Specialization, you may choose up to **3 Modifiers** from its list to permanently add to your Grimoire's vocabulary.
-
-| Exclusive Modifiers | Unlocked Glyphs                                |
-| :------------- | :--------------------------------------------- |
-| **Scrying**    | [[50_Magic/Glyphs/3_Characteristics/Bild\|Bild]] (Image/Vision), [[50_Magic/Glyphs/1_Functions/Auge\|Auge]] (Eye/Sensor) |
-
-# Example Spells
-| Geometric Scale | Glyph Sequence | Manifestation |
-| :--- | :--- | :--- |
-| Trivial [0 Ticks] | *Sehn Bild Klen* | Projects a tiny, blurry image of the next room. |
-| Regular [1 Tick] | *Sehn Auge* | Creates an invisible magical sensor to look through. |
-| Hard [2 Ticks] | *Sehn Bild Raum* | Projects a bird's-eye view vision of the surrounding forest. |
-| Complex [2 Ticks] | *Sehn Auge Fern* | Places a perfect scrying sensor hundreds of miles away. |
-| Miracle [4+ Ticks] | *Sehn Auge Alle* | Allows the caster to see everything happening in a massive city simultaneously. |
-
-# Lore deep dive
-
-**The Necessity of a Link:**
-Scrying is not omnipotent. A caster cannot simply declare they want to view a stranger halfway across the continent. Divinations require a **sympathetic link** to the target—either a physical object belonging to them, a lock of hair, or a very strong personal memory of the target from the caster. Without this reference point, the spell has nothing to lock onto.
-
-**Range Limits and Scanning:**
-Scrying spells are range-limited. If a spell seeks a non-specific target (e.g., "show me the nearest goblin"), it will only scan a certain radius around the caster before giving up. It will not search the entire world. 
-
-**The "Garbage In, Garbage Out" Syndrome:**
-If a scryer feeds improper information into their spell, or starts with an ill-considered reference point, they will get a result that is incorrect, misleading, or visually garbled. Interpreting a flawed scrying sensor can result in a string of gibberish and a raging headache. 
-
-## Design Boundaries
+## Fictional Permission
+When you hold `Scrying` in your Grimoire, you have specific fictional positioning.
 
 **Scrying CAN:**
 - Project the caster's senses (sight, hearing) over distances (`Bild`, `Auge`).
@@ -49,3 +19,17 @@ If a scryer feeds improper information into their spell, or starts with an ill-c
 - Penetrate Anti-Divination Wards (which scatter the scrying sensor's signal).
 - Track a target flawlessly without a pre-existing connection or physical link.
 - Read minds (that is strictly the domain of [[10_System/Schools/Illusionism/Mind Magic\|Mind Magic]]).
+
+## The Core Matrix
+Unlocking this knowledge grants you structural mastery of the following base Glyphs to use during *Shape the Matrix*:
+**Vocabulary:** **Scrying**   : [[50_Magic/Glyphs/3_Characteristics/Bild\|Bild]] (Image/Vision), [[50_Magic/Glyphs/1_Functions/Auge\|Auge]] (Eye/Sensor)
+
+## Geometric Scaling (Mana Track Box Costs)
+When determining the cost of a spell, the GM uses this scale:
+- **Trivial (0 Ticks):** Projects a tiny, blurry image of the next room. (`Sehn Bild Klen`)
+- **Regular (1 Tick):** Creates an invisible magical sensor to look through. (`Sehn Auge`)
+- **Hard (2 Ticks):** Projects a bird's-eye view vision of the surrounding forest. (`Sehn Bild Raum`)
+- **Complex (2 Ticks):** Places a perfect scrying sensor hundreds of miles away. (`Sehn Auge Fern`)
+- **Miracle (4+ Ticks):** Allows the caster to see everything happening in a massive city simultaneously. (`Sehn Auge Alle`)
+
+*(For detailed sensory information and theoretical deep-dives, refer to [[10_System/Schools/Schools Lore\|Schools Lore]])*

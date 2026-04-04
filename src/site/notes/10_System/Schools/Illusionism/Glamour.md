@@ -4,41 +4,11 @@
 
 # Glamour (Environment)
 
-**Classification:** Specialization
-**Parent School:** [[10_System/Schools/Illusionism/Illusionism\|Illusionism]]
+*Glamour is the specialized application of Illusionism focused on personal disguise, aesthetic alteration, and subtly deceiving the senses of others regarding the caster's appearance or nature.*
+**Classification:** Specialization **Parent School:** [[10_System/Schools/Illusionism/Illusionism\|Illusionism]]
 
-# Lore
-Glamour is the specialized application of Illusionism focused on personal disguise, aesthetic alteration, and subtly deceiving the senses of others regarding the caster's appearance or nature.
-> **Casting Roll:** 2d6 + Willpower + [Illusionism]
-
-# Advanced Syllabus (Dialect)
-*The 3-Glyph Menu Selection:* This is a specialized dialect. Every time you gain a Dot in this Specialization, you may choose up to **3 Modifiers** from its list to permanently add to your Grimoire's vocabulary.
-
-| Exclusive Modifiers | Unlocked Glyphs                               |
-| :------------- | :-------------------------------------------- |
-| **Glamour**    | [[50_Magic/Glyphs/4_Modifiers/Birg\|Birg]] (Hide/Invisibility), [[50_Magic/Glyphs/4_Modifiers/Tarn\|Tarn]] (Face) |
-
-# Example Spells
-| Geometric Scale | Glyph Sequence | Manifestation |
-| :--- | :--- | :--- |
-| Trivial [0 Ticks] | *Tusc Bild Klen* | Creates a tiny, static illusory butterfly. |
-| Regular [1 Tick] | *Tusc Bild Birg* | Bends light around someone to turn them invisible. |
-| Hard [2 Ticks] | *Tusc Tarn* | Perfectly disguises the caster's face as someone else. |
-| Complex [2 Ticks] | *Tusc Bild Klan Birg* | Completely cloaks a group in perfect audiovisual invisibility. |
-| Miracle [4+ Ticks] | *Tusc Bild Gros* | Creates a flawless, moving illusion of an entire fake army. |
-
-# Lore deep dive
-
-**The Decline of Illusion:**
-In ancient times, when mages were rare and the general public had a fuzzy conception of magic, a simple visual glamour could easily cow a superstitious peasant or allow an assassin to walk right past a king's guard. Today, with the explosion of magical literacy, this is no longer true. People are suspicious. A guard who sees a slightly shimmering, entirely silent nobleman will immediately recognize an obvious illusion.
-
-**The Complexity of True Deception:**
-Because modern society is so magically aware, modern Glamour is incredibly difficult to practice successfully. A true disguise cannot just be an intangible ghost made of light and sound. Skilled illusionists must weave in thermal energies, olfactory components (smell), and even employ [[10_System/Schools/Dimensionalism/Conjuration\|Conjuration]] to make the illusion physically tangible to the touch. 
-
-**Mind Magic vs. Optics:**
-Some illusionists cheat by employing mental compulsions ([[10_System/Schools/Illusionism/Mind Magic\|Mind Magic]]) to force the target to ignore flaws in the disguise. However, the very presence of mind magic can trigger a ward or alert a sensitive mage that something is wrong, meaning mental glamours are not strictly better than purely optical ones.
-
-## Design Boundaries
+## Fictional Permission
+When you hold `Glamour` in your Grimoire, you have specific fictional positioning.
 
 **Glamour CAN:**
 - Completely alter the visual, auditory, and olfactory presentation of a target (`Birg`, `Tarn`).
@@ -48,3 +18,17 @@ Some illusionists cheat by employing mental compulsions ([[10_System/Schools/Ill
 **Glamour CANNOT:**
 - Actually change the physical structure of the target (that requires [[10_System/Schools/Alteration/Transformation\|Transformation]] or [[10_System/Schools/Alteration/Alteration\|Alteration]]). If a human casts a glamour to look like a dwarf, they are still physically tall and will bump their head on low ceilings.
 - Prevent a target from disbelieving the illusion. Disbelieving an optical glamour does nothing—the image is physically constructed of light and sound. It must be dispelled or physically disrupted.
+
+## The Core Matrix
+Unlocking this knowledge grants you structural mastery of the following base Glyphs to use during *Shape the Matrix*:
+**Vocabulary:** **Glamour**   : [[50_Magic/Glyphs/4_Modifiers/Birg\|Birg]] (Hide/Invisibility), [[50_Magic/Glyphs/4_Modifiers/Tarn\|Tarn]] (Face)
+
+## Geometric Scaling (Mana Track Box Costs)
+When determining the cost of a spell, the GM uses this scale:
+- **Trivial (0 Ticks):** Creates a tiny, static illusory butterfly. (`Tusc Bild Klen`)
+- **Regular (1 Tick):** Bends light around someone to turn them invisible. (`Tusc Bild Birg`)
+- **Hard (2 Ticks):** Perfectly disguises the caster's face as someone else. (`Tusc Tarn`)
+- **Complex (2 Ticks):** Completely cloaks a group in perfect audiovisual invisibility. (`Tusc Bild Klan Birg`)
+- **Miracle (4+ Ticks):** Creates a flawless, moving illusion of an entire fake army. (`Tusc Bild Gros`)
+
+*(For detailed sensory information and theoretical deep-dives, refer to [[10_System/Schools/Schools Lore\|Schools Lore]])*

@@ -4,34 +4,24 @@
 
 # Negation
 
-**Classification:** Specialization
-**Parent School:** [[10_System/Schools/Abjuration/Abjuration\|Abjuration]]
+*Negation is the art of dispelling, disrupting, or negating other magical effects. It is a must-have discipline for every mage, serving as the reactive and stabilizing shield that unmakes other magic. Magic is now cast by weaving geometric Glyphs into spell formulas.*
+**Classification:** Specialization **Parent School:** [[10_System/Schools/Abjuration/Abjuration\|Abjuration]]
 
-# Lore
-Negation is the art of dispelling, disrupting, or negating other magical effects. It is a must-have discipline for every mage, serving as the reactive and stabilizing shield that unmakes other magic. Magic is now cast by weaving geometric Glyphs into spell formulas.
-> **Casting Roll:** 2d6 + Willpower + [Abjuration]
+## Fictional Permission
+When you hold `Negation` in your Grimoire, you have specific fictional positioning.
 
-# Advanced Syllabus (Dialect)
-*The 3-Glyph Menu Selection:* This is a specialized dialect. Every time you gain a Dot in this Specialization, you may choose up to **3 Modifiers** from its list to permanently add to your Grimoire's vocabulary.
+No specific boundaries defined.
 
-| Specialization | Unlocked Glyphs |
-| :--- | :--- |
-| **Negation** | [[50_Magic/Glyphs/1_Functions/Leer\|Leer]] (Void/Cancel), [[50_Magic/Glyphs/4_Modifiers/Ende\|Ende]] (End/Cease) |
+## The Core Matrix
+Unlocking this knowledge grants you structural mastery of the following base Glyphs to use during *Shape the Matrix*:
+**Vocabulary:** **Negation**: [[50_Magic/Glyphs/1_Functions/Leer\|Leer]] (Void/Cancel), [[50_Magic/Glyphs/4_Modifiers/Ende\|Ende]] (End/Cease)
 
-# Example Spells
-| Geometric Scale | Glyph Sequence | Manifestation |
-| :--- | :--- | :--- |
-| Trivial [0 Ticks] | [[50_Magic/Glyphs/1_Functions/Leer\|Leer]] [[50_Magic/Glyphs/4_Modifiers/Klen\|Klen]] | A brief shimmer that deletes minor magical sparks. |
-| Regular [1 Tick] | [[50_Magic/Glyphs/1_Functions/Leer\|Leer]] [[50_Magic/Glyphs/3_Characteristics/Luft\|Luft]] | Unravels a simple maintained spell matrix like a floating light. |
-| Hard [2 Ticks] | [[50_Magic/Glyphs/4_Modifiers/Ende\|Ende]] [[50_Magic/Glyphs/4_Modifiers/Wand\|Wand]] | Aggressively ends any sustained spell matrix, including Wards. |
-| Complex [2 Ticks] | [[50_Magic/Glyphs/1_Functions/Leer\|Leer]] [[50_Magic/Glyphs/4_Modifiers/Gros\|Gros]] | Shatters and entirely nullifies a complex, incoming fireball mid-flight. |
-| Miracle [4+ Ticks] | [[50_Magic/Glyphs/1_Functions/Leer\|Leer]] [[50_Magic/Glyphs/4_Modifiers/Kres\|Kres]] [[50_Magic/Glyphs/4_Modifiers/Fang\|Fang]] | A massive screen that blocks and negates all hostile magic in an area. |
+## Geometric Scaling (Mana Track Box Costs)
+When determining the cost of a spell, the GM uses this scale:
+- **Trivial (0 Ticks):** A brief shimmer that deletes minor magical sparks. (`Leer Klen`)
+- **Regular (1 Tick):** Unravels a simple maintained spell matrix like a floating light. (`Leer Luft`)
+- **Hard (2 Ticks):** Aggressively ends any sustained spell matrix, including Wards. (`Ende Wand`)
+- **Complex (2 Ticks):** Shatters and entirely nullifies a complex, incoming fireball mid-flight. (`Leer Gros`)
+- **Miracle (4+ Ticks):** A massive screen that blocks and negates all hostile magic in an area. (`Leer Kres Fang`)
 
-# Lore deep dive
-
-Negation is the ultimate safety net of the magical world. It is considered a **must-have discipline** for every practicing mage. In fact, the authorities of most civilized nations force mages to attain a certain level of skill in Negation before they can be legally certified. Mages with absolutely no negation skills cannot terminate their own spells if something goes wrong, cannot ensure proper safety if they try to teach magic to others, and generally represent a massive public hazard.
-
-**The Economic Reality:** With the explosion of the mage population in modern times, the demand for professionals capable of dealing with hostile magic, wild spell accidents, and magical hazards has increased dramatically. This makes Negation a highly respected, relatively popular, and very profitable field of specialization.
-
-## Mechanical Focus
-Negation adds to [[10_System/Glossary/Mind Defense\|Mind Defense]] when used reactively. When used offensively, it contests the target spellcaster's [[10_System/Attributes/Magical/Willpower\|Willpower]] to forcibly unravel their active matrices.
+*(For detailed sensory information and theoretical deep-dives, refer to [[10_System/Schools/Schools Lore\|Schools Lore]])*
