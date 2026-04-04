@@ -11,7 +11,7 @@ Alchemy is **magical chemistry**—it does not require shaping skill to use, onl
 > 
 > **The Built-In Limit (Overriding):** A character can only process one potion at a time. Drinking a new potion immediately flushes and overrides the active effect of the previous one, preventing buff-stacking.
 > 
-> See **[[10_System/09 Crafting\|09 Crafting]]** for specific crafting rules, Time Slot requirements, and material handling.
+> See **[[10_System/08 Crafting\|08 Crafting]]** for specific crafting rules, Time Slot requirements, and material handling.
 
 ## Tier Examples
 
@@ -24,7 +24,7 @@ Alchemy is **magical chemistry**—it does not require shaping skill to use, onl
 | **Tier 5** | *Enhancement Elixir Base*                                               | A critical component for an Enhancement Ritual, reducing the permanent [[10_System/Glossary/mana\|mana]] reserve cost substantially.                                            |
 
 ## Mechanical Focus
-Alchemy rolls use `2d6 + Attribute (usually Academics or Survival) + Alchemy` rather than any Magical attribute like Finesse or Calculation. A mage with high [[10_System/Attributes/Mental/Academics\|Academics]] but no shaping skill can be an excellent alchemist. [[10_System/Schools/Animation/Golemancy\|Golemancy]] cores generally require alchemical materials.
+Alchemy rolls use `2d6 + an appropriate Mundane Attribute (usually **Mental**) + Alchemy` rather than any Magical attribute like Finesse or Calculation. A mage with a high **Mental** attribute but no shaping skill can be an excellent alchemist. [[10_System/Schools/Animation/Golemancy\|Golemancy]] cores generally require alchemical materials.
 
 ---
 

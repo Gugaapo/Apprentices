@@ -12,7 +12,7 @@
 You are exceptionally gifted. The Academy accepted you early — you're younger than your classmates, and you know more than most of them. You solved problems in your entrance exam that stumped applicants twice your age. But brilliance comes at a cost: you're socially isolated, physically underdeveloped compared to your peers, and under enormous pressure to perform from everyone who invested in your admission.
 
 ## Starting Bonus
-Gain the **[[50_Magic/Traits/Merits/Academic Prodigy\|Academic Prodigy]]** merit for free (does not cost Merit points). You learn faster and understand magical theory at a level beyond your years.
+Gain the **[[Academic Prodigy\|Academic Prodigy]]** merit for free (does not cost Merit points). You learn faster and understand magical theory at a level beyond your years.
 
 ## Connection
 **Academic Patron.** A senior professor or Academy benefactor has taken a personal interest in your development. Once per arc, they may intervene on your behalf — offering private tutoring, shielding you from political trouble, or providing access to advanced resources. However, they expect results.

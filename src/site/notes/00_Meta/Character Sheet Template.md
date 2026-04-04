@@ -15,10 +15,10 @@
 
 | Magical                             | Dots | Mental            | Dots | Social              | Dots | Physical          | Dots |
 | :---------------------------------- | :--- | :---------------- | :--- | :------------------ | :--- | :---------------- | :--- |
-| **[[10_System/Attributes/Magical/Memory\|Memory]]** *(Recall limit)*     |      | **[[10_System/Attributes/Mental/Academics\|Academics]]** |      | **[[10_System/Attributes/Social/Charm\|Charm]]**       |      | **[[10_System/Attributes/Physical/Might\|Might]]**     |      |
-| **[[10_System/Attributes/Magical/Calculation\|Calculation]]** *(Math limit)*  |      | **[[10_System/Attributes/Mental/Awareness\|Awareness]]** |      | **[[10_System/Attributes/Social/Deception\|Deception]]**   |      | **[[10_System/Attributes/Physical/Mobility\|Mobility]]**  |      |
-| **[[10_System/Attributes/Magical/Finesse\|Finesse]]** *(Control)*         |      | **[[10_System/Attributes/Mental/Survival\|Survival]]**  |      | **[[10_System/Attributes/Social/Insight\|Insight]]**     |      | **[[10_System/Attributes/Physical/Dexterity\|Dexterity]]** |      |
-| **[[10_System/Attributes/Magical/Willpower\|Willpower]]** *(Mana Capacity)* |      | **[[10_System/Attributes/Mental/Crafting\|Crafting]]**  |      | **[[10_System/Attributes/Social/Connections\|Connections]]** |      | **[[10_System/Attributes/Physical/Combat\|Combat]]**    |      |
+| **[[10_System/Attributes/Magical/Memory\|Memory]]** *(Recall limit)*     |      | **[[Academics\|Academics]]** |      | **[[Charm\|Charm]]**       |      | **[[Might\|Might]]**     |      |
+| **[[10_System/Attributes/Magical/Calculation\|Calculation]]** *(Math limit)*  |      | **[[Awareness\|Awareness]]** |      | **[[Deception\|Deception]]**   |      | **[[Mobility\|Mobility]]**  |      |
+| **[[10_System/Attributes/Magical/Finesse\|Finesse]]** *(Control)*         |      | **[[Survival\|Survival]]**  |      | **[[Insight\|Insight]]**     |      | **[[Dexterity\|Dexterity]]** |      |
+| **[[10_System/Attributes/Magical/Willpower\|Willpower]]** *(Mana Capacity)* |      | **[[Crafting\|Crafting]]**  |      | **[[Connections\|Connections]]** |      | **[[Combat\|Combat]]**    |      |
 
 ---
 

@@ -10,7 +10,7 @@
 Your parents are academics — researchers, historians, or Academy staff. You grew up in libraries and lecture halls, surrounded by the smell of old paper and the sound of scholarly arguments. You've read more books than most third-years, and your theoretical knowledge is exceptional. But you've never been in a real fight, and the social dynamics of student life are a mystery.
 
 ## Starting Bonus
-Gain the **[[50_Magic/Traits/Merits/Eidetic Memory\|Eidetic Memory]]** merit for free (does not cost Merit points). You have near-perfect recall of anything you've read.
+Gain the **[[Eidetic Memory\|Eidetic Memory]]** merit for free (does not cost Merit points). You have near-perfect recall of anything you've read.
 
 ## Connection
 **Library Access.** You know the Academy's restricted archives better than most professors. Once per arc, you may access a restricted text or obscure reference that provides critical information on a research topic.

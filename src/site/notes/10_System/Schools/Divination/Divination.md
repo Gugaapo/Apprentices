@@ -60,7 +60,7 @@ Divination provides information and sets the passive TN for [[10_System/Glossary
 **Divination CANNOT:**
 - Apply any physical effect to the target of observation (no damage, no debuffs)
 - Create false perceptions ([[10_System/Schools/Illusionism/Illusionism\|Illusionism]])
-- Read minds (that requires [[10_System/Schools/Illusionism/Mind Magic\|Mind Magic]] via Illusionism + [[50_Magic/Traits/Merits/Empath\|Psychic Potential]])
+- Read minds (that requires [[10_System/Schools/Illusionism/Mind Magic\|Mind Magic]] via Illusionism + [[Empath\|Psychic Potential]])
 - Reconstruct the past or future with 100% infallible accuracy (it is always an educated guess by the magic)
 
 **The key verb is PERCEIVE (`Sehn`).** If the spell's primary action is learning something the caster doesn't currently know, without changing anything, it belongs in Divination.

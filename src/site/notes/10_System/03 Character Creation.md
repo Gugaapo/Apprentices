@@ -76,69 +76,53 @@ Each background provides:
 |---|---|---|
 | [[10_System/Backgrounds/Noble Scion\|Noble Scion]] | +3 Attribute Points | House Name (political influence, 1/session) |
 | [[10_System/Backgrounds/Magical Lineage\|Magical Lineage]] | +1 free dot in any Core School Proficiency | Family Mentor (magical advice, 1/arc) |
-| [[10_System/Backgrounds/Street Rat\|Street Rat]] | Free [[50_Magic/Traits/Merits/Social Chameleon\|Social Chameleon]] merit | Underground Contacts (black market, 1/session) |
-| [[10_System/Backgrounds/Scholar's Child\|Scholar's Child]] | Free [[50_Magic/Traits/Merits/Eidetic Memory\|Eidetic Memory]] merit | Library Access (restricted archives, 1/arc) |
-| [[10_System/Backgrounds/State Orphan\|State Orphan]] | +1 [[10_System/Attributes/Magical/Willpower\|Willpower]], +1 [[10_System/Attributes/Physical/Dexterity\|Dexterity]] | State Network (bureaucratic blindspots, 1/session) |
+| [[10_System/Backgrounds/Street Rat\|Street Rat]] | Free [[Social Chameleon\|Social Chameleon]] merit | Underground Contacts (black market, 1/session) |
+| [[10_System/Backgrounds/Scholar's Child\|Scholar's Child]] | Free [[Eidetic Memory\|Eidetic Memory]] merit | Library Access (restricted archives, 1/arc) |
+| [[10_System/Backgrounds/State Orphan\|State Orphan]] | +1 [[10_System/Attributes/Magical/Willpower\|Willpower]], +1 free dot in [[10_System/Attributes/Mundane/Physical\|Physical]] | State Network (bureaucratic blindspots, 1/session) |
 | [[10_System/Backgrounds/Rural Outsider\|Rural Outsider]] | +2 extra Flaw Points (max 6) | Village Elder (folk magic advice, 1/arc) |
 | [[10_System/Backgrounds/Temple Acolyte\|Temple Acolyte]] | +1 free dot in [[10_System/Schools/Abjuration/Ward\|Ward]] | Temple Network (sanctuary/healing, 1/session) |
 | [[10_System/Backgrounds/Merchant Family\|Merchant Family]] | Double starting funds + stipend | Trade Contacts (sourcing items, 1/session) |
-| [[10_System/Backgrounds/Industrial Pioneer\|Industrial Pioneer]] | +1 [[10_System/Attributes/Magical/Calculation\|Calculation]], +1 [[10_System/Attributes/Mental/Academics\|Academics]] | Factory Foreman (industrial tools/parts, 1/arc) |
+| [[10_System/Backgrounds/Industrial Pioneer\|Industrial Pioneer]] | +1 [[10_System/Attributes/Magical/Calculation\|Calculation]], +1 [[10_System/Attributes/Mundane/Mental\|Mental]] | Factory Foreman (industrial tools/parts, 1/arc) |
 | [[10_System/Backgrounds/Alchemist's Apprentice\|Alchemist's Apprentice]] | +1 free dot in [[10_System/Schools/Support/Alchemy\|Alchemy]] + alchemy kit | Alchemist's Guild (labs/reagents, 1/session) |
-| [[10_System/Backgrounds/Dungeon Scavenger\|Dungeon Scavenger]] | +1 free dot in [[10_System/Attributes/Mental/Survival\|Survival]], +1 [[10_System/Attributes/Mental/Awareness\|Awareness]] | Mercenary Guild (monster intel, 1/arc) |
-| [[10_System/Backgrounds/Prodigy\|Prodigy]] | Free [[50_Magic/Traits/Merits/Academic Prodigy\|Academic Prodigy]] merit | Academic Patron (intervention, 1/arc) |
-| [[10_System/Backgrounds/Foreign Exchange Student\|Foreign Exchange Student]] | +1 dot in [[10_System/Attributes/Social/Insight\|Insight]], +1 dot in [[10_System/Attributes/Social/Connections\|Connections]] | Foreign Embassy (diplomatic immunity/intel, 1/arc) |
-| [[10_System/Backgrounds/Military Brat\|Military Brat]] | +1 dot in [[10_System/Attributes/Physical/Combat\|Combat]], starts with weapon | Base Commander (military surplus/intel, 1/arc) |
-| [[10_System/Backgrounds/Disgraced Nobility\|Disgraced Nobility]] | +1 dot in [[10_System/Attributes/Social/Deception\|Deception]], +1 dot in [[10_System/Attributes/Mental/Academics\|Academics]] | Sympathetic Loyalist (secret favors, 1/arc) |
-| [[10_System/Backgrounds/Syndicate Scion\|Syndicate Scion]] | +1 dot in [[10_System/Attributes/Social/Connections\|Connections]], +1 dot in [[10_System/Attributes/Physical/Dexterity\|Dexterity]] | Gang Lieutenant (muscle/smuggling, 1/session) |
-| [[10_System/Backgrounds/Monster Hunter's Heir\|Monster Hunter's Heir]] | +1 dot in [[10_System/Attributes/Mental/Survival\|Survival]], +1 dot in [[10_System/Attributes/Mental/Awareness\|Awareness]] | Hunter's Lodge (rare materials/tracking, 1/arc) |
+| [[10_System/Backgrounds/Dungeon Scavenger\|Dungeon Scavenger]] | +1 free dot in [[10_System/Attributes/Mundane/Physical\|Physical]], +1 free dot in [[10_System/Attributes/Mundane/Mental\|Mental]] | Mercenary Guild (monster intel, 1/arc) |
+| [[10_System/Backgrounds/Prodigy\|Prodigy]] | Free [[Academic Prodigy\|Academic Prodigy]] merit | Academic Patron (intervention, 1/arc) |
+| [[10_System/Backgrounds/Foreign Exchange Student\|Foreign Exchange Student]] | +1 free dot in [[10_System/Attributes/Mundane/Mental\|Mental]], +1 free dot in [[10_System/Attributes/Mundane/Social\|Social]] | Foreign Embassy (diplomatic immunity/intel, 1/arc) |
+| [[10_System/Backgrounds/Military Brat\|Military Brat]] | +1 free dot in [[10_System/Attributes/Mundane/Physical\|Physical]], starts with weapon | Base Commander (military surplus/intel, 1/arc) |
+| [[10_System/Backgrounds/Disgraced Nobility\|Disgraced Nobility]] | +1 dot in [[10_System/Attributes/Mundane/Social\|Social]], +1 dot in [[10_System/Attributes/Mundane/Mental\|Mental]] | Sympathetic Loyalist (secret favors, 1/arc) |
+| [[10_System/Backgrounds/Syndicate Scion\|Syndicate Scion]] | +1 free dot in [[10_System/Attributes/Mundane/Social\|Social]], +1 free dot in [[10_System/Attributes/Mundane/Physical\|Physical]] | Gang Lieutenant (muscle/smuggling, 1/session) |
+| [[10_System/Backgrounds/Monster Hunter's Heir\|Monster Hunter's Heir]] | +1 free dot in [[10_System/Attributes/Mundane/Mental\|Mental]], +1 free dot in [[10_System/Attributes/Mundane/Physical\|Physical]] | Hunter's Lodge (rare materials/tracking, 1/arc) |
 
 *Click any background name for full details, roleplay hooks, and flavour text.*
 
-## Step 2: Attributes
-Your character has 4 categories of Attributes: **Magical, Mental, Social, and Physical**. These values add directly to your 2d6 rolls.
-* **Base Value:** Magical attributes start at **1 dot** for free (representing the biological gift). Mental, Social, and Physical attributes start at **0 dots** (representing a completely untrained baseline).
-* **Maximum:** No Attribute can start higher than **3 dots**. (You can increase them to 4 or 5 during enrollment using Study Points).
-* **The Points:** You have **4 Points** to distribute among your Magical attributes. For your Mental, Physical, and Social categories, you use an array of **[5, 4, 3]** points. Choose one category to receive 5 points, one to receive 4, and one to receive 3. (1 point = +1 dot).
-* *(Note: Specialisations cannot be chosen at creation. You must earn them through roleplay after reaching 3 dots in enrollment).*
+## Step 2: Choose a Playbook
+The quickest way to make a character is to choose a **Playbook**. A playbook represents your starting archetype, provides your base attributes, and gives you unique mechanical "Moves" that define how you interact with the world and magic.
 
-## Step 3: [[10_System/Glossary/School Proficiency\|School Proficiency]] (Magic Schools)
-As an Academy student, you have some basic training in magic. Each of the 8 Core Magic Schools has its own **[[10_System/Glossary/School Proficiency\|School Proficiency]]** that represents your ability to cast spells from that school. Your dot rating in a school determines the highest Complexity of spell you can attempt to cast from it.
-* **Base Value:** Every school's [[10_System/Glossary/School Proficiency\|School Proficiency]] starts at **0 dots** (untrained). A rating of 0 means you have no practical ability in that school.
-* **The Points:** You have **2 Points** to distribute across the 8 Core Schools (or support fields like [[10_System/Schools/Support/Alchemy\|Alchemy]]). Each point spent raises one school's [[10_System/Glossary/School Proficiency\|School Proficiency]] by 1 dot.
-* **Maximum:** No school can start higher than **3 dots**.
-* **Glyph Syllabuses:** Learning a school grants you access to its specific Function, Object, and Characteristic Glyphs (e.g., *Tvor*, *Vatr*).
-* **Spells Known:** For every dot you place in a school's [[10_System/Glossary/School Proficiency\|School Proficiency]], you may select exactly **one Spell Formula** from that school. The Complexity of the spell cannot exceed your dot rating in that school. (Therefore, your character will learn exactly 2 spells at creation, one for each dot placed).
-* **Restricted/Forbidden Magic:** You cannot put starting points into [[10_System/Glossary/Specializations\|Specializations]] (such as [[10_System/Schools/Illusionism/Mind Magic\|Mind Magic]], [[10_System/Schools/Alteration/Blood Magic\|Blood Magic]], [[10_System/Schools/Animation/Necromancy\|Necromancy]], etc.) unless you establish the prerequisites during character creation (such as purchasing specific Merits in Step 4).
+> [!WARNING] Playbooks WIP
+> Dedicated Playbooks are currently an in-development feature. For a standard game, please skip this step and build your character "from scratch" using Step 3.
 
-## Step 4: Merits & Flaws
-Merits are special advantages, while Flaws are permanent drawbacks.
-* **Starting:** You start with **0 Points** for Merits.
-* **The Trade:** You may take up to **4 Points worth of Flaws**. For every point of Flaws you take, you gain 1 Point to spend on a Merit.
-* *Example: You take "[[50_Magic/Traits/Flaws/Physical Frailty\|Physical Frailty]]" (-2) and "[[50_Magic/Traits/Flaws/Social Outcast\|Social Outcast]]" (-1). You now have 3 Points to purchase "[[50_Magic/Traits/Merits/Soul Anchor\|Soul Anchor]]" (3).*
+*(Note: As you grow, you will be able to take Moves from other sources, including learning them from teachers in the loop).*
 
-## Step 5: Academy Enrollment
-You must establish your bureaucratic record at the [[40_People/Factions/Cyorian Academy/Cyorian Academy\|Cyorian Academy]]. This dictates your resources.
-1. **Choose 1 Mentor Professor:** Look at the [[40_People/Factions/Cyorian Academy/Enrollments/Weekly Schedule\|Weekly Schedule]] or class lists. Pick exactly 1 Professor. They are your official mentor and are available to you during the **Afternoon** time slots.
-2. **(Optional) Pre-plan Majors:** You don't need to lock these in permanently (because you can change them on the first day of the semester), but jot down which 2 Majors you plan to take first.
+## Step 3: Attributes
+Your character has 7 core Attributes. If you choose a Playbook, your array is already provided. If you are building from scratch, use the following:
+* **Mundane Attributes:** Base 0 dots. You have **2 Points** to spend (1 point = +1 dot).
+* **Magical Attributes:** Base 1 dot in each. You have **2 Points** to spend (1 point = +1 dot).
 
-## Step 6: Derived Stats & Finishing Touches
-Calculate your fixed derived stats:
+## Step 4: [[10_System/Glossary/School Proficiency\|School Proficiency]] (Magic Schools)
+As an Academy student, you have some basic training in magic.
+* You have **2 Points** to distribute across the 8 Core Schools (or support fields like [[10_System/Schools/Support/Alchemy\|Alchemy]]). Each point grants 1 dot.
+* **Fluency (The Vocabulary):** Gaining a dot in a Core School gives you complete narrative fluency in its basic Function and Object Root Words. You don't need to track individual Core Glyphs. You can freely combine them for Unstructured Intent magic.
+* **Spells Known (The Recipes):** For every dot you place in a school, you may select exactly **one safe, structured Spell Formula** from that school to add to your Grimoire for standard casting.
 
-1. **[[10_System/Glossary/Mana Capacity\|Mana Capacity]] (Mana Capacity):** `4 + Core Resonance`. This is your hard limit before you enter the Exhaustion Cascade (Mana Burn).
-2. **Physical Health (The Body State):** You have a track of **7 Boxes** representing your body's physical integrity. As you take damage, you mark off boxes from top to bottom. Specific boxes impose dice penalties on all rolls:
-   - [ ] **Bruised (0)**
-   - [ ] **Hurt (-1)**
-   - [ ] **Injured (-1)**
-   - [ ] **Wounded (-2)**
-   - [ ] **Mauled (-2)**
-   - [ ] **Crippled (-4)**
-   - [ ] **Incapacitated** (Unconscious/Dying)
-   *(Note: The [[50_Magic/Traits/Flaws/Physical Frailty\|Physical Frailty]] flaw reduces this track by removing the top boxes).*
-3. **[[10_System/Glossary/Mind Defense\|Mind Defense]] (Passive TN):** `6 + Willpower + Highest of (Divination or Abjuration)`.
-4. **[[10_System/Glossary/Physical Defense\|Physical Defense]] (Evasion):** `6 + Mobility + Highest of (Awareness or Dexterity)`.
-5. **[[10_System/Glossary/Soul Integrity\|Soul Integrity]]:** **10 Boxes**.
-6. **Sanity:** **10 Boxes**.
-7. **Max Modifiers:** `Calculation - 1`. This is the maximum number of modifiers you can attach to a single Formula.
-8. **Mastered Spells:** You may designate a number of your known formulas up to your `Memory` rating as Mastered (costing 0 SP during character creation). Mastered spells permanently lower their Complexity Category by 1 step for you (reducing Mana cost by 1, minimum 1), skip calculation rolls, and can be used as instant reactions. Specify them on your sheet.
+## Step 5: Playbook Moves
+Look at your Playbook and choose **2 Playbook Moves**. These define your unique mechanical edge, such as advanced combat tricks, social leverage, or unique magical talents. 
+*(Note: Merits and Flaws have been deprecated in favor of Playbook Moves. If you want a specific "Flaw", incorporate it into your narrative or take a Move that emphasizes it).*
 
-[[10_System/02 Economy\|Economy]] ========================================= [[10_System/03b Quick Character Creation\|Quick Character Creation]]
+## Step 6: Academy & Derived Stats
+1. **Choose 1 Mentor Professor:** Pick exactly 1 Professor to be your mentor.
+2. **[[10_System/Glossary/Mana Capacity\|Mana Capacity]]:** `4 + Core Resonance` (Highest of Calculation, Finesse, or Willpower).
+3. **Physical Health:** You have a track of **7 Boxes**. Earning wounds inflicts narrative complications and ongoing penalties on physical rolls.
+4. **[[10_System/Glossary/Soul Integrity\|Soul Integrity]] & Sanity:** Each has **10 Boxes**.
+5. **Max Modifiers:** `Calculation`. This is the maximum number of modifiers you can attach to a single Formula.
+6. **Mastered Spells:** While you may keep an unlimited number of formulas annotated in your Grimoire or notes, you can only hold a number of **Mastered Spells** perfectly in your mind equal to your `Memory` rating. You can freely swap which of your known formulas are currently Mastered whenever you are outside of combat or a tense roleplay scene. Mastered spells lower their Complexity Category by 1 step for you (reducing Mana cost by 1, minimum 1), and trigger the "Cast a Spell" move faster in the fiction.
+
+[[10_System/02 Economy\|Economy]] ========================================= [[10_System/04 Playbooks/00 Playbook Template\|Playbook Templates]]

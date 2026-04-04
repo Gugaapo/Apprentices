@@ -17,7 +17,7 @@ You are intimately familiar with the anatomy, weaknesses, and behaviors of beast
 
 ## Mechanical Benefits
 
-- **Starting Bonus:** Gain +1 free dot in **[[10_System/Attributes/Mental/Survival\|Survival]]** and +1 free dot in **[[10_System/Attributes/Mental/Awareness\|Awareness]]**.
+- **Starting Bonus:** Gain +1 free dot in **[[Survival\|Survival]]** and +1 free dot in **[[Awareness\|Awareness]]**.
 - **Connection — The Hunter's Lodge:** You belong to a loose fraternity of professional trackers and beast slayers. Once per arc, you can call upon them to get expert tracking assistance in the wilderness, identify a completely unknown biological threat, or secure rare, freshly-harvested magical beast components at cost.
 
 ---

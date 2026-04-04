@@ -12,7 +12,7 @@ Your dot rating in a **School Proficiency** represents how complex an architectu
 
 ### Unstructured vs. Structured Magic
 The difference between types of magic lies in the precision of the canals:
-*   **Unstructured Magic (Tier 0):** The mage is essentially "shaping in the air," clumsily forcing mana to flow without a map while hoping for a specific result. This requires no proficiency rating.
-*   **Structured Magic (Spells):** The mage has studied and memorized the precise canal structure of the spell. Casting is the act of rapidly shaping that complex architecture out of ambient mana.
+*   **Unstructured Magic (Intent):** The mage is essentially "shaping in the air," clumsily forcing mana to flow without a map while hoping for a specific result. This requires no active formula but incurs heavier Mana costs and potential physical harm.
+*   **Structured Magic (Formulas):** The mage has studied and memorized the precise, safe canal structure of the spell. Casting is the act of rapidly shaping that architecture out of ambient mana using the `Cast a Spell Formula` move.
 
-Mechanically, when a character casts a spell, they roll their **Magical Attribute** plus the appropriate **School Proficiency** (like [[40_People/Factions/Cyorian Academy/Classes/Projection Class\|Projection Class]] or [[10_System/Schools/Abjuration/Abjuration\|Abjuration]]). The total successes rolled must meet or exceed the spell's Tier to successfully form the canals and trigger the effect.
+Mechanically, **School Proficiency** is primarily a narrative tool for character progression under the Tri-Tier Lexicon. Having a dot in a core school grants you narrative *Fluency* in its Root Words, allowing you to build its structures even for Unstructured magic.

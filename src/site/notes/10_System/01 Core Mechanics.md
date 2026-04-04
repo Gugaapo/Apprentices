@@ -3,150 +3,92 @@
 ---
 
 
-Welcome to **Apprentices**. This chapter covers the fundamental mechanics of the game, how to roll the dice, and what your character's attributes mean.
+Welcome to **Apprentices**. This chapter covers the fundamental mechanics of the game, how to trigger moves, and what your character's attributes mean.
 
 ## Core Resolution Mechanic
 
-The engine of **Apprentices** uses a **2d6 system** focusing on mental struggle, magical precision, and pushing the human body to its absolute limits.
+The engine of **Apprentices** uses a **Player-Facing system** focusing on mental struggle, magical precision, and pushing the human body to its absolute limits. 
 
-### The Roll
-Whenever your character attempts an action with a chance of failure, you roll two six-sided dice (2d6) and add the relevant Attribute and Skill/Proficiency.
+### The Move
+When your character does something in the fiction that matches a **Move's trigger** (e.g., "When you strike an enemy in close combat," or "When you weave a magic formula"), you roll the dice. 
+You roll two six-sided dice (2d6) and add the relevant **Attribute**.
 
-**Mundane Roll:** `2d6 + Attribute + Skill`
-**Magic Roll:** `2d6 + Willpower + [School Proficiency]` (see [[10_System/06 Magic System\|06 Magic System]]).
+- **10+ (Strong Hit):** You succeed completely. You get what you want, and often get to choose a bonus from the Move's list.
+- **7-9 (Mixed Success):** You succeed, but there's a cost, complication, or compromise. The GM will offer you a hard choice or an enemy will retaliate.
+- **6- (Miss):** Things go wrong. The GM will make a "Hard Move," altering the fiction to introduce danger, damage, or an unexpected setback.
 
-- **Natural 12:** A critical success. You achieve your goal flawlessly, and the GM may grant an additional narrative benefit or maximum Overcharge.
-- **Natural 2:** A critical failure. The action fails disastrously, or the magic backfires wildly, creating severe complications entirely at the GM's discretion.
-
-### Success Threshold (Difficulty)
-The GM sets the Difficulty (Target Number or TN) for the roll based on the task's complexity. You must roll equal to or higher than the TN to succeed.
-- **Base Difficulty:** 6 for standard, everyday tasks under pressure.
-- **Challenging:** 9 for difficult mundane tasks or standard combat actions.
-- **Magical Difficulties:** Spell Target Numbers typically start at **Base 6** and scale up to **15+** for absurdly dense magical canal structures or hostile environments.
+### Mastered Spells & Joint Casting
+- **Mastered Spells:** You can hold a vast collection of formulas written in a Grimoire, but you can only memorize a number of **Mastered Spells** equal to your [[10_System/Attributes/Magical/Memory\|Memory]] attribute. Mastered spells have lower Mana costs and can be cast faster in the fiction. You can freely swap which formulas are currently Mastered whenever you are not in combat or a tense roleplaying scene.
+- **Joint Casting:** Two players can work together using the **Joint Casting** move, allowing them to combine their Calculation pools and share the Mana cost of massive spells.
 
 ### Narrative Action Flow
 **Apprentices** does not use rigid initiative systems or turn orders. Action flows naturally based on the narrative.
 
 1. **The Conversation:** Play is a conversation. The GM describes the situation and asks, *"What do you do?"*
-2. **Player Action:** A player describes their action and intention. If it triggers a mechanical rule, they roll the appropriate 2d6 pool.
-3. **The Roll Dictates the Flow:**
-   - **Success (Meet or Exceed TN):** The player achieves their goal. For spells, points rolled *above* the TN generate **Overcharge**.
-   - **Failure (Below TN):** The action fails, **AND** the GM introduces a complication, consequence, or enemy action (a "Hard Move"). Enemies don't typically roll to hit; they deal damage or cause problems as a direct consequence of a player's failed roll or inaction.
-4. **Spotlight:** The GM manages the "Spotlight," panning from player to player to ensure everyone gets a chance to act.
-
-### Boss Actions
-Major antagonists designated as **Bosses** by the GM gain **1 independent action per round**. This action fires at a dramatic moment chosen by the GM, regardless of player results. Boss actions follow the same narrative fiction rules — the GM describes what the Boss does, and the players must respond (often with a Reaction or Defense roll).
+2. **Player Action:** A player describes their action. If it triggers a Move, they roll. 
+3. **The Roll Dictates the Flow:** The GM does not usually roll. Enemies deal damage and act as a consequence of a player's 7-9 or 6- rolls.
 
 ---
 
-## Attributes & Skills
+## The 7 Attributes 
 
-Characters in **Apprentices** are defined across four distinct areas of capability.
-
-### Specialization
-Each attribute and School Proficiency can have a **Specialization** — a narrow focus that reflects exceptional mastery. [[10_System/Glossary/Specializations\|Specializations]] are noted on the character sheet next to the relevant attribute.
-
-**Rules:**
-- A character may declare a Specialization once the relevant skill/attribute reaches **Tier 3 (Skilled)**.
-- When making a roll that falls squarely within the declared specialization, add a **+1 bonus** to the final 2d6 roll.
-- Each attribute may have at most **one** Specialization.
+Characters in **Apprentices** are defined across seven distinct attributes. "Skills" and "Traits" have been collapsed; if your character ought to be good at something (like Lockpicking), they simply take the relevant Playbook Move (e.g., *Thief in the Night*).
 
 ### 1. Magical Attributes (The Soul's [[10_System/Glossary/Shaping\|Shaping]])
-These represent the inherent power, processing speed, and physical mana capacity of the Student's magical mind.
+These represent the inherent power, processing speed, and physical mana capacity of the Student's magical mind. Base: 1. Max: 3.
 
 | Attribute                        | Description                                                                                    |
 | :------------------------------- | :--------------------------------------------------------------------------------------------- |
 | **[[10_System/Attributes/Magical/Memory\|Memory]]**           | Capacity for holding pre-calculated spell architectures in pure muscle memory. Dictates your max limit for Mastered Spells. |
-| **[[10_System/Attributes/Magical/Calculation\|Calculation]]** | Mental RAM. Dictates the max structural complexity of a matrix you can actively shape, and caps your Modifiers (`Calculation - 1`). |
-| **[[10_System/Attributes/Magical/Finesse\|Finesse]]**         | Delicate exactness of weaving multiple glyphs. Used for resisting physical backlash (Mana Burn) and defense rolls. |
-| **[[10_System/Attributes/Magical/Willpower\|Willpower]]**     | Raw force of intent. Added to all Casting Rolls. Determines your absolute **Mana Capacity** (`4 + Core Resonance`). |
+| **[[10_System/Attributes/Magical/Calculation\|Calculation]]** | Mental RAM. Dictates the max structural complexity of a matrix you can actively shape, and caps your Modifiers (strictly your `Calculation` rating). |
+| **[[10_System/Attributes/Magical/Finesse\|Finesse]]**         | Delicate exactness of weaving multiple glyphs. Used for resisting physical backlash and intricate magic. |
+| **[[10_System/Attributes/Magical/Willpower\|Willpower]]**     | Raw force of intent. Used for Channeling raw magical power. Determines your **Mana Capacity** (`4 + Core Resonance`). |
 
-### 2. Mental Attributes
-These represent logical reasoning, awareness, and retained academic knowledge.
+### 2. Mundane Attributes
+These represent your physical and intellectual capabilities. Base: 0. Max: 3.
 
 | Attribute                            | Description                                                          |
 | :----------------------------------- | :------------------------------------------------------------------- |
-| **[[10_System/Attributes/Mental/Academics\|Academics]]**         | Knowledge of history, lore, mathematics, and non-magical sciences.   |
-| **[[10_System/Attributes/Mental/Awareness\|Awareness]]**         | Deduction, spotting ambushes, noticing hidden details, and general perception.  |
-| **[[10_System/Attributes/Mental/Survival\|Survival]]**           | Navigating the wilderness, tracking, and knowledge of magical beasts.|
-| **[[10_System/Attributes/Mental/Crafting\|Crafting]]**           | Engineering, alchemy, tinkering, basic first aid, and repairing.     |
-
-### 3. Social Attributes
-These represent how a character interacts with, commands, or manipulates others.
-
-| Attribute                          | Description                                                       |
-| :--------------------------------- | :---------------------------------------------------------------- |
-| **[[10_System/Attributes/Social/Charm\|Charm]]**               | Getting people to like you, making friends, and honest negotiation.|
-| **[[10_System/Attributes/Social/Deception\|Deception]]**       | Lying, fast-talking, scamming, and hiding your true intentions.   |
-| **[[10_System/Attributes/Social/Insight\|Insight]]**           | Reading people, lie detection, and sensing hidden motives.        |
-| **[[10_System/Attributes/Social/Connections\|Connections]]**   | Networking, navigating high society, and finding black markets.   |
-
-### 4. Physical Attributes
-
-| Attribute                            | Description                                                            |
-| :----------------------------------- | :--------------------------------------------------------------------- |
-| **[[10_System/Attributes/Physical/Might\|Might]]**                 | Raw physical power, lifting capacity, and grappling.                   |
-| **[[10_System/Attributes/Physical/Mobility\|Mobility]]**           | Running, climbing, swimming, and dodging.                              |
-| **[[10_System/Attributes/Physical/Dexterity\|Dexterity]]**         | Sneaking, fine motor control, picking pockets, and escaping bindings.  |
-| **[[10_System/Attributes/Physical/Combat\|Combat]]**               | Fighting with swords, staves, firearms, or throwing alchemical explosives.|
+| **[[10_System/Attributes/Mundane/Mental\|Mental]]**               | Knowledge, academics, logic, perception, and crafting.               |
+| **[[10_System/Attributes/Mundane/Social\|Social]]**               | Charm, deception, intimidation, and reading people's intentions.     |
+| **[[10_System/Attributes/Mundane/Physical\|Physical]]**           | Might, agility, acrobatics, and non-magical combat prowess.          |
 
 ---
 
 ## Survival, Health & The Soul
 
 ### Physical Health (The Body State)
-Every character typically has **7 Physical Health Boxes** (unless altered by the [[50_Magic/Traits/Flaws/Physical Frailty\|Physical Frailty]] flaw). As you take damage from attacks or hazards, mark off these boxes. As your body breaks down, you suffer **Wound Penalties** to **all** 2d6 rolls.
+Every character typically has **7 Physical Health Boxes** (unless altered by a Playbook Move). As you take damage from attacks or hazards, mark off these boxes. 
 
 - [ ] **Bruised (0)**: Barely scratched.
-- [ ] **Hurt (-1)**: Minor cuts, bruises. -1 penalty to all rolls.
-- [ ] **Injured (-1)**: Significant tissue damage. -1 penalty to all rolls.
-- [ ] **Wounded (-2)**: Severe bleeding, fractures. -2 penalty to all rolls.
-- [ ] **Mauled (-2)**: Major trauma. -2 penalty to all rolls.
+- [ ] **Hurt (-1)**: Minor cuts, bruises. Take -1 ongoing to physical rolls.
+- [ ] **Injured (-1)**: Significant tissue damage. Take -1 ongoing to physical rolls.
+- [ ] **Wounded (-2)**: Severe bleeding, fractures. Take -2 ongoing.
+- [ ] **Mauled (-2)**: Major trauma. Take -2 ongoing.
 - [ ] **Crippled (-4)**: Barely conscious. Can only crawl or speak weakly. -4 penalty.
 - [ ] **Incapacitated**: Unconscious and bleeding out. Death at the end of the scene if untreated.
 
 ### [[10_System/Glossary/Mana Capacity\|Mana Capacity]] & [[10_System/Glossary/Mana Burn\|Mana Burn]]
-There is no abstract "mana bar." Instead, you have a **Mana Capacity**, equal to **4 + Core Resonance** *([[10_System/Glossary/Core Resonance\|Core Resonance]] = Highest of Calculation, Finesse, or Willpower)*. Pushing mana through your spiritual canals causes friction. Every spell costs Mana. If the total spent Mana exceeds your Capacity, your body begins to tear itself apart—this is **Mana Burn**.
-
-> **Mana Burn (Exhaustion Cascade)**
-> Pushing mana beyond your flesh's capacity causes organic tearing. 
-> **IF** your Spent Mana > Mana Capacity:
-> - **THEN IF (+1 to 5 over):** Take 1 Physical Wound immediately per spell. (*Fatigued*)
-> - **THEN IF (+6 to 8 over):** Your spell automatically fails on any roll ≤ TN, AND take Wounds. (*Exhausted*)
-> - **THEN IF (+9+ over):** You fall unconscious or die from massive organ failure. (*Depleted*)
-
-*Resting:* A partial rest (sitting in the quad) restores 3 Mana Capacity and heals 1 Superficial Wound. A full night's sleep restores all Mana Capacity and heals 2 Wounds.
-
-### Defensive Stats (Evasion & Mind Defense)
-**[[10_System/Glossary/Mind Defense\|Mind Defense]]::** 6 + [[10_System/Attributes/Magical/Willpower\|Willpower]] + Highest of ([[10_System/Schools/Illusionism/Mind Magic\|Mind Magic]], [[10_System/Schools/Divination/Divination\|Divination]], [[10_System/Schools/Abjuration/Abjuration\|Abjuration]]).
-- **Passive Breach Threshold::** Attackers must roll higher than this TN to enter your mind.
-
-**[[10_System/Glossary/Physical Defense\|Physical Defense]] (Evasion):** 6 + [[10_System/Attributes/Physical/Mobility\|Mobility]] + Highest of ([[10_System/Attributes/Mental/Awareness\|Awareness]] or [[10_System/Attributes/Physical/Dexterity\|Dexterity]]).
-- **Evasion Threshold::** Attackers must roll higher than this score with their attack/casting roll to strike you with physical blows or targeted spells.
+There is no abstract "mana bar." Instead, you have a **Mana Capacity**, equal to **4 + Core Resonance** *([[10_System/Glossary/Core Resonance\|Core Resonance]] = Highest of Calculation, Finesse, or Willpower)*. Pushing mana through your spiritual canals causes friction. Every spell costs Mana. If the total spent Mana exceeds your Capacity, your body begins to tear itself apart.
+- Exceeding Capacity instantly inflicts the **Mana Fricton** condition, dealing Wounds and causing narrative complications on Magic Moves.
+- A partial rest (sitting in the quad) restores 3 Mana (clears 3 spent Mana). A full night's sleep restores all Mana.
 
 ---
 
 ## Sanity & Morality
 
-**Sanity Path::** `[ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]` (10 Boxes)
+### Erosion Trigger Move
+When facing trauma or committing atrocities, roll the **Resist Erosion** Move.
+**(Roll `2d6 + Willpower`)**
+- **10+:** You steel your mind. No ill effects.
+- **7-9:** You are shaken. The GM will offer you a choice: take 1 permanent Sanity damage, or take a temporary condition (Paranoia, Tremors) until the end of the loop.
+- **6-:** The horror breaks you. Lose 1 permanent Sanity, and the GM makes a Hard Move concerning your mental state.
+
 At 0 Sanity, your character becomes a "[[10_System/Glossary/Hollow\|Hollow]]".
 
-### Erosion Triggers
-When facing trauma or committing atrocities, roll **Resist Erosion::** `2d6 + Memory + Willpower`.
-
-| Target Number (TN) | Trigger Event                                                                           |
-| :--------------- | :-------------------------------------------------------------------------------------- |
-| **TN 7**         | Enduring minor unnatural trauma, experiencing severe [[10_System/Glossary/Mana Burn\|Mana Burn]].                     |
-| **TN 9**         | Viewing a friend as an NPC, casual theft/murder of strangers, learning [[10_System/Schools/Animation/Necromancy\|Necromancy]].  |
-| **TN 11**        | Enduring excruciating pain for research, witnessing the brutal death of a close friend. |
-| **TN 14**        | Committing mass atrocities                                                              |
-
-**Failure:** Lose 1 permanent point of Sanity.
-
 ### Tiers of Madness
-- **Sanity 7 (Detachment):** -1 to mundane Social rolls.
-- **Sanity 4 (Dissociation):** Develop a Derangement (Paranoia, Phobia); -2 to [[10_System/Attributes/Magical/Finesse\|Finesse]] rolls due to mental tremors.
-- **Sanity 2 (Apathy):** Must pass a TN 8 [[10_System/Attributes/Magical/Willpower\|Willpower]] check to take *any* action (including defending yourself).
-
+- **Sanity 7 (Detachment):** Take -1 ongoing to all Social rolls to connect with normal humans.
+- **Sanity 4 (Dissociation):** Develop a Derangement (Paranoia, Phobia).
+- **Sanity 2 (Apathy):** You must roll +Willpower just to take action in stressful situations.
 
 [[10_System/00 This World\|This World]] ================================================== [[10_System/02 Economy\|Economy]]

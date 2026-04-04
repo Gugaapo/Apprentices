@@ -30,7 +30,7 @@ Mind Magic is the direct manipulation of a living mind — thoughts, emotions, m
 # Lore deep dive
 
 > [!IMPORTANT] Prerequisite
-> You must possess the [[50_Magic/Traits/Merits/Empath\|Empath]] trait to learn this school. Unlicensed use is a criminal offense.
+> You must possess the [[Empath\|Empath]] trait to learn this school. Unlicensed use is a criminal offense.
 
 Mind Magic is fundamentally divided into two distinct disciplines: **Surface Manipulations** and **Deep Manipulations**, alongside the brutal reality of telepathic combat. 
 

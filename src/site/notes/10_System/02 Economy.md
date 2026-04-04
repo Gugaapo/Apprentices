@@ -31,11 +31,11 @@ If they do not upgrade their Funds to at least **Adequate** by **Day 5** of the 
 
 To buy expensive gear or survive the month, players must spend **Time Slots** to acquire Funds. 
 
-When a player dedicates a Time Slot to making money (e.g., working a mundane job, brewing and selling alchemical potions, mugging someone in the lower city, or robbing a vault), they make an appropriate Skill Roll (e.g., *[[10_System/Attributes/Mental/Academics\|Academics]], [[10_System/Schools/Support/Alchemy\|Alchemy]], [[Stealth\|Stealth]]*).
+When a player dedicates a Time Slot to making money (e.g., working a mundane job, brewing and selling alchemical potions, mugging someone in the lower city, or robbing a vault), they make an appropriate attribute roll (e.g., *[[10_System/Attributes/Mundane/Mental\|Mental]]*, *[[10_System/Attributes/Mundane/Social\|Social]]* or *[[10_System/Attributes/Mundane/Physical\|Physical]]*), or a specific move like **Force Your Way** or **Manipulate and Provoke**.
 
 Depending on the danger and difficulty:
-* **Standard Work (Safe):** Requires 2 dedicated Time Slots and a successful Skill Roll to raise your Funds by **1 level** for the duration of the month.
-* **Dangerous/Illegal Work (Risky):** Requires 1 dedicated Time Slot and a successful, high-difficulty Skill Roll to raise your Funds by **1 level** (or potentially **2 levels** for massive heists). *Failure usually results in severe Hard Moves from the GM (jail time, injury, police tracking).*
+* **Standard Work (Safe):** Requires 2 dedicated Time Slots and a successful appropriate roll to raise your Funds by **1 level** for the duration of the month.
+* **Dangerous/Illegal Work (Risky):** Requires 1 dedicated Time Slot and a successful, high-difficulty appropriate roll to raise your Funds by **1 level** (or potentially **2 levels** for massive heists). *Failure usually results in severe Hard Moves from the GM (jail time, injury, police tracking).*
 
 
 

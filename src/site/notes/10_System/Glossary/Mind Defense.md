@@ -1,11 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/10-system/glossary/mind-defense/","tags":["rules","vocabulary","glossary","mind","combat"],"dgShowBacklinks":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/10-system/glossary/mind-defense/","tags":["rules","vocabulary","glossary","mind","combat","deprecated"],"dgShowBacklinks":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
 
-# Mind Defense
+# Mind Defense (Deprecated)
 
-**Mind Defense** is a character's passive mental barrier. It acts as the threshold that enemies must meet or exceed when targeting the character with mental intrusion, telepathy, or psychic illusions.
-
-**[[10_System/Attributes/Magical/Calculation\|Calculation]]:** `Willpower + Highest of (Divination or Ward)`
-
-Rather than rolling to dodge a mind magic attack, the attacker rolls their die pool against your static Mind Defense. If their successes equal or exceed this number, their mental intrusion is successful.
+> [!WARNING] Deprecated Mechanic
+> The concept of a passive "Target Number" or "Dicepool" Mind Defense has been retired in favor of the uniform Driven/PbtA engine format. 
+> 
+> To actively resist mental intrusions, characters must now learn the modular **[[10_System/Glossary/Mind Defense\|Mind Defense]]** playbook move.

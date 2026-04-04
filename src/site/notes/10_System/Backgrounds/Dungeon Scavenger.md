@@ -17,7 +17,7 @@ To you, magic isn't an academic pursuit; it's a survival tool. You are intimatel
 
 ## Mechanical Benefits
 
-- **Starting Bonus:** Gain +1 free dot in **[[10_System/Attributes/Mental/Survival\|Survival]]** (specifically related to subterranean and monstrous ecology) and +1 free dot in **[[10_System/Attributes/Mental/Awareness\|Awareness]]**.
+- **Starting Bonus:** Gain +1 free dot in **[[Survival\|Survival]]** (specifically related to subterranean and monstrous ecology) and +1 free dot in **[[Awareness\|Awareness]]**.
 - **Connection — Mercenary Guild:** You maintain ties with the gritty Delvers and mercenaries who work the Dungeon entrances. Once per arc, you can call upon this network to receive highly accurate monster intelligence, secure a guide for the upper Dungeon levels, or fence illicit monster parts without asking questions.
 
 ---

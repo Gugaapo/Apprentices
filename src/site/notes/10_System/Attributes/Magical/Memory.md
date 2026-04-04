@@ -1,14 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/10-system/attributes/magical/memory/","tags":["attribute","magical"],"dgShowBacklinks":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/10-system/attributes/magical/memory/","tags":["rules","attributes","magical","memory"],"dgShowBacklinks":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
 
 
+# Memory
 
-**Category:** Magical
+Your **Memory** attribute represents your character's capability to recall complex formulas across months and their overall conceptual retention. This attribute is paramount for retaining knowledge, spells, and experiences from past events, and it serves directly as half of your Sanity Resistance pool.
 
-Memory represents your character's capability to recall complex formulas across months and their overall conceptual retention. This attribute is paramount for retaining knowledge, spells, and experiences from past events, and it serves directly as half of your Sanity Resistance pool.
+## Mechanical Uses
 
 Mechanically, Memory dictates the size of your "mental hard drive" for internalized magic. You can hold a number of **Mastered Spells** equal to your **Memory × 2**. Mastered spells can be cast silently, without gestures, cost 1 less Mana (minimum 1), and can be used as instant reactions. Additionally, it combines with Willpower to form your **Sanity Resistance** dice pool.
+
+### Associated Magic Moves
+- **[[10_System/00 Moves/02 Magic Moves#Deflect Magic\|Deflect Magic]]:** While Memory isn't rolled directly, its capacity for **Mastered Spells** is mechanically required to trigger quick-reaction defenses like this move.
 
 ### Common Uses
 - **Mastered Spells:** Internalizing your signature spells for instant, silent, and cheaper casting.

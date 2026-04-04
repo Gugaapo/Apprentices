@@ -67,7 +67,7 @@ All casting rolls use **`2d6 + Willpower + Soul Magic`**. Soul Magic is the only
 
 **Soul Magic CANNOT:**
 - Be used without triggering a Sanity Erosion check (no exceptions)
-- Be learned without the [[50_Magic/Traits/Merits/Forbidden Knowledge\|Forbidden Knowledge]] trait
+- Be learned without the [[Forbidden Knowledge\|Forbidden Knowledge]] trait
 - Instantly raise an army of zombies mid-combat without prior alchemical preparation
 - Heal soul damage (soul damage is permanent; even Soul Magic cannot easily repair it)
 

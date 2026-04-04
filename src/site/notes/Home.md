@@ -29,12 +29,12 @@ Use the sidebar to browse, or press `Ctrl+K` to search.
 > [!info] Tip
 > Use the sidebar on the left to navigate through the folder structure of the vault.
 
-| File                                                            | Last Modified            |
-| --------------------------------------------------------------- | ------------------------ |
-| [[10_System/00 This World\|00 This World]]                   | 8:20 PM - April 02, 2026 |
-| [[10_System/11 Apprentices SRD\|11 Apprentices SRD]]         | 8:20 PM - April 02, 2026 |
-| [[10_System/10 Items and Equipment\|10 Items and Equipment]] | 8:19 PM - April 02, 2026 |
-| [[10_System/09 Crafting\|09 Crafting]]                       | 8:19 PM - April 02, 2026 |
-| [[10_System/07 Crafting\|07 Crafting]]                       | 8:19 PM - April 02, 2026 |
+| File                                                                             | Last Modified             |
+| -------------------------------------------------------------------------------- | ------------------------- |
+| [[10_System/Glossary/Overcharge\|Overcharge]]                                 | 11:30 PM - April 03, 2026 |
+| [[10_System/05 Magic System\|05 Magic System]]                                | 11:30 PM - April 03, 2026 |
+| [[10_System/00 Moves/Magic Moves/Cast a Spell Formula\|Cast a Spell Formula]] | 11:29 PM - April 03, 2026 |
+| [[10_System/00 Moves/02 Magic Moves\|02 Magic Moves]]                         | 11:18 PM - April 03, 2026 |
+| [[10_System/00 Moves/01 Basic Moves\|01 Basic Moves]]                         | 11:18 PM - April 03, 2026 |
 
 { .block-language-dataview}

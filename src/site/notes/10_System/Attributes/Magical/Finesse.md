@@ -1,14 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/10-system/attributes/magical/finesse/","tags":["attribute","magical"],"dgShowBacklinks":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/10-system/attributes/magical/finesse/","tags":["rules","attributes","magical","finesse"],"dgShowBacklinks":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
 
 
+# Finesse
 
-**Category:** Magical
+Your **Finesse** attribute dictates your precision, control, and [[10_System/Glossary/mana\|mana]] efficiency when shaping spells. It represents how delicately you can manipulate magical energies, allowing you to cast spells quietly, reduce wasteful mana bleed, and perform subtle magical operations like altering a spell's trajectory mid-flight.
 
-Finesse dictates your precision, control, and [[10_System/Glossary/mana\|mana]] efficiency when shaping spells. It represents how delicately you can manipulate magical energies, allowing you to cast spells quietly, reduce wasteful mana bleed, and perform subtle magical operations like altering a spell's trajectory mid-flight.
+## Mechanical Uses
 
 Mechanically, Finesse allows you to execute **Simultaneous Casting** (Dual Casting) via Overcharge. By explicitly substituting Finesse for Willpower in your 2d6 Casting Roll, you can spend **2 Overcharge** points to perfectly duplicate the spell's effect and hit a secondary target simultaneously. 
+
+### Associated Magic Moves
+- **[[10_System/00 Moves/02 Magic Moves#Cast a Spell Formula\|Cast a Spell Formula]]:** Used when rolling precision or defensive spells. 
+- **[[10_System/00 Moves/02 Magic Moves#Deflect Magic\|Deflect Magic]]:** Used when you quickly manifest a Mastered ward to intercept an incoming magical attack.
 
 ### Common Uses
 - **Simultaneous Casting:** Weaving multiple spell matrices at the exact same moment.
