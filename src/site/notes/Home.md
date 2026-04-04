@@ -31,10 +31,10 @@ Use the sidebar to browse, or press `Ctrl+K` to search.
 
 | File                                                                            | Last Modified            |
 | ------------------------------------------------------------------------------- | ------------------------ |
+| [[10_System/01 Core Mechanics\|01 Core Mechanics]]                           | 3:24 PM - April 04, 2026 |
+| [[00_Meta/Session Log Template\|Session Log Template]]                       | 3:23 PM - April 04, 2026 |
+| [[00_Meta/Character Sheet Template\|Character Sheet Template]]               | 3:23 PM - April 04, 2026 |
 | [[10_System/Backgrounds/Industrial Pioneer\|Industrial Pioneer]]             | 3:17 PM - April 04, 2026 |
 | [[10_System/Backgrounds/Foreign Exchange Student\|Foreign Exchange Student]] | 3:17 PM - April 04, 2026 |
-| [[10_System/Backgrounds/Alchemist's Apprentice\|Alchemist's Apprentice]]     | 3:15 PM - April 04, 2026 |
-| [[10_System/Backgrounds/Disgraced Nobility\|Disgraced Nobility]]             | 3:15 PM - April 04, 2026 |
-| [[10_System/Backgrounds/Dungeon Scavenger\|Dungeon Scavenger]]               | 3:15 PM - April 04, 2026 |
 
 { .block-language-dataview}

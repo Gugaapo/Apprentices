@@ -87,7 +87,7 @@ There is no abstract "mana bar" to track. Instead, whenever you push magic beyon
 When facing trauma or committing atrocities, roll the **Resist Erosion** Move.
 **(Roll `2d6 + Willpower`)**
 - **10+:** You steel your mind. No ill effects.
-- **7-9:** You are shaken. The GM will offer you a choice: take 1 permanent Sanity damage, or take a temporary condition (Paranoia, Tremors) until the end of the loop.
+- **7-9:** You are shaken. The GM will offer you a choice: take 1 permanent Sanity damage, or take a temporary condition (Paranoia, Tremors) until the end of the quest.
 - **6-:** The horror breaks you. Lose 1 permanent Sanity, and the GM makes a Hard Move concerning your mental state.
 
 At 0 Sanity, your character becomes a "[[10_System/Glossary/Hollow\|Hollow]]".

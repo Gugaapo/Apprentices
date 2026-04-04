@@ -105,7 +105,7 @@
 - 
 - 
 
-**Loop Notes / Objectives:**
+**Notes / Objectives:**
 - 
 - 
 
