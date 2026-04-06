@@ -32,11 +32,7 @@ When you hold `Soul Magic` in your Grimoire, you have specific fictional positio
 Soul magic is impossible to practice without first obtaining "soul sight"—the ability to perceive souls directly. Acquiring soul sight is an extremely difficult and dangerous process for most people, often risking permanent psychological or spiritual damage. Because it is highly illegal, only rogue criminals and specialized priests (who are granted exemptions or divine workarounds) specialize in it. It is exceedingly rare to see a standard mage capable of performing even basic Soul Magic.
 
 
-:::hidden
-### The Truth of "Soulkill" in the Time Loop
-When a looper or a target is subjected to a "Soulkill" attack (such as the one [[40_People/NPCs/Enemies/Red Robe\|Red Robe]] uses against the [[70_Bestiary/Sapient_Species/Aranea\|Aranea]]), their soul is not actually permanently destroyed in the real world. Instead, the attack applies a highly specific, permanent marker to their simulated soul. The Sovereign Gate's mechanism reads this marker at the end of the month and simply *chooses not to recreate them* in the next restart. To everyone inside the simulation, they appear to have been completely erased from existence, but their original, real-world soul remains untouched outside the loop.
 
-:::
 
 ## The Core Matrix
 Unlocking this knowledge grants you structural mastery of the following base Glyphs to use during *Shape the Matrix*:

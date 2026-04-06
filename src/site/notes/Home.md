@@ -29,12 +29,12 @@ Use the sidebar to browse, or press `Ctrl+K` to search.
 > [!info] Tip
 > Use the sidebar on the left to navigate through the folder structure of the vault.
 
-| File                                                                                   | Last Modified            |
-| -------------------------------------------------------------------------------------- | ------------------------ |
-| [[20_World/History/Time Loop\|Time Loop]]                                           | 6:42 PM - April 06, 2026 |
-| [[80_Campaign/Loops/Loop1\|Loop1]]                                                  | 6:27 PM - April 06, 2026 |
-| [[gemini-scribe/Agent-Sessions/Cyoria Invasion Factions\|Cyoria Invasion Factions]] | 6:24 PM - April 06, 2026 |
-| [[60_Items/Items/Fire_Pistol\|Fire_Pistol]]                                         | 6:24 PM - April 06, 2026 |
-| [[80_Campaign/Sessions/Session01\|Session01]]                                       | 6:24 PM - April 06, 2026 |
+| File                                                                                                           | Last Modified            |
+| -------------------------------------------------------------------------------------------------------------- | ------------------------ |
+| [[gemini-scribe/Agent-Sessions/Troubleshooting ---hidden Tag Syntax\|Troubleshooting ---hidden Tag Syntax]] | 6:47 PM - April 06, 2026 |
+| [[10_System/Schools/Soul Magic/Soul Magic\|Soul Magic]]                                                     | 6:47 PM - April 06, 2026 |
+| [[10_System/02 Economy\|02 Economy]]                                                                        | 6:44 PM - April 06, 2026 |
+| [[20_World/History/Time Loop\|Time Loop]]                                                                   | 6:42 PM - April 06, 2026 |
+| [[80_Campaign/Loops/Loop1\|Loop1]]                                                                          | 6:27 PM - April 06, 2026 |
 
 { .block-language-dataview}
