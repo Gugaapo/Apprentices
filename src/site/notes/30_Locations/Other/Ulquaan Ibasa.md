@@ -3,7 +3,9 @@
 ---
 
 
+# Ulquaan Ibasa
 
+> - **What it is:** An isolated island nation ruled by an undead Elder Council — a pariah state of exiled necromancers, pirates, and the source of the invasion force.
 
 ## Overview
 
@@ -11,40 +13,38 @@
 |---|---|
 | **Type** | Island Nation |
 | **Also Known As** | The Isle of the Exiles |
-| **Location** | Northeast of Altazia, largest island of the Nerud Archipelago |
+| **Location** | Northeast of [[30_Locations/Continents/Altazia\|Altazia]], largest island of the Nerud Archipelago |
 | **Climate** | Cold, mountainous, dense forests, little arable land |
 | **Government** | Undead Elder Council (with elected First Speaker) |
 | **Capital** | Kor Teshub (port city) |
-| **Demonym** | Ibasan |
 
----
+## Atmosphere
 
-## Description
+Ulquaan Ibasa is a place of cold beauty and lingering dread. The island is a mass of dark forests, jagged mountainsides, and fog-choked harbors. The capital, Kor Teshub, is a port city where living sailors and undead dockmasters work side by side — the latter moving with eerie precision, their preserved bodies showing the careful work of centuries of necromantic artistry.
 
-Ulquaan Ibasa is an isolated, mountainous island located northeast of [[30_Locations/Continents/Altazia\|Altazia]]. It was historically called the **Isle of the Trolls** for its original inhabitants. Due to international blockades and a lack of resources, the Ibasans turned to piracy, primarily targeting [[30_Locations/Countries/Eldemar\|Eldemar]]. 
-
-Despite its harsh climate, the island is incredibly rich in ambient [[10_System/Glossary/mana\|mana]], making it a haven for monsters and outcasts.
-
----
+The island is incredibly rich in ambient [[10_System/Glossary/mana\|mana]], making it a haven for magical creatures. Trolls inhabit the northern wilds. Pirates work the southern ports. And in the great stone halls of the Elder Council, undead nobles who remember the [[20_World/History/Timeline/05 The Necromancers War\|Necromancer's War]] debate the fate of a nation that the rest of the world considers an abomination.
 
 ## History
 
-The island was settled by undead nobility and their followers who fled following their defeat in the **[[20_World/History/Timeline/05 The Necromancers War\|Necromancer's War]]**. They retreated there, correctly assuming the mainland nations would not pursue them to such an inhospitable place, settling the south of the island.
-
----
+The island was settled by undead nobility and their followers who fled the mainland following their defeat in the [[20_World/History/Timeline/05 The Necromancers War\|Necromancer's War]]. They retreated to the Isle of Trolls, correctly assuming that no mainland nation would pursue them to such an inhospitable place. They settled the south, broke the troll tribes in the north, and built a new civilization from exile.
 
 ## Government & Society
 
-The island is governed by an **Elder Council** of unaging undead, many of whom still remember the Necromancer's War. There is no hereditary ruler — the elders are too prideful to submit to an equal. A **First Speaker** is elected every 10 years to serve as the chief coordinator.
+The island is governed by an **Elder Council** of unaging undead, many of whom still remember the War. There is no hereditary ruler — the elders are too prideful to submit to an equal. A **First Speaker** is elected every 10 years as chief coordinator.
 
-While dominated by undead, the vast majority of the population is mortal human. In Ibasan culture, transformation into an undead is seen as a supreme honor and high reward. The island is known for its loose magical laws, allowing for the open practice of [[10_System/Schools/Animation/Necromancy\|Necromancy]] and [[10_System/Schools/Soul Magic/Soul Magic\|Soul Magic]].
+While dominated by undead leadership, the vast majority of the population is **mortal human**. In Ibasan culture, transformation into undead is seen as a supreme honor — a reward for distinguished service or achievement. The island has loose magical laws, openly permitting [[20_World/Society/Soul Magic Taboo\|soul magic]] and [[10_System/Schools/Animation/Necromancy\|Necromancy]].
 
-### Key Cultural Notes
-- Trolls are routinely turned into **zombie workers** after death.
-- Guns are **banned** (though the black market sells them).
-- Technology is viewed as *"immoral and disruptive"* by the aristocratic leadership.
-- The island has been a major center of **piracy** since its founding.
+### Cultural Notes
+- **Troll Labor:** Dead trolls are routinely raised as zombie workers
+- **Gun Ban:** Firearms are banned (though the black market sells them)
+- **Anti-Technology Stance:** Technology is viewed as "immoral and disruptive" by the aristocratic leadership
+- **Piracy:** A major source of income since the island's founding
 
 
 
----
+## Linked Files
+- [[40_People/NPCs/Enemies/Quatach-Ichl\|Quatach-Ichl]]
+- [[20_World/03 The Invasion of Cyoria\|03 The Invasion of Cyoria]]
+- [[30_Locations/Countries/Eldemar\|Eldemar]]
+- [[20_World/Society/Soul Magic Taboo\|Soul Magic Taboo]]
+- [[40_People/NPCs/Enemies/Panaxeth\|Panaxeth]]

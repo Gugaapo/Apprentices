@@ -3,15 +3,22 @@
 ---
 
 
+# Shivan Archipelago
 
+> - **What it is:** A large cluster of islands southeast of [[30_Locations/Continents/Altazia\|Altazia]], serving as a vital bridge between [[30_Locations/Continents/Altazia\|Altazia]] and [[30_Locations/Continents/Miasina\|Miasina]] — connected by ancient teleportation networks.
 
-The Shivan Archipelago is a large cluster of islands located to the southeast of [[30_Locations/Continents/Altazia\|Altazia]].
-
-## Connectivity
-The archipelago serves as a vital bridge between [[30_Locations/Continents/Altazia\|Altazia]] and [[30_Locations/Continents/Miasina\|Miasina]]. It features a network of ancient teleports that allow for rapid travel across the ocean.
+The Shivan Archipelago is a strategic chain of islands linking the two major continents. It features a network of **ancient teleports** that allow for rapid travel across the ocean — remnants of the [[30_Locations/Other/Ikosian Empire\|Ikosian]] era.
 
 ## Culture and Language
-The islands were briefly colonized by the [[30_Locations/Other/Ikosian Empire\|Ikosian Empire]], leaving behind many inscriptions and a dialect of "broken Ikosian" that remains the common tongue. However, each island possesses its own unique local culture.
+
+The islands were briefly colonized by the [[30_Locations/Other/Ikosian Empire\|Ikosian Empire]], leaving behind many inscriptions and a dialect of "broken Ikosian" that remains the common tongue. However, each island possesses its own unique local culture, traditions, and governance.
 
 ## Economic Status
-The archipelago occupies a strategic position for maritime trade. The nation of [[30_Locations/Countries/Tetra\|Tetra]] maintains a near-monopoly on trade routes passing through these islands.
+
+The archipelago occupies a critical position for maritime trade. The nation of [[30_Locations/Countries/Tetra\|Tetra]] maintains a near-monopoly on trade routes passing through these islands, making the archipelago economically dependent on Tetran naval protection.
+
+## Linked Files
+- [[30_Locations/Continents/Altazia\|Altazia]]
+- [[30_Locations/Continents/Miasina\|Miasina]]
+- [[30_Locations/Countries/Tetra\|Tetra]]
+- [[30_Locations/Other/Ikosian Empire\|Ikosian Empire]]

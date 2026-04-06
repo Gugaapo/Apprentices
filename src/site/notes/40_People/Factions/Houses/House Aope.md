@@ -5,13 +5,23 @@
 
 # House Aope
 
-House Aope is one of the most prestigious and wealthy Noble Houses in [[30_Locations/Continents/Altazia\|Altazia]], though they are dogged by an unfavorable reputation and dark rumors.
+> - **What it is:** One of the most prestigious and wealthy Noble Houses in [[30_Locations/Continents/Altazia\|Altazia]] — wealthy, powerful, and deeply distrusted.
+> - **What it was:** A major witch clan that defected to the [[30_Locations/Other/Ikosian Empire\|Ikosians]] during the Witch Wars.
+> - **Why it matters:** Their mastery of [[10_System/Schools/Illusionism/Mind Magic\|Mind Magic]] makes them invaluable allies and perpetual suspects.
 
 ## History: From Witch Clan to Nobility
-The Aope began as a major witch clan during the Witch Wars. Realizing the tide was turning, they struck a pragmatic deal: they defected to the [[30_Locations/Other/Ikosian Empire\|Ikosians]] in exchange for recognition as a formal House. Leveraging their ruthless political acumen, they systematically broke their rivals and rose to the very top of the Ikosian political system.
+
+The Aope began as a major witch clan during the Witch Wars. Realizing the tide was turning, they struck a pragmatic deal: they **defected to the Ikosians** in exchange for recognition as a formal House. Leveraging ruthless political acumen, they systematically broke their rivals and rose to the top of the Ikosian political system.
 
 ## Reputation
-Despite their high status, the public views the Aope with suspicion due to their witch-clan roots. Rumors persistently link them to:
-- **[[10_System/Schools/Illusionism/Mind Magic\|Mind Magic]]**: They are believed to be masters of psychic manipulation. 
-- **Demon Summoning** and **Necromancy**: Dark arts that the House officially denies but is widely suspected of practicing in secret.
 
+Despite their high status, the public views the Aope with deep suspicion:
+- **[[10_System/Schools/Illusionism/Mind Magic\|Mind Magic]]** — They are believed to be masters of psychic manipulation
+- **Demon Summoning** and **Necromancy** — Dark arts the House officially denies but is widely suspected of practicing
+
+
+
+## Linked Files
+- [[40_People/NPCs/Students/Tinami Aope\|Tinami Aope]]
+- [[10_System/Schools/Illusionism/Mind Magic\|Mind Magic]]
+- [[40_People/Factions/Houses/Noble Houses\|Noble Houses]]

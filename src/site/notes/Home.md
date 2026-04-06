@@ -29,12 +29,12 @@ Use the sidebar to browse, or press `Ctrl+K` to search.
 > [!info] Tip
 > Use the sidebar on the left to navigate through the folder structure of the vault.
 
-| File                                                                                           | Last Modified             |
-| ---------------------------------------------------------------------------------------------- | ------------------------- |
-| [[20_World/01 Time Loop and The Sovereign Gate\|01 Time Loop and The Sovereign Gate]]       | 12:07 PM - April 06, 2026 |
-| [[20_World/03 The Invasion of Cyoria\|03 The Invasion of Cyoria]]                           | 12:07 PM - April 06, 2026 |
-| [[20_World/02 The Imperial Artifacts\|02 The Imperial Artifacts]]                           | 12:06 PM - April 06, 2026 |
-| [[20_World/Society/Magic Users of Pre-Ikosian Altazia\|Magic Users of Pre-Ikosian Altazia]] | 12:03 PM - April 06, 2026 |
-| [[20_World/Society/Immortals\|Immortals]]                                                   | 12:03 PM - April 06, 2026 |
+| File                                                                    | Last Modified            |
+| ----------------------------------------------------------------------- | ------------------------ |
+| [[40_People/Immortals/Tehanna Arta\|Tehanna Arta]]                   | 1:09 PM - April 06, 2026 |
+| [[40_People/Immortals/Sherden-Anixua Zenich\|Sherden-Anixua Zenich]] | 1:09 PM - April 06, 2026 |
+| [[40_People/Immortals/Sakelus Arexino\|Sakelus Arexino]]             | 1:09 PM - April 06, 2026 |
+| [[40_People/Immortals/Peleset Harata\|Peleset Harata]]               | 1:08 PM - April 06, 2026 |
+| [[40_People/Immortals/Nesir Kode\|Nesir Kode]]                       | 1:08 PM - April 06, 2026 |
 
 { .block-language-dataview}

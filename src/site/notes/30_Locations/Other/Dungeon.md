@@ -3,38 +3,54 @@
 ---
 
 
+# The Dungeon
 
+> - **What it is:** A vast, planet-wide megastructure of tunnels and chambers beneath the surface — teeming with magical life, ambient mana, and unfathomable mystery.
 
-The Dungeon (also called the Underworld or the Labyrinth) is a vast, planet-wide megastructure of tunnels and chambers that exists beneath the surface of [[30_Locations/Continents/Ersetu\|Ersetu]]. It connects to the surface world through openings both large and small, and descends into unfathomable depths below, creating a habitat full of dangers and wonders beneath our feet.
+The Dungeon (also called the **Underworld** or the **Labyrinth**) is a vast, planet-wide network of tunnels and chambers that exists beneath the surface of [[30_Locations/Continents/Ersetu\|Ersetu]]. It connects to the surface world through openings both large and small, and descends into depths that no human has ever fully charted. It is the source of all ambient [[10_System/Glossary/mana\|mana]] in the world — and the deadliest environment known to civilization.
 
 ## The Dungeon and Mana
 
-The Dungeon is very rich in ambient [[10_System/Glossary/mana\|mana]], and the deeper one goes the higher the concentration of ambient mana becomes. This effect doesn’t appear to ever actually stop. It is rumored that if someone goes deep enough, the levels of ambient mana become high enough to passively induce mana poisoning in human beings.
+The Dungeon is extraordinarily rich in ambient [[10_System/Glossary/mana\|mana]], and the deeper one descends, the higher the concentration becomes. This effect appears to never stop — it is rumored that past a certain depth, the ambient mana becomes high enough to passively induce **[[Mana Poisoning\|Mana Poisoning]]** in unprotected humans.
 
-Ambient mana in the Dungeon flows from some unreachable place deep underground and gradually rises towards the surface, thinning out as it is absorbed by the walls of the tunnels and the life forms that make their home in them. This flow of mana is also usually accompanied by air currents that keep dungeon air from growing too stale.
+Mana flows upward from some unreachable place far underground, thinning as it is absorbed by tunnel walls and the life forms inhabiting them. This flow is usually accompanied by air currents that keep dungeon air breathable. Where the Dungeon connects to the surface, the escaping mana creates **[[10_System/Glossary/Mana Well\|Mana Well]]s** — and it is widely believed by mages that **all ambient mana ultimately originates from the Dungeon**.
 
-The Dungeon is connected to the surface in many places. These openings raise the ambient mana levels on the surface by their very presence and are known as **[[10_System/Glossary/Mana Well\|Mana Wells]]**. It is widely believed by mages that all ambient mana ultimately originates from the Dungeon.
+## Ecology and Layers
 
-## Ecology and Magical Creatures
+All dungeon creatures are magical in some way, relying on the high ambient mana to survive. The deeper one goes, the more powerful and alien the creatures become:
 
-The Dungeon is teeming with life. All dungeon creatures are magical in some way, as they rely on the high levels of ambient mana to survive. The deeper one descends, the more powerful and alien the creatures become.
+| Layer | Creatures | Danger Level | Human Presence |
+|---|---|---|---|
+| **Surface (Shallow)** | Magical variants of mundane animals (fire beetles, agile bats). [[70_Bestiary/Sapient_Species/Aranea\|Aranea]] webs. | Moderate | Extensive — pacified and commercially exploited |
+| **Middle** | Increasingly alien, unrecognizable species. Sapient but territorial. | High | Minimal — even experienced mages die here |
+| **Deep** | Utterly alien entities (exist in two places at once, possess pocket dimensions) | Lethal | None — even archmages wouldn't last long |
 
-*   **Surface Layer (Shallow Dungeon):** Inhabited by magical creatures clearly based on mundane animals (e.g., fire-breathing beetles, hyper-agile bats). This layer is extensively explored and exploited by humanity. Sections are routinely pacified to serve as storage spaces, dumping grounds, experimental chambers, and mining areas. A number of sapient races make their home here, maintaining complex but surprisingly peaceful trade relationships with humans.
-*   **Middle Layer:** Creatures here become increasingly alien and removed from the surface, both in appearance and behavior. Many are unrecognizable by standard classifications. This layer is viewed with great fear by humans, as even experienced mages could easily perish here. Some denizens are sapient but highly territorial, aggressive, and possess an alien understanding of the world.
-*   **Deep Layer:** Past a certain point, the monsters become so dangerous that even the best human mages wouldn’t last long. They assume utterly alien forms, challenging common sense with bizarre magical abilities (e.g., existing in two places at once, private pocket dimensions). Fortunately, these creatures are massive mana hogs and cannot survive on the surface.
+The shallow layers are routinely pacified to serve as storage, experimental chambers, and mining areas. Several sapient races make their home here, maintaining complex but surprisingly peaceful trade relationships with humans.
 
 ## Origins and Theories
 
-The Dungeon and its place in the world is a mystery. There are multiple theories and myths trying to explain its existence:
-*   **Ikosian Mythology:** According to [[30_Locations/Other/Ikosian Empire\|Ikosian]] myth, the tunnels are the veins of the bound **World Dragon**. They all converge at the planet's core, known as the **Heart of the World**, which pumps chaotic vitality and mana into the depths.
-*   **Scientific Doubts:** Modern scholars point out the sheer size of the planet and the molten core, which conflicts with the idea of tunnels reaching the very center. Furthermore, scientific models suggest the tunnels should have collapsed by now, indicating an unknown magical mechanism that maintains and repairs the Dungeon.
+The Dungeon's existence is a mystery. There are competing theories:
 
-Regarding the origin of the monsters, there are two main theories:
-*   **Hybrid Theory (Most Popular):** Dungeon denizens come from both the surface and the depths. The shallow creatures are surface animals that colonized the Dungeon and developed magic, while the deep, alien creatures originate from the bottom and slowly spread upwards.
-*   **Deep Origin Theory:** All creatures originate from the depths. The animal-like ones merely learned to mimic surface creatures to infiltrate the surface.
+- **[[30_Locations/Other/Ikosian Empire\|Ikosian]] Mythology:** The tunnels are the veins of the bound **World Dragon**. They converge at the planet's core — the **Heart of the World** — which pumps chaotic vitality and mana into the depths.
+- **Scientific Doubts:** Modern scholars note the planet's sheer size and molten core should make such tunnels impossible. An unknown magical mechanism must maintain and repair them.
+
+Regarding creature origins:
+- **Hybrid Theory (Most Popular):** Shallow creatures are surface animals that colonized the Dungeon and evolved magic. Deep creatures originated from the bottom and spread upward.
+- **Deep Origin Theory:** *All* creatures originate from the depths. The animal-like ones are mimics that learned to imitate surface life.
 
 ## Economy and Travel
 
-The Dungeon is vital for the modern economy. It is the only source of **[[60_Items/Materials/Crystalized Mana\|Crystalized Mana]]**, which powers trains, industrial machinery, and complex spell matrices.
+The Dungeon is vital for the modern economy — it is the only source of **[[60_Items/Materials/Crystalized Mana\|Crystalized Mana]]**, which powers trains, industrial machinery, and complex spell matrices. See: [[20_World/Society/The Dungeon Delving Industry\|The Dungeon Delving Industry]].
 
-While it is possible to travel through the Dungeon to circumvent surface obstacles, it is highly dangerous. Surface sections are poorly connected, forcing travelers into the deadly Middle Layer. Progress is slow, ambushes are frequent, and dungeon creature flesh is highly magical and toxic to humans, requiring travelers to bring their own food. No one has ever successfully traveled beneath the ocean to another continent through the Dungeon.
+While it is theoretically possible to travel through the Dungeon to bypass surface obstacles, it is **extremely dangerous**. Surface sections are poorly connected, forcing travelers into the lethal Middle Layer. Progress is slow, ambushes are frequent, and dungeon creature flesh is highly magical and toxic to humans, requiring travelers to bring their own food. No one has ever successfully crossed an ocean through the Dungeon.
+
+
+
+## Linked Files
+- [[30_Locations/Other/The Hole\|The Hole]]
+- [[30_Locations/Cities and Towns/Cyoria\|Cyoria]]
+- [[70_Bestiary/Sapient_Species/Aranea\|Aranea]]
+- [[20_World/Society/The Dungeon Delving Industry\|The Dungeon Delving Industry]]
+- [[60_Items/Materials/Crystalized Mana\|Crystalized Mana]]
+- [[10_System/Glossary/Mana Well\|Mana Well]]
+- [[20_World/01 Time Loop and The Sovereign Gate\|01 Time Loop and The Sovereign Gate]]

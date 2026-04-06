@@ -3,17 +3,24 @@
 ---
 
 
+# Miasina
 
+> - **What it is:** The ancestral heart of human civilization and birthplace of the [[30_Locations/Other/Ikosian Empire\|Ikosian Empire]] — now split between the vast [[30_Locations/Regions/Xlotic\|Xlotic]] Desert and the jungles of [[30_Locations/Regions/Koth\|Koth]].
 
-Miasina is the ancestral heart of human civilization and the birthplace of the [[30_Locations/Other/Ikosian Empire\|Ikosian Empire]].
-
-## The Cataclysm
-Once a lush and fertile continent, Miasina was devastated by the **[[20_World/History/Timeline/04 The Cataclysm\|Cataclysm]]**, a rapid desertification event that turned the northern region of [[30_Locations/Regions/Xlotic\|Xlotic]] into an uninhabitable wasteland. This forced the Ikosian people to migrate north to [[30_Locations/Continents/Altazia\|Altazia]].
+Miasina is the continent where the [[30_Locations/Other/Ikosian Empire\|Ikosian Empire]] was born and where it fell. Once lush and fertile, the northern half was devastated by the **[[20_World/History/Timeline/04 The Cataclysm\|Cataclysm]]** — a rapid, magical desertification that turned the imperial heartland into the uninhabitable [[30_Locations/Regions/Xlotic\|Xlotic]] Desert and forced the Ikosian people to migrate to [[30_Locations/Continents/Altazia\|Altazia]].
 
 ## Regions
-- **[[30_Locations/Regions/Xlotic\|Xlotic]]**: A vast desert in the north 
 
-- **[[30_Locations/Regions/Koth\|Koth]]**: The jungle-covered southern region, rich in ancient ruins and the origin of the **Old Majara** language (used in [[10_System/Schools/Soul Magic/Soul Magic\|Soul Magic]] and rituals).
+- **[[30_Locations/Regions/Xlotic\|Xlotic]]** — The vast desert of the north. Birthplace of the Empire. Home to successor states, prestigious mage academies, and
+
+- **[[30_Locations/Regions/Koth\|Koth]]** — The jungle-covered south. Rich in ancient ruins, rare magical species, and inscriptions in **Old Majara** (the precursor language to modern [[20_World/Society/Soul Magic Taboo\|soul magic]] research).
 
 ## Legacy
-Miasina remains a site of immense historical and magical importance, though much of it is now lost to the sands or the jungle.
+
+Miasina remains a site of immense historical and magical importance. The continent's two halves represent the world's past (the desert ruins of a fallen empire) and its wild, ungovernable future (the untamed jungles that have reclaimed what civilization abandoned).
+
+## Linked Files
+- [[30_Locations/Regions/Xlotic\|Xlotic]]
+- [[30_Locations/Regions/Koth\|Koth]]
+- [[30_Locations/Other/Ikosian Empire\|Ikosian Empire]]
+- [[30_Locations/Continents/Altazia\|Altazia]]

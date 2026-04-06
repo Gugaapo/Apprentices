@@ -3,13 +3,21 @@
 ---
 
 
+# Blantyrre
 
+> - **What it is:** A diverse continent far from the [[30_Locations/Other/Ikosian Empire\|Ikosian]] heartlands, renowned for its unique sapient species and magical ecosystems.
 
-Blantyrre is a diverse continent located far from the [[30_Locations/Other/Ikosian Empire\|Ikosian]] heartlands. It is renowned for its wide variety of sapient species and unique magical ecosystems.
+Blantyrre is a vast continent that has remained largely independent of Ikosian influence. It is home to several non-human civilizations that have developed sophisticated cultures and magical traditions entirely separate from the human mage tradition.
 
 ## Sapient Species
-Blantyrre is home to several non-human civilizations:
-- **[[70_Bestiary/Sapient_Species/Murgur\|Murgur]]**: Elephantine mountain-builders.
-- **[[70_Bestiary/Sapient_Species/Mlok\|Mlok]]**: Tree-frog people living in symbiotic plants.
-- **[[70_Bestiary/Sapient_Species/Nantek\|Nantek]]**: Psychic chrysalises that control worker-caterpillars.
 
+- **[[70_Bestiary/Sapient_Species/Murgur\|Murgur]]** — Elephantine mountain-builders with immense physical strength and stone-shaping magic.
+- **[[70_Bestiary/Sapient_Species/Mlok\|Mlok]]** — Tree-frog people who live in symbiotic plants, cultivating organic architecture.
+- **[[70_Bestiary/Sapient_Species/Nantek\|Nantek]]** — Psychic chrysalises that control swarms of worker-caterpillars, operating as distributed hive-minds.
+
+
+
+## Linked Files
+- [[40_People/NPCs/Others/Violeteye\|Violeteye]]
+- [[70_Bestiary/Sapient_Species/Shifters\|Shifters]]
+- [[20_World/02 The Imperial Artifacts\|02 The Imperial Artifacts]]

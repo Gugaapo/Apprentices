@@ -3,27 +3,21 @@
 ---
 
 
+# Cyorian Academy
 
-## Overview
-
-| Attribute       | Detail                                         |
-| --------------- | ---------------------------------------------- |
-| **Type**        | Royal Academy of Magical Arts                  |
-| **Location**    | [[30_Locations/Cities and Towns/Cyoria\|Cyoria]], [[30_Locations/Countries/Eldemar\|Eldemar]]                        |
-| **Head**        | Academy Principal (unnamed)                    |
-| **Affiliation** | Kingdom of [[30_Locations/Countries/Eldemar\|Eldemar]]                         |
-| **Focus**       | Magical education, research, and state service |
-
----
+> - **What it is:** The Royal Academy of Magical Arts — the most prestigious magical institution in [[30_Locations/Countries/Eldemar\|Eldemar]] and the players' home base.
+> - **What it does:** Trains mages from age ~15 in a multi-year curriculum. Its graduates form the backbone of Eldemar's military and bureaucratic mage corps.
+> - **Why it matters:** Every loop starts here. Classes, mentors, and social life form the backdrop of the first week of each restart.
 
 ## Description
 
-The **Cyorian Academy** (formally the Royal Academy of Magical Arts) is the most prestigious magical institution in [[30_Locations/Countries/Eldemar\|Eldemar]] and one of the most respected on the continent. Located in the heart of [[30_Locations/Cities and Towns/Cyoria\|Cyoria]] the Academy trains students from age ~15 in a multi-year curriculum covering the fundamentals of shaping, spell formula, and at least one school of magic.
+The **Cyorian Academy** (formally the Royal Academy of Magical Arts) is located in the heart of [[30_Locations/Cities and Towns/Cyoria\|Cyoria]]. It is both a school and a political institution — one of the primary instruments of [[30_Locations/Countries/Eldemar\|Eldemar]]'s state power.
 
-The Academy is both a school and a political institution — its graduates form the backbone of [[30_Locations/Countries/Eldemar\|Eldemar]]'s military and bureaucratic mage corps.
 
----
 
----
-
----
+## Linked Files
+- [[20_World/Society/The Academy System\|The Academy System]]
+- [[30_Locations/Cities and Towns/Cyoria\|Cyoria]]
+- [[30_Locations/Countries/Eldemar\|Eldemar]]
+- [[40_People/NPCs/Teachers/Professor Xvim Chao\|Professor Xvim Chao]]
+- [[40_People/NPCs/Teachers/Professor Ilsa Zileti\|Professor Ilsa Zileti]]
