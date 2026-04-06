@@ -31,10 +31,10 @@ Use the sidebar to browse, or press `Ctrl+K` to search.
 
 | File                                                                                                           | Last Modified            |
 | -------------------------------------------------------------------------------------------------------------- | ------------------------ |
-| [[gemini-scribe/Agent-Sessions/Troubleshooting ---hidden Tag Syntax\|Troubleshooting ---hidden Tag Syntax]] | 6:47 PM - April 06, 2026 |
+| [[gemini-scribe/Agent-Sessions/Troubleshooting ---hidden Tag Syntax\|Troubleshooting ---hidden Tag Syntax]] | 6:53 PM - April 06, 2026 |
+| [[20_World/History/Timeline/08 The Modern Era\|08 The Modern Era]]                                          | 6:50 PM - April 06, 2026 |
 | [[10_System/Schools/Soul Magic/Soul Magic\|Soul Magic]]                                                     | 6:47 PM - April 06, 2026 |
 | [[10_System/02 Economy\|02 Economy]]                                                                        | 6:44 PM - April 06, 2026 |
 | [[20_World/History/Time Loop\|Time Loop]]                                                                   | 6:42 PM - April 06, 2026 |
-| [[80_Campaign/Loops/Loop1\|Loop1]]                                                                          | 6:27 PM - April 06, 2026 |
 
 { .block-language-dataview}

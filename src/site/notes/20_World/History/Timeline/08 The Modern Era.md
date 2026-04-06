@@ -7,7 +7,7 @@
 
 > - **When:** February 1st, 1800 STC — Day 1 of the campaign
 > - **What's happening:** A tense geopolitical standoff, rapid technological revolution, and a secret invasion being planned beneath everyone's feet.
-> - **Why it matters:** This is the world the players wake up in every loop.
+> - **Why it matters:** This is the era the players live in.
 
 ## The Big Three
 
