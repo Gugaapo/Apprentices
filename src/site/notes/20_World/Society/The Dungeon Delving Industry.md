@@ -5,15 +5,31 @@
 
 # The Dungeon Delving Industry
 
-The Dungeon is not merely a geographic feature or a place of ancient mystery; it is the backbone of the modern magical economy. The extraction of resources from the subterranean depths is a massive, highly organized industry.
+> - **What it is:** The massive, highly organized industry of extracting magical resources from the subterranean [[30_Locations/Other/Dungeon\|Dungeon]] — the backbone of the modern magical economy.
 
-## The Economics of Delving
-The demand for [[60_Items/Materials/Magical Materials\|Magical Materials]]—monster parts, rare ores, and [[60_Items/Materials/Crystalized Mana\|Crystalized Mana]]—is insatiable, driven by the [[20_World/Society/Technological Revolution\|Technological Revolution]]. Dungeon delving is a multi-million-coin industry. Entire corporations and guilds exist solely to fund, equip, and manage delving expeditions.
+The [[30_Locations/Other/Dungeon\|Dungeon]] is not merely a geographic feature or a place of ancient mystery — it is the backbone of the modern magical economy. The extraction of resources from the subterranean depths is a massive, multi-million-coin industry employing thousands of mages, mercenaries, and laborers across [[30_Locations/Continents/Altazia\|Altazia]].
+
+The demand for **magical materials** — monster parts, rare ores, and [[60_Items/Materials/Crystalized Mana\|Crystalized Mana]] — is insatiable, driven by the [[20_World/Society/Technological Revolution\|Technological Revolution]]. Entire corporations and guilds exist solely to fund, equip, and manage delving expeditions. Cities built above [[10_System/Glossary/Mana Well\|Mana Well]]s, like [[30_Locations/Cities and Towns/Cyoria\|Cyoria]], have become the hubs of this industry, with the upper [[30_Locations/Other/Dungeon\|Dungeon]] levels functioning as regulated extraction zones.
 
 ## The Social Status of Delvers
-Dungeon delvers occupy a strange place in society. 
-*   **The Elite Explorers:** High-level mages and veteran adventurers who explore uncharted depths are celebrated as heroes and celebrities. They bring back invaluable artifacts and map new territories, earning vast fortunes.
-*   **The Blue-Collar Harvesters:** The majority of delvers are lower-tier mages, mercenaries, and even mundane laborers who work the shallower, "cleared" levels. They harvest respawning mana crystals and hunt low-level beasts. Their work is dangerous, grueling, and often underpaid, resembling a magical mining operation more than an adventure.
+
+Dungeon delvers occupy a strange place in society:
+
+- **The Elite Explorers:** High-level mages and veteran adventurers who explore uncharted depths are celebrated as heroes and celebrities. They bring back invaluable artifacts and map new territories, earning vast fortunes and lasting fame.
+- **The Blue-Collar Harvesters:** The majority of delvers are lower-tier mages, mercenaries, and even mundane laborers who work the shallower, "cleared" levels. They harvest respawning [[60_Items/Materials/Crystalized Mana\|mana crystals]] and hunt low-level beasts. Their work is dangerous, grueling, and often underpaid — resembling a magical mining operation more than an adventure.
+
+For a freshly graduated academy mage burdened with debt, dungeon delving is often the quickest path to financial stability — if you survive.
 
 ## Ecological Impact and Danger
-The industrialization of the Dungeon has led to unforeseen consequences. Over-harvesting in the upper levels frequently causes "Dungeon Surges," where deeper, more dangerous monsters migrate upward or spill out onto the surface. The [[Magistracy\|Magistracy]] and local militaries are often forced to intervene when corporate greed outpaces safety protocols.
+
+The industrialization of the [[30_Locations/Other/Dungeon\|Dungeon]] has led to unforeseen consequences. Over-harvesting in the upper levels frequently causes **Dungeon Surges** — events where deeper, more dangerous monsters migrate upward or spill out onto the surface. Local militaries and the [[20_World/Society/Arcane Law and The Enforcers\|enforcers]] are often forced to intervene when corporate greed outpaces safety protocols.
+
+
+
+## Linked Files
+- [[30_Locations/Other/Dungeon\|Dungeon]]
+- [[30_Locations/Cities and Towns/Cyoria\|Cyoria]]
+- [[20_World/Society/The Magitech Economy\|The Magitech Economy]]
+- [[20_World/Society/Technological Revolution\|Technological Revolution]]
+- [[20_World/Society/Arcane Law and The Enforcers\|Arcane Law and The Enforcers]]
+- [[20_World/Society/Interspecies Relations\|Interspecies Relations]]

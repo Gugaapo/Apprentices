@@ -25,6 +25,6 @@ A common but deadly threat in the [[30_Locations/Other/Dungeon\|Dungeon]]. Battl
 ## GM Moves
 *(When the players roll a Miss (6-), or look to you to see what happens, use these moves):*
 - **Slam / Club:** Inflicts a Combat Wound.
-- **Rapid Regeneration:** Heals 1 Health Box per round. This regeneration is halted if the Troll takes Fire or Acid damage.
-- **Frenzied Charge:** If the Troll moves more than 5 meters before attacking, add +2 dice to its attack pool, but it suffers a -2 penalty to its defense (Mind Defense/Evasion) until its next turn.
+- **Rapid Regeneration:** At the start of every GM turn, the Troll recovers from a recent Wound. This regeneration is halted only by Fire or Acid damage.
+- **Frenzied Charge:** If the Troll charges before attacking, it strikes with devastating force — inflicts a Combat Wound and knocks the target Prone. However, the Troll leaves itself wide open; the next attack against it is made with Advantage.
 :::

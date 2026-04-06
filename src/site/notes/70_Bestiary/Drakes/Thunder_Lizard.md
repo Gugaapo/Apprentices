@@ -23,8 +23,7 @@ Due to living so far in the north, they rarely have much contact with humans, th
 
 ## GM Moves
 *(When the players roll a Miss (6-), or look to you to see what happens, use these moves):*
-- **Thunder Breath:** Inflicts a Combat Wound. (Lightning). Targets taking damage must roll Strength + Athletics (a difficult position) or be Paralyzed for 1 round.
+- **Thunder Breath:** A bolt of electricity from its massive jaws. Inflicts a Combat Wound (Lightning). The target is Paralyzed for 1 round.
 - **Crushing Jaws:** Inflicts a Combat Wound.
-- **Trample Charge:** If it moves in a straight line for at least 10 meters before attacking, roll Strength + Athletics (14 dice) vs the target's Acrobatics. Inflicts a Combat Wound. (Bludgeoning).
-  
-  :::hidden
+- **Trample Charge:** If it charges in a straight line before attacking, it bowls over everything in its path. Inflicts a Combat Wound and knocks the target Prone. Dodge attempts are made with Disadvantage.
+:::hidden

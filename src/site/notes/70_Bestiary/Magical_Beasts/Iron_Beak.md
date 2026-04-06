@@ -18,13 +18,10 @@ A dangerous aerial predator, occasionally tamed or hunted for its valuable beak.
 
 :::hidden
 ## Fictional Mechanics
-**Resilience:** High (Takes severe or coordinated Wounds to kill)
-
-
-**Armor:** 0
+**Resilience:** Moderate (Individually fragile, but dangerous in flocks.)
 
 ## GM Moves
 *(When the players roll a Miss (6-), or look to you to see what happens, use these moves):*
-- **Piercing Dive:** The Iron Beak dives from the air, rolling Strength + Hand-to-Hand (4 dice) +1 die for momentum. Inflicts a Combat Wound. This attack ignores up to 3 points of Armor (Temporary Health Boxes).
-- **Flock Tactics:** If 3 or more Iron Beaks attack the same target in a round, they combine into a Swarm attack (Roll: 8 dice, Inflicts a Combat Wound., ignores up to 5 points of Armor).
+- **Piercing Dive:** The Iron Beak dives from the sky with its razor-sharp metallic beak. Inflicts a Combat Wound. This attack pierces through armor as if it weren't there.
+- **Flock Tactics:** If 3 or more Iron Beaks attack the same target, they coordinate into a devastating swarm — inflicting multiple Combat Wounds and overwhelming any defense.
 :::

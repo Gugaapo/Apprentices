@@ -21,15 +21,10 @@ Often found infesting the upper layers of the [[30_Locations/Other/Dungeon\|Dung
 **Resilience:** High (Takes severe or coordinated Wounds to kill)
 
 
-**Armor:** 0
-
-### Key Attributes (Dice Pools - Swarm)
-- **Physical:** Strength 2, Athletics 3, Acrobatics 3, Stealth 4, Hand-to-Hand 3
-- **Mental/Magical:** Readiness 4, Calculation (scales with swarm size, 2 to 6), Willpower 4, Mind Magic (Innate) 4
 
 ## GM Moves
 *(When the players roll a Miss (6-), or look to you to see what happens, use these moves):*
-- **Swarm Bite:** Inflicts a Combat Wound.
-- **Hive-Mind Assault:** A swarm can cast Tier 2 or Tier 3 Mind Magic spells (like mental blasts or illusions) using Calculation + Mind Magic. As the swarm's health decreases, its Calculation and Mind Magic pools drop.
-- **Telepathic Network:** Immune to flanking or surprise while part of a swarm.
+- **Swarm Bite:** The skittering mass overwhelms a target. Inflicts a Combat Wound.
+- **Hive-Mind Assault:** A large swarm can project Mind Magic — mental blasts, terrifying illusions, or psychic static. As the swarm thins, this power weakens proportionally.
+- **Telepathic Network:** The swarm shares a collective awareness. It cannot be flanked or surprised while multiple rats remain alive.
 :::

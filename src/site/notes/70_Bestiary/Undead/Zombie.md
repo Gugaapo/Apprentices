@@ -23,11 +23,11 @@ Created through illegal necromancy using relatively fresh or preserved corpses. 
 **Resilience:** High (Takes severe or coordinated Wounds to kill)
 
 
-**Armor:** 0 (Passive: Bludgeoning weapons lose 2 successes on damage calculation)
+**Armor:** Rotting flesh absorbs bludgeoning impacts. Vulnerable to slashing weapons (which sever limbs) and fire (which burns the necrotic tissue).
 
 ## GM Moves
 *(When the players roll a Miss (6-), or look to you to see what happens, use these moves):*
 - **Slam / Bite:** Inflicts a Combat Wound.
-- **Necrotic Rot:** Anyone taking damage from a Zombie bite must roll Readiness + Medicine (a difficult position) or suffer a lingering infection (-1 to all Physical rolls until magically healed).
+- **Necrotic Rot:** A target bitten by a Zombie suffers a lingering infection — Disadvantage on all Physical rolls until treated with Medical Magic.
 - **Tireless:** Immune to exhaustion, poison, and disease. Never suffers wound penalties until destroyed.
 :::

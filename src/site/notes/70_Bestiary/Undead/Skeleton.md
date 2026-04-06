@@ -22,7 +22,7 @@ Created through illegal necromancy—a dark combination of [[10_System/Schools/S
 **Resilience:** High (Takes severe or coordinated Wounds to kill)
 
 
-**Armor:** 0 (Passive: Piercing weapons lose 2 successes on damage calculation)
+**Armor:** Piercing weapons (arrows, rapiers) are largely ineffective — strikes pass through the gaps between bones. Vulnerable to bludgeoning weapons that shatter the magically-reinforced frame.
 
 ## GM Moves
 *(When the players roll a Miss (6-), or look to you to see what happens, use these moves):*

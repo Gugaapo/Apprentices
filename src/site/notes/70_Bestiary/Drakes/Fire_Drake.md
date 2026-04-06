@@ -23,7 +23,7 @@ Mages that bond with fire drakes are typically part of a family business that re
 
 ## GM Moves
 *(When the players roll a Miss (6-), or look to you to see what happens, use these moves):*
-- **Fire Breath:** Inflicts a Combat Wound. (Fire) in a 5-meter cone.
+- **Fire Breath:** A gout of magical flame in a close cone. Inflicts a Combat Wound (Fire).
 - **Bite/Claws:** Inflicts a Combat Wound.
-- **Pack Tactics:** Gains +1 die to attack pools if an allied drake is engaged in melee with the same target.
+- **Pack Tactics:** When an allied drake is engaged with the same target, the Fire Drake attacks with Advantage.
 :::

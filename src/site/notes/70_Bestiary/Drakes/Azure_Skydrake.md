@@ -17,15 +17,4 @@ Historically, sightings usually involved a person being out in the total wildern
 
 They are not as peaceful as the stories imply; their attacks were made in response to considerable provocations. Little is known about the azure skydrake at this time. No one knows where they nest, what they eat, or what their lifecycle is. They have never been observed feeding, but they do land to drink every once in a while. All observed sightings have been of a lone skydrake, but that doesn’t necessarily mean they don’t congregate into groups at some point.
 
-:::hidden
-## Fictional Mechanics
-**Resilience:** High (Takes severe or coordinated Wounds to kill)
 
-
-
-## GM Moves
-*(When the players roll a Miss (6-), or look to you to see what happens, use these moves):*
-- **Lightning Breath:** Inflicts a Combat Wound. (Lightning). Can target multiple enemies in a line.
-- **Force Shield (Reaction):** When attacked, roll Willpower + Projection (10 dice). Each success grants 1 Temporary Health Box against that specific attack.
-- **Tail/Claw Swipe:** Inflicts a Combat Wound.
-:::

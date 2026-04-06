@@ -22,8 +22,8 @@ They have their own culture and language, living in the coldest regions of the w
 
 ## GM Moves
 *(When the players roll a Miss (6-), or look to you to see what happens, use these moves):*
-- **Frostbite:** Inflicts a Combat Wound. (Cold).
-- **Pack Hunter:** Gains +1 die to attack and defense pools for every allied Winter Wolf within 10 meters (up to +3).
-- **Ice Breath:** As an action, the Winter Wolf rolls Finesse + Alteration (7 dice). This acts as a Tier 2 spell. All targets in a 5-meter cone must roll Athletics to dodge or take 2 damage and suffer a -1 penalty to Physical pools for the next round.
-- **Sapient Intellect:** The Winter Wolf is fully capable of complex tactics, ambushes, and basic communication (if they share a language or through telepathy). They target spellcasters and healers first.
+- **Frostbite:** Inflicts a Combat Wound (Cold).
+- **Pack Hunter:** For every allied Winter Wolf nearby, the pack attacks with increasing coordination. Three or more wolves attack with Advantage.
+- **Ice Breath:** The Wolf unleashes a cone of freezing air. Everyone caught in the blast suffers a Combat Wound and Disadvantage on Physical rolls for the rest of the round from numbing cold.
+- **Sapient Intellect:** The Winter Wolf is fully capable of complex tactics, coordinated ambushes, and basic communication. It deliberately targets spellcasters and healers first.
 :::

@@ -5,15 +5,28 @@
 
 # Media and Propaganda
 
-The invention of the magitech printing press and the mana-telegraph has revolutionized communication in [[30_Locations/Continents/Altazia\|Altazia]]. Information now travels faster than ever before, making the control of that information a powerful political tool.
+> - **What it is:** The rapidly expanding network of newspapers, broadsheets, and communication systems that shape public opinion across [[30_Locations/Continents/Altazia\|Altazia]].
 
-## The Rise of the Broadstreet Press
-Daily newspapers and weekly broadsheets have become a staple of urban life. They report on everything from magitech innovations and dungeon delving expeditions to international politics and high-society gossip. For the first time, the general public is rapidly informed of global events, drastically shifting the political landscape.
+The invention of the magitech printing press and long-distance communication systems has revolutionized information in [[30_Locations/Continents/Altazia\|Altazia]]. Daily newspapers and weekly broadsheets have become a staple of urban life, reporting on everything from magitech innovations and [[20_World/Society/The Dungeon Delving Industry\|dungeon expeditions]] to international politics and high-society gossip.
+
+For the first time, the general public is rapidly informed of global events. This has drastically shifted the political landscape — governments, [[20_World/Society/The Noble Houses\|Noble Houses]], and the [[20_World/Society/The Triumvirate Church and Faith\|Church]] can no longer completely control the narrative through hearsay and messenger networks.
 
 ## Propaganda and State Control
-Following the devastation of the [[20_World/History/Timeline/06 The Splinter Wars\|Splinter Wars]], governments and the [[40_People/Factions/Houses/Noble Houses\|Noble Houses]] quickly realized the power of mass media. 
-*   **Narrative Control:** Most major newspapers are secretly or overtly funded by political factions. They are used to sway public opinion, drum up nationalism, or smear political rivals.
-*   **Censorship:** The state frequently censors reports on sensitive topics, such as severe Dungeon breakouts, illegal soul magic cults, or the failures of the [[Magistracy\|Magistracy]].
+
+Following the devastation of the [[20_World/History/Timeline/06 The Splinter Wars\|Splinter Wars]], governments quickly realized the power of mass media:
+
+- **Narrative Control:** Most major newspapers are secretly or overtly funded by political factions. They are used to sway public opinion, drum up nationalism, or smear political rivals.
+- **Censorship:** The state frequently censors sensitive topics — severe [[30_Locations/Other/Dungeon\|Dungeon]] breakouts, illegal [[20_World/Society/Soul Magic Taboo\|soul magic]] cults, or the failures of the [[20_World/Society/Arcane Law and The Enforcers\|enforcers]].
+- **Distraction:** After the [[20_World/03 The Invasion of Cyoria\|Invasion of Cyoria]], the newspapers were used to push feel-good stories (like Raynie's brother rescue) while suppressing details about the saviors of the city and the true nature of the attack.
 
 ## The Magical Underground
-In response to state-controlled media, a robust underground press has emerged. Radical mages, dissenting academics, and marginalized groups use localized, hidden printing presses to distribute pamphlets and manifestos. These underground publications are crucial for spreading unvarnished truths, but distributing them is highly illegal and heavily prosecuted.
+
+In response to state-controlled media, a robust underground press has emerged. Radical mages, dissenting academics, and marginalized groups use localized, hidden printing presses to distribute pamphlets and manifestos. These publications spread unvarnished truths, but distributing them is highly illegal and heavily prosecuted.
+
+
+
+## Linked Files
+- [[20_World/Society/Technological Revolution\|Technological Revolution]]
+- [[20_World/03 The Invasion of Cyoria\|03 The Invasion of Cyoria]]
+- [[20_World/Society/Arcane Law and The Enforcers\|Arcane Law and The Enforcers]]
+- [[20_World/Society/The Noble Houses\|The Noble Houses]]

@@ -18,15 +18,15 @@ Highly intelligent, notoriously arrogant, and deeply greedy, dragons are solitar
 
 :::hidden
 ## Fictional Mechanics
-**Resilience:** High (Takes severe or coordinated Wounds to kill)
+**Resilience:** Legendary (A Dragon is a walking natural disaster. It cannot be killed by conventional means — only a sustained, coordinated assault exploiting a specific weakness has any hope of success.)
 
 
 
 ## GM Moves
 *(When the players roll a Miss (6-), or look to you to see what happens, use these moves):*
-- **Boss Actions:** The Dragon receives 2 independent actions per round.
-- **Devastating Melee:** The Dragon rolls Strength + Hand-to-Hand (18 dice). It can split successes among up to 4 targets in melee range. Inflicts a Combat Wound.
-- **Breath Weapon (Mana/Elemental):** The Dragon rolls Willpower + Projection (15 dice). This is a Tier 5+ equivalent spell. Inflicts a Combat Wound. to all targets in a massive cone. Targets must roll Acrobatics + Readiness to halve the successes.
-- **Near-Total Magic Immunity:** Spells of Tier 3 or lower simply dissipate against the Dragon's scales and natural aura. Tier 4 and 5 spells have their successes halved before applying effects.
-- **Aura of Terror:** Any character entering the Dragon's presence must roll Willpower + Memory (a difficult position) or suffer a -2 penalty to all actions out of sheer primal terror.
+- **Boss Actions:** The Dragon acts twice per round, independently.
+- **Devastating Melee:** The Dragon lashes out with claws, tail, or jaws, striking up to 4 targets in melee range. Each target suffers a Combat Wound.
+- **Breath Weapon (Mana/Elemental):** The Dragon unleashes a Miracle-tier torrent of elemental fury across a massive cone. All targets in the area suffer a Combat Wound. Characters who attempt to dodge roll with Disadvantage.
+- **Near-Total Magic Immunity:** Standard and Complex spells simply dissipate against the Dragon's scales. Only Miracle-tier magic has any hope of affecting it directly.
+- **Aura of Terror:** Any character entering the Dragon's presence must immediately roll **Resist Erosion** or suffer Disadvantage on all actions for the rest of the scene from sheer primal dread.
 :::

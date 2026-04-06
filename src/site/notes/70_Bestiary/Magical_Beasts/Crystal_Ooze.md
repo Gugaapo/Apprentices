@@ -25,7 +25,6 @@ Found in the deeper, mana-dense regions of the [[30_Locations/Other/Dungeon\|Dun
 ## GM Moves
 *(When the players roll a Miss (6-), or look to you to see what happens, use these moves):*
 - **Pseudopod Slam:** Inflicts a Combat Wound.
-- **Crystalizing Touch:** If the Ooze scores 2 or more successes on a slam attack, the target must roll Strength + Athletics (a difficult position) or have a limb partially crystallized, suffering a -2 penalty to Physical pools until cured with Medical Magic.
-- **Amorphous:** Immune to critical hits and flanking. Can squeeze through small cracks.
-
+- **Crystallizing Touch:** On a hard hit, a limb begins to crystallize. The target suffers Disadvantage on all Physical rolls until treated with Medical Magic.
+- **Amorphous:** Immune to critical hits and flanking. Can squeeze through any gap wider than a few centimeters.
 :::

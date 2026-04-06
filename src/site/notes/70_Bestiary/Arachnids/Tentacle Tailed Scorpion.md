@@ -24,7 +24,7 @@ A highly dangerous predator in the [[30_Locations/Other/Dungeon\|Dungeon]].
 
 ## GM Moves
 *(When the players roll a Miss (6-), or look to you to see what happens, use these moves):*
-- **Pincer Crush:** Inflicts a Combat Wound. If the Scorpion scores 3+ successes, the target is Grappled.
-- **Tentacle Sting:** Can be used against a Grappled target automatically, or as a normal attack (Roll: Finesse + Hand-to-Hand [8 dice]). Inflicts a Combat Wound.
-- **Neurotoxin:** A target hit by the Tentacle Sting must roll Strength + Medicine (a difficult position). Failure inflicts 2 additional damage and a -1 penalty to Finesse and Calculation for the rest of the scene.
+- **Pincer Crush:** Inflicts a Combat Wound. On a hard hit, the target is Grappled and cannot move.
+- **Tentacle Sting:** Lash out with the venomous tail. Inflicts a Combat Wound. Can automatically strike a Grappled target.
+- **Neurotoxin:** A target stung must resist the venom or suffer Disadvantage on all Physical and Mental rolls for the rest of the scene until treated with Medical Magic.
 :::

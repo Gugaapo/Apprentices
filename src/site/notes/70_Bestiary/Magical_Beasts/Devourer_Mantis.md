@@ -24,7 +24,7 @@ A dangerous ambush predator found in the [[30_Locations/Other/Dungeon\|Dungeon]]
 
 ## GM Moves
 *(When the players roll a Miss (6-), or look to you to see what happens, use these moves):*
-- **Scythe Slash:** Inflicts a Combat Wound. (Slashing).
-- **Devour:** If the Mantis scores 3 or more successes on an attack against a prone or grappled target, it bites for an additional 2 Base Damage and heals 1 Health Box.
-- **Ambush Predator:** Gains +2 dice to its attack pool when attacking from Stealth.
+- **Scythe Slash:** Inflicts a Combat Wound (Slashing).
+- **Devour:** If the target is Prone or Grappled, the Mantis bites deep, inflicting an additional Combat Wound and healing itself.
+- **Ambush Predator:** The Mantis attacks from concealment with Advantage.
 :::

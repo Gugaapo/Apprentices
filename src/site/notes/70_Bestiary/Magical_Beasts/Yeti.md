@@ -25,6 +25,6 @@ Adapted to snowy mountainous regions above the [[30_Locations/Other/Dungeon\|Dun
 ## GM Moves
 *(When the players roll a Miss (6-), or look to you to see what happens, use these moves):*
 - **Slam / Rend:** Inflicts a Combat Wound.
-- **Freezing Roar:** As an action, the Yeti unleashes a blast of cold air. All characters within 10 meters must roll Strength + Athletics (a difficult position) or take 2 damage and suffer -1 die to Physical pools for the next round due to numbing cold.
-- **Snow Camouflage:** In snowy environments, the Yeti gains +2 dice to Stealth and cannot be tracked by non-magical means.
+- **Freezing Roar:** The Yeti unleashes a blast of supernatural cold. Everyone nearby must resist or suffer a Combat Wound and Disadvantage on Physical rolls for the rest of the scene from numbing frost.
+- **Snow Camouflage:** In snowy environments, the Yeti is functionally invisible and cannot be tracked by non-magical means.
 :::

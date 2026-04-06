@@ -21,11 +21,10 @@ A terrifying environmental hazard. Handling or destroying them requires highly s
 **Resilience:** High (Takes severe or coordinated Wounds to kill)
 
 
-**Armor:** 0
 
 ## GM Moves
 *(When the players roll a Miss (6-), or look to you to see what happens, use these moves):*
-- **Aura of Lure:** Any character within 15 meters of the Chrysanthemum must roll Readiness + Investigation (a difficult position). Failure means they are drawn to the flower's subtle magical scent and must move toward it on their next turn.
-- **Soul Drain:** If a character is within 3 meters of the flower, the Chrysanthemum rolls Willpower + Soul Magic (11 dice) against the target's Willpower + Memory. If the flower wins, the target takes 2 points of Sanity erosion and 1 point of permanent Willpower damage. If reduced to 0 Willpower, their soul is consumed, leaving a comatose husk.
-- **Root Defense:** If attacked physically, thorny vines lash out. The attacker takes 1 damage automatically (no roll) if they are in melee range.
+- **Aura of Lure:** Any character who comes within range of the Chrysanthemum's subtle magical scent must resist or be compelled to move toward it on their next turn.
+- **Soul Drain:** A character within close proximity has their life force attacked directly. They suffer Sanity Erosion and permanent Willpower damage. If reduced to 0 Willpower, their soul is consumed, leaving a comatose husk.
+- **Root Defense:** If attacked in melee, thorny vines automatically lash out, inflicting a minor wound.
 :::

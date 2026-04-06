@@ -22,6 +22,6 @@ Sea drakes are very social, with their rocky, sea-beaten nesting sites sporting 
 
 ## GM Moves
 *(When the players roll a Miss (6-), or look to you to see what happens, use these moves):*
-- **Electric Bite:** Inflicts a Combat Wound. If the bite deals damage, it triggers a channeled shock: Roll Finesse + Projection (7 dice) for an additional 2 + Successes (Lightning) damage. Target must roll Strength + Athletics or be Stunned for 1 round.
-- **Aquatic Apex:** Gains +2 dice to all Physical pools while submerged in water. Suffers a -2 penalty to physical actions on land.
-  :::
+- **Electric Bite:** Clamp down and channel a devastating shock through the target. Inflicts a Combat Wound. The target is Stunned and cannot act on their next turn.
+- **Aquatic Apex:** In water, the Sea Drake attacks with Advantage. On land, it is sluggish and attacks with Disadvantage.
+:::

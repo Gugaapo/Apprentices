@@ -25,6 +25,6 @@ They roam the [[30_Locations/Other/Dungeon\|Dungeon]] in scouting parties, using
 ## GM Moves
 *(When the players roll a Miss (6-), or look to you to see what happens, use these moves):*
 - **Hook Slash:** Inflicts a Combat Wound.
-- **Pack Tactics:** If another Hook Goblin is engaged in melee with the same target, the Hook Goblin gains +1 die to its attack pool.
-- **Scavenger's Escape:** As a reaction to taking damage, the goblin can immediately move up to 3 meters away without provoking attacks.
+- **Pack Tactics:** When another Hook Goblin is engaged with the same target, they attack with Advantage.
+- **Scavenger's Escape:** When injured, the goblin immediately scrambles away to safety, repositioning without exposing itself to further harm.
 :::

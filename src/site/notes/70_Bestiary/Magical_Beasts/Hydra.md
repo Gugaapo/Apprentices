@@ -18,13 +18,13 @@ Hydras are incredibly difficult to kill and require specialized, coordinated tac
 
 :::hidden
 ## Fictional Mechanics
-**Resilience:** High (Takes severe or coordinated Wounds to kill)
+**Resilience:** Extreme (Regenerates unless cauterized with Fire or Acid. Severed heads grow back doubled.)
 
 
 
 ## GM Moves
 *(When the players roll a Miss (6-), or look to you to see what happens, use these moves):*
-- **Multi-Bite:** The Hydra rolls Strength + Hand-to-Hand (11 dice) as a single attack, but its successes can be split across up to 3 targets in melee range. Inflicts a Combat Wound. (per target).
-- **Extreme Regeneration:** At the start of every turn, the Hydra heals 2 Health Boxes unless it took Fire or Acid damage in the previous round. If a head is severed (taking 4+ damage in one hit), two grow back unless the stump is cauterized.
-- **Boss Action:** The Hydra gets 1 independent action per round due to its multiple heads.
+- **Multi-Bite:** The Hydra lashes out with multiple heads simultaneously, striking up to 3 targets in melee range. Each target suffers a Combat Wound.
+- **Extreme Regeneration:** At the start of every GM turn, the Hydra recovers from a recent Wound unless it was inflicted by Fire or Acid. If a head is severed, two grow back unless the stump is immediately cauterized.
+- **Boss Action:** The Hydra gets an additional action per round due to its multiple heads.
 :::
