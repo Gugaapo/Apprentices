@@ -3,18 +3,34 @@
 ---
 
 
+# The Modern Era
 
-The current era in [[30_Locations/Continents/Altazia\|Altazia]] is defined by a tense, heavily armed geopolitical standoff, rapid innovation, and fundamental societal shifts in the wake of the [[20_World/History/Timeline/07 The Weeping\|Weeping]] and the [[20_World/History/Timeline/06 The Splinter Wars\|Splinter Wars]].
+> - **When:** February 1st, 1800 STC — Day 1 of the campaign
+> - **What's happening:** A tense geopolitical standoff, rapid technological revolution, and a secret invasion being planned beneath everyone's feet.
+> - **Why it matters:** This is the world the players wake up in every loop.
 
 ## The Big Three
-The continent is dominated by three aggressive superpowers constantly maneuvering for hegemony:
-* **[[30_Locations/Countries/Eldemar\|Eldemar]]:** The wealthy, heavily industrialized instigators of the Splinter Wars, aiming to reunify the alliance under their banner by force.
-* **[[30_Locations/Countries/Sulamnon\|Sulamnon]]:** The fierce, highly magical southern rival, acting as the primary counterbalance to Eldemar.
-* **[[30_Locations/Countries/Falkrinea\|Falkrinea]]:** The massive, lumbering northern giant, possessing endless manpower and resources, though lacking in modern infrastructure.
 
-Smaller "Splinter States" like [[30_Locations/Countries/Abnazia\|Abnazia]] and [[30_Locations/Countries/Tetra\|Tetra]] survive through diplomacy, alliances, and maintaining formidable, defensive militaries to deter invasion by the Big Three. Everyone expects another massive, decisive continental war; it is simply a question of when.
+The continent is dominated by three aggressive superpowers constantly maneuvering for hegemony:
+
+| Nation | Role | Character |
+|---|---|---|
+| **[[30_Locations/Countries/Eldemar\|Eldemar]]** | Wealthy, industrialized instigator | Trying to reunify the alliance by force |
+| **[[30_Locations/Countries/Sulamnon\|Sulamnon]]** | Fierce, magical counterbalance | Primary rival; home of [[40_People/Immortals/Meren Lynti Ermazi\|Meren Lynti Ermazi]] |
+| **[[30_Locations/Countries/Falkrinea\|Falkrinea]]** | Massive northern giant | Endless manpower; home of [[40_People/Immortals/Peleset Harata\|Peleset Harata]] |
+
+Smaller [[30_Locations/Regions/Splinter States\|Splinter States]] like [[30_Locations/Countries/Abnazia\|Abnazia]] and [[30_Locations/Countries/Tetra\|Tetra]] survive through diplomacy and formidable defensive militaries. **Everyone expects another continental war** — it is simply a question of when.
 
 ## Technological and Magical Revolution
-The integration of magic and machinery (magitech) has led to an explosion in civil infrastructure. The continent is increasingly connected by a massive network of magical trains, telegraph systems, and improved firearms. 
 
-This [[20_World/Society/Technological Revolution\|Technological Revolution]] has resulted in mass literacy and a booming middle class. Furthermore, the [[20_World/Society/Spread of Magical Training\|Spread of Magical Training]] to commoners has broken the monopoly once held by the [[40_People/Factions/Houses/Noble Houses\|Noble Houses]]. Magic is no longer the exclusive domain of isolated elites; it is an academic discipline taught in sprawling academies, driving an era of unprecedented, but highly volatile, progress.
+The integration of magic and machinery (**magitech**) has led to an explosion in civil infrastructure:
+- Magical trains connecting the continent
+- Telegraph systems enabling rapid communication
+- Improved firearms reshaping warfare
+- Mass literacy and a booming middle class
+
+The [[20_World/Society/Spread of Magical Training\|Spread of Magical Training]] to commoners has broken the [[40_People/Factions/Houses/Noble Houses\|Noble Houses]]' monopoly. Magic is no longer the domain of elites — it is an academic discipline taught in sprawling academies.
+
+
+
+- [[40_People/Factions/Invasion Force\|Invasion Force]]

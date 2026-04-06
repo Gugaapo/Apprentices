@@ -20,11 +20,3 @@ The air is thick with a low, constant buzzing. Sulrothum workers — each the si
 - **Seasonal River & Underground Lake:** A water source beneath the ziggurat sustains the tribe in the otherwise lethal desert.
 - **Dungeon Access:** The Ziggurat provides an access point to a deep section of the [[30_Locations/Other/Dungeon\|Dungeon]].
 
-
-
-## Linked Files
-- [[30_Locations/Regions/Xlotic\|Xlotic]]
-- [[70_Bestiary/Sapient_Species/Sulrothum\|Sulrothum]]
-- [[20_World/02 The Imperial Artifacts\|02 The Imperial Artifacts]]
-- [[20_World/01 Time Loop and The Sovereign Gate\|01 Time Loop and The Sovereign Gate]]
-- [[30_Locations/Other/Dungeon\|Dungeon]]

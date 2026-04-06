@@ -23,10 +23,3 @@ Control of the Central Valley is considered the key to dominating the entire con
 ## Economy
 
 The valley is the most densely populated region of the world, housing major academies (like the one in [[30_Locations/Cities and Towns/Cyoria\|Cyoria]]), industrial centers, and the largest agricultural hubs. The continental rail network connects its cities at unprecedented speed.
-
-## Linked Files
-- [[30_Locations/Continents/Altazia\|Altazia]]
-- [[30_Locations/Countries/Eldemar\|Eldemar]]
-- [[30_Locations/Countries/Sulamnon\|Sulamnon]]
-- [[30_Locations/Countries/Falkrinea\|Falkrinea]]
-- [[30_Locations/Cities and Towns/Cyoria\|Cyoria]]

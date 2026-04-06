@@ -19,11 +19,3 @@ The taboo has deep roots. Before the [[30_Locations/Other/Ikosian Empire\|Ikosia
 
 The [[20_World/Society/Magic Users of Pre-Ikosian Altazia\|Witches]] of pre-Ikosian [[30_Locations/Continents/Altazia\|Altazia]] also practiced rudimentary forms of mind magic through herbally-induced trances and potions. Their persecution helped establish the link between mind magic and social deviance that persists today.
 
-
-
-## Linked Files
-- [[20_World/Society/Arcane Law and The Enforcers\|Arcane Law and The Enforcers]]
-- [[20_World/Society/Soul Magic Taboo\|Soul Magic Taboo]]
-- [[70_Bestiary/Sapient_Species/Aranea\|Aranea]]
-- [[20_World/Society/Interspecies Relations\|Interspecies Relations]]
-- [[20_World/Society/The Triumvirate Church and Faith\|The Triumvirate Church and Faith]]

@@ -30,11 +30,3 @@ Altazia is a continent of fierce competition and rapid change:
 ![Altazia Political Map.png](/img/user/zImg/Altazia%20Political%20Map.png)
 
 ![Altazia relief map.png](/img/user/zImg/Altazia%20relief%20map.png)
-
-## Linked Files
-- [[30_Locations/Countries/Eldemar\|Eldemar]]
-- [[30_Locations/Countries/Sulamnon\|Sulamnon]]
-- [[30_Locations/Countries/Falkrinea\|Falkrinea]]
-- [[30_Locations/Regions/Splinter States\|Splinter States]]
-- [[30_Locations/Other/Ikosian Empire\|Ikosian Empire]]
-- [[30_Locations/Regions/Altazias Central Valley\|Altazias Central Valley]]

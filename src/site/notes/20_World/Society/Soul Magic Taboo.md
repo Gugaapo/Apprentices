@@ -30,15 +30,3 @@ One narrow exception exists: **familiar bonds**. A mage can ritually bond a soul
 
 However, scholars know that familiar bonds are more dangerous than commonly admitted. The dominant personality in a bond can gradually overwrite the other — in practice, the mage always dominates the animal, but the risk exists.
 
-
-
-## Linked Files
-- [[20_World/Society/Mind Magic Taboo\|Mind Magic Taboo]]
-- [[20_World/Society/Arcane Law and The Enforcers\|Arcane Law and The Enforcers]]
-- [[20_World/Society/The Triumvirate Church and Faith\|The Triumvirate Church and Faith]]
-- [[20_World/01 Time Loop and The Sovereign Gate\|01 Time Loop and The Sovereign Gate]]
-- [[20_World/02 The Imperial Artifacts\|02 The Imperial Artifacts]]
-- [[40_People/NPCs/Enemies/Red Robe\|Red Robe]]
-- [[40_People/NPCs/Enemies/Quatach-Ichl\|Quatach-Ichl]]
-- [[Kael\|Kael]]
-- [[70_Bestiary/Sapient_Species/Aranea\|Aranea]]

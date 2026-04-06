@@ -21,11 +21,3 @@ Magitech devices are everywhere in modern life — from enchanted lamps and heat
 
 This rampant industrialization is causing severe ecological damage. Factories rapidly deplete natural resources. The demand for stable, potent magical fuel has caused a massive spike in the harvesting of [[60_Items/Materials/Crystalized Mana\|magical materials]] and mana crystals, pushing many magical species to the brink of local extinction and driving hunters deeper into the lethal [[30_Locations/Other/Dungeon\|Dungeon]].
 
-
-
-## Linked Files
-- [[20_World/Society/The Magitech Economy\|The Magitech Economy]]
-- [[20_World/Society/The Dungeon Delving Industry\|The Dungeon Delving Industry]]
-- [[20_World/Society/Spread of Magical Training\|Spread of Magical Training]]
-- [[20_World/Society/Media and Propaganda\|Media and Propaganda]]
-- [[20_World/Society/The Mage-Commoner Divide\|The Mage-Commoner Divide]]

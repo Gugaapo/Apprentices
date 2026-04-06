@@ -23,11 +23,3 @@ Certain branches of magic are heavily restricted or outright banned by internati
 
 Trials involving mages often require **Truth-Seekers** — specialized diviners and empathic mages — to verify testimonies. However, the unreliability of mind-reading in court is a constant point of legal contention. Incarceration of mages requires specially constructed, mana-dampening prisons, which are expensive to build and maintain.
 
-
-
-## Linked Files
-- [[20_World/Society/Mind Magic Taboo\|Mind Magic Taboo]]
-- [[20_World/Society/Soul Magic Taboo\|Soul Magic Taboo]]
-- [[20_World/Society/The Triumvirate Church and Faith\|The Triumvirate Church and Faith]]
-- [[40_People/Factions/Houses/Noble Houses\|Noble Houses]]
-- [[20_World/Society/Magic Users of Pre-Ikosian Altazia\|Magic Users of Pre-Ikosian Altazia]]

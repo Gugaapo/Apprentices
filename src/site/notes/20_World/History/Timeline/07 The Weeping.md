@@ -3,16 +3,28 @@
 ---
 
 
-# 07 - The Weeping
+# The Weeping
 
-Less than four years prior to the events of the story, in the direct aftermath of the devastating [[20_World/History/Timeline/06 The Splinter Wars\|Splinter Wars]], a terrifying magical plague swept across [[30_Locations/Continents/Altazia\|Altazia]]. 
+> - **When:** 1796–1799 STC (3 years, ending just 1 year before the campaign)
+> - **What happened:** A terrifying, incurable magical plague killed 8–10% of Altazia's population, wiped out most remaining Noble Houses, and forced academies to admit commoners.
+> - **Why it matters:** This is why Zach is an orphan, why Veyers has no father, and why commoners attend the Academy.
 
 ## The Symptoms
-The disease was named "The Weeping" for its gruesome final stage. It began with an incapacitating fever and severe delirium, inevitably followed by irreversible blindness. In the terminal phase, victims would weep blood from their eyes before suffering total organ failure.
 
-It was an absolute death sentence. Neither alchemy nor medical magic could cure or slow it. It spread with terrifying unpredictability—decimating entire families while leaving their neighbors completely untouched. Nobody was immune. It ultimately killed between 8% and 10% of Altazia's total population. Both its origin and the reason for its sudden disappearance remain a complete mystery. 
+Named for its gruesome final stage:
+1. **Incapacitating fever** and severe delirium
+2. **Irreversible blindness**
+3. **Weeping blood** from the eyes
+4. **Total organ failure**
+
+An absolute death sentence. Neither alchemy nor medical magic could cure or slow it. It spread with terrifying unpredictability — decimating entire families while leaving neighbors untouched. Its origin and the reason for its sudden disappearance remain a **complete mystery**.
 
 ## Societal Impact
-* **The Fall of the Great Houses:** The Weeping dealt the final, killing blow to Many [[40_People/Factions/Houses/Noble Houses\|Noble Houses]] that were already bleeding out from the Splinter Wars. For example, [[40_People/Factions/Houses/House Noveda\|House Noveda]] was entirely wiped out, save for a single child, [[40_People/NPCs/Allies/Zach Noveda\|Zach Noveda]]. Other houses, like [[40_People/Factions/Houses/House Boranova\|House Boranova]], lost their primary bloodlines and vital magical rituals. 
-* **The Crisis of Faith:** The [[40_People/Factions/Triumvirate Church\|Triumvirate Church]], widely considered the foremost experts in healing, were utterly helpless. This catastrophic failure cost them immense public goodwill and accelerated their decline in political power. 
-* **The Democratization of Magic:** With the ranks of noble battlemages nearly extinct, institutions like [[30_Locations/Cities and Towns/Cyoria\|Cyoria]]'s Royal Academy of Magical Arts were forced to drastically lower their entrance requirements, admitting thousands of commoners to rebuild the nation's magical infrastructure. This led directly to the [[20_World/Society/Spread of Magical Training\|Spread of Magical Training]].
+
+- **The Fall of the Great Houses:** The Weeping dealt the killing blow to Houses already bleeding from the Splinter Wars. [[40_People/Factions/Houses/House Noveda\|House Noveda]] was entirely wiped out save for [[40_People/NPCs/Allies/Zach Noveda\|Zach]]. [[40_People/Factions/Houses/House Boranova\|House Boranova]] lost its primary bloodlines and vital Ignition Ritual secrets.
+- **The Crisis of Faith:** The [[40_People/Factions/Triumvirate Church\|Triumvirate Church]], considered the foremost healing experts, were utterly helpless. This cost them immense public goodwill and accelerated their decline.
+- **The Democratization of Magic:** With noble battlemage ranks nearly extinct, institutions like the [[40_People/Factions/Cyorian Academy/Cyorian Academy\|Cyorian Academy]] were forced to admit thousands of commoners — leading directly to the [[20_World/Society/Spread of Magical Training\|Spread of Magical Training]].
+
+
+
+- [[20_World/Society/Spread of Magical Training\|Spread of Magical Training]]

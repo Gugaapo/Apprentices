@@ -17,8 +17,4 @@ House Taramatula wields tremendous influence across [[30_Locations/Regions/Koth\
 
 
 
-## Linked Files
-- [[30_Locations/Regions/Koth\|Koth]]
-- [[40_People/NPCs/Others/Daimen Kazinski\|Daimen Kazinski]]
-- [[20_World/02 The Imperial Artifacts\|02 The Imperial Artifacts]]
 - [[10_System/Schools/Illusionism/Mind Magic\|Mind Magic]]

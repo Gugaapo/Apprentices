@@ -36,9 +36,4 @@ The region is littered with ancient ruins featuring inscriptions in **Old Majara
 
 
 
-## Linked Files
-- [[30_Locations/Continents/Miasina\|Miasina]]
-- [[30_Locations/Regions/Xlotic\|Xlotic]]
-- [[30_Locations/Other/Ikosian Empire\|Ikosian Empire]]
-- [[20_World/02 The Imperial Artifacts\|02 The Imperial Artifacts]]
 - [[40_People/NPCs/Others/Daimen Kazinski\|Daimen Kazinski]]

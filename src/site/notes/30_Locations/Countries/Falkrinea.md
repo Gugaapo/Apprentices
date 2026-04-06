@@ -19,10 +19,4 @@ The Immortal Eleven member **[[40_People/Immortals/Peleset Harata\|Peleset Harat
 
 ![Falkrinea.png](/img/user/zImg/Falkrinea.png)
 
-## Linked Files
-- [[30_Locations/Continents/Altazia\|Altazia]]
-- [[30_Locations/Countries/Eldemar\|Eldemar]]
-- [[30_Locations/Countries/Sulamnon\|Sulamnon]]
-- [[30_Locations/Regions/Splinter States\|Splinter States]]
-- [[10_System/Schools/Support/Alchemy\|Alchemy]]
 - [[100_sources/Immortals\|Immortals]]

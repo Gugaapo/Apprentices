@@ -17,7 +17,4 @@ Blantyrre is a vast continent that has remained largely independent of Ikosian i
 
 
 
-## Linked Files
-- [[40_People/NPCs/Others/Violeteye\|Violeteye]]
-- [[70_Bestiary/Sapient_Species/Shifters\|Shifters]]
 - [[20_World/02 The Imperial Artifacts\|02 The Imperial Artifacts]]

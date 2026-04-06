@@ -13,8 +13,3 @@ Cirin is everything [[30_Locations/Cities and Towns/Cyoria\|Cyoria]] is not. Sma
 
 For the Kazinski children — Daimen, Fortov, Zorian, and little Kirielle — Cirin is the home they were eager to escape. For the players, it represents the "before" — the normal, peaceful life that exists outside the time loop's violent cycle.
 
-
-
-## Linked Files
-- [[30_Locations/Countries/Eldemar\|Eldemar]]
-- [[30_Locations/Cities and Towns/Cyoria\|Cyoria]]

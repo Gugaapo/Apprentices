@@ -28,11 +28,3 @@ The planet consists of five major continents:
 | 3 | **[[30_Locations/Continents/Blantyrre\|Blantyrre]]** | Wild frontier. Home to non-human civilizations and [[70_Bestiary/Sapient_Species/Shifters\|Shifters]]. |
 | 4 | **[[30_Locations/Continents/Hsan\|Hsan]]** | Isolated dynasty. Single massive state (the Grand Dynasty). |
 | 5 | **[[30_Locations/Continents/Oreina\|Oreina]]** | Ice plains. Uninhabited, unexplored. |
-
-## Linked Files
-- [[30_Locations/Continents/Altazia\|Altazia]]
-- [[30_Locations/Continents/Miasina\|Miasina]]
-- [[30_Locations/Continents/Blantyrre\|Blantyrre]]
-- [[30_Locations/Continents/Hsan\|Hsan]]
-- [[30_Locations/Continents/Oreina\|Oreina]]
-- [[30_Locations/Other/Dungeon\|Dungeon]]

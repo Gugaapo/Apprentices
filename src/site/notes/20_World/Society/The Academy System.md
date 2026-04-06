@@ -23,11 +23,4 @@ Academies are political heavyweights in their own right. They are heavily funded
 
 
 
-## Linked Files
-- [[30_Locations/Cities and Towns/Cyoria\|Cyoria]]
-- [[20_World/Society/Spread of Magical Training\|Spread of Magical Training]]
-- [[20_World/Society/Technological Revolution\|Technological Revolution]]
-- [[Xvim Chao\|Xvim Chao]]
-- [[Ilsa Zileti\|Ilsa Zileti]]
-- [[Nora Boole\|Nora Boole]]
 - [[40_People/Factions/Houses/Noble Houses\|Noble Houses]]

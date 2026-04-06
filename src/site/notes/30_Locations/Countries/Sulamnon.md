@@ -20,10 +20,3 @@ The nation works closely with **[[40_People/Immortals/Meren Lynti Ermazi\|Meren 
 ## Foreign Policy
 
 Sulamnon maintains an expansionist agenda, viewing smaller neighboring states as pawns in its geopolitical maneuvering. Relations with [[30_Locations/Countries/Eldemar\|Eldemar]] are tense; with [[30_Locations/Countries/Falkrinea\|Falkrinea]], they are cautious and competitive.
-
-## Linked Files
-- [[30_Locations/Continents/Altazia\|Altazia]]
-- [[30_Locations/Countries/Eldemar\|Eldemar]]
-- [[30_Locations/Countries/Falkrinea\|Falkrinea]]
-- [[30_Locations/Regions/Splinter States\|Splinter States]]
-- [[100_sources/Immortals\|Immortals]]

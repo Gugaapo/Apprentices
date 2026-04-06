@@ -29,12 +29,12 @@ Use the sidebar to browse, or press `Ctrl+K` to search.
 > [!info] Tip
 > Use the sidebar on the left to navigate through the folder structure of the vault.
 
-| File                                                                    | Last Modified            |
-| ----------------------------------------------------------------------- | ------------------------ |
-| [[40_People/Immortals/Tehanna Arta\|Tehanna Arta]]                   | 1:09 PM - April 06, 2026 |
-| [[40_People/Immortals/Sherden-Anixua Zenich\|Sherden-Anixua Zenich]] | 1:09 PM - April 06, 2026 |
-| [[40_People/Immortals/Sakelus Arexino\|Sakelus Arexino]]             | 1:09 PM - April 06, 2026 |
-| [[40_People/Immortals/Peleset Harata\|Peleset Harata]]               | 1:08 PM - April 06, 2026 |
-| [[40_People/Immortals/Nesir Kode\|Nesir Kode]]                       | 1:08 PM - April 06, 2026 |
+| File                                                                                   | Last Modified            |
+| -------------------------------------------------------------------------------------- | ------------------------ |
+| [[80_Campaign/Loops/Loop1\|Loop1]]                                                  | 6:27 PM - April 06, 2026 |
+| [[gemini-scribe/Agent-Sessions/Cyoria Invasion Factions\|Cyoria Invasion Factions]] | 6:24 PM - April 06, 2026 |
+| [[60_Items/Items/Fire_Pistol\|Fire_Pistol]]                                         | 6:24 PM - April 06, 2026 |
+| [[80_Campaign/Sessions/Session01\|Session01]]                                       | 6:24 PM - April 06, 2026 |
+| [[10_System/00 Moves/Magic Moves/Joint Casting\|Joint Casting]]                     | 6:02 PM - April 06, 2026 |
 
 { .block-language-dataview}

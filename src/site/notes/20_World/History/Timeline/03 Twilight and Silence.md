@@ -3,16 +3,26 @@
 ---
 
 
+# Twilight and Silence
 
-After 900 years of glorious expansion, the [[30_Locations/Other/Ikosian Empire\|Ikosian Empire]] realized it had run out of viable lands to conquer. To the east lay the massive, unified Grand Dynasty of [[30_Locations/Continents/Hsan\|Hsan]]. To the south was the impenetrable jungle of [[30_Locations/Regions/Koth\|Koth]]. Overseas colonization in [[30_Locations/Continents/Blantyrre\|Blantyrre]] had failed horrifically, and pushing further into the hostile continent of [[30_Locations/Continents/Altazia\|Altazia]] was deemed too slow, expensive, and lacking in resources to justify further military intervention. 
+> - **When:** 900–1500 STC (~600 years of slow collapse)
+> - **What happened:** The [[30_Locations/Other/Ikosian Empire\|Ikosian Empire]] stagnated, the gods went permanently silent, and a 60-year civil war consumed the empire.
+> - **Why it matters:** The Silence of the Gods explains why divine magic doesn't work and why the [[40_People/Factions/Triumvirate Church\|Triumvirate Church]] has no real divine power.
 
 ## Stagnation and Decentralization
-With no external wars to unify them, internal rot set in. The very system that fueled their rapid expansion—the House System—proved to be their fatal flaw. The Houses had grown incredibly autonomous, deeply entrenched in political backstabbing and regional control. Centralized rule fractured. While the Empire technically persisted for another half-millennium (enduring 12 dynastic changes and numerous civil wars), it bled territory. 
+
+After 900 years of expansion, the [[30_Locations/Other/Ikosian Empire\|Ikosian Empire]] ran out of viable lands to conquer. Internal rot set in. The House System — once the fuel for rapid expansion — became its fatal flaw. Houses grew autonomous, entrenched in political backstabbing. Centralized rule fractured. The Empire technically persisted for another 500 years (enduring 12 dynastic changes and numerous civil wars), but it bled territory constantly.
 
 ## The Five Towers Period (Altazia)
-Far to the north, the Ikosian colonies in [[30_Locations/Continents/Altazia\|Altazia]] were officially abandoned by the retreating Empire. Left to their own devices, the largest of these colonies consolidated into independent city-states, marking the "Five Towers Period" due to the relative supremacy of the five largest colonies, which had pioneered [[10_System/Glossary/Mana Well\|mana well]] exploitation with the use of huge towers built on top of them – a feature with which they would become greatly associated with later. 
+
+The Ikosian colonies in [[30_Locations/Continents/Altazia\|Altazia]] were officially abandoned by the retreating Empire. Left to their own devices, the largest consolidated into independent city-states, marking the **"Five Towers Period"** — named for the five largest colonies that had pioneered [[10_System/Glossary/Mana Well\|Mana Well]] exploitation using massive towers built atop them.
 
 ## The Silence of the Gods (100 BC)
-One hundred years before the Cataclysm, an event of unprecedented psychic and religious trauma occurred: The Silence of the Gods. Globally, and simultaneously, every single deity ceased communicating with their mortal worshippers. No miracles were granted. No prayers were answered. 
 
-The resulting hysteria shattered the spiritual foundation of the [[30_Locations/Other/Ikosian Empire\|Ikosian Empire]]. The heavily centralized state church—already straining to mediate Imperial politics—lost all legitimacy overnight. Following 40 years of religious panic, the Empire descended into a devastating 60-year civil war. Even when a victor eventually seized the throne of Ikosia, the state was entirely exhausted, its population decimated, and its resources drained.
+One hundred years before the Cataclysm: **every single deity ceased communicating with their mortal worshippers.** Globally. Simultaneously. No miracles were granted. No prayers were answered.
+
+The resulting hysteria shattered the spiritual foundation of the Empire. The state church lost all legitimacy overnight. After 40 years of religious panic, the Empire descended into a devastating 60-year civil war. Even when a victor seized the throne, the state was entirely exhausted.
+
+
+
+- [[20_World/Society/The Triumvirate Church and Faith\|The Triumvirate Church and Faith]]

@@ -46,9 +46,4 @@ The deep desert has no major human settlements. The heat is lethal, the terrain 
 
 
 
-## Linked Files
-- [[30_Locations/Continents/Miasina\|Miasina]]
-- [[30_Locations/Other/Ikosian Empire\|Ikosian Empire]]
-- [[30_Locations/Other/Ziggurat of the Sun\|Ziggurat of the Sun]]
-- [[70_Bestiary/Sapient_Species/Sulrothum\|Sulrothum]]
 - [[20_World/02 The Imperial Artifacts\|02 The Imperial Artifacts]]

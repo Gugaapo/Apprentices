@@ -3,14 +3,19 @@
 ---
 
 
+# Age of the Primordials (The Creation Myth)
 
-According to the Ikosian Creation Myth—the foundation for the [[40_People/Factions/Triumvirate Church\|Triumvirate Church]] and modern religious interpretation in [[30_Locations/Continents/Altazia\|Altazia]]—the world began as a ball of swirling chaos ruled by seven primordial dragons.
+> - **When:** The beginning of time (0 STC)
+> - **What happened:** The gods descended, slew six primordial dragons to create the world, and imprisoned the seventh as the World Dragon.
+> - **Why it matters:** The World Dragon's prison generates the [[30_Locations/Other/Dungeon\|Dungeon]] and its monsters. The Primordials' existence justifies the [[40_People/NPCs/Enemies/Panaxeth\|Panaxeth]] threat.
 
 ## The Arrival of the Gods
-The gods descended from a higher plane of existence and waged a cosmic war against these seven primordial dragons. The gods proved victorious, slaying six of the great beasts and fashioning their corpses into the physical world. The seventh and final dragon was captured alive and imprisoned deep within the planet's core—an entity now known as the World Dragon. 
+
+According to the Ikosian Creation Myth — the foundation for the [[40_People/Factions/Triumvirate Church\|Triumvirate Church]] and modern religious interpretation in [[30_Locations/Continents/Altazia\|Altazia]] — the world began as a ball of swirling chaos ruled by **seven primordial dragons**.
+
+The gods descended from a higher plane of existence and waged a cosmic war against them. The gods proved victorious, slaying six of the great beasts and fashioning their corpses into the physical world. The seventh and final dragon was captured alive and **imprisoned deep within the planet's core** — an entity now known as the **World Dragon**.
 
 ## The World Dragon and the Dungeon
-The World Dragon's immense, untamed magic is said to flow outward through the hollow veins of the earth, creating the vast network of the [[30_Locations/Other/Dungeon\|Dungeon]]. As it struggles against its divine prison, fragments of its raw power and flesh are periodically expelled upward toward the surface, manifesting as the countless [[70_Bestiary/Magical_Creatures_Overview\|monsters]] that plague humanity. 
 
-## Secret Truths
-While mainstream religion treats this as ancient scripture, highly secretive and dangerous organizations like the Esoteric Order of the Celestial Dragon believe these myths to be literal truths. They seek to access the [[30_Locations/Other/Dungeon\|underworld's]] deepest layers to commune with, or even summon, aspects of these primordials.
+The World Dragon's immense, untamed magic flows outward through the hollow veins of the earth, creating the vast network of the [[30_Locations/Other/Dungeon\|Dungeon]]. As it struggles against its divine prison, fragments of its raw power and flesh are periodically expelled toward the surface, manifesting as the countless monsters that plague humanity.
+

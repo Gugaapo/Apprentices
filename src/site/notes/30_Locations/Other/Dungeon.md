@@ -46,11 +46,4 @@ While it is theoretically possible to travel through the Dungeon to bypass surfa
 
 
 
-## Linked Files
-- [[30_Locations/Other/The Hole\|The Hole]]
-- [[30_Locations/Cities and Towns/Cyoria\|Cyoria]]
-- [[70_Bestiary/Sapient_Species/Aranea\|Aranea]]
-- [[20_World/Society/The Dungeon Delving Industry\|The Dungeon Delving Industry]]
-- [[60_Items/Materials/Crystalized Mana\|Crystalized Mana]]
-- [[10_System/Glossary/Mana Well\|Mana Well]]
 - [[20_World/01 Time Loop and The Sovereign Gate\|01 Time Loop and The Sovereign Gate]]

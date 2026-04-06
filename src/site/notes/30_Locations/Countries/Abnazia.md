@@ -12,9 +12,3 @@ The Kingdom of Abnazia is a Splinter State that aims to compete with the "Big Th
 ## The Western Frontier
 
 Abnazia's long-term strategy involves westward expansion beyond the **Winter Mountains** into newly colonized lands. By unifying these frontier states, Abnazia hopes to stabilize a massive new territory and become a true continental heavyweight.
-
-## Linked Files
-- [[30_Locations/Continents/Altazia\|Altazia]]
-- [[30_Locations/Countries/Eldemar\|Eldemar]]
-- [[30_Locations/Regions/Splinter States\|Splinter States]]
-- [[30_Locations/Countries/Tetra\|Tetra]]

@@ -19,8 +19,4 @@ The current heirs are the twins **[[40_People/NPCs/Students/Aneka Ashirai\|Aneka
 
 
 
-## Linked Files
-- [[40_People/NPCs/Students/Aneka Ashirai\|Aneka Ashirai]]
-- [[40_People/NPCs/Students/Armie Ashirai\|Armie Ashirai]]
-- [[20_World/Society/Soul Magic Taboo\|Soul Magic Taboo]]
 - [[40_People/Factions/Houses/Noble Houses\|Noble Houses]]

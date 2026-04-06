@@ -15,7 +15,4 @@ The main line practiced a secret, powerful **Ignition Ritual** that permanently 
 
 
 
-## Linked Files
-- [[40_People/NPCs/Students/Veyers Boranova\|Veyers Boranova]]
-- [[40_People/NPCs/Enemies/Red Robe\|Red Robe]]
 - [[40_People/Factions/Houses/Noble Houses\|Noble Houses]]

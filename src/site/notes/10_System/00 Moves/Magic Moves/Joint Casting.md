@@ -6,7 +6,9 @@
 
 *A Magic Move. Available to all Students.*
 
-When you **link minds with an ally to cast an overwhelming spell**, you roll the **Shape the Matrix** move using the highest relevant Attribute among the participants.
-- The **Scale constraints** and maximum allowed complexity are expanded based on your combined knowledge.
-- The required **Mana Track cost** (ticks) can be divided between participants however you agree, letting helpers shoulder the strain.
-- **On a 7-9 or 6-:** ALL participants suffer the chosen complications, physical Wounds, or GM Hard Moves.
+When you **link minds with an ally to cast an overwhelming spell**, choose your role:
+- **The Lens ([[10_System/Attributes/Magical/Calculation\|Calculation]]):** You focus on the geometry. The lead caster gains **[[10_System/Glossary/Advantage\|Advantage]]** on their **Shape the Matrix** roll.
+- **The Battery ([[10_System/Attributes/Magical/Willpower\|Willpower]]):** You shoulder the burden. You pay the **Mana Track cost** (ticks) of the spell instead of the lead caster.
+- **The Anchor ([[10_System/Attributes/Magical/Memory\|Memory]]):** You hold the structure. The spell's **Complexity Limit** is expanded based on your combined knowledge.
+
+**On a 7-9 or 6-:** ALL participants suffer the chosen complications, physical Wounds, or GM Hard Moves.

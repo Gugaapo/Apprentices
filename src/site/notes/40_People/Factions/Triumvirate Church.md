@@ -26,8 +26,4 @@ Today, the Church holds a global monopoly over the **legal practice of [[20_Worl
 
 
 
-## Linked Files
-- [[20_World/Society/The Triumvirate Church and Faith\|The Triumvirate Church and Faith]]
-- [[40_People/NPCs/Allies/Alanic Zosk\|Alanic Zosk]]
-- [[20_World/Society/Soul Magic Taboo\|Soul Magic Taboo]]
 - [[20_World/History/Timeline/03 Twilight and Silence\|03 Twilight and Silence]]

@@ -18,9 +18,3 @@ Miasina is the continent where the [[30_Locations/Other/Ikosian Empire\|Ikosian 
 ## Legacy
 
 Miasina remains a site of immense historical and magical importance. The continent's two halves represent the world's past (the desert ruins of a fallen empire) and its wild, ungovernable future (the untamed jungles that have reclaimed what civilization abandoned).
-
-## Linked Files
-- [[30_Locations/Regions/Xlotic\|Xlotic]]
-- [[30_Locations/Regions/Koth\|Koth]]
-- [[30_Locations/Other/Ikosian Empire\|Ikosian Empire]]
-- [[30_Locations/Continents/Altazia\|Altazia]]

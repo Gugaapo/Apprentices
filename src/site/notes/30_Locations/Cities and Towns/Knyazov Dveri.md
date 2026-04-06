@@ -29,10 +29,4 @@ The town's Rank 2 [[10_System/Glossary/Mana Well\|Mana Well]] feeds a modest loc
 
 
 
-## Linked Files
-- [[30_Locations/Cities and Towns/Cyoria\|Cyoria]]
-- [[30_Locations/Countries/Eldemar\|Eldemar]]
-- [[40_People/NPCs/Enemies/Sudomir Kandrei\|Sudomir Kandrei]]
-- [[Alanic\|Alanic]]
-- [[20_World/03 The Invasion of Cyoria\|03 The Invasion of Cyoria]]
 - [[30_Locations/Other/Dungeon\|Dungeon]]

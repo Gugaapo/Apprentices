@@ -46,13 +46,4 @@ A private student boarding house run by **Imaya Kuroshka**, where many academy s
 
 
 
-## Linked Files
-- [[30_Locations/Other/The Hole\|The Hole]]
-- [[30_Locations/Other/Dungeon\|Dungeon]]
-- [[30_Locations/Countries/Eldemar\|Eldemar]]
-- [[20_World/Society/The Academy System\|The Academy System]]
-- [[20_World/03 The Invasion of Cyoria\|03 The Invasion of Cyoria]]
-- [[20_World/01 Time Loop and The Sovereign Gate\|01 Time Loop and The Sovereign Gate]]
-- [[40_People/NPCs/Allies/Zach Noveda\|Zach Noveda]]
-- [[70_Bestiary/Sapient_Species/Aranea\|Aranea]]
 - [[20_World/Society/The Noble Houses\|The Noble Houses]]

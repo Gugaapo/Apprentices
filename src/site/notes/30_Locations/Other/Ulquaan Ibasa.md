@@ -42,9 +42,4 @@ While dominated by undead leadership, the vast majority of the population is **m
 
 
 
-## Linked Files
-- [[40_People/NPCs/Enemies/Quatach-Ichl\|Quatach-Ichl]]
-- [[20_World/03 The Invasion of Cyoria\|03 The Invasion of Cyoria]]
-- [[30_Locations/Countries/Eldemar\|Eldemar]]
-- [[20_World/Society/Soul Magic Taboo\|Soul Magic Taboo]]
 - [[40_People/NPCs/Enemies/Panaxeth\|Panaxeth]]

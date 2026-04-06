@@ -42,9 +42,4 @@ The Immortal Eleven helped each other become immortal, making them highly unusua
 
 
 
-## Linked Files
-- [[20_World/Society/Soul Magic Taboo\|Soul Magic Taboo]]
-- [[10_System/Schools/Alteration/Blood Magic\|Blood Magic]]
-- [[10_System/Schools/Support/Alchemy\|Alchemy]]
-- [[20_World/Society/The Triumvirate Church and Faith\|The Triumvirate Church and Faith]]
 - [[30_Locations/Other/Dungeon\|Dungeon]]

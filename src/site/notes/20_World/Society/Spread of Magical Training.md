@@ -19,11 +19,3 @@ While this has resulted in an incredible democratization of arcane power and a b
 
 Furthermore, law enforcement severely struggles to adapt. The proliferation of magic means practically anyone could possess the means to commit magical theft, murder with fire, or manipulate minds — leading to a drastic spike in sophisticated arcane crime that the [[20_World/Society/Arcane Law and The Enforcers\|enforcers]] are constantly racing to keep up with.
 
-
-
-## Linked Files
-- [[20_World/Society/The Academy System\|The Academy System]]
-- [[20_World/Society/Technological Revolution\|Technological Revolution]]
-- [[20_World/Society/The Noble Houses\|The Noble Houses]]
-- [[20_World/Society/The Mage-Commoner Divide\|The Mage-Commoner Divide]]
-- [[20_World/Society/Arcane Law and The Enforcers\|Arcane Law and The Enforcers]]

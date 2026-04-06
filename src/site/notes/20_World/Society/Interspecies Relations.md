@@ -25,12 +25,4 @@ A morlock attending a human academy, like **[[Kael\|Kael]]**, draws instant prej
 
 
 
-## Linked Files
-- [[70_Bestiary/Sapient_Species/Aranea\|Aranea]]
-- [[70_Bestiary/Sapient_Species/Shifters\|Shifters]]
-- [[Kael\|Kael]]
-- [[40_People/NPCs/Allies/Spear of Resolve\|Spear of Resolve]]
-- [[Novelty\|Novelty]]
-- [[20_World/Society/Magic Users of Pre-Ikosian Altazia\|Magic Users of Pre-Ikosian Altazia]]
-- [[20_World/Society/Mind Magic Taboo\|Mind Magic Taboo]]
 - [[30_Locations/Other/Dungeon\|Dungeon]]

@@ -30,12 +30,4 @@ The Morlocks were a culture of subterranean humans specifically adapted for unde
 
 
 
-## Linked Files
-- [[70_Bestiary/Sapient_Species/Shifters\|Shifters]]
-- [[10_System/Schools/Support/Alchemy\|Alchemy]]
-- [[10_System/Schools/Alteration/Blood Magic\|Blood Magic]]
-- [[20_World/Society/Soul Magic Taboo\|Soul Magic Taboo]]
-- [[20_World/Society/The Noble Houses\|The Noble Houses]]
-- [[Kael\|Kael]]
-- [[20_World/Society/Interspecies Relations\|Interspecies Relations]]
 - [[30_Locations/Other/Dungeon\|Dungeon]]

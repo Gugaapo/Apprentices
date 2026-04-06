@@ -16,9 +16,3 @@ Tetra possesses a large and highly capable navy, granting it a near-monopoly on 
 ## Military
 
 While their maritime forces are formidable, Tetra's **land military** is considered somewhat disorganized and untested in actual combat, despite recent efforts to militarize in response to shifting global politics.
-
-## Linked Files
-- [[30_Locations/Continents/Altazia\|Altazia]]
-- [[30_Locations/Regions/Splinter States\|Splinter States]]
-- [[30_Locations/Regions/Shivan Archipelago\|Shivan Archipelago]]
-- [[30_Locations/Countries/Abnazia\|Abnazia]]

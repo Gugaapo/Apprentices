@@ -25,9 +25,4 @@ Rather than a stark cultural divide, the current era is defined more by a shared
 
 
 
-## Linked Files
-- [[20_World/Society/Spread of Magical Training\|Spread of Magical Training]]
-- [[20_World/Society/Technological Revolution\|Technological Revolution]]
-- [[20_World/Society/The Academy System\|The Academy System]]
-- [[20_World/Society/The Noble Houses\|The Noble Houses]]
 - [[20_World/Society/The Magitech Economy\|The Magitech Economy]]

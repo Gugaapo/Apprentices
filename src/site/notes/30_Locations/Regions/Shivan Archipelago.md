@@ -16,9 +16,3 @@ The islands were briefly colonized by the [[30_Locations/Other/Ikosian Empire\|I
 ## Economic Status
 
 The archipelago occupies a critical position for maritime trade. The nation of [[30_Locations/Countries/Tetra\|Tetra]] maintains a near-monopoly on trade routes passing through these islands, making the archipelago economically dependent on Tetran naval protection.
-
-## Linked Files
-- [[30_Locations/Continents/Altazia\|Altazia]]
-- [[30_Locations/Continents/Miasina\|Miasina]]
-- [[30_Locations/Countries/Tetra\|Tetra]]
-- [[30_Locations/Other/Ikosian Empire\|Ikosian Empire]]

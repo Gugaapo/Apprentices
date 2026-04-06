@@ -41,9 +41,3 @@ The most powerful Houses hold a **permanent seat** on the Eldemar Council of Eld
 
 Despite their historical dominance, the Houses' influence is in **decline**. The [[20_World/Society/Technological Revolution\|Technological Revolution]] and [[20_World/Society/Spread of Magical Training\|Spread of Magical Training]] through public academies have broken their monopoly on magical knowledge. Public libraries and state-sponsored education mean high-tier magic is no longer a guarded family secret.
 
-
-
-## Linked Files
-- [[30_Locations/Countries/Eldemar\|Eldemar]]
-- [[30_Locations/Cities and Towns/Cyoria\|Cyoria]]
-- [[20_World/Society/The Mage-Commoner Divide\|The Mage-Commoner Divide]]

@@ -19,11 +19,3 @@ The city is known for its thriving **spider-silk textile industry**, sourcing ra
 - **Alchemical Workshops:** Numerous accessible workshops serve both commercial and academic needs.
 - **[[30_Locations/Other/Dungeon\|Dungeon]] Access:** Like most major Eldemarian settlements, Korsa has a gate to the [[30_Locations/Other/Dungeon\|Dungeon]], fueling its economy through [[60_Items/Materials/Crystalized Mana\|Crystalized Mana]] extraction.
 
-
-
-## Linked Files
-- [[30_Locations/Countries/Eldemar\|Eldemar]]
-- [[30_Locations/Cities and Towns/Cyoria\|Cyoria]]
-- [[30_Locations/Other/Dungeon\|Dungeon]]
-- [[20_World/Society/The Dungeon Delving Industry\|The Dungeon Delving Industry]]
-- [[70_Bestiary/Sapient_Species/Aranea\|Aranea]]

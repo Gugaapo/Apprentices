@@ -29,12 +29,4 @@ The Church is the primary force behind the universal ban on [[10_System/Schools/
 
 
 
-## Linked Files
-- [[Alanic\|Alanic]]
-- [[20_World/Society/Soul Magic Taboo\|Soul Magic Taboo]]
-- [[20_World/Society/Mind Magic Taboo\|Mind Magic Taboo]]
-- [[20_World/Society/Arcane Law and The Enforcers\|Arcane Law and The Enforcers]]
-- [[20_World/03 The Invasion of Cyoria\|03 The Invasion of Cyoria]]
-- [[40_People/NPCs/Enemies/Panaxeth\|Panaxeth]]
-- [[30_Locations/Cities and Towns/Cyoria\|Cyoria]]
 - [[40_People/Factions/Houses/Noble Houses\|Noble Houses]]

@@ -31,10 +31,4 @@ The upper tiers descending from the Hole are the most heavily trafficked [[30_Lo
 
 
 
-## Linked Files
-- [[30_Locations/Cities and Towns/Cyoria\|Cyoria]]
-- [[30_Locations/Other/Dungeon\|Dungeon]]
-- [[20_World/01 Time Loop and The Sovereign Gate\|01 Time Loop and The Sovereign Gate]]
-- [[40_People/NPCs/Enemies/Panaxeth\|Panaxeth]]
-- [[20_World/03 The Invasion of Cyoria\|03 The Invasion of Cyoria]]
 - [[20_World/Society/The Dungeon Delving Industry\|The Dungeon Delving Industry]]

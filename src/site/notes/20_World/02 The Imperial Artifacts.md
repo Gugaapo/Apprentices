@@ -39,12 +39,4 @@ A tall, austere staff carved from an unknown white wood, topped with a glowing c
 
 
 
-## Linked Files
-- [[20_World/01 Time Loop and The Sovereign Gate\|01 Time Loop and The Sovereign Gate]]
-- [[20_World/03 The Invasion of Cyoria\|03 The Invasion of Cyoria]]
-- [[40_People/NPCs/Allies/Zach Noveda\|Zach Noveda]]
-- [[40_People/NPCs/Enemies/Red Robe\|Red Robe]]
-- [[30_Locations/Cities and Towns/Cyoria\|Cyoria]]
-- [[30_Locations/Countries/Eldemar\|Eldemar]]
-- [[30_Locations/Regions/Koth\|Koth]]
 - [[40_People/NPCs/Others/Violeteye\|Violeteye]]

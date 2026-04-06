@@ -21,7 +21,4 @@ Despite their high status, the public views the Aope with deep suspicion:
 
 
 
-## Linked Files
-- [[40_People/NPCs/Students/Tinami Aope\|Tinami Aope]]
-- [[10_System/Schools/Illusionism/Mind Magic\|Mind Magic]]
 - [[40_People/Factions/Houses/Noble Houses\|Noble Houses]]

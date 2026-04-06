@@ -25,8 +25,4 @@ In response to state-controlled media, a robust underground press has emerged. R
 
 
 
-## Linked Files
-- [[20_World/Society/Technological Revolution\|Technological Revolution]]
-- [[20_World/03 The Invasion of Cyoria\|03 The Invasion of Cyoria]]
-- [[20_World/Society/Arcane Law and The Enforcers\|Arcane Law and The Enforcers]]
 - [[20_World/Society/The Noble Houses\|The Noble Houses]]

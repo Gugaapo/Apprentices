@@ -21,10 +21,4 @@ The rise of magitech required massive capital investment, leading to the creatio
 
 
 
-## Linked Files
-- [[20_World/Society/Technological Revolution\|Technological Revolution]]
-- [[20_World/Society/The Dungeon Delving Industry\|The Dungeon Delving Industry]]
-- [[60_Items/Materials/Crystalized Mana\|Crystalized Mana]]
-- [[10_System/Glossary/Mana Well\|Mana Well]]
-- [[20_World/Society/The Noble Houses\|The Noble Houses]]
 - [[30_Locations/Cities and Towns/Cyoria\|Cyoria]]

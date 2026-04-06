@@ -27,14 +27,3 @@ Many Noble Houses trace their power to magical bloodlines — inherited abilitie
 
 Houses guard their bloodline secrets jealously. Marrying outside the nobility risks "diluting" the blood, while marrying within risks the problems of a shallow gene pool. The politics of noble marriages are a vicious, multi-generational chess game.
 
-
-
-## Linked Files
-- [[40_People/NPCs/Allies/Zach Noveda\|Zach Noveda]]
-- [[40_People/NPCs/Students/Tinami Aope\|Tinami Aope]]
-- [[Tesen\|Tesen]]
-- [[20_World/Society/The Academy System\|The Academy System]]
-- [[20_World/Society/Spread of Magical Training\|Spread of Magical Training]]
-- [[10_System/Schools/Alteration/Blood Magic\|Blood Magic]]
-- [[20_World/Society/Magic Users of Pre-Ikosian Altazia\|Magic Users of Pre-Ikosian Altazia]]
-- [[20_World/Society/Interspecies Relations\|Interspecies Relations]]

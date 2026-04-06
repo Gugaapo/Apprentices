@@ -25,12 +25,3 @@ Every modern nation on [[30_Locations/Continents/Altazia\|Altazia]] is a cultura
 - **The [[20_World/02 The Imperial Artifacts\|Five Treasures]]:** Forged by the gods and given to the first Emperor. Now scattered across the world.
 - **The [[20_World/Society/The Noble Houses\|House System]]:** Aristocratic lineages tracing their authority back to Ikosian grants of power.
 
-
-
-## Linked Files
-- [[30_Locations/Regions/Xlotic\|Xlotic]]
-- [[30_Locations/Continents/Altazia\|Altazia]]
-- [[30_Locations/Continents/Miasina\|Miasina]]
-- [[20_World/Society/The Noble Houses\|The Noble Houses]]
-- [[20_World/02 The Imperial Artifacts\|02 The Imperial Artifacts]]
-- [[100_sources/Magic Users of Pre-Ikosian Altazia\|Magic Users of Pre-Ikosian Altazia]]

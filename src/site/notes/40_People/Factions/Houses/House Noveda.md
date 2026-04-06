@@ -22,10 +22,3 @@ Because Zach was a minor, the Crown appointed **[[40_People/NPCs/Enemies/Tesen Z
 - Selling priceless heirlooms to associates at suspiciously low prices
 - Giving portions of the stolen wealth to the Crown to secure their silence
 
-
-
-## Linked Files
-- [[40_People/NPCs/Allies/Zach Noveda\|Zach Noveda]]
-- [[40_People/NPCs/Enemies/Tesen Zveri\|Tesen Zveri]]
-- [[20_World/01 Time Loop and The Sovereign Gate\|01 Time Loop and The Sovereign Gate]]
-- [[30_Locations/Countries/Eldemar\|Eldemar]]

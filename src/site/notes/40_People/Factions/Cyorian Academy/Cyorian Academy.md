@@ -15,9 +15,4 @@ The **Cyorian Academy** (formally the Royal Academy of Magical Arts) is located 
 
 
 
-## Linked Files
-- [[20_World/Society/The Academy System\|The Academy System]]
-- [[30_Locations/Cities and Towns/Cyoria\|Cyoria]]
-- [[30_Locations/Countries/Eldemar\|Eldemar]]
-- [[40_People/NPCs/Teachers/Professor Xvim Chao\|Professor Xvim Chao]]
 - [[40_People/NPCs/Teachers/Professor Ilsa Zileti\|Professor Ilsa Zileti]]

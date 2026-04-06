@@ -15,7 +15,4 @@ House Denen was a relatively minor House that suffered catastrophic losses durin
 
 
 
-## Linked Files
-- [[40_People/NPCs/Enemies/Red Robe\|Red Robe]]
-- [[40_People/Factions/Houses/Noble Houses\|Noble Houses]]
 - [[30_Locations/Countries/Eldemar\|Eldemar]]

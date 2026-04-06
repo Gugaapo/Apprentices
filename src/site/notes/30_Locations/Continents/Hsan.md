@@ -17,10 +17,3 @@ Historically a major trading partner of the [[30_Locations/Other/Ikosian Empire\
 
 Hsanic mages utilize a variant of the Ikosian casting system. However, due to centuries of isolation, their training methods and spell repertoire have diverged considerably. Their magical effectiveness is generally considered inferior to that of [[30_Locations/Continents/Altazia\|Altazia]] or [[30_Locations/Continents/Miasina\|Miasina]] — though this may be a product of Altazian arrogance rather than fact. The continent is the subject of wild rumors among western mages.
 
-
-
-## Linked Files
-- [[30_Locations/Continents/Altazia\|Altazia]]
-- [[30_Locations/Other/Ikosian Empire\|Ikosian Empire]]
-- [[100_sources/Immortals\|Immortals]]
-- [[40_People/Immortals/Aidak Cren\|Aidak Cren]]

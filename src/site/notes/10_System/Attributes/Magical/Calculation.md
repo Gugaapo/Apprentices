@@ -14,7 +14,7 @@ Mechanically, Calculation acts as your mental RAM in the fiction. It provides **
 Crucially, it dictates your **Complexity Limit**. While there isn't a hard mathematical cap, if you attempt to weave a formula that is vastly more complex than your Calculation rating logically allows, the GM will mandate that you take immediate **Harm (Neural Strain)** before you even roll. It also determines how many active, sustained spells you can safely juggle narratively before losing focus.
 
 ### Associated Magic Moves
-- **[[10_System/00 Moves/02 Magic Moves#Joint Casting\|Joint Casting]]:** Used when you link your mental Calculation pool with an ally to mathematically combine your limits for an overwhelming spell.
+- **[[10_System/00 Moves/02 Magic Moves#Joint Casting\|Joint Casting]]:** Used when you coordinate your mental Calculation with an ally to provide tactical assistance during a high-complexity spell.
 
 ### Common Uses
 - **Multitasking:** Maintaining an active ward while focusing on other actions.

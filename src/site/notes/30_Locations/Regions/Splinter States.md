@@ -25,13 +25,3 @@ Caught between the massive military and economic might of the "Big Three," the S
 
 Before the Splinter Wars, much of this region was united under the Old Alliance. When [[30_Locations/Countries/Eldemar\|Eldemar]] attempted to aggressively centralize power, constituent states rebelled. The resulting century-long conflict shattered the alliance and gave birth to the fiercely independent nations of the modern era.
 
-
-
-## Linked Files
-- [[30_Locations/Continents/Altazia\|Altazia]]
-- [[30_Locations/Countries/Eldemar\|Eldemar]]
-- [[30_Locations/Countries/Sulamnon\|Sulamnon]]
-- [[30_Locations/Countries/Falkrinea\|Falkrinea]]
-- [[30_Locations/Countries/Abnazia\|Abnazia]]
-- [[30_Locations/Countries/Tetra\|Tetra]]
-- [[20_World/History/Timeline/06 The Splinter Wars\|06 The Splinter Wars]]

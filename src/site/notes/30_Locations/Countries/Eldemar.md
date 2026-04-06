@@ -47,11 +47,4 @@ Eldemar is a **smaller but fiercely nationalistic** monarchy yearning for its fo
 
 ![Eldemar.png](/img/user/zImg/Eldemar.png)
 
-## Linked Files
-- [[30_Locations/Cities and Towns/Cyoria\|Cyoria]]
-- [[30_Locations/Cities and Towns/Korsa\|Korsa]]
-- [[30_Locations/Cities and Towns/Cirin\|Cirin]]
-- [[30_Locations/Cities and Towns/Knyazov Dveri\|Knyazov Dveri]]
-- [[30_Locations/Continents/Altazia\|Altazia]]
-- [[20_World/Society/The Noble Houses\|The Noble Houses]]
 

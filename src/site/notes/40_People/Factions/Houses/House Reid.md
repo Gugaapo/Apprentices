@@ -15,7 +15,4 @@ House Reid is a noble family in [[30_Locations/Cities and Towns/Cyoria\|Cyoria]]
 
 
 
-## Linked Files
-- [[40_People/NPCs/Students/Kopriva Reid\|Kopriva Reid]]
-- [[40_People/Factions/Houses/Noble Houses\|Noble Houses]]
 - [[30_Locations/Cities and Towns/Cyoria\|Cyoria]]
