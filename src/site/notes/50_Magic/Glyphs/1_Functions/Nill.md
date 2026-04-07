@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/50-magic/glyphs/1-functions/nill/","noteIcon":""}
+{"dg-publish":true,"permalink":"/50-magic/glyphs/1-functions/nill/","dgShowBacklinks":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
 
 

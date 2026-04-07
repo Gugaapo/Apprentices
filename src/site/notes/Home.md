@@ -29,12 +29,12 @@ Use the sidebar to browse, or press `Ctrl+K` to search.
 > [!info] Tip
 > Use the sidebar on the left to navigate through the folder structure of the vault.
 
-| File                                                                | Last Modified             |
-| ------------------------------------------------------------------- | ------------------------- |
-| [[00_Meta/Playbooks/00 Playbook Template\|00 Playbook Template]] | 10:25 AM - April 07, 2026 |
-| [[50_Magic/Formulas/Schf Feur Ball\|Schf Feur Ball]]             | 10:14 AM - April 07, 2026 |
-| [[50_Magic/Formulas/Reis Geis Angs\|Reis Geis Angs]]             | 10:14 AM - April 07, 2026 |
-| [[50_Magic/Formulas/Lebe Ding Gehh\|Lebe Ding Gehh]]             | 10:14 AM - April 07, 2026 |
-| [[50_Magic/Formulas/Tusc Klan Irre\|Tusc Klan Irre]]             | 10:14 AM - April 07, 2026 |
+| File                                          | Last Modified             |
+| --------------------------------------------- | ------------------------- |
+| [[50_Magic/Glyphs/4_Modifiers/Zone\|Zone]] | 12:41 PM - April 07, 2026 |
+| [[50_Magic/Glyphs/4_Modifiers/Wolk\|Wolk]] | 12:41 PM - April 07, 2026 |
+| [[50_Magic/Glyphs/4_Modifiers/Wirr\|Wirr]] | 12:41 PM - April 07, 2026 |
+| [[50_Magic/Glyphs/4_Modifiers/Werk\|Werk]] | 12:41 PM - April 07, 2026 |
+| [[50_Magic/Glyphs/4_Modifiers/Weic\|Weic]] | 12:41 PM - April 07, 2026 |
 
 { .block-language-dataview}

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/50-magic/glyphs/4-modifiers/schn/","noteIcon":""}
+{"dg-publish":true,"permalink":"/50-magic/glyphs/4-modifiers/schn/","dgShowBacklinks":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
 
 
