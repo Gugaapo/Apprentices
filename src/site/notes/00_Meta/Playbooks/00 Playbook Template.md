@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/00-meta/playbooks/00-playbook-template/","tags":["rules","character-sheet","playbook"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/00-meta/playbooks/00-playbook-template/","tags":["rules","character-sheet","playbook"],"dgShowBacklinks":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
+
 
 # [Playbook Name]
 

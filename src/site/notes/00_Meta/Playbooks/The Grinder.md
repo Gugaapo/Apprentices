@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-meta/playbooks/the-grinder/","tags":["rules","character-sheet","playbook"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/00-meta/playbooks/the-grinder/","tags":["rules","character-sheet","playbook"],"dgShowBacklinks":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
 ---
 
 # The Grinder
