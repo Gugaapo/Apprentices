@@ -31,10 +31,10 @@ Use the sidebar to browse, or press `Ctrl+K` to search.
 
 | File                                                                                                           | Last Modified            |
 | -------------------------------------------------------------------------------------------------------------- | ------------------------ |
-| [[40_People/Factions/Cyorian Academy/Cyorian Academy\|Cyorian Academy]]                                     | 7:01 PM - April 06, 2026 |
+| [[40_People/Factions/Cyorian Academy/Cyorian Academy\|Cyorian Academy]]                                     | 9:48 AM - April 07, 2026 |
+| [[40_People/Factions/Cyorian Academy/Enrollments/Weekly Schedule\|Weekly Schedule]]                         | 9:46 AM - April 07, 2026 |
 | [[40_People/Factions/Houses/House Noveda\|House Noveda]]                                                    | 7:00 PM - April 06, 2026 |
 | [[gemini-scribe/Agent-Sessions/Troubleshooting ---hidden Tag Syntax\|Troubleshooting ---hidden Tag Syntax]] | 6:55 PM - April 06, 2026 |
 | [[70_Bestiary/Magical_Beasts/Crystal_Ooze\|Crystal_Ooze]]                                                   | 6:55 PM - April 06, 2026 |
-| [[70_Bestiary/Magical_Beasts/Devourer_Mantis\|Devourer_Mantis]]                                             | 6:55 PM - April 06, 2026 |
 
 { .block-language-dataview}

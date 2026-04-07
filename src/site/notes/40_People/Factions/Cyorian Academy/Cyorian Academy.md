@@ -14,5 +14,3 @@
 The **Cyorian Academy** (formally the Royal Academy of Magical Arts) is located in the heart of [[30_Locations/Cities and Towns/Cyoria\|Cyoria]]. It is both a school and a political institution — one of the primary instruments of [[30_Locations/Countries/Eldemar\|Eldemar]]'s state power.
 
 
-
-- [[40_People/NPCs/Teachers/Professor Ilsa Zileti\|Professor Ilsa Zileti]]
