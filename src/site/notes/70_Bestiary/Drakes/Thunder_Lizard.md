@@ -15,15 +15,5 @@ They live in the far north of [[30_Locations/Continents/Altazia\|Altazia]], and 
 Unlike most drakes which breathe fire, they have the ability to emit a bolt of electricity from their mouths, which they use to stun their prey long enough for them to approach and kill them with their massive jaws.
 
 Due to living so far in the north, they rarely have much contact with humans, though [[30_Locations/Other/Ulquaan Ibasa\|Ulquaan Ibasa]] has been known to capture them for use as war beasts.
-:::hidden
-## Fictional Mechanics
-**Resilience:** High (Takes severe or coordinated Wounds to kill)
 
-
-
-## GM Moves
-*(When the players roll a Miss (6-), or look to you to see what happens, use these moves):*
-- **Thunder Breath:** A bolt of electricity from its massive jaws. Inflicts a Combat Wound (Lightning). The target is Paralyzed for 1 round.
-- **Crushing Jaws:** Inflicts a Combat Wound.
-- **Trample Charge:** If it charges in a straight line before attacking, it bowls over everything in its path. Inflicts a Combat Wound and knocks the target Prone. Dodge attempts are made with Disadvantage.
-:::hidden
+hidden

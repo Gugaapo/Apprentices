@@ -16,15 +16,5 @@ Blink Toads are exceptionally large amphibians with specialized, [[10_System/Glo
 ## Lore
 Heavily hunted by human alchemists and mages. Their teleportation organs are highly prized materials used to study spatial magic and craft teleportation wards and items.
 
-:::hidden
-## Fictional Mechanics
-**Resilience:** Low (Fragile, but nearly impossible to pin down.)
 
 
-
-## GM Moves
-*(When the players roll a Miss (6-), or look to you to see what happens, use these moves):*
-- **Blink (Teleportation):** As a reaction to being attacked, the toad instantly teleports up to 10 meters away, completely evading the attack. It simply vanishes — you cannot prevent this without a Dimensional Anchor or ward.
-- **Bite:** Mostly harmless to humans. Inflicts a minor wound at best.
-
-:::

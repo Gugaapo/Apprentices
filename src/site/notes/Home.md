@@ -29,12 +29,12 @@ Use the sidebar to browse, or press `Ctrl+K` to search.
 > [!info] Tip
 > Use the sidebar on the left to navigate through the folder structure of the vault.
 
-| File                                                        | Last Modified            |
-| ----------------------------------------------------------- | ------------------------ |
-| [[70_Bestiary/Undead/Skeleton\|Skeleton]]                | 1:52 PM - April 07, 2026 |
-| [[70_Bestiary/Undead/Zombie\|Zombie]]                    | 1:52 PM - April 07, 2026 |
-| [[70_Bestiary/Sapient_Species/Winter Wolf\|Winter Wolf]] | 1:52 PM - April 07, 2026 |
-| [[70_Bestiary/Sapient_Species/Shifters\|Shifters]]       | 1:52 PM - April 07, 2026 |
-| [[70_Bestiary/Sapient_Species/Sulrothum\|Sulrothum]]     | 1:52 PM - April 07, 2026 |
+| File                                              | Last Modified            |
+| ------------------------------------------------- | ------------------------ |
+| [[70_Bestiary/Undead/Zombie\|Zombie]]          | 2:00 PM - April 07, 2026 |
+| [[70_Bestiary/Undead/Undead\|Undead]]          | 1:59 PM - April 07, 2026 |
+| [[70_Bestiary/Undead/Skeleton\|Skeleton]]      | 1:59 PM - April 07, 2026 |
+| [[70_Bestiary/Spirits/Fey\|Fey]]               | 1:59 PM - April 07, 2026 |
+| [[70_Bestiary/Spirits/Elementals\|Elementals]] | 1:59 PM - April 07, 2026 |
 
 { .block-language-dataview}

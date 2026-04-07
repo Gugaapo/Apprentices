@@ -14,15 +14,6 @@ They primarily feed on fish and other sea creatures, but they have powerful bite
 
 ## Broods
 Sea drakes are very social, with their rocky, sea-beaten nesting sites sporting hundreds, possibly thousands of individuals. However, it often appears the drakes are simply tolerating each other’s presence rather than working together. They hunt alone, though they will work together to defend a nesting site. Because of their lack of impressive magical abilities on land, their usual reaction to an attack is to simply flee into the water (where they are much more dangerous) and wait until the attackers leave.
-:::hidden
-## Fictional Mechanics
-**Resilience:** High (Takes severe or coordinated Wounds to kill)
 
 
 
-## GM Moves
-*(When the players roll a Miss (6-), or look to you to see what happens, use these moves):*
-- **Electric Bite:** Clamp down and channel a devastating shock through the target. Inflicts a Combat Wound. The target is Stunned and cannot act on their next turn.
-- **Aquatic Apex:** In water, the Sea Drake attacks with Advantage. On land, it is sluggish and attacks with Disadvantage.
-
-:::

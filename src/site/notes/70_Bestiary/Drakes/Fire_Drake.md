@@ -15,16 +15,5 @@ Despite their fierce looks and behavior, fire drakes are omnivores and enjoy eat
 Fire drakes are famous for being one of the few drake species successfully domesticated by humans. A mage must soul-bond with a fire drake from a very young age for it to remain controllable by the time it reaches adulthood, and even then they tend to be a little volatile and unpredictable. Their territorial nature makes them ill-suited for cities, so it’s best to keep them in the countryside. Like all magical animals, they require ambient [[10_System/Glossary/mana\|mana]] to survive in, though they can venture out of magical areas for a fairly long time.
 
 Mages that bond with fire drakes are typically part of a family business that revolves around breeding and training them. They are mostly used in warfare as war beasts, though they have suffered quite a bit since the advent of the Splinter Wars and firearms. They are considered obsolete by some, but fortunately for the species, they are still quite numerous in the wild.
-:::hidden
-## Fictional Mechanics
-**Resilience:** High (Takes severe or coordinated Wounds to kill)
 
 
-
-## GM Moves
-*(When the players roll a Miss (6-), or look to you to see what happens, use these moves):*
-- **Fire Breath:** A gout of magical flame in a close cone. Inflicts a Combat Wound (Fire).
-- **Bite/Claws:** Inflicts a Combat Wound.
-- **Pack Tactics:** When an allied drake is engaged with the same target, the Fire Drake attacks with Advantage.
-
-:::

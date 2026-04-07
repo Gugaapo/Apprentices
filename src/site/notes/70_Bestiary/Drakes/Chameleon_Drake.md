@@ -16,16 +16,5 @@ They have no magical breath weapon, but they do have spear-like tongues that can
 Chameleon drakes live deep into the jungles of [[30_Locations/Regions/Koth\|Koth]] and [[30_Locations/Continents/Blantyrre\|Blantyrre]], and thus rarely come into contact with humans, but when they do they have no compunctions about hunting them. Their large size and ability to camouflage themselves mean most people die without even realizing what they were dealing with.
 
 They are highly intelligent and social, and typically hunt in groups. However, it is not unusual to encounter solitary individuals, as they fight each other a lot and losers (often males) tend to be forced out. These lone drakes can get desperate and venture into human lands in search of easier prey.
-:::hidden
-## Fictional Mechanics
-**Resilience:** High (Takes severe or coordinated Wounds to kill)
 
 
-
-## GM Moves
-*(When the players roll a Miss (6-), or look to you to see what happens, use these moves):*
-- **Spear-Tongue:** A piercing tongue strike from up to 10 meters away. Inflicts a Combat Wound.
-- **Perfect Camouflage:** The drake becomes functionally invisible. Attacks from this invisibility deny the target any chance to defend — the GM simply inflicts a Combat Wound.
-- **360-Degree Vision:** The drake cannot be flanked or surprised. Ambush tactics are ineffective.
-
-:::
