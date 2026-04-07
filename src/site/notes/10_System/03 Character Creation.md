@@ -106,7 +106,7 @@ Select one of the four Core Playbooks. Each playbook file contains everything yo
 - **[[00_Meta/Playbooks/The Prodigy\|The Prodigy]]:** Terrifying raw intuition, but lacks control and discipline.
 - **[[00_Meta/Playbooks/The Tinkerer\|The Tinkerer]]:** Relies heavily on crafted gear, alchemy, and artifice.
 
-*(Note: As you grow, you will be able to take Moves from other sources, including learning them from teachers in the loop).*
+*(Note: As you grow, you will be able to take Moves from other sources, including learning them from teachers).*
 
 ## Step 3: Attributes
 Your character has 7 core Attributes. If you choose a Playbook, your array is already provided. If you are building from scratch, use the following:

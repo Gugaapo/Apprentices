@@ -29,12 +29,12 @@ Use the sidebar to browse, or press `Ctrl+K` to search.
 > [!info] Tip
 > Use the sidebar on the left to navigate through the folder structure of the vault.
 
-| File                                                                                                           | Last Modified            |
-| -------------------------------------------------------------------------------------------------------------- | ------------------------ |
-| [[40_People/Factions/Cyorian Academy/Cyorian Academy\|Cyorian Academy]]                                     | 9:48 AM - April 07, 2026 |
-| [[40_People/Factions/Cyorian Academy/Enrollments/Weekly Schedule\|Weekly Schedule]]                         | 9:46 AM - April 07, 2026 |
-| [[40_People/Factions/Houses/House Noveda\|House Noveda]]                                                    | 7:00 PM - April 06, 2026 |
-| [[gemini-scribe/Agent-Sessions/Troubleshooting ---hidden Tag Syntax\|Troubleshooting ---hidden Tag Syntax]] | 6:55 PM - April 06, 2026 |
-| [[70_Bestiary/Magical_Beasts/Crystal_Ooze\|Crystal_Ooze]]                                                   | 6:55 PM - April 06, 2026 |
+| File                                                                                   | Last Modified            |
+| -------------------------------------------------------------------------------------- | ------------------------ |
+| [[30_Locations/Other/Dungeon\|Dungeon]]                                             | 9:51 AM - April 07, 2026 |
+| [[30_Locations/Cities and Towns/Cyoria\|Cyoria]]                                    | 9:50 AM - April 07, 2026 |
+| [[10_System/03 Character Creation\|03 Character Creation]]                          | 9:49 AM - April 07, 2026 |
+| [[40_People/Factions/Cyorian Academy/Cyorian Academy\|Cyorian Academy]]             | 9:48 AM - April 07, 2026 |
+| [[40_People/Factions/Cyorian Academy/Enrollments/Weekly Schedule\|Weekly Schedule]] | 9:46 AM - April 07, 2026 |
 
 { .block-language-dataview}

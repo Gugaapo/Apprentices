@@ -31,7 +31,8 @@ The kingdom's intellectual heart. An elite institution for third and fourth-year
 A massive circular chasm on the city's west side — the most obvious [[30_Locations/Other/Dungeon\|Dungeon]] entrance ever and the only known Rank 9 [[10_System/Glossary/Mana Well\|Mana Well]]. The sheer magnitude of magical energy bleeding from its depths powers the city's entire infrastructure. See dedicated entry: [[30_Locations/Other/The Hole\|The Hole]].
 
 ### The Dungeon (Beneath Cyoria)
-The vast subterranean world extends far below the city. The upper levels are exploited by delvers for [[60_Items/Materials/Crystalized Mana\|Crystalized Mana]] and monster parts. The middle levels are home to the [[70_Bestiary/Sapient_Species/Aranea\|Aranea]] webs. The deepest levels contain ancient planar seals — and the [[20_World/01 Time Loop and The Sovereign Gate\|Sovereign Gate]]. See: [[30_Locations/Other/Dungeon\|Dungeon]].
+The vast subterranean world extends far below the city. The upper levels are exploited by delvers for [[60_Items/Materials/Crystalized Mana\|Crystalized Mana]] and monster parts. 
+
 
 ### Noble Districts
 The city houses the headquarters of several powerful [[20_World/Society/The Noble Houses\|Noble Houses]]:
@@ -39,11 +40,10 @@ The city houses the headquarters of several powerful [[20_World/Society/The Nobl
 - **House Aope** — Progressive, politically savvy. Led by the heir **[[40_People/NPCs/Students/Tinami Aope\|Tinami Aope]]**.
 
 ### The Train Station
-Cyoria is a major hub on the continental rail network — the primary way students and travelers arrive from across [[30_Locations/Countries/Eldemar\|Eldemar]]. The players ride the train into Cyoria at the start of every loop.
+Cyoria is a major hub on the continental rail network — the primary way students and travelers arrive from across [[30_Locations/Countries/Eldemar\|Eldemar]].
 
 ### Imaya's Boarding House
 A private student boarding house run by **Imaya Kuroshka**, where many academy students (including the players) reside. A warm, safe hub that serves as the players' home base each iteration.
 
 
 
-- [[20_World/Society/The Noble Houses\|The Noble Houses]]

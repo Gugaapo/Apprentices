@@ -45,5 +45,3 @@ The Dungeon is vital for the modern economy — it is the only source of **[[60_
 While it is theoretically possible to travel through the Dungeon to bypass surface obstacles, it is **extremely dangerous**. Surface sections are poorly connected, forcing travelers into the lethal Middle Layer. Progress is slow, ambushes are frequent, and dungeon creature flesh is highly magical and toxic to humans, requiring travelers to bring their own food. No one has ever successfully crossed an ocean through the Dungeon.
 
 
-
-- [[20_World/01 Time Loop and The Sovereign Gate\|01 Time Loop and The Sovereign Gate]]
