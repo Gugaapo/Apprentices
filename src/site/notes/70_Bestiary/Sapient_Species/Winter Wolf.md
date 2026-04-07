@@ -5,7 +5,6 @@
 # Winter Wolf
 
 **Category:** Sentient Magical Beast / Canine
-**Tags:** [Solitary], [Terrifying], [Sentient Magical Beast]
 
 ## Description
 Giant, highly intelligent wolves with thick, frost-covered white or silver fur.

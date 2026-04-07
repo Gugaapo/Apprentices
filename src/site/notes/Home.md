@@ -29,12 +29,12 @@ Use the sidebar to browse, or press `Ctrl+K` to search.
 > [!info] Tip
 > Use the sidebar on the left to navigate through the folder structure of the vault.
 
-| File                                                                                   | Last Modified            |
-| -------------------------------------------------------------------------------------- | ------------------------ |
-| [[gemini-scribe/AGENTS\|AGENTS]]                                                    | 2:07 PM - April 07, 2026 |
-| [[gemini-scribe/Agent-Sessions/Agent Session 07-04-2026\|Agent Session 07-04-2026]] | 2:03 PM - April 07, 2026 |
-| [[70_Bestiary/Undead/Zombie\|Zombie]]                                               | 2:00 PM - April 07, 2026 |
-| [[70_Bestiary/Undead/Undead\|Undead]]                                               | 1:59 PM - April 07, 2026 |
-| [[70_Bestiary/Undead/Skeleton\|Skeleton]]                                           | 1:59 PM - April 07, 2026 |
+| File                                                        | Last Modified            |
+| ----------------------------------------------------------- | ------------------------ |
+| [[70_Bestiary/Undead/Skeleton\|Skeleton]]                | 2:12 PM - April 07, 2026 |
+| [[70_Bestiary/Undead/Undead\|Undead]]                    | 2:12 PM - April 07, 2026 |
+| [[70_Bestiary/Undead/Zombie\|Zombie]]                    | 2:12 PM - April 07, 2026 |
+| [[70_Bestiary/Sapient_Species/Winter Wolf\|Winter Wolf]] | 2:12 PM - April 07, 2026 |
+| [[70_Bestiary/Magical_Beasts/Troll\|Troll]]              | 2:12 PM - April 07, 2026 |
 
 { .block-language-dataview}
