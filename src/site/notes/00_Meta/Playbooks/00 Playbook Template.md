@@ -4,7 +4,7 @@
 
 # [Playbook Name]
 
-*A brief description of this character archetype and their role in the loop.*
+*A brief description of this character archetype and their role in the Apprentices.*
 
 ---
 
