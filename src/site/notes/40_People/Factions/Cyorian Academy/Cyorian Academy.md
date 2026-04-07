@@ -7,7 +7,7 @@
 
 > - **What it is:** The Royal Academy of Magical Arts — the most prestigious magical institution in [[30_Locations/Countries/Eldemar\|Eldemar]] and the players' home base.
 > - **What it does:** Trains mages from age ~15 in a multi-year curriculum. Its graduates form the backbone of Eldemar's military and bureaucratic mage corps.
-> - **Why it matters:** Every loop starts here. Classes, mentors, and social life form the backdrop of the first week of each restart.
+> - **Why it matters:** It's where most of the campaign happens
 
 ## Description
 

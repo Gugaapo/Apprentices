@@ -7,7 +7,7 @@
 
 > - **What it was:** A military noble house deeply tied to the Crown — fierce, traditional, and honorable.
 > - **What happened:** Decimated by the [[20_World/History/Timeline/06 The Splinter Wars\|Splinter Wars]], then wiped out by [[20_World/History/Timeline/07 The Weeping\|The Weeping]]. Only [[40_People/NPCs/Allies/Zach Noveda\|Zach]] survives.
-> - **Why it matters:** Zach's heritage connects him to the [[20_World/01 Time Loop and The Sovereign Gate\|Sovereign Gate]] — the Noveda family heirloom that enables the time loop.
+> - **Why it matters:** It's the house of [[40_People/NPCs/Allies/Zach Noveda\|Zach Noveda]]
 
 ## History
 
