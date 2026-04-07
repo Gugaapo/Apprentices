@@ -29,12 +29,12 @@ Use the sidebar to browse, or press `Ctrl+K` to search.
 > [!info] Tip
 > Use the sidebar on the left to navigate through the folder structure of the vault.
 
-| File                                                | Last Modified            |
-| --------------------------------------------------- | ------------------------ |
-| [[00_Meta/Playbooks/The Tinkerer\|The Tinkerer]] | 1:47 PM - April 07, 2026 |
-| [[00_Meta/Playbooks/The Prodigy\|The Prodigy]]   | 1:47 PM - April 07, 2026 |
-| [[00_Meta/Playbooks/The Grinder\|The Grinder]]   | 1:47 PM - April 07, 2026 |
-| [[00_Meta/Playbooks/The Heir\|The Heir]]         | 1:47 PM - April 07, 2026 |
-| [[TODO\|TODO]]                                   | 1:43 PM - April 07, 2026 |
+| File                                                        | Last Modified            |
+| ----------------------------------------------------------- | ------------------------ |
+| [[70_Bestiary/Undead/Skeleton\|Skeleton]]                | 1:52 PM - April 07, 2026 |
+| [[70_Bestiary/Undead/Zombie\|Zombie]]                    | 1:52 PM - April 07, 2026 |
+| [[70_Bestiary/Sapient_Species/Winter Wolf\|Winter Wolf]] | 1:52 PM - April 07, 2026 |
+| [[70_Bestiary/Sapient_Species/Shifters\|Shifters]]       | 1:52 PM - April 07, 2026 |
+| [[70_Bestiary/Sapient_Species/Sulrothum\|Sulrothum]]     | 1:52 PM - April 07, 2026 |
 
 { .block-language-dataview}

@@ -26,4 +26,5 @@ Mages that bond with fire drakes are typically part of a family business that re
 - **Fire Breath:** A gout of magical flame in a close cone. Inflicts a Combat Wound (Fire).
 - **Bite/Claws:** Inflicts a Combat Wound.
 - **Pack Tactics:** When an allied drake is engaged with the same target, the Fire Drake attacks with Advantage.
+
 :::

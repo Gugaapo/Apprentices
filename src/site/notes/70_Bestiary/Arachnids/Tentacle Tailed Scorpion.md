@@ -27,4 +27,5 @@ A highly dangerous predator in the [[30_Locations/Other/Dungeon\|Dungeon]].
 - **Pincer Crush:** Inflicts a Combat Wound. On a hard hit, the target is Grappled and cannot move.
 - **Tentacle Sting:** Lash out with the venomous tail. Inflicts a Combat Wound. Can automatically strike a Grappled target.
 - **Neurotoxin:** A target stung must resist the venom or suffer Disadvantage on all Physical and Mental rolls for the rest of the scene until treated with Medical Magic.
+
 :::

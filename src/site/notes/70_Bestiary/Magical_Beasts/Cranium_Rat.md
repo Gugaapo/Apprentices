@@ -27,4 +27,5 @@ Often found infesting the upper layers of the [[30_Locations/Other/Dungeon\|Dung
 - **Swarm Bite:** The skittering mass overwhelms a target. Inflicts a Combat Wound.
 - **Hive-Mind Assault:** A large swarm can project Mind Magic — mental blasts, terrifying illusions, or psychic static. As the swarm thins, this power weakens proportionally.
 - **Telepathic Network:** The swarm shares a collective awareness. It cannot be flanked or surprised while multiple rats remain alive.
+
 :::

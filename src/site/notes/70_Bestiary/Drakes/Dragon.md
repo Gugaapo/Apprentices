@@ -29,4 +29,5 @@ Highly intelligent, notoriously arrogant, and deeply greedy, dragons are solitar
 - **Breath Weapon (Mana/Elemental):** The Dragon unleashes a Miracle-tier torrent of elemental fury across a massive cone. All targets in the area suffer a Combat Wound. Characters who attempt to dodge roll with Disadvantage.
 - **Near-Total Magic Immunity:** Standard and Complex spells simply dissipate against the Dragon's scales. Only Miracle-tier magic has any hope of affecting it directly.
 - **Aura of Terror:** Any character entering the Dragon's presence must immediately roll **Resist Erosion** or suffer Disadvantage on all actions for the rest of the scene from sheer primal dread.
+
 :::

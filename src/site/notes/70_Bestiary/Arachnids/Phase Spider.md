@@ -27,4 +27,5 @@ A highly dangerous ambush predator. Their silk is heavily sought after by mages 
 - **Phase Bite:** Inflicts a Combat Wound.
 - **Ethereal Shift:** The Phase Spider exists partially in the ethereal plane. It can shift entirely into the ethereal plane as a free action, becoming immune to physical and most magical attacks. It must materialize to attack.
 - **Ward Bypass:** Because it travels ethereally, it ignores standard physical barriers and most conventional wards unless they specifically block dimensional travel or ethereal entities.
+
 :::
