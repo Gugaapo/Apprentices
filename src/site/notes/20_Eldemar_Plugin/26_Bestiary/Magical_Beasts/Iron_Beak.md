@@ -26,5 +26,4 @@ A dangerous aerial predator, occasionally tamed or hunted for its valuable beak.
 - **Piercing Dive:** The Iron Beak dives from the sky with its razor-sharp metallic beak. Inflicts a Combat Wound. This attack pierces through armor as if it weren't there.
 - **Flock Tactics:** If 3 or more Iron Beaks attack the same target, they coordinate into a devastating swarm — inflicting multiple Combat Wounds and overwhelming any defense.
 
-
 :::

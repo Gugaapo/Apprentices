@@ -17,6 +17,7 @@ A bizarre and highly lethal creature of the deep [[20_Eldemar_Plugin/22_Location
 
 
 :::hidden
+
 ## Fictional Mechanics
 **Resilience:** High (Takes severe or coordinated Wounds to kill)
 
@@ -27,6 +28,5 @@ A bizarre and highly lethal creature of the deep [[20_Eldemar_Plugin/22_Location
   - *Searing Ray:* Inflicts a Combat Wound (Fire).
   - *Disorienting Ray:* The target suffers Disadvantage on all rolls until the end of their next turn.
 - **360-Degree Vision:** The Eyebeast cannot be flanked or surprised.
-
 
 :::

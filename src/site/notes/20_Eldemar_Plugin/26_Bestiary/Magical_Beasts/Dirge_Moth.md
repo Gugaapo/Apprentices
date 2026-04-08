@@ -17,6 +17,7 @@ Often encountered in swarms or near high-[[10_System/Glossary/mana\|mana]] flora
 
 
 :::hidden
+
 ## Fictional Mechanics
 **Resilience:** High (Takes severe or coordinated Wounds to kill)
 

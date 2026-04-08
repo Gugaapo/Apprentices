@@ -29,12 +29,12 @@ Use the sidebar to browse, or press `Ctrl+K` to search.
 > [!info] Tip
 > Use the sidebar on the left to navigate through the folder structure of the vault.
 
-| File                                                                                | Last Modified             |
-| ----------------------------------------------------------------------------------- | ------------------------- |
-| [[gemini-scribe/AGENTS\|AGENTS]]                                                 | 1:09 PM - April 08, 2026  |
-| [[10_System/Glossary/Mind Defense\|Mind Defense]]                                | 12:18 PM - April 08, 2026 |
-| [[00_Meta/Playbooks/The Heir\|The Heir]]                                         | 12:18 PM - April 08, 2026 |
-| [[00_Meta/Playbooks/00 Playbook Template\|00 Playbook Template]]                 | 12:18 PM - April 08, 2026 |
-| [[20_Eldemar_Plugin/00 Eldemar Integration Guide\|00 Eldemar Integration Guide]] | 12:17 PM - April 08, 2026 |
+| File                                                                                 | Last Modified            |
+| ------------------------------------------------------------------------------------ | ------------------------ |
+| [[20_Eldemar_Plugin/26_Bestiary/Undead/Skeleton\|Skeleton]]                       | 1:27 PM - April 08, 2026 |
+| [[20_Eldemar_Plugin/26_Bestiary/Magical_Beasts/Hook_Goblin\|Hook_Goblin]]         | 1:27 PM - April 08, 2026 |
+| [[20_Eldemar_Plugin/26_Bestiary/Magical_Beasts/Iron_Beak\|Iron_Beak]]             | 1:27 PM - April 08, 2026 |
+| [[20_Eldemar_Plugin/26_Bestiary/Magical_Beasts/Devourer_Mantis\|Devourer_Mantis]] | 1:27 PM - April 08, 2026 |
+| [[20_Eldemar_Plugin/26_Bestiary/Magical_Beasts/Dirge_Moth\|Dirge_Moth]]           | 1:27 PM - April 08, 2026 |
 
 { .block-language-dataview}

@@ -19,7 +19,6 @@ Created through illegal necromancy—a dark combination of [[10_System/Schools/S
 
 :::hidden
 
-
 ## Fictional Mechanics
 **Resilience:** High (Takes severe or coordinated Wounds to kill)
 
@@ -30,6 +29,5 @@ Created through illegal necromancy—a dark combination of [[10_System/Schools/S
 *(When the players roll a Miss (6-), or look to you to see what happens, use these moves):*
 - **Rusty Weapon / Claws:** Inflicts a Combat Wound.
 - **Tireless:** Immune to exhaustion, poison, and disease. Never suffers wound penalties until destroyed.
-
 
 :::

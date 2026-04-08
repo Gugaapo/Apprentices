@@ -17,6 +17,7 @@ Often found infesting the upper layers of the [[20_Eldemar_Plugin/22_Locations/O
 
 
 :::hidden
+
 ## Fictional Mechanics
 **Resilience:** High (Takes severe or coordinated Wounds to kill)
 

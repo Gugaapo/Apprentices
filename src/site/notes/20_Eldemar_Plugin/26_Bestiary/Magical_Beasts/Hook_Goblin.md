@@ -27,5 +27,4 @@ They roam the [[20_Eldemar_Plugin/22_Locations/Other/Dungeon\|Dungeon]] in scout
 - **Pack Tactics:** When another Hook Goblin is engaged with the same target, they attack with Advantage.
 - **Scavenger's Escape:** When injured, the goblin immediately scrambles away to safety, repositioning without exposing itself to further harm.
 
-
 :::

@@ -27,5 +27,4 @@ A dangerous ambush predator found in the [[20_Eldemar_Plugin/22_Locations/Other/
 - **Devour:** If the target is Prone or Grappled, the Mantis bites deep, inflicting an additional Combat Wound and healing itself.
 - **Ambush Predator:** The Mantis attacks from concealment with Advantage.
 
-
 :::

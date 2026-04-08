@@ -16,6 +16,7 @@ Its traditional stinger is replaced or supplemented by a prehensile, venomous te
 A highly dangerous predator in the [[20_Eldemar_Plugin/22_Locations/Other/Dungeon\|Dungeon]].
 
 :::hidden
+
 ## Fictional Mechanics
 **Resilience:** High (Takes severe or coordinated Wounds to kill)
 
@@ -26,6 +27,5 @@ A highly dangerous predator in the [[20_Eldemar_Plugin/22_Locations/Other/Dungeo
 - **Pincer Crush:** Inflicts a Combat Wound. On a hard hit, the target is Grappled and cannot move.
 - **Tentacle Sting:** Lash out with the venomous tail. Inflicts a Combat Wound. Can automatically strike a Grappled target.
 - **Neurotoxin:** A target stung must resist the venom or suffer Disadvantage on all Physical and Mental rolls for the rest of the scene until treated with Medical Magic.
-
 
 :::
