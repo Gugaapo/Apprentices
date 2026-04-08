@@ -40,19 +40,4 @@ Despite their wasp-like appearance, Sulrothum **do not** possess stingers. They 
 - **Non-Hive:** Despite being giant insects, they are emphatically *not* a hive mind. They are highly individualistic, though intensely loyal to their tribes and religious taboos.
 
 ---
-:::hidden
 
-## Capabilities & Magic
-
-- **Physical Prowess:** Their chitin makes them extraordinarily tough, and their physical strength allows them to overpower humans easily in melee.
-- **Soul Mages:** Sulrothum have a strong tradition of shamanistic magic, particularly mind defenses, protective wards, and potent Soul Magic. 
-- **Beast Taming:** Advanced tribes, such as the one holding the [[20_Eldemar_Plugin/22_Locations/Other/Ziggurat of the Sun\|Ziggurat of the Sun]], have mentally dominated massive, flight-capable sandworms that possess natural psychic immunities. 
-
----
-
-## Campaign Notes
-
-- Seen primarily as dangerous desert raiders by [[20_Eldemar_Plugin/22_Locations/Countries/Eldemar\|Eldemar]] humans, though they can be traded with if a party respects their religious taboos.
-- A major obstacle for players attempting to explore the deep desert of [[20_Eldemar_Plugin/22_Locations/Regions/Xlotic\|Xlotic]] or retrieve the Imperial Ring from the Ziggurat of the Sun. They are resistant to normal mental magic due to "divine favor" (or extremely well-trained tribal mind-defenses).
-
-:::
