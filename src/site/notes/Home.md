@@ -31,10 +31,10 @@ Use the sidebar to browse, or press `Ctrl+K` to search.
 
 | File                                                                                | Last Modified             |
 | ----------------------------------------------------------------------------------- | ------------------------- |
+| [[gemini-scribe/AGENTS\|AGENTS]]                                                 | 1:09 PM - April 08, 2026  |
 | [[10_System/Glossary/Mind Defense\|Mind Defense]]                                | 12:18 PM - April 08, 2026 |
 | [[00_Meta/Playbooks/The Heir\|The Heir]]                                         | 12:18 PM - April 08, 2026 |
 | [[00_Meta/Playbooks/00 Playbook Template\|00 Playbook Template]]                 | 12:18 PM - April 08, 2026 |
 | [[20_Eldemar_Plugin/00 Eldemar Integration Guide\|00 Eldemar Integration Guide]] | 12:17 PM - April 08, 2026 |
-| [[10_System/10 Apprentices SRD\|10 Apprentices SRD]]                             | 12:17 PM - April 08, 2026 |
 
 { .block-language-dataview}
