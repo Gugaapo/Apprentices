@@ -22,7 +22,7 @@ When you hold `Scrying` in your Grimoire, you have specific fictional positionin
 
 ## The Core Matrix
 Unlocking this knowledge grants you structural mastery of the following base Glyphs to use during *Shape the Matrix*:
-**Vocabulary:** **Scrying**   : [[50_Magic/Glyphs/3_Characteristics/Bild\|Bild]] (Image/Vision), [[50_Magic/Glyphs/1_Functions/Auge\|Auge]] (Eye/Sensor)
+**Vocabulary:** **Scrying**   : [[10_System/Magic Compendium/Glyphs/3_Characteristics/Bild\|Bild]] (Image/Vision), [[10_System/Magic Compendium/Glyphs/1_Functions/Auge\|Auge]] (Eye/Sensor)
 
 ## Geometric Scaling (Mana Track Box Costs)
 When determining the cost of a spell, the GM uses this scale:

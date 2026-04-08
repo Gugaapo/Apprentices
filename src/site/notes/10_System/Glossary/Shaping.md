@@ -6,7 +6,7 @@
 
 **Shaping** is the fundamental act of magic. The term originates from the physical process of casting: a mage must first be able to feel and control the **[[10_System/Glossary/mana\|mana]]** that permeates the atmosphere (much like nitrogen or oxygen). To cast a spell, the mage "shapes" this ambient energy into invisible **canals** that guide and transform the raw power. These canals form the structural matrix of a spell.
 
-Mechanically, **Shaping Skills** represent a mage's fluency with these canal structures. They are the foundational [[10_System/Glossary/mana\|mana]] manipulation exercises required before a mage can cast actual spells. Every branch of magic (like [[10_System/Schools/Projection/Evocation\|Evocation]] or [[40_People/Factions/Cyorian Academy/Classes/Dimensionalism Class\|Dimensionalism Class]]) has its own unique shaping exercises to master. 
+Mechanically, **Shaping Skills** represent a mage's fluency with these canal structures. They are the foundational [[10_System/Glossary/mana\|mana]] manipulation exercises required before a mage can cast actual spells. Every branch of magic (like [[10_System/Schools/Projection/Evocation\|Evocation]] or [[20_Eldemar_Plugin/23_People/Factions/Cyorian Academy/Classes/Dimensionalism Class\|Dimensionalism Class]]) has its own unique shaping exercises to master. 
 
 ### Unstructured vs. Structured Shaping
 The difference between types of magic lies in the precision of the canals:

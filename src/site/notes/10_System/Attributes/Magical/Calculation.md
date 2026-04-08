@@ -14,7 +14,7 @@ Mechanically, Calculation acts as your mental RAM in the fiction. It provides **
 Crucially, it determines your **Matrix Strain Threshold**. Your Calculation rating is your comfort limit for concurrent tags. If you weave more tags than your rating allows, you are "Pushing the Matrix." The GM will inform you that on a mixed success (7-9), you will be forced to make a hard choice: either permanently drop one of the tags from the effect, or suffer 1-Wound of **Soul Strain** to force it all through. It also determines how many active, sustained spells you can safely juggle narratively before losing focus.
 
 ### Associated Magic Moves
-- **[[10_System/00 Moves/02 Magic Moves#Joint Casting\|Joint Casting]]:** Used when you coordinate your mental Calculation with an ally to provide tactical assistance during a high-complexity spell.
+- **[[10_System/Moves/02 Magic Moves#Joint Casting\|Joint Casting]]:** Used when you coordinate your mental Calculation with an ally to provide tactical assistance during a high-complexity spell.
 
 ### Common Uses
 - **Multitasking:** Maintaining an active ward while focusing on other actions.

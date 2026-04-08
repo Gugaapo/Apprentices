@@ -29,7 +29,7 @@ When you hold `Dimensionalism` in your Grimoire, you have specific fictional pos
 
 ## The Core Matrix
 Unlocking this knowledge grants you structural mastery of the following base Glyphs to use during *Shape the Matrix*:
-**Vocabulary:** [[50_Magic/Glyphs/1_Functions/Bewg\|Bewg]] (Displace), [[50_Magic/Glyphs/3_Characteristics/Tohr\|Tohr]] (Gateway), [[50_Magic/Glyphs/3_Characteristics/Raum\|Raum]] (Space), [[Dist\|Dist]] (Distance)
+**Vocabulary:** [[10_System/Magic Compendium/Glyphs/1_Functions/Bewg\|Bewg]] (Displace), [[10_System/Magic Compendium/Glyphs/3_Characteristics/Tohr\|Tohr]] (Gateway), [[10_System/Magic Compendium/Glyphs/3_Characteristics/Raum\|Raum]] (Space), [[Dist\|Dist]] (Distance)
 
 > [!NOTE] Rumored Wild Glyphs
 > Extreme manifestations of Dimensionalism—such as [[Dime\|Dime]] (Pocket Dimension), [[Riss\|Riss]] (Dimensional Tear)—cannot be learned academically. They are Wild Glyphs that must be discovered in the world.
@@ -44,9 +44,9 @@ When determining the cost of a spell, the GM uses this scale:
 
 ## Specializations
 Unlocking these sub-matrices gives you immediate access to their advanced vocabulary:
-- **[[10_System/Schools/Dimensionalism/Teleportation\|Teleportation]]:** [[50_Magic/Glyphs/4_Modifiers/Flhh\|Flhh]] (Blink/Flee), [[50_Magic/Glyphs/4_Modifiers/Ich\|Ich]] (Self)
-- **[[10_System/Schools/Dimensionalism/Summoning\|Summoning]]:** [[50_Magic/Glyphs/1_Functions/Ruff\|Ruff]] (Summon), [[50_Magic/Glyphs/2_Objects/Wese\|Wese]] (Creature)
-- **[[10_System/Schools/Dimensionalism/Conjuration\|Conjuration]]:** [[50_Magic/Glyphs/2_Objects/Ding\|Ding]] (Object), [[50_Magic/Glyphs/2_Objects/Waff\|Waff]] (Weapon)
-- **[[Spatial Storage\|Spatial Storage]]:** [[50_Magic/Glyphs/3_Characteristics/Lagr\|Lagr]] (Pocket Dimension), [[50_Magic/Glyphs/1_Functions/Holn\|Holn]] (Fetch/Retrieve)
+- **[[10_System/Schools/Dimensionalism/Teleportation\|Teleportation]]:** [[10_System/Magic Compendium/Glyphs/4_Modifiers/Flhh\|Flhh]] (Blink/Flee), [[10_System/Magic Compendium/Glyphs/4_Modifiers/Ich\|Ich]] (Self)
+- **[[10_System/Schools/Dimensionalism/Summoning\|Summoning]]:** [[10_System/Magic Compendium/Glyphs/1_Functions/Ruff\|Ruff]] (Summon), [[10_System/Magic Compendium/Glyphs/2_Objects/Wese\|Wese]] (Creature)
+- **[[10_System/Schools/Dimensionalism/Conjuration\|Conjuration]]:** [[10_System/Magic Compendium/Glyphs/2_Objects/Ding\|Ding]] (Object), [[10_System/Magic Compendium/Glyphs/2_Objects/Waff\|Waff]] (Weapon)
+- **[[Spatial Storage\|Spatial Storage]]:** [[10_System/Magic Compendium/Glyphs/3_Characteristics/Lagr\|Lagr]] (Pocket Dimension), [[10_System/Magic Compendium/Glyphs/1_Functions/Holn\|Holn]] (Fetch/Retrieve)
 
 *(For detailed sensory information and theoretical deep-dives, refer to [[10_System/Schools/Schools Lore\|Schools Lore]])*

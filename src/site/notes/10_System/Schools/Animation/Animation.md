@@ -27,10 +27,10 @@ When you hold `Animation` in your Grimoire, you have specific fictional position
 
 ## The Core Matrix
 Unlocking this knowledge grants you structural mastery of the following base Glyphs to use during *Shape the Matrix*:
-**Vocabulary:** [[50_Magic/Glyphs/1_Functions/Lebe\|Lebe]] (Animate), [[50_Magic/Glyphs/2_Objects/Ding\|Ding]] (Object), [[50_Magic/Glyphs/4_Modifiers/Gehh\|Gehh]] (Walk/Move)
+**Vocabulary:** [[10_System/Magic Compendium/Glyphs/1_Functions/Lebe\|Lebe]] (Animate), [[10_System/Magic Compendium/Glyphs/2_Objects/Ding\|Ding]] (Object), [[10_System/Magic Compendium/Glyphs/4_Modifiers/Gehh\|Gehh]] (Walk/Move)
 
 > [!NOTE] Rumored Wild Glyphs
-> Extreme manifestations of Animation—such as [[50_Magic/Glyphs/2_Objects/Seel\|Seel]] (False Soul), [[Geda\|Geda]] (Independence)—cannot be learned academically. They are Wild Glyphs that must be discovered in the world.
+> Extreme manifestations of Animation—such as [[10_System/Magic Compendium/Glyphs/2_Objects/Seel\|Seel]] (False Soul), [[Geda\|Geda]] (Independence)—cannot be learned academically. They are Wild Glyphs that must be discovered in the world.
 
 ## Geometric Scaling (Mana Track Box Costs)
 When determining the cost of a spell, the GM uses this scale:
@@ -42,7 +42,7 @@ When determining the cost of a spell, the GM uses this scale:
 
 ## Specializations
 Unlocking these sub-matrices gives you immediate access to their advanced vocabulary:
-- **[[10_System/Schools/Animation/Golemancy\|Golemancy]]:** [[50_Magic/Glyphs/3_Characteristics/Baut\|Baut]] (Construct/Statue), [[50_Magic/Glyphs/4_Modifiers/Wach\|Wach]] (Guard)
-- **[[10_System/Schools/Animation/Necromancy\|Necromancy]]:** [[50_Magic/Glyphs/3_Characteristics/Leic\|Leic]] (Corpse), [[50_Magic/Glyphs/2_Objects/Knoc\|Knoc]] (Bone), [[50_Magic/Glyphs/4_Modifiers/Hord\|Hord]] (Swarm/Many)
+- **[[10_System/Schools/Animation/Golemancy\|Golemancy]]:** [[10_System/Magic Compendium/Glyphs/3_Characteristics/Baut\|Baut]] (Construct/Statue), [[10_System/Magic Compendium/Glyphs/4_Modifiers/Wach\|Wach]] (Guard)
+- **[[10_System/Schools/Animation/Necromancy\|Necromancy]]:** [[10_System/Magic Compendium/Glyphs/3_Characteristics/Leic\|Leic]] (Corpse), [[10_System/Magic Compendium/Glyphs/2_Objects/Knoc\|Knoc]] (Bone), [[10_System/Magic Compendium/Glyphs/4_Modifiers/Hord\|Hord]] (Swarm/Many)
 
 *(For detailed sensory information and theoretical deep-dives, refer to [[10_System/Schools/Schools Lore\|Schools Lore]])*

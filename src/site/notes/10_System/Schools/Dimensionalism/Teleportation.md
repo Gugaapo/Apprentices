@@ -21,7 +21,7 @@ When you hold `Teleportation` in your Grimoire, you have specific fictional posi
 
 ## The Core Matrix
 Unlocking this knowledge grants you structural mastery of the following base Glyphs to use during *Shape the Matrix*:
-**Vocabulary:** **Teleportation**: [[50_Magic/Glyphs/4_Modifiers/Flhh\|Flhh]] (Flee/Blink), [[50_Magic/Glyphs/4_Modifiers/Ich\|Ich]] (Self)
+**Vocabulary:** **Teleportation**: [[10_System/Magic Compendium/Glyphs/4_Modifiers/Flhh\|Flhh]] (Flee/Blink), [[10_System/Magic Compendium/Glyphs/4_Modifiers/Ich\|Ich]] (Self)
 
 ## Geometric Scaling (Mana Track Box Costs)
 When determining the cost of a spell, the GM uses this scale:

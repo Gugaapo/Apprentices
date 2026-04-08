@@ -27,10 +27,10 @@ When you hold `Divination` in your Grimoire, you have specific fictional positio
 
 ## The Core Matrix
 Unlocking this knowledge grants you structural mastery of the following base Glyphs to use during *Shape the Matrix*:
-**Vocabulary:** [[50_Magic/Glyphs/1_Functions/Sehn\|Sehn]] (Perceive), [[50_Magic/Glyphs/2_Objects/Aura\|Aura]] (Magic Energy), [[50_Magic/Glyphs/3_Characteristics/Raum\|Raum]] (Surroundings), [[50_Magic/Glyphs/1_Functions/Spur\|Spur]] (Track)
+**Vocabulary:** [[10_System/Magic Compendium/Glyphs/1_Functions/Sehn\|Sehn]] (Perceive), [[10_System/Magic Compendium/Glyphs/2_Objects/Aura\|Aura]] (Magic Energy), [[10_System/Magic Compendium/Glyphs/3_Characteristics/Raum\|Raum]] (Surroundings), [[10_System/Magic Compendium/Glyphs/1_Functions/Spur\|Spur]] (Track)
 
 > [!NOTE] Rumored Wild Glyphs
-> Extreme manifestations of Divination—such as [[50_Magic/Glyphs/3_Characteristics/Stim\|Stim]] (Inner Voice), [[50_Magic/Glyphs/2_Objects/Geis\|Geis]] (Surface Thoughts), [[Zuku\|Zuku]] (Future)—cannot be learned academically. They are Wild Glyphs that must be discovered in the world.
+> Extreme manifestations of Divination—such as [[10_System/Magic Compendium/Glyphs/3_Characteristics/Stim\|Stim]] (Inner Voice), [[10_System/Magic Compendium/Glyphs/2_Objects/Geis\|Geis]] (Surface Thoughts), [[Zuku\|Zuku]] (Future)—cannot be learned academically. They are Wild Glyphs that must be discovered in the world.
 
 ## Geometric Scaling (Mana Track Box Costs)
 When determining the cost of a spell, the GM uses this scale:
@@ -42,7 +42,7 @@ When determining the cost of a spell, the GM uses this scale:
 
 ## Specializations
 Unlocking these sub-matrices gives you immediate access to their advanced vocabulary:
-- **[[10_System/Schools/Divination/Scrying\|Scrying]]:** [[50_Magic/Glyphs/3_Characteristics/Bild\|Bild]] (Image/Vision), [[50_Magic/Glyphs/1_Functions/Auge\|Auge]] (Sensor/Eye)
-- **[[10_System/Schools/Divination/Chronomancy\|Chronomancy]]:** [[50_Magic/Glyphs/4_Modifiers/Schn\|Schn]] (Haste), [[50_Magic/Glyphs/4_Modifiers/Lang\|Lang]] (Slow), [[50_Magic/Glyphs/4_Modifiers/Wart\|Wart]] (Pause time), [[Spat\|Spat]] (Later)
+- **[[10_System/Schools/Divination/Scrying\|Scrying]]:** [[10_System/Magic Compendium/Glyphs/3_Characteristics/Bild\|Bild]] (Image/Vision), [[10_System/Magic Compendium/Glyphs/1_Functions/Auge\|Auge]] (Sensor/Eye)
+- **[[10_System/Schools/Divination/Chronomancy\|Chronomancy]]:** [[10_System/Magic Compendium/Glyphs/4_Modifiers/Schn\|Schn]] (Haste), [[10_System/Magic Compendium/Glyphs/4_Modifiers/Lang\|Lang]] (Slow), [[10_System/Magic Compendium/Glyphs/4_Modifiers/Wart\|Wart]] (Pause time), [[Spat\|Spat]] (Later)
 
 *(For detailed sensory information and theoretical deep-dives, refer to [[10_System/Schools/Schools Lore\|Schools Lore]])*

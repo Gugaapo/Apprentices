@@ -21,7 +21,7 @@ When you hold `Golemancy` in your Grimoire, you have specific fictional position
 
 ## The Core Matrix
 Unlocking this knowledge grants you structural mastery of the following base Glyphs to use during *Shape the Matrix*:
-**Vocabulary:** **Golemancy** : [[50_Magic/Glyphs/3_Characteristics/Baut\|Baut]] (Construct/Statue), [[50_Magic/Glyphs/4_Modifiers/Wach\|Wach]] (Guard)
+**Vocabulary:** **Golemancy** : [[10_System/Magic Compendium/Glyphs/3_Characteristics/Baut\|Baut]] (Construct/Statue), [[10_System/Magic Compendium/Glyphs/4_Modifiers/Wach\|Wach]] (Guard)
 
 ## Geometric Scaling (Mana Track Box Costs)
 When determining the cost of a spell, the GM uses this scale:

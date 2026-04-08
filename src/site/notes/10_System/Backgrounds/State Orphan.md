@@ -9,7 +9,7 @@
 
 ## Overview
 
-You didn't have the luxury of tutors, private libraries, or family connections. What you had was an uncompromising drive to survive and escape your lot in life. Your magical potential was your golden ticket—the only reason the state sponsored your entry into the Cyorian Academy instead of sending you to work in an industrial factory.
+You didn't have the luxury of tutors, private libraries, or family connections. What you had was an uncompromising drive to survive and escape your lot in life. Your magical potential was your golden ticket—the only reason the state sponsored your entry into the Academy instead of sending you to work in an industrial factory.
 
 You view the entitled noble scions around you with a mix of envy and disdain. They complain about the pressure of expectations; you know the pressure of starvation. You are intensely self-reliant, used to slipping through the cracks and taking care of yourself.
 
@@ -23,7 +23,7 @@ You know how to identify city guard patrol routes and find safe places to sleep 
 **Background Move — Self Preservation:** When you flee from a vastly superior threat or attempt to squeeze through a desperate escape route, roll `+Physical` with **Advantage**.
 
 ## Connection (Anchor)
-**Connection — State Network:** You know how to navigate the bureaucratic blindspots of Eldemar's social services and infrastructure. once per quest, you can call in a favor from a former ward-mate or sympathetic clerk to access low-profile state resources, forge minor identification, or find a safe place to hide within the city's lower-class districts.
+**Connection — State Network:** You know how to navigate the bureaucratic blindspots of the nation's social services and infrastructure. once per quest, you can call in a favor from a former ward-mate or sympathetic clerk to access low-profile state resources, forge minor identification, or find a safe place to hide within the city's lower-class districts.
 
 ---
 

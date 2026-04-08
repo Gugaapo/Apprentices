@@ -1,0 +1,14 @@
+---
+{"dg-publish":true,"permalink":"/10-system/magic-compendium/glyphs/1-functions/sieg/","dgShowBacklinks":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"noteIcon":""}
+---
+
+
+# Sieg
+**Translation:** Close / Seal
+**School/Menu:** Abjuration (Level 4)
+
+A function glyph used to forcefully shut spatial tears, lock pathways, or contain energy.
+
+## Example Formations
+- **[[10_System/Magic Compendium/Glyphs/1_Functions/Sieg\|Sieg]] [[10_System/Magic Compendium/Glyphs/3_Characteristics/Tohr\|Tohr]]**: Close Gateway (Forcefully shut an open portal)
+- **[[10_System/Magic Compendium/Glyphs/1_Functions/Sieg\|Sieg]] [[10_System/Magic Compendium/Glyphs/3_Characteristics/Raum\|Raum]]**: Close Space (Lock down an area to prevent teleportation)

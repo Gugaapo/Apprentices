@@ -14,7 +14,7 @@ No specific boundaries defined.
 
 ## The Core Matrix
 Unlocking this knowledge grants you structural mastery of the following base Glyphs to use during *Shape the Matrix*:
-**Vocabulary:** **Ward**: [[50_Magic/Glyphs/4_Modifiers/Wart\|Wart]] (Wait/Trigger), [[50_Magic/Glyphs/4_Modifiers/Zone\|Zone]] (Zone/Room)
+**Vocabulary:** **Ward**: [[10_System/Magic Compendium/Glyphs/4_Modifiers/Wart\|Wart]] (Wait/Trigger), [[10_System/Magic Compendium/Glyphs/4_Modifiers/Zone\|Zone]] (Zone/Room)
 
 ## Geometric Scaling (Mana Track Box Costs)
 When determining the cost of a spell, the GM uses this scale:

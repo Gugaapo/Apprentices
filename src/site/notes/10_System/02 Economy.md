@@ -4,7 +4,8 @@
 
 
 
-In a standard TTRPG, players meticulously track every copper, silver, and gold coin they find.  
+In a standard TTRPG, players meticulously track every copper, silver, and gold coin they find. In **Apprentices**, this level of accounting quickly becomes tedious and narratively meaningless.
+
 
 Instead of tracking exact coins, this game uses an abstract **Funds** system to represent a character's purchasing power during a given month. 
 
@@ -20,7 +21,7 @@ A character's wealth is represented by their current Funds level:
 6. **Astronomical:** You have tapped into a major magical vault or criminal enterprise. You can buy almost anything that has a price tag.
 
 ## The Struggle: Living Expenses
-Living in [[30_Locations/Cities and Towns/Cyoria\|Cyoria]], especially as an Academy student, is not free. 
+Living in the city, especially as an Academy student, is not free. 
 
 **At the start (Day 1), every character must establish their Living Situation.**
 If a character begins the month at the **Poor** or **Destitute** Funds level, they must secure their basic living expenses. 

@@ -22,7 +22,7 @@ When you hold `Necromancy` in your Grimoire, you have specific fictional positio
 
 ## The Core Matrix
 Unlocking this knowledge grants you structural mastery of the following base Glyphs to use during *Shape the Matrix*:
-**Vocabulary:** **Necromancy**: [[50_Magic/Glyphs/2_Objects/Knoc\|Knoc]] (Bone), [[50_Magic/Glyphs/3_Characteristics/Leic\|Leic]] (Dead Flesh/Corpse)
+**Vocabulary:** **Necromancy**: [[10_System/Magic Compendium/Glyphs/2_Objects/Knoc\|Knoc]] (Bone), [[10_System/Magic Compendium/Glyphs/3_Characteristics/Leic\|Leic]] (Dead Flesh/Corpse)
 
 ## Geometric Scaling (Mana Track Box Costs)
 When determining the cost of a spell, the GM uses this scale:

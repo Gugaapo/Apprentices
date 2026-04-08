@@ -5,11 +5,11 @@
 
 # Military Brat
 
-*Your family serves in the Eldemarian military. You were raised on base and taught how to fight before you were taught how to read.*
+*Your family serves in the national military. You were raised on base and taught how to fight before you were taught how to read.*
 
 ## Overview
 
-The Splinter Wars left a massive cultural scar on Eldemar, and the military remains a dominant force in the nation's politics and culture. You grew up bouncing between fortified garrisons, border outposts, and training camps. The rigid discipline, early morning drills, and the smell of alchemical gunpowder are as comforting to you as a mother's lullaby.
+Recent historical wars left a massive cultural scar on the nation, and the military remains a dominant force in politics and culture. You grew up bouncing between fortified garrisons, border outposts, and training camps. The rigid discipline, early morning drills, and the smell of alchemical gunpowder are as comforting to you as a mother's lullaby.
 
 While the Academy focuses heavily on theoretical research and elegant aristocratic dueling, your magical foundation is entirely martial. You view magic as artillery, logistics, and battlefield control. You know how to clean a rifle, march for three days straight, and follow orders without hesitation.
 

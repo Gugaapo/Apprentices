@@ -25,7 +25,7 @@ Sometimes a Move or situation will grant you a mechanical modifier to your 2d6 r
 
 ### Mastered Spells & Joint Casting
 - **Mastered Spells:** You can hold a vast collection of formulas written in a Grimoire, but you can only memorize a number of **Mastered Spells** equal to your **[[10_System/Attributes/Magical/Memory\|Memory]] × 2**. Mastered spells have lower Mana costs and can be cast faster in the fiction. You can freely swap which formulas are currently Mastered whenever you are not in combat or a tense roleplaying scene.
-- **Joint Casting:** Two players can work together using the **[[10_System/00 Moves/Magic Moves/Joint Casting\|Joint Casting]]** move. When you assist another mage, you choose to either provide **[[10_System/Glossary/Advantage\|Advantage]]** to their roll through mental coordination (using your [[10_System/Attributes/Magical/Calculation\|Calculation]]) or **shoulder the Mana cost** (Ticks) of the spell yourself.
+- **Joint Casting:** Two players can work together using the **[[10_System/Moves/Magic Moves/Joint Casting\|Joint Casting]]** move. When you assist another mage, you choose to either provide **[[10_System/Glossary/Advantage\|Advantage]]** to their roll through mental coordination (using your [[10_System/Attributes/Magical/Calculation\|Calculation]]) or **shoulder the Mana cost** (Ticks) of the spell yourself.
 
 ### Narrative Action Flow
 **Apprentices** does not use rigid initiative systems or turn orders. Action flows naturally based on the narrative.
@@ -97,4 +97,4 @@ At 0 Sanity, your character becomes a "[[10_System/Glossary/Hollow\|Hollow]]".
 - **Sanity 4 (Dissociation):** Develop a Derangement (Paranoia, Phobia).
 - **Sanity 2 (Apathy):** You must roll +Willpower just to take action in stressful situations.
 
-[[10_System/00 This World\|This World]] ================================================== [[10_System/02 Economy\|Economy]]
+[[00 This World\|This World]] ================================================== [[10_System/02 Economy\|Economy]]

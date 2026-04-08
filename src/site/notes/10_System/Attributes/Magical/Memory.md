@@ -12,7 +12,7 @@ Your **Memory** attribute represents your character's capability to recall compl
 Mechanically, Memory dictates the size of your "mental hard drive" for internalized magic. You can hold a number of **Mastered Spells** equal to your **Memory rating**. Mastered spells can be cast silently, without gestures, cost 1 less Mana (minimum 1), and can be used as instant reactions. For mental defense, see the **[[10_System/01 Core Mechanics#Resist Erosion\|Resist Erosion]]** move.
 
 ### Associated Magic Moves
-- **[[10_System/00 Moves/02 Magic Moves#Deflect Magic\|Deflect Magic]]:** While Memory isn't rolled directly, its capacity for **Mastered Spells** is mechanically required to trigger quick-reaction defenses like this move.
+- **[[10_System/Moves/02 Magic Moves#Deflect Magic\|Deflect Magic]]:** While Memory isn't rolled directly, its capacity for **Mastered Spells** is mechanically required to trigger quick-reaction defenses like this move.
 
 ### Common Uses
 - **Mastered Spells:** Internalizing your signature spells for instant, silent, and cheaper casting.

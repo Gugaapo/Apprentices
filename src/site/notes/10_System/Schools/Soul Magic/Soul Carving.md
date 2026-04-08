@@ -22,7 +22,7 @@ When you hold `Soul Carving` in your Grimoire, you have specific fictional posit
 
 ## The Core Matrix
 Unlocking this knowledge grants you structural mastery of the following base Glyphs to use during *Shape the Matrix*:
-**Vocabulary:** **Soul Carving**: [[50_Magic/Glyphs/1_Functions/Bind\|Bind]] (Graft/Fuse), [[50_Magic/Glyphs/4_Modifiers/Mahl\|Mahl]] (Sigil/Brand)
+**Vocabulary:** **Soul Carving**: [[10_System/Magic Compendium/Glyphs/1_Functions/Bind\|Bind]] (Graft/Fuse), [[10_System/Magic Compendium/Glyphs/4_Modifiers/Mahl\|Mahl]] (Sigil/Brand)
 
 ## Geometric Scaling (Mana Track Box Costs)
 When determining the cost of a spell, the GM uses this scale:

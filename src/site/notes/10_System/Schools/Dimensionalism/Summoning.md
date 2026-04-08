@@ -21,7 +21,7 @@ When you hold `Summoning` in your Grimoire, you have specific fictional position
 
 ## The Core Matrix
 Unlocking this knowledge grants you structural mastery of the following base Glyphs to use during *Shape the Matrix*:
-**Vocabulary:** **Summoning** : [[50_Magic/Glyphs/1_Functions/Ruff\|Ruff]] (Call/Summon), [[50_Magic/Glyphs/2_Objects/Wese\|Wese]] (Creature)
+**Vocabulary:** **Summoning** : [[10_System/Magic Compendium/Glyphs/1_Functions/Ruff\|Ruff]] (Call/Summon), [[10_System/Magic Compendium/Glyphs/2_Objects/Wese\|Wese]] (Creature)
 
 ## Geometric Scaling (Mana Track Box Costs)
 When determining the cost of a spell, the GM uses this scale:

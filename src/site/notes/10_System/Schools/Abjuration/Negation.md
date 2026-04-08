@@ -14,7 +14,7 @@ No specific boundaries defined.
 
 ## The Core Matrix
 Unlocking this knowledge grants you structural mastery of the following base Glyphs to use during *Shape the Matrix*:
-**Vocabulary:** **Negation**: [[50_Magic/Glyphs/1_Functions/Leer\|Leer]] (Void/Cancel), [[50_Magic/Glyphs/4_Modifiers/Ende\|Ende]] (End/Cease)
+**Vocabulary:** **Negation**: [[10_System/Magic Compendium/Glyphs/1_Functions/Leer\|Leer]] (Void/Cancel), [[10_System/Magic Compendium/Glyphs/4_Modifiers/Ende\|Ende]] (End/Cease)
 
 ## Geometric Scaling (Mana Track Box Costs)
 When determining the cost of a spell, the GM uses this scale:

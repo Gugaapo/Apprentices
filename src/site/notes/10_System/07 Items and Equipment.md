@@ -43,7 +43,7 @@ While a thick layer of chainmail or a riot shield provides excellent temporary h
 As mages, the characters in **Apprentices** will constantly need external magical aids, healing supplies, and raw power to survive the grueling repetition of the month.
 
 ### Acquiring Magic Items
-Mundane weapons are easy to buy in [[30_Locations/Cities and Towns/Cyoria\|Cyoria]]. Alchemical ingredients, illegal potions, and refined crystalized [[10_System/Glossary/mana\|mana]] are heavily regulated by the Imperial Guard and the Academy. 
+Mundane weapons are easy to buy in the city. Alchemical ingredients, illegal potions, and refined crystalized [[10_System/Glossary/mana\|mana]] are heavily regulated by the local Guard and the Academy. 
 
 Acquiring anything magical beyond standard "student supplies" generally requires:
 1. Reaching the required **Funds Level**.
@@ -72,6 +72,5 @@ A magical focus is a tool (wand, staff, ring, specific gem) designed to stabiliz
 - If a Critical Failure (Natural 2) is rolled while casting through a Focus, the GM may rule that the Focus cracks or shatters instead of (or in addition to) the spell backfiring onto the caster.
 
 ---
-
 
 [[10_System/06 Crafting\|Crafting]] ================================================== [[10_System/10 Apprentices SRD\|Apprentices SRD]]

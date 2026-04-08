@@ -25,7 +25,7 @@ When you hold `Abjuration` in your Grimoire, you have specific fictional positio
 
 ## The Core Matrix
 Unlocking this knowledge grants you structural mastery of the following base Glyphs to use during *Shape the Matrix*:
-**Vocabulary:** [[50_Magic/Glyphs/1_Functions/Scht\|Scht]] (Defend), [[50_Magic/Glyphs/1_Functions/Nill\|Nill]] (Counter), [[50_Magic/Glyphs/4_Modifiers/Kupp\|Kupp]] (Dome), [[50_Magic/Glyphs/4_Modifiers/Wand\|Wand]] (Wall)
+**Vocabulary:** [[10_System/Magic Compendium/Glyphs/1_Functions/Scht\|Scht]] (Defend), [[10_System/Magic Compendium/Glyphs/1_Functions/Nill\|Nill]] (Counter), [[10_System/Magic Compendium/Glyphs/4_Modifiers/Kupp\|Kupp]] (Dome), [[10_System/Magic Compendium/Glyphs/4_Modifiers/Wand\|Wand]] (Wall)
 
 > [!NOTE] Rumored Wild Glyphs
 > Extreme manifestations of Abjuration—such as [[Absb\|Absb]] (Absorb Energy), [[Refl\|Refl]] (Reflect)—cannot be learned academically. They are Wild Glyphs that must be discovered in the world.
@@ -40,8 +40,8 @@ When determining the cost of a spell, the GM uses this scale:
 
 ## Specializations
 Unlocking these sub-matrices gives you immediate access to their advanced vocabulary:
-- **[[10_System/Schools/Abjuration/Ward\|Ward]]:** [[50_Magic/Glyphs/4_Modifiers/Wart\|Wart]] (Trigger/Wait), [[50_Magic/Glyphs/4_Modifiers/Zone\|Zone]] (Zone/Room)
+- **[[10_System/Schools/Abjuration/Ward\|Ward]]:** [[10_System/Magic Compendium/Glyphs/4_Modifiers/Wart\|Wart]] (Trigger/Wait), [[10_System/Magic Compendium/Glyphs/4_Modifiers/Zone\|Zone]] (Zone/Room)
 - **[[10_System/Schools/Abjuration/Sealing\|Sealing]]:** [[Kett 1\|Kett 1]] (Chain/Bind), [[Slos 1\|Slos 1]] (Lock), [[Kaef 1\|Kaef 1]] (Cage), [[Netz 1\|Netz 1]] (Net)
-- **[[10_System/Schools/Abjuration/Negation\|Negation]]:** [[50_Magic/Glyphs/1_Functions/Leer\|Leer]] (Void/Cancel), [[50_Magic/Glyphs/4_Modifiers/Ende\|Ende]] (End/Cease)
+- **[[10_System/Schools/Abjuration/Negation\|Negation]]:** [[10_System/Magic Compendium/Glyphs/1_Functions/Leer\|Leer]] (Void/Cancel), [[10_System/Magic Compendium/Glyphs/4_Modifiers/Ende\|Ende]] (End/Cease)
 
 *(For detailed sensory information and theoretical deep-dives, refer to [[10_System/Schools/Schools Lore\|Schools Lore]])*

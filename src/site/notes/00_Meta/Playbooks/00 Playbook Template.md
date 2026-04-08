@@ -39,7 +39,7 @@ Assign **2, 2, 1, 1** to your Magical Attributes.
 - [ ] **Custom Move 2:** Description of move.
 - [ ] **Custom Move 3:** Description of move.
 
-**Acquired Moves:** *(Modular Moves learned in the world, e.g., [[10_System/Glossary/Mind Defense\|Mind Defense]], [[10_System/00 Moves/Learnable Moves/Soul Defense\|Soul Defense]], or specialized Magic Forms from teachers).*
+**Acquired Moves:** *(Modular Moves learned in the world, e.g., [[10_System/Glossary/Mind Defense\|10_System/Glossary/Mind Defense]], [[10_System/Moves/Learnable Moves/Soul Defense\|Soul Defense]], or specialized Magic Forms from teachers).*
 - 
 - 
 

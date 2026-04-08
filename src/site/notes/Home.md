@@ -4,7 +4,7 @@
 
 
 # Welcome to the Apprentices Database
-This is the companion reference for our tabletop RPG campaign set in the world of *[[30_Locations/Continents/Ersetu\|Ersetu]]*. Here you will find the complete system rules, world lore, and all the mechanical references you need to build characters, cast spells, and navigate the setting.
+This is the companion reference for our tabletop RPG campaign set in the world of *[[20_Eldemar_Plugin/22_Locations/Continents/Ersetu\|Ersetu]]*. Here you will find the complete system rules, world lore, and all the mechanical references you need to build characters, cast spells, and navigate the setting.
 
 Use the sidebar to browse, or press `Ctrl+K` to search.
 
@@ -29,12 +29,12 @@ Use the sidebar to browse, or press `Ctrl+K` to search.
 > [!info] Tip
 > Use the sidebar on the left to navigate through the folder structure of the vault.
 
-| File                                                         | Last Modified             |
-| ------------------------------------------------------------ | ------------------------- |
-| [[10_System/Attributes/Magical/Memory\|Memory]]           | 11:21 AM - April 08, 2026 |
-| [[10_System/Attributes/Magical/Willpower\|Willpower]]     | 11:21 AM - April 08, 2026 |
-| [[10_System/Attributes/Magical/Calculation\|Calculation]] | 11:21 AM - April 08, 2026 |
-| [[10_System/06 Crafting\|06 Crafting]]                    | 11:12 AM - April 08, 2026 |
-| [[10_System/05 Magic System\|05 Magic System]]            | 11:11 AM - April 08, 2026 |
+| File                                                                                | Last Modified             |
+| ----------------------------------------------------------------------------------- | ------------------------- |
+| [[10_System/Glossary/Mind Defense\|Mind Defense]]                                | 12:18 PM - April 08, 2026 |
+| [[00_Meta/Playbooks/The Heir\|The Heir]]                                         | 12:18 PM - April 08, 2026 |
+| [[00_Meta/Playbooks/00 Playbook Template\|00 Playbook Template]]                 | 12:18 PM - April 08, 2026 |
+| [[20_Eldemar_Plugin/00 Eldemar Integration Guide\|00 Eldemar Integration Guide]] | 12:17 PM - April 08, 2026 |
+| [[10_System/10 Apprentices SRD\|10 Apprentices SRD]]                             | 12:17 PM - April 08, 2026 |
 
 { .block-language-dataview}

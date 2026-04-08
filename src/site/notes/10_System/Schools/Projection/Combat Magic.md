@@ -14,7 +14,7 @@ No specific boundaries defined.
 
 ## The Core Matrix
 Unlocking this knowledge grants you structural mastery of the following base Glyphs to use during *Shape the Matrix*:
-**Vocabulary:** [[50_Magic/Glyphs/4_Modifiers/Schn\|Schn]] (Fast/Projectile), [[50_Magic/Glyphs/4_Modifiers/Kuge\|Kuge]] (Bullet), [[50_Magic/Glyphs/4_Modifiers/Slag\|Slag]] (Strike)
+**Vocabulary:** [[10_System/Magic Compendium/Glyphs/4_Modifiers/Schn\|Schn]] (Fast/Projectile), [[10_System/Magic Compendium/Glyphs/4_Modifiers/Kuge\|Kuge]] (Bullet), [[10_System/Magic Compendium/Glyphs/4_Modifiers/Slag\|Slag]] (Strike)
 
 ## Geometric Scaling (Mana Track Box Costs)
 When determining the cost of a spell, the GM uses this scale:

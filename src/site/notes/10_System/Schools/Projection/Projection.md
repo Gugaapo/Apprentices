@@ -28,10 +28,10 @@ When creating Projection spells, respect these rules:
 
 ## The Core Matrix
 Unlocking this knowledge grants you structural mastery of the following base Glyphs to use during *Shape the Matrix*:
-**Vocabulary:** [[50_Magic/Glyphs/1_Functions/Schf\|Schf]] (Create/Invoke), [[50_Magic/Glyphs/3_Characteristics/Feur\|Feur]] (Fire), [[50_Magic/Glyphs/3_Characteristics/Lict\|Lict]] (Light), [[50_Magic/Glyphs/3_Characteristics/Erde\|Erde]] (Rock), [[50_Magic/Glyphs/3_Characteristics/Kraf\|Kraf]] (Kinetic Force), [[50_Magic/Glyphs/3_Characteristics/Luft\|Luft]] (Air), [[50_Magic/Glyphs/3_Characteristics/Damp\|Damp]] (Steam)
+**Vocabulary:** [[10_System/Magic Compendium/Glyphs/1_Functions/Schf\|Schf]] (Create/Invoke), [[10_System/Magic Compendium/Glyphs/3_Characteristics/Feur\|Feur]] (Fire), [[10_System/Magic Compendium/Glyphs/3_Characteristics/Lict\|Lict]] (Light), [[10_System/Magic Compendium/Glyphs/3_Characteristics/Erde\|Erde]] (Rock), [[10_System/Magic Compendium/Glyphs/3_Characteristics/Kraf\|Kraf]] (Kinetic Force), [[10_System/Magic Compendium/Glyphs/3_Characteristics/Luft\|Luft]] (Air), [[10_System/Magic Compendium/Glyphs/3_Characteristics/Damp\|Damp]] (Steam)
 
 > [!NOTE] Rumored Wild Glyphs
-> Extreme manifestations of Projection—such as [[50_Magic/Glyphs/4_Modifiers/Nah\|Nah]] (Lightning), [[50_Magic/Glyphs/3_Characteristics/Donn\|Donn]] (Thunder), [[50_Magic/Glyphs/3_Characteristics/Plaz\|Plaz]] (Plasma), [[50_Magic/Glyphs/3_Characteristics/Rein\|Rein]] (Pure Mana) or [[50_Magic/Glyphs/3_Characteristics/Angs\|Angs]] (Beam)—cannot be learned academically. They are Wild Glyphs that must be discovered in the world.
+> Extreme manifestations of Projection—such as [[10_System/Magic Compendium/Glyphs/4_Modifiers/Nah\|Nah]] (Lightning), [[10_System/Magic Compendium/Glyphs/3_Characteristics/Donn\|Donn]] (Thunder), [[10_System/Magic Compendium/Glyphs/3_Characteristics/Plaz\|Plaz]] (Plasma), [[10_System/Magic Compendium/Glyphs/3_Characteristics/Rein\|Rein]] (Pure Mana) or [[10_System/Magic Compendium/Glyphs/3_Characteristics/Angs\|Angs]] (Beam)—cannot be learned academically. They are Wild Glyphs that must be discovered in the world.
 
 ## Geometric Scaling (Mana Track Box Costs)
 When determining the cost of a spell, the GM uses this scale:
@@ -43,7 +43,7 @@ When determining the cost of a spell, the GM uses this scale:
 
 ## Specializations
 Unlocking these sub-matrices gives you immediate access to their advanced vocabulary:
-- **[[10_System/Schools/Projection/Combat Magic\|Combat Magic]]:** [[50_Magic/Glyphs/4_Modifiers/Schn\|Schn]] (Fast/Projectile), [[50_Magic/Glyphs/4_Modifiers/Kuge\|Kuge]] (Bullet), [[50_Magic/Glyphs/4_Modifiers/Slag\|Slag]] (Strike)
-- **[[10_System/Schools/Projection/Evocation\|Evocation]]:** [[50_Magic/Glyphs/4_Modifiers/Wolk\|Wolk]] (Cloud/Storm), [[50_Magic/Glyphs/4_Modifiers/Knal\|Knal]] (Explosion), [[50_Magic/Glyphs/4_Modifiers/Spha\|Spha]] (Sphere)
+- **[[10_System/Schools/Projection/Combat Magic\|Combat Magic]]:** [[10_System/Magic Compendium/Glyphs/4_Modifiers/Schn\|Schn]] (Fast/Projectile), [[10_System/Magic Compendium/Glyphs/4_Modifiers/Kuge\|Kuge]] (Bullet), [[10_System/Magic Compendium/Glyphs/4_Modifiers/Slag\|Slag]] (Strike)
+- **[[10_System/Schools/Projection/Evocation\|Evocation]]:** [[10_System/Magic Compendium/Glyphs/4_Modifiers/Wolk\|Wolk]] (Cloud/Storm), [[10_System/Magic Compendium/Glyphs/4_Modifiers/Knal\|Knal]] (Explosion), [[10_System/Magic Compendium/Glyphs/4_Modifiers/Spha\|Spha]] (Sphere)
 
 *(For detailed sensory information and theoretical deep-dives, refer to [[10_System/Schools/Schools Lore\|Schools Lore]])*

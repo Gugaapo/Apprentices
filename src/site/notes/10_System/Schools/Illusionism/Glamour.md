@@ -21,7 +21,7 @@ When you hold `Glamour` in your Grimoire, you have specific fictional positionin
 
 ## The Core Matrix
 Unlocking this knowledge grants you structural mastery of the following base Glyphs to use during *Shape the Matrix*:
-**Vocabulary:** **Glamour**   : [[50_Magic/Glyphs/4_Modifiers/Birg\|Birg]] (Hide/Invisibility), [[50_Magic/Glyphs/4_Modifiers/Tarn\|Tarn]] (Face)
+**Vocabulary:** **Glamour**   : [[10_System/Magic Compendium/Glyphs/4_Modifiers/Birg\|Birg]] (Hide/Invisibility), [[10_System/Magic Compendium/Glyphs/4_Modifiers/Tarn\|Tarn]] (Face)
 
 ## Geometric Scaling (Mana Track Box Costs)
 When determining the cost of a spell, the GM uses this scale:

@@ -22,7 +22,7 @@ When you hold `Evocation` in your Grimoire, you have specific fictional position
 
 ## The Core Matrix
 Unlocking this knowledge grants you structural mastery of the following base Glyphs to use during *Shape the Matrix*:
-**Vocabulary:** **Evocation** : [[50_Magic/Glyphs/4_Modifiers/Wolk\|Wolk]] (Cloud/Storm), [[50_Magic/Glyphs/4_Modifiers/Knal\|Knal]] (Explosion)
+**Vocabulary:** **Evocation** : [[10_System/Magic Compendium/Glyphs/4_Modifiers/Wolk\|Wolk]] (Cloud/Storm), [[10_System/Magic Compendium/Glyphs/4_Modifiers/Knal\|Knal]] (Explosion)
 
 ## Geometric Scaling (Mana Track Box Costs)
 When determining the cost of a spell, the GM uses this scale:

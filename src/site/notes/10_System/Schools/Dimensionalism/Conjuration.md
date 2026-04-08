@@ -23,7 +23,7 @@ When you hold `Conjuration` in your Grimoire, you have specific fictional positi
 
 ## The Core Matrix
 Unlocking this knowledge grants you structural mastery of the following base Glyphs to use during *Shape the Matrix*:
-**Vocabulary:** **Conjuration**: [[50_Magic/Glyphs/2_Objects/Zeug\|Zeug]] (Matter/Ectoplasm), [[50_Magic/Glyphs/2_Objects/Werk\|Werk]] (Tool/Construct)
+**Vocabulary:** **Conjuration**: [[10_System/Magic Compendium/Glyphs/2_Objects/Zeug\|Zeug]] (Matter/Ectoplasm), [[10_System/Magic Compendium/Glyphs/2_Objects/Werk\|Werk]] (Tool/Construct)
 
 ## Geometric Scaling (Mana Track Box Costs)
 When determining the cost of a spell, the GM uses this scale:

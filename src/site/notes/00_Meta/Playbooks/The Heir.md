@@ -38,7 +38,7 @@ Assign **3** to Willpower, and **1** to Calculation, Finesse, and Memory.
 - [ ] **Bloodline Secret:** You begin the game with 1 Mastered Spell from a highly restricted or extinct School (like Soul Magic or an advanced specialization). It does not count toward your Memory limit. When you cast it, you may forcefully mark 1 tick on your Mana Track to treat a `7-9` as a `10+`.
 - [ ] **Noblesse Oblige:** When you command an ally to do something reckless while providing covering fire or a ward, you may add your `Social` to their resulting roll instead of their own attribute. 
 
-**Acquired Moves:** *(Modular Moves learned in the world, e.g., [[10_System/Glossary/Mind Defense\|Mind Defense]] or specialized Magic Forms)*
+**Acquired Moves:** *(Modular Moves learned in the world, e.g., [[10_System/Glossary/Mind Defense\|10_System/Glossary/Mind Defense]] or specialized Magic Forms)*
 - 
 - 
 

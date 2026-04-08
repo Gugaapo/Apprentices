@@ -21,7 +21,7 @@ When you hold `Spirit Calling` in your Grimoire, you have specific fictional pos
 
 ## The Core Matrix
 Unlocking this knowledge grants you structural mastery of the following base Glyphs to use during *Shape the Matrix*:
-**Vocabulary:** **Spirit Calling**: [[50_Magic/Glyphs/2_Objects/Spuk\|Spuk]] (Ghost), [[50_Magic/Glyphs/1_Functions/Sagt\|Sagt]] (Speak)
+**Vocabulary:** **Spirit Calling**: [[10_System/Magic Compendium/Glyphs/2_Objects/Spuk\|Spuk]] (Ghost), [[10_System/Magic Compendium/Glyphs/1_Functions/Sagt\|Sagt]] (Speak)
 
 ## Geometric Scaling (Mana Track Box Costs)
 When determining the cost of a spell, the GM uses this scale:

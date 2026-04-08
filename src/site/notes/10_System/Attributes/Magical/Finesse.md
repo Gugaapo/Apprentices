@@ -12,8 +12,8 @@ Your **Finesse** attribute dictates your precision, control, and [[10_System/Glo
 Mechanically, Finesse allows you to execute **Simultaneous Casting** (Dual Casting) via Overcharge. By explicitly substituting Finesse for Willpower in your 2d6 Casting Roll, you can spend **2 Overcharge** points to perfectly duplicate the spell's effect and hit a secondary target simultaneously. 
 
 ### Associated Magic Moves
-- **[[10_System/00 Moves/02 Magic Moves#Shape the Matrix\|Shape the Matrix]]:** Used when rolling precision or defensive spells. 
-- **[[10_System/00 Moves/02 Magic Moves#Deflect Magic\|Deflect Magic]]:** Used when you quickly manifest a Mastered ward to intercept an incoming magical attack.
+- **[[10_System/Moves/02 Magic Moves#Shape the Matrix\|Shape the Matrix]]:** Used when rolling precision or defensive spells. 
+- **[[10_System/Moves/02 Magic Moves#Deflect Magic\|Deflect Magic]]:** Used when you quickly manifest a Mastered ward to intercept an incoming magical attack.
 
 ### Common Uses
 - **Simultaneous Casting:** Weaving multiple spell matrices at the exact same moment.

@@ -14,7 +14,7 @@ No specific boundaries defined.
 
 ## The Core Matrix
 Unlocking this knowledge grants you structural mastery of the following base Glyphs to use during *Shape the Matrix*:
-**Vocabulary:** **Transformation**: [[50_Magic/Glyphs/2_Objects/Meta\|Meta]] (Metal), [[50_Magic/Glyphs/2_Objects/Holz\|Holz]] (Wood/Plant), [[50_Magic/Glyphs/3_Characteristics/Luft\|Luft]] (Air)
+**Vocabulary:** **Transformation**: [[10_System/Magic Compendium/Glyphs/2_Objects/Meta\|Meta]] (Metal), [[10_System/Magic Compendium/Glyphs/2_Objects/Holz\|Holz]] (Wood/Plant), [[10_System/Magic Compendium/Glyphs/3_Characteristics/Luft\|Luft]] (Air)
 
 ## Geometric Scaling (Mana Track Box Costs)
 When determining the cost of a spell, the GM uses this scale:

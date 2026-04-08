@@ -4,7 +4,7 @@
 
 # Soul Magic (Syllabus of Violation)
 
-*A forbidden branch. While other magics play with the physical world, Soul Magic rips apart the metaphysical code of life itself. It is taboo, horrific, and strictly regulated by the Cyorian Academy. Magic is now cast by weaving geometric Glyphs into spell formulas.*
+*A forbidden branch. While other magics play with the physical world, Soul Magic rips apart the metaphysical code of life itself. It is taboo, horrific, and strictly regulated by the ruling authorities. Magic is now cast by weaving geometric Glyphs into spell formulas.*
 **Classification:** Core School
 
 ## Fictional Permission
@@ -36,10 +36,10 @@ Soul magic is impossible to practice without first obtaining "soul sight"—the 
 
 ## The Core Matrix
 Unlocking this knowledge grants you structural mastery of the following base Glyphs to use during *Shape the Matrix*:
-**Vocabulary:** [[50_Magic/Glyphs/1_Functions/Reis\|Reis]] (Violate/Tear), [[50_Magic/Glyphs/4_Modifiers/Rinn\|Rinn]] (Leak/Bleed), [[50_Magic/Glyphs/2_Objects/Seel\|Seel]] (Soul), [[50_Magic/Glyphs/2_Objects/Mutr\|Mutr]] (Flesh/Mutation)
+**Vocabulary:** [[10_System/Magic Compendium/Glyphs/1_Functions/Reis\|Reis]] (Violate/Tear), [[10_System/Magic Compendium/Glyphs/4_Modifiers/Rinn\|Rinn]] (Leak/Bleed), [[10_System/Magic Compendium/Glyphs/2_Objects/Seel\|Seel]] (Soul), [[10_System/Magic Compendium/Glyphs/2_Objects/Mutr\|Mutr]] (Flesh/Mutation)
 
 > [!NOTE] Rumored Wild Glyphs
-> Extreme manifestations of Soul Magic—such as [[50_Magic/Glyphs/1_Functions/Saug\|Saug]] (Drain/Leech), [[50_Magic/Glyphs/4_Modifiers/Fetz\|Fetz]] (Shred/Destroy), [[50_Magic/Glyphs/3_Characteristics/Qual\|Qual]] (Agony/Suffering), and [[50_Magic/Glyphs/3_Characteristics/Angs\|Angs]] (Fear/Madness)—cannot be learned academically. They are Wild Glyphs that must be discovered in the world.
+> Extreme manifestations of Soul Magic—such as [[10_System/Magic Compendium/Glyphs/1_Functions/Saug\|Saug]] (Drain/Leech), [[10_System/Magic Compendium/Glyphs/4_Modifiers/Fetz\|Fetz]] (Shred/Destroy), [[10_System/Magic Compendium/Glyphs/3_Characteristics/Qual\|Qual]] (Agony/Suffering), and [[10_System/Magic Compendium/Glyphs/3_Characteristics/Angs\|Angs]] (Fear/Madness)—cannot be learned academically. They are Wild Glyphs that must be discovered in the world.
 
 ## Geometric Scaling (Mana Track Box Costs)
 When determining the cost of a spell, the GM uses this scale:
@@ -51,7 +51,7 @@ When determining the cost of a spell, the GM uses this scale:
 
 ## Specializations
 Unlocking these sub-matrices gives you immediate access to their advanced vocabulary:
-- **[[10_System/Schools/Soul Magic/Spirit Calling\|Spirit Calling]]:** [[50_Magic/Glyphs/2_Objects/Spuk\|Spuk]] (Ghost), [[50_Magic/Glyphs/1_Functions/Sagt\|Sagt]] (Speak), [[50_Magic/Glyphs/1_Functions/Lock\|Lock]] (Call soul)
-- **[[10_System/Schools/Soul Magic/Soul Carving\|Soul Carving]]:** [[50_Magic/Glyphs/1_Functions/Bind\|Bind]] (Graft/Fuse), [[50_Magic/Glyphs/4_Modifiers/Mahl\|Mahl]] (Brand/Sigil), [[50_Magic/Glyphs/4_Modifiers/Band\|Band]] (Tether souls)
+- **[[10_System/Schools/Soul Magic/Spirit Calling\|Spirit Calling]]:** [[10_System/Magic Compendium/Glyphs/2_Objects/Spuk\|Spuk]] (Ghost), [[10_System/Magic Compendium/Glyphs/1_Functions/Sagt\|Sagt]] (Speak), [[10_System/Magic Compendium/Glyphs/1_Functions/Lock\|Lock]] (Call soul)
+- **[[10_System/Schools/Soul Magic/Soul Carving\|Soul Carving]]:** [[10_System/Magic Compendium/Glyphs/1_Functions/Bind\|Bind]] (Graft/Fuse), [[10_System/Magic Compendium/Glyphs/4_Modifiers/Mahl\|Mahl]] (Brand/Sigil), [[10_System/Magic Compendium/Glyphs/4_Modifiers/Band\|Band]] (Tether souls)
 
 *(For detailed sensory information and theoretical deep-dives, refer to [[10_System/Schools/Schools Lore\|Schools Lore]])*

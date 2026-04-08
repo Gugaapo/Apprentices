@@ -14,7 +14,7 @@ No specific boundaries defined.
 
 ## The Core Matrix
 Unlocking this knowledge grants you structural mastery of the following base Glyphs to use during *Shape the Matrix*:
-**Vocabulary:** **Medical Magic**: [[50_Magic/Glyphs/2_Objects/Flei\|Flei]] (Flesh), [[50_Magic/Glyphs/2_Objects/Blut\|Blut]] (Blood), [[50_Magic/Glyphs/1_Functions/Heil\|Heil]] (Mend/Heal)
+**Vocabulary:** **Medical Magic**: [[10_System/Magic Compendium/Glyphs/2_Objects/Flei\|Flei]] (Flesh), [[10_System/Magic Compendium/Glyphs/2_Objects/Blut\|Blut]] (Blood), [[10_System/Magic Compendium/Glyphs/1_Functions/Heil\|Heil]] (Mend/Heal)
 
 ## Geometric Scaling (Mana Track Box Costs)
 When determining the cost of a spell, the GM uses this scale:

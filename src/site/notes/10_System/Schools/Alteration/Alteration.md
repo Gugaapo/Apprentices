@@ -31,10 +31,10 @@ When creating Alteration spells, respect these rules:
 
 ## The Core Matrix
 Unlocking this knowledge grants you structural mastery of the following base Glyphs to use during *Shape the Matrix*:
-**Vocabulary:** [[50_Magic/Glyphs/1_Functions/Andr\|Andr]] (Alter/Restructure), [[50_Magic/Glyphs/3_Characteristics/Dich\|Dich]] (Density), [[50_Magic/Glyphs/3_Characteristics/Form\|Form]] (Shape), [[50_Magic/Glyphs/3_Characteristics/Temp\|Temp]] (Temperature), [[50_Magic/Glyphs/3_Characteristics/Zust\|Zust]] (State)
+**Vocabulary:** [[10_System/Magic Compendium/Glyphs/1_Functions/Andr\|Andr]] (Alter/Restructure), [[10_System/Magic Compendium/Glyphs/3_Characteristics/Dich\|Dich]] (Density), [[10_System/Magic Compendium/Glyphs/3_Characteristics/Form\|Form]] (Shape), [[10_System/Magic Compendium/Glyphs/3_Characteristics/Temp\|Temp]] (Temperature), [[10_System/Magic Compendium/Glyphs/3_Characteristics/Zust\|Zust]] (State)
 
 > [!NOTE] Rumored Wild Glyphs
-> Extreme manifestations of Alteration—such as [[50_Magic/Glyphs/3_Characteristics/Schw\|Schw]] (Gravity), [[50_Magic/Glyphs/4_Modifiers/Weic\|Weic]] (Transmute Material)—cannot be learned academically. They are Wild Glyphs that must be discovered in the world.
+> Extreme manifestations of Alteration—such as [[10_System/Magic Compendium/Glyphs/3_Characteristics/Schw\|Schw]] (Gravity), [[10_System/Magic Compendium/Glyphs/4_Modifiers/Weic\|Weic]] (Transmute Material)—cannot be learned academically. They are Wild Glyphs that must be discovered in the world.
 
 ## Geometric Scaling (Mana Track Box Costs)
 When determining the cost of a spell, the GM uses this scale:
@@ -46,8 +46,8 @@ When determining the cost of a spell, the GM uses this scale:
 
 ## Specializations
 Unlocking these sub-matrices gives you immediate access to their advanced vocabulary:
-- **[[10_System/Schools/Alteration/Medical Magic\|Medical Magic]]:** [[50_Magic/Glyphs/2_Objects/Flei\|Flei]] (Flesh), [[50_Magic/Glyphs/2_Objects/Blut\|Blut]] (Blood), [[50_Magic/Glyphs/1_Functions/Heil\|Heil]] (Heal), [[50_Magic/Glyphs/2_Objects/Knoc\|Knoc]] (Bone)
-- **[[10_System/Schools/Alteration/Transformation\|Transformation]]:** [[50_Magic/Glyphs/2_Objects/Meta\|Meta]] (Metal), [[50_Magic/Glyphs/2_Objects/Holz\|Holz]] (Wood/Plant), [[50_Magic/Glyphs/4_Modifiers/Tier\|Tier]] (Beast shape), [[50_Magic/Glyphs/2_Objects/Ader\|Ader]] (Vein)
-- **[[10_System/Schools/Alteration/Blood Magic\|Blood Magic]]:** [[50_Magic/Glyphs/2_Objects/Herz\|Herz]] (Heart), [[50_Magic/Glyphs/1_Functions/Saug\|Saug]] (Drain/Siphon), [[50_Magic/Glyphs/3_Characteristics/Gift\|Gift]] (Poison/Blight)
+- **[[10_System/Schools/Alteration/Medical Magic\|Medical Magic]]:** [[10_System/Magic Compendium/Glyphs/2_Objects/Flei\|Flei]] (Flesh), [[10_System/Magic Compendium/Glyphs/2_Objects/Blut\|Blut]] (Blood), [[10_System/Magic Compendium/Glyphs/1_Functions/Heil\|Heil]] (Heal), [[10_System/Magic Compendium/Glyphs/2_Objects/Knoc\|Knoc]] (Bone)
+- **[[10_System/Schools/Alteration/Transformation\|Transformation]]:** [[10_System/Magic Compendium/Glyphs/2_Objects/Meta\|Meta]] (Metal), [[10_System/Magic Compendium/Glyphs/2_Objects/Holz\|Holz]] (Wood/Plant), [[10_System/Magic Compendium/Glyphs/4_Modifiers/Tier\|Tier]] (Beast shape), [[10_System/Magic Compendium/Glyphs/2_Objects/Ader\|Ader]] (Vein)
+- **[[10_System/Schools/Alteration/Blood Magic\|Blood Magic]]:** [[10_System/Magic Compendium/Glyphs/2_Objects/Herz\|Herz]] (Heart), [[10_System/Magic Compendium/Glyphs/1_Functions/Saug\|Saug]] (Drain/Siphon), [[10_System/Magic Compendium/Glyphs/3_Characteristics/Gift\|Gift]] (Poison/Blight)
 
 *(For detailed sensory information and theoretical deep-dives, refer to [[10_System/Schools/Schools Lore\|Schools Lore]])*

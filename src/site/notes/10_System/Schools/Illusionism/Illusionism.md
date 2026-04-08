@@ -26,10 +26,10 @@ When you hold `Illusionism` in your Grimoire, you have specific fictional positi
 
 ## The Core Matrix
 Unlocking this knowledge grants you structural mastery of the following base Glyphs to use during *Shape the Matrix*:
-**Vocabulary:** [[50_Magic/Glyphs/1_Functions/Tusc\|Tusc]] (Deceive/Phantom), [[50_Magic/Glyphs/3_Characteristics/Bild\|Bild]] (Visual), [[50_Magic/Glyphs/3_Characteristics/Klan\|Klan]] (Auditory), [[50_Magic/Glyphs/3_Characteristics/Ruch\|Ruch]] (Smell), [[50_Magic/Glyphs/3_Characteristics/Tast\|Tast]] (Touch/Texture), [[50_Magic/Glyphs/3_Characteristics/Kost\|Kost]] (Taste)
+**Vocabulary:** [[10_System/Magic Compendium/Glyphs/1_Functions/Tusc\|Tusc]] (Deceive/Phantom), [[10_System/Magic Compendium/Glyphs/3_Characteristics/Bild\|Bild]] (Visual), [[10_System/Magic Compendium/Glyphs/3_Characteristics/Klan\|Klan]] (Auditory), [[10_System/Magic Compendium/Glyphs/3_Characteristics/Ruch\|Ruch]] (Smell), [[10_System/Magic Compendium/Glyphs/3_Characteristics/Tast\|Tast]] (Touch/Texture), [[10_System/Magic Compendium/Glyphs/3_Characteristics/Kost\|Kost]] (Taste)
 
 > [!NOTE] Rumored Wild Glyphs
-> Extreme manifestations of Illusionism—such as [[50_Magic/Glyphs/3_Characteristics/Trau\|Trau]] (Dream/Subconscious), [[50_Magic/Glyphs/3_Characteristics/Pein\|Pein]] (Mental Pain), [[50_Magic/Glyphs/3_Characteristics/Dunk\|Dunk]] (Darkness), and [[50_Magic/Glyphs/2_Objects/Geis\|Geis]] (True Belief)—cannot be learned academically. They are Wild Glyphs that must be discovered in the world.
+> Extreme manifestations of Illusionism—such as [[10_System/Magic Compendium/Glyphs/3_Characteristics/Trau\|Trau]] (Dream/Subconscious), [[10_System/Magic Compendium/Glyphs/3_Characteristics/Pein\|Pein]] (Mental Pain), [[10_System/Magic Compendium/Glyphs/3_Characteristics/Dunk\|Dunk]] (Darkness), and [[10_System/Magic Compendium/Glyphs/2_Objects/Geis\|Geis]] (True Belief)—cannot be learned academically. They are Wild Glyphs that must be discovered in the world.
 
 ## Geometric Scaling (Mana Track Box Costs)
 When determining the cost of a spell, the GM uses this scale:
@@ -41,7 +41,7 @@ When determining the cost of a spell, the GM uses this scale:
 
 ## Specializations
 Unlocking these sub-matrices gives you immediate access to their advanced vocabulary:
-- **[[10_System/Schools/Illusionism/Glamour\|Glamour]]:** [[50_Magic/Glyphs/4_Modifiers/Birg\|Birg]] (Hide/Invisibility), [[50_Magic/Glyphs/4_Modifiers/Tarn\|Tarn]] (Face/Disguise)
-- **[[10_System/Schools/Illusionism/Mind Magic\|Mind Magic]]:** [[50_Magic/Glyphs/1_Functions/Zwin\|Zwin]] (Compel), [[50_Magic/Glyphs/4_Modifiers/Reiz\|Reiz]] (Charm), [[50_Magic/Glyphs/4_Modifiers/Wirr\|Wirr]] (Confuse), [[50_Magic/Glyphs/3_Characteristics/Ernn\|Ernn]] (Memory)
+- **[[10_System/Schools/Illusionism/Glamour\|Glamour]]:** [[10_System/Magic Compendium/Glyphs/4_Modifiers/Birg\|Birg]] (Hide/Invisibility), [[10_System/Magic Compendium/Glyphs/4_Modifiers/Tarn\|Tarn]] (Face/Disguise)
+- **[[10_System/Schools/Illusionism/Mind Magic\|Mind Magic]]:** [[10_System/Magic Compendium/Glyphs/1_Functions/Zwin\|Zwin]] (Compel), [[10_System/Magic Compendium/Glyphs/4_Modifiers/Reiz\|Reiz]] (Charm), [[10_System/Magic Compendium/Glyphs/4_Modifiers/Wirr\|Wirr]] (Confuse), [[10_System/Magic Compendium/Glyphs/3_Characteristics/Ernn\|Ernn]] (Memory)
 
 *(For detailed sensory information and theoretical deep-dives, refer to [[10_System/Schools/Schools Lore\|Schools Lore]])*

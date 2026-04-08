@@ -21,7 +21,7 @@ When you hold `Chronomancy` in your Grimoire, you have specific fictional positi
 
 ## The Core Matrix
 Unlocking this knowledge grants you structural mastery of the following base Glyphs to use during *Shape the Matrix*:
-**Vocabulary:** **Chronomancy**: [[50_Magic/Glyphs/4_Modifiers/Schn\|Schn]] (Fast), [[50_Magic/Glyphs/4_Modifiers/Lang\|Lang]] (Slow), [[50_Magic/Glyphs/4_Modifiers/Wart\|Wart]] (Pause)
+**Vocabulary:** **Chronomancy**: [[10_System/Magic Compendium/Glyphs/4_Modifiers/Schn\|Schn]] (Fast), [[10_System/Magic Compendium/Glyphs/4_Modifiers/Lang\|Lang]] (Slow), [[10_System/Magic Compendium/Glyphs/4_Modifiers/Wart\|Wart]] (Pause)
 
 ## Geometric Scaling (Mana Track Box Costs)
 When determining the cost of a spell, the GM uses this scale:
