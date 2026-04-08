@@ -32,5 +32,3 @@ The integration of magic and machinery (**magitech**) has led to an explosion in
 The [[20_World/Society/Spread of Magical Training\|Spread of Magical Training]] to commoners has broken the [[40_People/Factions/Houses/Noble Houses\|Noble Houses]]' monopoly. Magic is no longer the domain of elites — it is an academic discipline taught in sprawling academies.
 
 
-
-- [[40_People/Factions/Invasion Force\|Invasion Force]]

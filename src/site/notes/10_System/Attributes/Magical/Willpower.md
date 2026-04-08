@@ -9,7 +9,7 @@ Your **Willpower** attribute represents your raw force of intent, mental fortitu
 
 ## Mechanical Uses
 
-Mechanically, Willpower sets your passive **Mind Defense**, combines with Calculation to determine your **Mana Capacity**, and combines with Memory for your **Sanity Resistance** pool.
+Mechanically, Willpower sets your passive **Mind Defense**, directly dictates your **Mana Track** capacity (4 + Willpower), and is your primary attribute when rolling the **Resist Erosion** move to protect your Sanity.
 
 ### Associated Magic Moves
 - **[[10_System/00 Moves/02 Magic Moves#Shape the Matrix\|Shape the Matrix]]:** Used when rolling destructive or raw energy spells.

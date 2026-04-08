@@ -29,12 +29,12 @@ Use the sidebar to browse, or press `Ctrl+K` to search.
 > [!info] Tip
 > Use the sidebar on the left to navigate through the folder structure of the vault.
 
-| File                                         | Last Modified            |
-| -------------------------------------------- | ------------------------ |
-| [[Home\|Home]]                            | 4:35 PM - April 07, 2026 |
-| [[FAQ\|FAQ]]                              | 4:30 PM - April 07, 2026 |
-| [[70_Bestiary/Undead/Skeleton\|Skeleton]] | 2:12 PM - April 07, 2026 |
-| [[70_Bestiary/Undead/Undead\|Undead]]     | 2:12 PM - April 07, 2026 |
-| [[70_Bestiary/Undead/Zombie\|Zombie]]     | 2:12 PM - April 07, 2026 |
+| File                                                         | Last Modified             |
+| ------------------------------------------------------------ | ------------------------- |
+| [[10_System/Attributes/Magical/Memory\|Memory]]           | 11:21 AM - April 08, 2026 |
+| [[10_System/Attributes/Magical/Willpower\|Willpower]]     | 11:21 AM - April 08, 2026 |
+| [[10_System/Attributes/Magical/Calculation\|Calculation]] | 11:21 AM - April 08, 2026 |
+| [[10_System/06 Crafting\|06 Crafting]]                    | 11:12 AM - April 08, 2026 |
+| [[10_System/05 Magic System\|05 Magic System]]            | 11:11 AM - April 08, 2026 |
 
 { .block-language-dataview}

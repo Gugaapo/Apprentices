@@ -11,7 +11,7 @@ Your **Calculation** attribute measures your mental processing speed, spatial re
 
 Mechanically, Calculation acts as your mental RAM in the fiction. It provides **fictional permission** to weave massive, highly complex formulas using dozens of Tags or modifiers. 
 
-Crucially, it dictates your **Complexity Limit**. While there isn't a hard mathematical cap, if you attempt to weave a formula that is vastly more complex than your Calculation rating logically allows, the GM will mandate that you take immediate **Harm (Neural Strain)** before you even roll. It also determines how many active, sustained spells you can safely juggle narratively before losing focus.
+Crucially, it determines your **Matrix Strain Threshold**. Your Calculation rating is your comfort limit for concurrent tags. If you weave more tags than your rating allows, you are "Pushing the Matrix." The GM will inform you that on a mixed success (7-9), you will be forced to make a hard choice: either permanently drop one of the tags from the effect, or suffer 1-Wound of **Soul Strain** to force it all through. It also determines how many active, sustained spells you can safely juggle narratively before losing focus.
 
 ### Associated Magic Moves
 - **[[10_System/00 Moves/02 Magic Moves#Joint Casting\|Joint Casting]]:** Used when you coordinate your mental Calculation with an ally to provide tactical assistance during a high-complexity spell.

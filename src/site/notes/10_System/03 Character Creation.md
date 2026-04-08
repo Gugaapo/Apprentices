@@ -127,7 +127,7 @@ Look at your Playbook and choose **2 Playbook Moves**. These define your unique 
 1. **Choose 1 Mentor Professor:** Pick exactly 1 Professor to be your mentor.
 2. **Physical Health:** You have a track of **7 Boxes**. Earning wounds inflicts narrative complications and ongoing penalties on physical rolls.
 3. **[[10_System/Glossary/Soul Integrity\|Soul Integrity]] & Sanity:** Each has **10 Boxes**.
-4. **Max Modifiers:** `Calculation`. This is the maximum number of modifiers you can attach to a single Formula.
+4. **Matrix Strain Threshold:** `Calculation`. This score dictates your comfort limit for attaching modifiers to a single Formula. Attaching more tags than your Calculation score means you are "Pushing the Matrix", which will explicitly trigger hard choices for you on a 7-9 roll.
 5. **Mastered Spells:** While you may keep an unlimited number of formulas annotated in your Grimoire or notes, you can only hold a number of **Mastered Spells** perfectly in your mind equal to your `Memory` rating. You can freely swap which of your known formulas are currently Mastered whenever you are outside of combat or a tense roleplay scene. Mastered spells lower their Complexity Category by 1 step for you (reducing Mana cost by 1, minimum 1), and trigger the "Cast a Spell" move faster in the fiction.
 
 [[10_System/02 Economy\|Economy]] ========================================= [[00_Meta/Playbooks/00 Playbook Template\|Playbook Templates]]

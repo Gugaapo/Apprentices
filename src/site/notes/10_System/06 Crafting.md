@@ -13,7 +13,7 @@ Alchemy creates consumable or physical items without requiring a 2d6 Shaping rol
 
 * **Time Cost:** 1 Time Slot per crafting attempt. Consumes 1 Alchemical Material Cache.
 * **Resolution:** Refer to the [[10_System/00 Moves/Magic Moves/Brew Alchemy\|Brew Alchemy]] Move. You roll `2d6 + Mental` to generate Progress points toward the recipe's Complexity.
-* **Pushing the Limits:** If a crafter misses a required success right before a crucial deadline, they can intentionally suffer **Mana Burn** (taking 1 Physical Health damage and applying Wound Penalties) to force 1 "fake" Progress point, representing desperate and dangerous late-night cramming.
+* **Pushing the Limits:** If a crafter misses a required success right before a crucial deadline, they can intentionally suffer **Soul Strain** (taking 1-Wound and acquiring a relevant Condition like *Exhausted* or *Tremors*) to force 1 "fake" Progress point, representing desperate and dangerous late-night cramming.
 
 ## 2. Artifice (The Engraving)
 Artifice anchors Root Words into physical mediums for instant casting. The crafter physically carves the glyph roots into the item.

@@ -76,7 +76,7 @@ By discovering more Glyphs (finding Advanced and Wild modifiers), you give yours
 
 ### Step 2: Choose Tags
 Instead of counting damage numbers or range increments, declare the **Tags** you want the spell to carry based on the modifiers you weave into it (e.g., *Forceful, Messy, Area, Restraining, Lingering*). 
-- *Pushing the Matrix:* If you string too many wild modifiers together or attempt a structure far beyond your current tier's capacity, the GM may warn you: *"That's highly unstable geometry. If you cast that, you must take 1-Wound of strain before you even roll."*
+- *Pushing the Matrix:* Your `Calculation` score dictates your comfort limit for concurrent tags. If you weave more tags than your `Calculation` score into a single spell, or attempt a structure far beyond your current tier's capacity, you are "Pushing the Matrix." The GM may warn you: *"That's highly unstable geometry. You can attempt it, but on a 7-9, you will additionally be forced to choose: permanently drop 1 tag from the effect, or take 1-Wound of Soul Strain to force it all through."*
 
 ### Step 3: Roll and Resolve
 Roll **Shape the Matrix** (`+Finesse` or `+Willpower`). Choose your options on a 10+, or brace for a Matrix Collapse on a 7-9.

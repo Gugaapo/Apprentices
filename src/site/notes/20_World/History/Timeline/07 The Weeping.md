@@ -7,7 +7,9 @@
 
 > - **When:** 1796–1799 STC (3 years, ending just 1 year before the campaign)
 > - **What happened:** A terrifying, incurable magical plague killed 8–10% of Altazia's population, wiped out most remaining Noble Houses, and forced academies to admit commoners.
-> - **Why it matters:** This is why Zach is an orphan, why Veyers has no father, and why commoners attend the Academy.
+> - **Why it matters:** This is why commoners attend the Academy 
+
+
 
 ## The Symptoms
 
@@ -27,4 +29,9 @@ An absolute death sentence. Neither alchemy nor medical magic could cure or slow
 
 
 
+## Linked Files
+- [[40_People/Factions/Houses/House Noveda\|House Noveda]]
+- [[40_People/Factions/Houses/House Boranova\|House Boranova]]
+- [[40_People/NPCs/Allies/Zach Noveda\|Zach Noveda]]
+- [[40_People/Factions/Triumvirate Church\|Triumvirate Church]]
 - [[20_World/Society/Spread of Magical Training\|Spread of Magical Training]]

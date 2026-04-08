@@ -9,7 +9,7 @@ Your **Memory** attribute represents your character's capability to recall compl
 
 ## Mechanical Uses
 
-Mechanically, Memory dictates the size of your "mental hard drive" for internalized magic. You can hold a number of **Mastered Spells** equal to your **Memory × 2**. Mastered spells can be cast silently, without gestures, cost 1 less Mana (minimum 1), and can be used as instant reactions. For mental defense, see the **[[10_System/01 Core Mechanics#Resist Erosion\|Resist Erosion]]** move.
+Mechanically, Memory dictates the size of your "mental hard drive" for internalized magic. You can hold a number of **Mastered Spells** equal to your **Memory rating**. Mastered spells can be cast silently, without gestures, cost 1 less Mana (minimum 1), and can be used as instant reactions. For mental defense, see the **[[10_System/01 Core Mechanics#Resist Erosion\|Resist Erosion]]** move.
 
 ### Associated Magic Moves
 - **[[10_System/00 Moves/02 Magic Moves#Deflect Magic\|Deflect Magic]]:** While Memory isn't rolled directly, its capacity for **Mastered Spells** is mechanically required to trigger quick-reaction defenses like this move.
@@ -22,8 +22,8 @@ Mechanically, Memory dictates the size of your "mental hard drive" for internali
 ## Attribute Tiers
 | Tier | Title | Example Capability |
 | :--- | :--- | :--- |
-| **1** | Novice | Average recall. Can memorize simple facts. **Limit:** 2 Mastered Spells. |
-| **2** | Competent | Good memory. Can study for exams efficiently. **Limit:** 4 Mastered Spells. |
-| **3** | Skilled | Excellent recall. Can memorize complex spell formulas. **Limit:** 6 Mastered Spells. |
-| **4** | Expert | Exceptional memory. Near-perfect recall of distant events. **Limit:** 8 Mastered Spells. |
-| **5** | Master | Eidetic-level recall. Can perfectly reconstruct massive visual scenes. **Limit:** 10 Mastered Spells. |
+| **1** | Novice | Average recall. Can memorize simple facts. **Limit:** 1 Mastered Spell. |
+| **2** | Competent | Good memory. Can study for exams efficiently. **Limit:** 2 Mastered Spells. |
+| **3** | Skilled | Excellent recall. Can memorize complex spell formulas. **Limit:** 3 Mastered Spells. |
+| **4** | Expert | Exceptional memory. Near-perfect recall of distant events. **Limit:** 4 Mastered Spells. |
+| **5** | Master | Eidetic-level recall. Can perfectly reconstruct massive visual scenes. **Limit:** 5 Mastered Spells. |

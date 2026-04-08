@@ -46,7 +46,7 @@ These represent the inherent power, processing speed, and physical mana capacity
 | Attribute                        | Description                                                                                    |
 | :------------------------------- | :--------------------------------------------------------------------------------------------- |
 | **[[10_System/Attributes/Magical/Memory\|Memory]]**           | Capacity for holding pre-calculated spell architectures in pure muscle memory. Dictates your max limit for instantly recalling complex, multi-tag formulas without strain. |
-| **[[10_System/Attributes/Magical/Calculation\|Calculation]]** | Mental RAM. Dictates the max structural complexity and number of concurrent tags you can safely weave into a single matrix. |
+| **[[10_System/Attributes/Magical/Calculation\|Calculation]]** | Mental RAM. Represents your comfort level with concurrent tags. Pushing beyond your Calculation score triggers Matrix Strain during casting. |
 | **[[10_System/Attributes/Magical/Finesse\|Finesse]]**         | Delicate exactness of weaving multiple glyphs. Used for subtle, precise, or defensive shaping. |
 | **[[10_System/Attributes/Magical/Willpower\|Willpower]]**     | Raw force of intent. Used for pure destruction, channeling unstructured energy, and brute-forcing reality. |
 
@@ -64,14 +64,14 @@ These represent your physical and intellectual capabilities. Base: 0. Max: 3.
 ## Survival, Health & The Soul
 
 ### Physical Health (The Body State)
-Every character typically has **7 Physical Health Boxes** (unless altered by a Playbook Move). As you take damage from attacks or hazards, mark off these boxes. 
+Every character typically has **7 Physical Health Boxes** (unless altered by a Playbook Move). As you take damage from attacks or hazards, mark off these boxes. Instead of abstract math penalties, damage imposes **Conditions** that the GM uses to alter your fictional positioning or make Hard Moves.
 
-- [ ] **Bruised (0)**: Barely scratched.
-- [ ] **Hurt (-1)**: Minor cuts, bruises. Take -1 ongoing to physical rolls.
-- [ ] **Injured (-1)**: Significant tissue damage. Take -1 ongoing to physical rolls.
-- [ ] **Wounded (-2)**: Severe bleeding, fractures. Take -2 ongoing.
-- [ ] **Mauled (-2)**: Major trauma. Take -2 ongoing.
-- [ ] **Crippled (-4)**: Barely conscious. Can only crawl or speak weakly. -4 penalty.
+- [ ] **Bruised**: Barely scratched.
+- [ ] **Hurt (Condition: Battered)**: Minor cuts, bruises. You struggle with agility or prolonged physical strain.
+- [ ] **Injured (Condition: Bleeding)**: Significant tissue damage. You are leaving a trail and getting weaker over time.
+- [ ] **Wounded (Condition: Broken)**: Severe bleeding, fractures. A limb is literally useless. The GM will declare certain actions physically impossible.
+- [ ] **Mauled (Condition: Critical)**: Major trauma. You are moments from collapsing.
+- [ ] **Crippled**: Barely conscious. Can only crawl or speak weakly.
 - [ ] **Incapacitated**: Unconscious and bleeding out. Death at the end of the scene if untreated.
 
 ### [[Soul Strain\|Soul Strain]] & [[Harm\|Harm]]
@@ -93,7 +93,7 @@ When facing trauma or committing atrocities, roll the **Resist Erosion** Move.
 At 0 Sanity, your character becomes a "[[10_System/Glossary/Hollow\|Hollow]]".
 
 ### Tiers of Madness
-- **Sanity 7 (Detachment):** Take -1 ongoing to all Social rolls to connect with normal humans.
+- **Sanity 7 (Detachment):** Develop the *Alienated* Condition. You struggle to connect with normal humans; the GM will leverage this in social scenes.
 - **Sanity 4 (Dissociation):** Develop a Derangement (Paranoia, Phobia).
 - **Sanity 2 (Apathy):** You must roll +Willpower just to take action in stressful situations.
 
