@@ -31,10 +31,10 @@ Use the sidebar to browse, or press `Ctrl+K` to search.
 
 | File                                                                                 | Last Modified            |
 | ------------------------------------------------------------------------------------ | ------------------------ |
+| [[20_Eldemar_Plugin/26_Bestiary/Magical_Beasts/Cranium_Rat\|Cranium_Rat]]         | 1:29 PM - April 08, 2026 |
 | [[20_Eldemar_Plugin/26_Bestiary/Undead/Skeleton\|Skeleton]]                       | 1:27 PM - April 08, 2026 |
 | [[20_Eldemar_Plugin/26_Bestiary/Magical_Beasts/Hook_Goblin\|Hook_Goblin]]         | 1:27 PM - April 08, 2026 |
 | [[20_Eldemar_Plugin/26_Bestiary/Magical_Beasts/Iron_Beak\|Iron_Beak]]             | 1:27 PM - April 08, 2026 |
 | [[20_Eldemar_Plugin/26_Bestiary/Magical_Beasts/Devourer_Mantis\|Devourer_Mantis]] | 1:27 PM - April 08, 2026 |
-| [[20_Eldemar_Plugin/26_Bestiary/Magical_Beasts/Dirge_Moth\|Dirge_Moth]]           | 1:27 PM - April 08, 2026 |
 
 { .block-language-dataview}
