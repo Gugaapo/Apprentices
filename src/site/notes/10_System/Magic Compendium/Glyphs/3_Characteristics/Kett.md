@@ -4,6 +4,8 @@
 
 
 # Kett
+
+<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400"><rect width="400" height="400" fill="black" /><circle cx="200.0" cy="200.0" r="92.84424363767926" fill="none" stroke="white" stroke-width="1.0595148136185086" stroke-dasharray="13,12"/><circle cx="200.0" cy="200.0" r="80.74276458972263" fill="none" stroke="white" stroke-width="1.8032719850555397" stroke-dasharray="9,9"/><circle cx="200.0" cy="200.0" r="84.74000486300326" fill="none" stroke="white" stroke-width="2.239250002540299" stroke-dasharray="14,11"/><polygon points="165.06,169.18 244.16,185.15 190.78,245.66" fill="none" stroke="white" stroke-width="2.065422337998367"/><line x1="200.0" y1="200.0" x2="165.06" y2="169.18" stroke="white" stroke-width="1" stroke-opacity="0.5"/><line x1="200.0" y1="200.0" x2="244.16" y2="185.15" stroke="white" stroke-width="1" stroke-opacity="0.5"/><line x1="200.0" y1="200.0" x2="190.78" y2="245.66" stroke="white" stroke-width="1" stroke-opacity="0.5"/><circle cx="200.0" cy="200.0" r="5" fill="white" /></svg>
 **Translation:** Chain / Bind
 **School/Menu:** Sealing (Abjuration Specialization)
 

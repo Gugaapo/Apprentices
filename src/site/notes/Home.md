@@ -29,12 +29,12 @@ Use the sidebar to browse, or press `Ctrl+K` to search.
 > [!info] Tip
 > Use the sidebar on the left to navigate through the folder structure of the vault.
 
-| File                                                                                 | Last Modified            |
-| ------------------------------------------------------------------------------------ | ------------------------ |
-| [[20_Eldemar_Plugin/26_Bestiary/Magical_Beasts/Cranium_Rat\|Cranium_Rat]]         | 9:35 AM - April 09, 2026 |
-| [[20_Eldemar_Plugin/26_Bestiary/Undead/Skeleton\|Skeleton]]                       | 1:27 PM - April 08, 2026 |
-| [[20_Eldemar_Plugin/26_Bestiary/Magical_Beasts/Hook_Goblin\|Hook_Goblin]]         | 1:27 PM - April 08, 2026 |
-| [[20_Eldemar_Plugin/26_Bestiary/Magical_Beasts/Iron_Beak\|Iron_Beak]]             | 1:27 PM - April 08, 2026 |
-| [[20_Eldemar_Plugin/26_Bestiary/Magical_Beasts/Devourer_Mantis\|Devourer_Mantis]] | 1:27 PM - April 08, 2026 |
+| File                                                            | Last Modified            |
+| --------------------------------------------------------------- | ------------------------ |
+| [[10_System/Magic Compendium/Glyphs/4_Modifiers/Wolk\|Wolk]] | 9:56 AM - April 09, 2026 |
+| [[10_System/Magic Compendium/Glyphs/4_Modifiers/Zone\|Zone]] | 9:56 AM - April 09, 2026 |
+| [[10_System/Magic Compendium/Glyphs/4_Modifiers/Wirr\|Wirr]] | 9:56 AM - April 09, 2026 |
+| [[10_System/Magic Compendium/Glyphs/4_Modifiers/Weic\|Weic]] | 9:56 AM - April 09, 2026 |
+| [[10_System/Magic Compendium/Glyphs/4_Modifiers/Werk\|Werk]] | 9:56 AM - April 09, 2026 |
 
 { .block-language-dataview}

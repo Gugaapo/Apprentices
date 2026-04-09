@@ -4,6 +4,8 @@
 
 
 # Birg
+
+<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400"><rect width="400" height="400" fill="black" /><circle cx="200.0" cy="200.0" r="87.8426283494768" fill="none" stroke="white" stroke-width="1.119856201633744"/><circle cx="200.0" cy="200.0" r="117.32761422513407" fill="none" stroke="white" stroke-width="3.0510114152221997" stroke-dasharray="8,7"/><polygon points="241.10,165.22 252.82,210.45 224.77,247.81 178.06,249.17 147.88,213.51 156.94,167.67 198.43,146.18" fill="none" stroke="white" stroke-width="2.9908681795889827"/><circle cx="200.0" cy="200.0" r="14" fill="white" /></svg>
 **Translation:** Hide / Invisibility
 **School/Menu:** Glamour (Illusionism Specialization)
 
